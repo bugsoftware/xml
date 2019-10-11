@@ -1,0 +1,2378 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-11 18:36-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+#
+# File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
+# File: console/vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
+msgid "test"
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Hotel.php, line: 351
+# File: src/App/Action/RoomsXML/HotelParallelParse.php, line: 87
+# File: src/App/Action/RoomsXML/SearchHotels.php, line: 327
+# File: src/App/Action/AIO/SearchHotels.php, line: 348
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 465
+# File: src/App/Action/Convencional/SearchHotels.php, line: 431
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 444
+# File: src/App/Action/Jactravel/SearchHotels.php, line: 440
+# File: src/App/Action/Tourico/Hotel.php, line: 360
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 338
+# File: src/App/Action/Tourico/SearchHotels.php, line: 404
+# File: src/App/Action/W2M/Hotel.php, line: 415
+# File: src/App/Action/W2M/HotelParallelParse.php, line: 249
+# File: src/App/Action/W2M/SearchHotels.php, line: 442
+# File: src/App/Action/Direct/SearchHotels.php, line: 266
+# File: src/App/Action/Direct/SearchHotels.php, line: 1291
+# File: src/App/Action/GTA/SearchHotels.php, line: 665
+# File: src/App/Action/Priceline/Hotel.php, line: 301
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 159
+# File: src/App/Action/Priceline/SearchHotels.php, line: 313
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 380
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 392
+# File: src/App/Action/PricelineNet/Hotel.php, line: 344
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 184
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 352
+# File: src/App/Action/EETGlobal/SearchHotels.php, line: 350
+# File: src/App/language/languages.php, line: 6
+msgid "Room Only"
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Policies.php, line: 222
+# File: src/App/Action/AIO/Policies.php, line: 496
+# File: src/App/Action/ActionTravel/Policies.php, line: 445
+# File: src/App/Action/Travellanda/Policies.php, line: 209
+# File: src/App/Action/W2M/Policies.php, line: 430
+# File: src/App/Action/DOTW/Policies.php, line: 523
+# File: src/App/Action/EETGlobal/Policies.php, line: 499
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 234
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 89
+msgid "Price has changed. Please review booking."
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Policies.php, line: 262
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 170
+msgid "Cancellation Policy:"
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Policies.php, line: 267
+msgid "Cancellation Penaly:"
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Policies.php, line: 267
+msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Policies.php, line: 269
+msgid "Charge:"
+msgstr ""
+#
+# File: src/App/Action/RoomsXML/Policies.php, line: 273
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
+# File: src/App/Action/Convencional/SearchHotels.php, line: 468
+# File: src/App/Action/Shared/AddActivity.php, line: 28
+# File: src/App/Action/Coming2/SearchHotels.php, line: 288
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 416
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 428
+# File: src/App/Action/Riu/Policies.php, line: 635
+# File: src/App/Action/HotelsPro/Hotel.php, line: 331
+# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
+# File: src/App/Action/Majestic/Policies.php, line: 499
+msgid "if cancelled on or after"
+msgstr ""
+#
+# File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 471
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 444
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
+# File: src/App/Action/Convencional/SearchHotels.php, line: 468
+# File: src/App/Action/Abreu/Policies.php, line: 377
+# File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 472
+# File: src/App/Action/Ocean/SearchHotels.php, line: 446
+# File: src/App/Action/Tourico/Policies.php, line: 500
+# File: src/App/Action/Tourico/Policies.php, line: 504
+# File: src/App/Action/PlayaResorts/SearchHotels.php, line: 444
+# File: src/App/Action/Direct/SearchHotels.php, line: 107
+# File: src/App/Action/Direct/SearchHotels.php, line: 109
+# File: src/App/Action/Direct/SearchHotels.php, line: 121
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 77
+# File: src/App/Action/DOTW/Hotel.php, line: 667
+# File: src/App/Action/DOTW/Policies.php, line: 425
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 458
+# File: src/App/Action/DOTW/SearchHotels.php, line: 719
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 416
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 428
+# File: src/App/Action/Riu/Policies.php, line: 635
+# File: src/App/Action/HotelsPro/Hotel.php, line: 331
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 267
+# File: src/App/Action/HotelsPro/Policies.php, line: 329
+# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
+# File: src/App/Action/Hotelbeds/Hotel.php, line: 408
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 251
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 284
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 417
+# File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
+# File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 470
+# File: src/App/Action/Sandos/SearchHotels.php, line: 444
+# File: src/App/Action/Majestic/Policies.php, line: 499
+# File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 191
+# File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 129
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 131
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 127
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 129
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 146
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 148
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 191
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 127
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 129
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 146
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 148
+# File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 206
+# File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 208
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1336
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 206
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 208
+msgid "Charge"
+msgstr ""
+#
+# File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 473
+# File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 475
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 446
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 448
+# File: src/App/Action/Abreu/Policies.php, line: 377
+# File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 474
+# File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 476
+# File: src/App/Action/Ocean/SearchHotels.php, line: 448
+# File: src/App/Action/Ocean/SearchHotels.php, line: 450
+# File: src/App/Action/PlayaResorts/SearchHotels.php, line: 446
+# File: src/App/Action/PlayaResorts/SearchHotels.php, line: 448
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 251
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
+# File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
+# File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 472
+# File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 474
+# File: src/App/Action/Sandos/SearchHotels.php, line: 446
+# File: src/App/Action/Sandos/SearchHotels.php, line: 448
+msgid "if cancelled after"
+msgstr ""
+#
+# File: src/App/Action/AIO/Policies.php, line: 377
+# File: src/App/Action/AIO/Policies.php, line: 379
+# File: src/App/Action/ActionTravel/Policies.php, line: 372
+# File: src/App/Action/ActionTravel/Policies.php, line: 374
+# File: src/App/Action/W2M/Policies.php, line: 356
+# File: src/App/Action/W2M/Policies.php, line: 358
+# File: src/App/Action/EETGlobal/Policies.php, line: 380
+# File: src/App/Action/EETGlobal/Policies.php, line: 382
+msgid "Cancelling from"
+msgstr ""
+#
+# File: src/App/Action/AIO/Policies.php, line: 377
+# File: src/App/Action/ActionTravel/Policies.php, line: 372
+# File: src/App/Action/W2M/Policies.php, line: 356
+# File: src/App/Action/EETGlobal/Policies.php, line: 380
+msgid "until the start date of travel"
+msgstr ""
+#
+# File: src/App/Action/AIO/Policies.php, line: 379
+# File: src/App/Action/ActionTravel/Policies.php, line: 374
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
+# File: src/App/Action/Travelplan/Policies.php, line: 200
+# File: src/App/Action/W2M/Policies.php, line: 358
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 494
+# File: src/App/Action/DOTW/Hotel.php, line: 625
+# File: src/App/Action/DOTW/Policies.php, line: 342
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 403
+# File: src/App/Action/DOTW/SearchHotels.php, line: 664
+# File: src/App/Action/GTA/Policies.php, line: 300
+# File: src/App/Action/GTA/Policies.php, line: 302
+# File: src/App/Action/GTA/SearchHotels.php, line: 540
+# File: src/App/Action/GTA/SearchHotels.php, line: 542
+# File: src/App/Action/EETGlobal/Policies.php, line: 382
+# File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 233
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1294
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1299
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 971
+msgid "to"
+msgstr ""
+#
+# File: src/App/Action/AIO/Policies.php, line: 384
+# File: src/App/Action/ActionTravel/Policies.php, line: 379
+# File: src/App/Action/W2M/Policies.php, line: 363
+# File: src/App/Action/EETGlobal/Policies.php, line: 387
+msgid "of expenses"
+msgstr ""
+#
+# File: src/App/Action/Omnibees/SearchHotels.php, line: 1490
+# File: src/App/Action/Travellanda/Hotel.php, line: 248
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 96
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 257
+# File: src/App/Action/Tourico/Hotel.php, line: 250
+# File: src/App/Action/Tourico/Hotel.php, line: 252
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 228
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 230
+# File: src/App/Action/Tourico/SearchHotels.php, line: 267
+# File: src/App/Action/Tourico/SearchHotels.php, line: 269
+# File: src/App/Action/Travco/SearchHotels.php, line: 289
+# File: src/App/Action/DOTW/Hotel.php, line: 589
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 367
+# File: src/App/Action/DOTW/SearchHotels.php, line: 628
+# File: src/App/Action/Priceline/Hotel.php, line: 274
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 132
+# File: src/App/Action/Priceline/SearchHotels.php, line: 286
+msgid "discount"
+msgstr ""
+#
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 467
+# File: src/App/Action/Convencional/SearchHotels.php, line: 433
+# File: src/App/Action/Tourico/Hotel.php, line: 356
+# File: src/App/Action/Tourico/Hotel.php, line: 358
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 334
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 336
+# File: src/App/Action/Tourico/SearchHotels.php, line: 400
+# File: src/App/Action/Tourico/SearchHotels.php, line: 402
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 382
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 394
+# File: src/App/Action/PricelineNet/Hotel.php, line: 346
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 186
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 354
+# File: src/App/language/languages.php, line: 7
+msgid "Bed & Breakfast"
+msgstr ""
+#
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 470
+# File: src/App/Action/Convencional/SearchHotels.php, line: 436
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 385
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 397
+# File: src/App/language/languages.php, line: 8
+msgid "Half Board"
+msgstr ""
+#
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 473
+# File: src/App/Action/Convencional/SearchHotels.php, line: 439
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 388
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 400
+# File: src/App/language/languages.php, line: 9
+msgid "Full Board"
+msgstr ""
+#
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 476
+# File: src/App/Action/Convencional/SearchHotels.php, line: 442
+# File: src/App/Action/Tourico/Hotel.php, line: 352
+# File: src/App/Action/Tourico/Hotel.php, line: 354
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 330
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 332
+# File: src/App/Action/Tourico/SearchHotels.php, line: 396
+# File: src/App/Action/Tourico/SearchHotels.php, line: 398
+# File: src/App/Action/Priceline/Hotel.php, line: 299
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 157
+# File: src/App/Action/Priceline/SearchHotels.php, line: 311
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 391
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 403
+# File: src/App/Action/PricelineNet/Hotel.php, line: 341
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 181
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 349
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 437
+# File: src/App/Action/Palace/SearchHotels.php, line: 431
+# File: src/App/language/languages.php, line: 10
+msgid "All Inclusive"
+msgstr ""
+#
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 499
+# File: src/App/Action/Convencional/SearchHotels.php, line: 465
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 413
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 425
+msgid "This is a non refundable booking. You will be charged full stay of the booking."
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 267
+msgid "No penalty"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 269
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 271
+msgid "penalty"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 274
+msgid "Pay First Night"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 279
+msgid "Average price of all nights"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 283
+msgid "No Show:"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 286
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 294
+msgid "Cancelling"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 290
+msgid "day(s) before check-in date you have"
+msgstr ""
+#
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 298
+msgid "day(s) after confirmation would incur"
+msgstr ""
+#
+# File: src/App/Action/Abreu/Policies.php, line: 366
+# File: src/App/Action/Abreu/Policies.php, line: 367
+msgid "This is a non refundable booking"
+msgstr ""
+#
+# File: src/App/Action/Bonotel/Hotel.php, line: 649
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 481
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 651
+# File: src/App/Action/Tourico/Hotel.php, line: 363
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 313
+# File: src/App/Action/Tourico/SearchHotels.php, line: 411
+# File: src/App/Action/GTA/SearchHotels.php, line: 656
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 368
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 380
+msgid "On Request Rate"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 906
+msgid "Unable to fetch availability for the selected criteria"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 907
+msgid "we are unable to get results"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 946
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 985
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1479
+msgid "No bags allowed"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 960
+msgid "1 free bag"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 962
+msgid "Free bags allowed"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 975
+msgid "Kilos allowed"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 977
+msgid "Pounds allowed"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1452
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1460
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1229
+# File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 872
+# File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 880
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 792
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 800
+msgid "Stop"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1454
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1462
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1231
+# File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 874
+# File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 882
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 794
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 802
+msgid "Stops"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1897
+msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchCruises.php, line: 1064
+# File: src/App/Action/Amadeus/SearchCruises.php, line: 1069
+# File: src/App/Action/Amadeus/SearchCruises.php, line: 1074
+# File: src/App/Action/Amadeus/SearchCruises.php, line: 1079
+# File: src/App/Action/Tourico/SearchCruises.php, line: 530
+# File: src/App/Action/Tourico/SearchCruises.php, line: 532
+# File: src/App/Action/Tourico/SearchCruises.php, line: 555
+# File: src/App/Action/Tourico/SearchCruises.php, line: 557
+# File: src/App/Action/Tourico/SearchCruises.php, line: 580
+# File: src/App/Action/Tourico/SearchCruises.php, line: 582
+# File: src/App/Action/Tourico/SearchCruises.php, line: 605
+# File: src/App/Action/Tourico/SearchCruises.php, line: 607
+msgid "N/A"
+msgstr ""
+#
+# File: src/App/Action/Travelplan/Policies.php, line: 198
+# File: src/App/Action/Travco/Policies.php, line: 238
+# File: src/App/Action/Enterprise/Policies.php, line: 458
+# File: src/App/Action/Roomer/HotelParallelParse.php, line: 125
+# File: src/App/Action/Roomer/SearchHotels.php, line: 384
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 273
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 421
+# File: src/App/Action/Palace/SearchHotels.php, line: 415
+# File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 231
+msgid "Non Refundable"
+msgstr ""
+#
+# File: src/App/Action/Travelplan/Policies.php, line: 200
+# File: src/App/Action/DOTW/Hotel.php, line: 622
+# File: src/App/Action/DOTW/Policies.php, line: 339
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 400
+# File: src/App/Action/DOTW/SearchHotels.php, line: 661
+# File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 233
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1291
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1299
+msgid "Cancel from"
+msgstr ""
+#
+# File: src/App/Action/Travelplan/Policies.php, line: 203
+# File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 236
+msgid "pay"
+msgstr ""
+#
+# File: src/App/Action/Travellanda/Policies.php, line: 211
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
+msgid "Cancel on or after"
+msgstr ""
+#
+# File: src/App/Action/Travellanda/Policies.php, line: 211
+msgid "and pay"
+msgstr ""
+#
+# File: src/App/Action/Travellanda/Policies.php, line: 236
+# File: src/App/Action/Travellanda/Policies.php, line: 241
+# File: src/App/Action/Travellanda/Policies.php, line: 246
+# File: src/App/Action/Shared/AddActivity.php, line: 28
+# File: src/App/Action/Coming2/SearchHotels.php, line: 288
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
+# File: src/App/Action/MikiTravel/Hotel.php, line: 269
+# File: src/App/Action/MikiTravel/Hotel.php, line: 271
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 48
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 50
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 264
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 266
+msgid "Pay"
+msgstr ""
+#
+# File: src/App/Action/Travellanda/Policies.php, line: 241
+msgid "of total booking"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 431
+# File: src/App/Action/Direct/SearchHotels.php, line: 105
+# File: src/App/Action/Direct/SearchHotels.php, line: 119
+msgid "days"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 464
+msgid "before checkin date"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 468
+msgid "after booking is made"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 473
+# File: src/App/Action/Direct/SearchHotels.php, line: 112
+msgid "night"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 475
+# File: src/App/Action/Direct/SearchHotels.php, line: 114
+msgid "nights"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 479
+# File: src/App/Action/Direct/SearchHotels.php, line: 107
+msgid "full stay"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 482
+msgid "percentage"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 500
+# File: src/App/Action/Travco/Policies.php, line: 229
+# File: src/App/Action/Travco/Policies.php, line: 231
+msgid "if"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 500
+msgid "No show"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 500
+msgid " - No show means that the guest did not cancel the reservation and did not stay at the hotel during the reserved period of time"
+msgstr ""
+#
+# File: src/App/Action/Tourico/Policies.php, line: 503
+# File: src/App/Action/Direct/SearchHotels.php, line: 107
+# File: src/App/Action/Direct/SearchHotels.php, line: 109
+# File: src/App/Action/Direct/SearchHotels.php, line: 121
+msgid "if cancelled"
+msgstr ""
+#
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1234
+msgid "Direct"
+msgstr ""
+#
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 494
+msgid "From "
+msgstr ""
+#
+# File: src/App/Action/Direct/ActivitiesDetails.php, line: 127
+msgid "Flexible"
+msgstr ""
+#
+# File: src/App/Action/Direct/SearchHotels.php, line: 103
+# File: src/App/Action/Direct/SearchHotels.php, line: 117
+msgid "day"
+msgstr ""
+#
+# File: src/App/Action/Direct/SearchHotels.php, line: 107
+# File: src/App/Action/Direct/SearchHotels.php, line: 109
+# File: src/App/Action/Direct/SearchHotels.php, line: 121
+msgid "before arrival"
+msgstr ""
+#
+# File: src/App/Action/Direct/SearchHotels.php, line: 1152
+# File: src/App/Action/Direct/SearchHotels.php, line: 1194
+msgid "Free"
+msgstr ""
+#
+# File: src/App/Action/Travco/Policies.php, line: 229
+# File: src/App/Action/Travco/Policies.php, line: 231
+msgid "cancelled after"
+msgstr ""
+#
+# File: src/App/Action/Travco/Policies.php, line: 229
+# File: src/App/Action/Travco/Policies.php, line: 231
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 266
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 287
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 303
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 324
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 183
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 204
+msgid "at"
+msgstr ""
+#
+# File: src/App/Action/HotelDO/SearchHotels.php, line: 983
+# File: src/App/Action/HotelsPro/Hotel.php, line: 284
+# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 100
+# File: src/App/Action/HotelsPro/SearchHotels.php, line: 320
+# File: src/App/Action/MikiTravel/Hotel.php, line: 419
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 190
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 419
+msgid "Special Offer"
+msgstr ""
+#
+# File: src/App/Action/Expedia/Policies.php, line: 192
+# File: src/App/Action/Expedia/Policies.php, line: 194
+# File: src/App/Action/Expedia/SearchHotels.php, line: 458
+# File: src/App/Action/Expedia/SearchHotels.php, line: 460
+msgid "Cancel between"
+msgstr ""
+#
+# File: src/App/Action/Expedia/Policies.php, line: 192
+# File: src/App/Action/Expedia/Policies.php, line: 194
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 77
+# File: src/App/Action/Expedia/SearchHotels.php, line: 458
+# File: src/App/Action/Expedia/SearchHotels.php, line: 460
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 213
+msgid "and"
+msgstr ""
+#
+# File: src/App/Action/Expedia/Policies.php, line: 192
+# File: src/App/Action/Expedia/SearchHotels.php, line: 458
+msgid "night charge"
+msgstr ""
+#
+# File: src/App/Action/Expedia/Policies.php, line: 194
+# File: src/App/Action/Expedia/SearchHotels.php, line: 460
+msgid "nights charge"
+msgstr ""
+#
+# File: src/App/Action/Expedia/Policies.php, line: 422
+# File: src/App/Action/Expedia/SearchHotels.php, line: 471
+msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
+msgstr ""
+#
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 77
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
+msgid "if cancelled between"
+msgstr ""
+#
+# File: src/App/Action/Coming2/SearchHotels.php, line: 298
+# File: src/App/Action/Hotelbeds/Hotel.php, line: 426
+# File: src/App/Action/Hotelbeds/Hotel.php, line: 428
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 326
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 328
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 183
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 185
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 453
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 455
+msgid "Package Rate"
+msgstr ""
+#
+# File: src/App/Action/Coming2/SearchHotels.php, line: 301
+msgid "Senior Rate"
+msgstr ""
+#
+# File: src/App/Action/Coming2/SearchHotels.php, line: 304
+msgid "Residents Rate"
+msgstr ""
+#
+# File: src/App/Action/DOTW/Hotel.php, line: 630
+# File: src/App/Action/DOTW/Policies.php, line: 347
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 408
+# File: src/App/Action/DOTW/SearchHotels.php, line: 669
+msgid "Cancel from today to"
+msgstr ""
+#
+# File: src/App/Action/DOTW/Hotel.php, line: 658
+# File: src/App/Action/DOTW/Policies.php, line: 416
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 449
+# File: src/App/Action/DOTW/SearchHotels.php, line: 710
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1327
+msgid "Amend is restricted"
+msgstr ""
+#
+# File: src/App/Action/DOTW/Hotel.php, line: 661
+# File: src/App/Action/DOTW/Policies.php, line: 419
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 452
+# File: src/App/Action/DOTW/SearchHotels.php, line: 713
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1330
+msgid "Cancel is restricted"
+msgstr ""
+#
+# File: src/App/Action/DOTW/Hotel.php, line: 664
+# File: src/App/Action/DOTW/Policies.php, line: 422
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 455
+# File: src/App/Action/DOTW/SearchHotels.php, line: 716
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1333
+msgid "Free cancellation"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 247
+# File: src/App/Action/GTA/Policies.php, line: 261
+# File: src/App/Action/GTA/SearchHotels.php, line: 495
+# File: src/App/Action/GTA/SearchHotels.php, line: 505
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 259
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 322
+msgid "Not allowable"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 254
+# File: src/App/Action/GTA/SearchHotels.php, line: 500
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 310
+msgid "or earlier"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 254
+# File: src/App/Action/GTA/SearchHotels.php, line: 500
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 310
+msgid "you will not be charged"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 264
+# File: src/App/Action/GTA/SearchHotels.php, line: 507
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 324
+msgid "Effective today you will be charged"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 268
+# File: src/App/Action/GTA/SearchHotels.php, line: 510
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 327
+msgid "onwards"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 268
+# File: src/App/Action/GTA/Policies.php, line: 273
+# File: src/App/Action/GTA/Policies.php, line: 295
+# File: src/App/Action/GTA/Policies.php, line: 300
+# File: src/App/Action/GTA/Policies.php, line: 302
+# File: src/App/Action/GTA/Policies.php, line: 307
+# File: src/App/Action/GTA/SearchHotels.php, line: 510
+# File: src/App/Action/GTA/SearchHotels.php, line: 514
+# File: src/App/Action/GTA/SearchHotels.php, line: 535
+# File: src/App/Action/GTA/SearchHotels.php, line: 540
+# File: src/App/Action/GTA/SearchHotels.php, line: 542
+# File: src/App/Action/GTA/SearchHotels.php, line: 546
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 327
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 331
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 334
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 338
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 345
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 350
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 357
+msgid "you will be charged"
+msgstr ""
+#
+# File: src/App/Action/GTA/Policies.php, line: 295
+# File: src/App/Action/GTA/SearchHotels.php, line: 535
+msgid "From today to"
+msgstr ""
+#
+# File: src/App/Action/GTA/SearchHotels.php, line: 479
+msgid "Child sharing existing bedding"
+msgstr ""
+#
+# File: src/App/Action/Carnect/SearchCars.php, line: 271
+msgid "Oneway fee"
+msgstr ""
+#
+# File: src/App/Action/Carnect/SearchCars.php, line: 439
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 319
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 357
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 125
+msgid "or similar"
+msgstr ""
+#
+# File: src/App/Action/PricelineNet/Hotel.php, line: 317
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 157
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 325
+msgid "Room Assigned at Check-in - Sleeps"
+msgstr ""
+#
+# File: src/App/Action/PricelineNet/Hotel.php, line: 317
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 157
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 325
+msgid "Adult(s)"
+msgstr ""
+#
+# File: src/App/Action/PricelineNet/Policies.php, line: 515
+# File: src/App/Action/PricelineNet/Policies.php, line: 516
+msgid "This booking is Non-Refundable and cannot be amended or modified. If you fail to arrive or cancel the booking, no refund will be given."
+msgstr ""
+#
+# File: src/App/Action/Enterprise/Policies.php, line: 462
+msgid "day before pick up"
+msgstr ""
+#
+# File: src/App/Action/Enterprise/Policies.php, line: 464
+msgid "days before pick up"
+msgstr ""
+#
+# File: src/App/Action/GoGlobal/Policies.php, line: 290
+msgid "Cancellation deadline is"
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 663
+msgid "Inclusive with GPS"
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 667
+msgid "Inclusive No Excess"
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 671
+msgid "Diamond"
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 675
+msgid "Platinum"
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 679
+msgid "Gold"
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 693
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 695
+msgid "Fully Prepaid, Inclusive product. This means the full cost is paid up front (though some fees may be paid on arrival)."
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 700
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 702
+msgid "Fully-prepaid, Exclusive product. This means the full cost is paid up front (though some fees may be paid on arrival)."
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 707
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 709
+msgid "Fully-postpaid, Inclusive product. This means the full cost is paid when picking up the car."
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 714
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 716
+msgid "Fully-postpaid, Exclusive product. This means the full cost is paid when picking up the car."
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 721
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 723
+msgid "Partpaid (deposit), Inclusive product. This means a deposit is paid up front, with the remainder being paid when pickup up the car."
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 728
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 730
+msgid "Partpaid (deposit), Exclusive product. This means a deposit is paid up front, with the remainder being paid when pickup up the car."
+msgstr ""
+#
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 849
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 851
+msgid "Fuel:"
+msgstr ""
+#
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 258
+# File: src/App/Action/HotelsPro/Policies.php, line: 320
+msgid "This is a non refundable offer. You will be charged full amount of the booking."
+msgstr ""
+#
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 267
+# File: src/App/Action/HotelsPro/Policies.php, line: 329
+msgid "if cancelled on and after"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/Hotel.php, line: 408
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 284
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 417
+msgid "if charged after"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
+msgid "NOTE: Cancellation time is based on timezone destination"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 413
+# File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 796
+msgid "Private Transfer"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 415
+# File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 798
+msgid "Bus Transfer"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 417
+# File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 800
+msgid "Unknown Transfer"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 422
+# File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 805
+msgid "Terminal to Terminal"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 424
+# File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 807
+msgid "Transfer from pickup to destination"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 426
+# File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 809
+msgid "Return transfer from the destination to the pickup"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 542
+msgid "worth"
+msgstr ""
+#
+# File: src/App/Action/MikiTravel/Hotel.php, line: 266
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 45
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 261
+msgid "Pay full amount of your stay if cancelled on or after"
+msgstr ""
+#
+# File: src/App/Action/MikiTravel/Hotel.php, line: 269
+# File: src/App/Action/MikiTravel/Hotel.php, line: 271
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 48
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 50
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 264
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 266
+msgid "of your stay if cancelled on or after"
+msgstr ""
+#
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 225
+# File: src/App/Action/Palace/SearchHotels.php, line: 218
+msgid "1 King Bed"
+msgstr ""
+#
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 227
+# File: src/App/Action/Palace/SearchHotels.php, line: 220
+msgid "2 Double Beds"
+msgstr ""
+#
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 425
+# File: src/App/Action/Palace/SearchHotels.php, line: 419
+msgid "day(s) prior to arrival"
+msgstr ""
+#
+# File: src/App/Action/AirportsAction.php, line: 133
+msgid "All Airports"
+msgstr ""
+#
+# File: src/App/language/languages.php, line: 11
+msgid "Special Deal"
+msgstr ""
+#
+# File: translate-dummy.php, line: 2
+msgid "Excludes Resort Fee"
+msgstr ""
+#
+# File: translate-dummy.php, line: 3
+msgid "Includes Resort Fee"
+msgstr ""
+#
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
+msgid "charge"
+msgstr ""
+#
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
+# File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 199
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 137
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 135
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 154
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 199
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 135
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 154
+# File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 214
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 214
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 971
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 334
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 383
+msgid "Status:"
+msgstr ""
+#
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 135
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 154
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 135
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 154
+msgid "Cancelled"
+msgstr ""
+#
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 312
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 148
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 152
+msgid "Unable to cancel booking"
+msgstr ""
+#
+# File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 368
+# File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 369
+# File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 372
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 329
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 330
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 406
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 407
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/AIO/CreateHotel.php, line: 256
+# File: console/src/Xml/Command/AIO/CreateHotel.php, line: 257
+# File: console/src/Xml/Command/AIO/CreateHotel.php, line: 260
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2189
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2190
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2193
+# File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 385
+# File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 386
+# File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 389
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 275
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 276
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 279
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 443
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 444
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 447
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 521
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 522
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 284
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 285
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 288
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 362
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 363
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 366
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 271
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 272
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 275
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 349
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 350
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 353
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 693
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 694
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 697
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1505
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1506
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1509
+# File: console/src/Xml/Command/EnjoyCuba/CreateHotel.php, line: 305
+# File: console/src/Xml/Command/EnjoyCuba/CreateHotel.php, line: 306
+# File: console/src/Xml/Command/EnjoyCuba/CreateHotel.php, line: 309
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 261
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 262
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 265
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 338
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 339
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 342
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 329
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 330
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 406
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 407
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 290
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 291
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 294
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 367
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 368
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 371
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 350
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 351
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 354
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 739
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 740
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 743
+# File: console/src/Xml/Command/Tourico/CreateCar.php, line: 316
+# File: console/src/Xml/Command/Tourico/CreateCar.php, line: 317
+# File: console/src/Xml/Command/Tourico/CreateCar.php, line: 320
+# File: console/src/Xml/Command/Tourico/CreateHotel.php, line: 323
+# File: console/src/Xml/Command/Tourico/CreateHotel.php, line: 324
+# File: console/src/Xml/Command/Tourico/CreateHotel.php, line: 327
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 280
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 281
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 284
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 329
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 330
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 406
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 407
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/Travco/CreateHotel.php, line: 294
+# File: console/src/Xml/Command/Travco/CreateHotel.php, line: 295
+# File: console/src/Xml/Command/Travco/CreateHotel.php, line: 298
+# File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 311
+# File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 312
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 373
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 374
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 377
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 450
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 451
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 454
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 527
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 528
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 531
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 161
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 192
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 404
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 471
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 488
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 489
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 492
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 507
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 576
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 577
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 580
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 595
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 782
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 783
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 786
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 801
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 834
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 835
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 838
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 853
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1108
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1109
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1112
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1127
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1531
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1532
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1535
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1550
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 520
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 521
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 524
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 620
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 621
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 624
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 720
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 721
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 724
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 457
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 458
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 461
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 545
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 546
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 549
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 581
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 582
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 669
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 670
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
+# File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 358
+# File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 359
+# File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 362
+# File: console/src/Xml/Command/Reservations.php, line: 843
+# File: console/src/Xml/Command/Reservations.php, line: 2023
+# File: console/src/Xml/Command/Reservations.php, line: 3762
+# File: console/src/Xml/Command/Reservations.php, line: 3763
+# File: console/src/Xml/Command/Reservations.php, line: 3766
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 442
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 443
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 521
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 522
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 268
+# File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 269
+# File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 272
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 450
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 451
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 454
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 528
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 529
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 532
+# File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 323
+# File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 324
+# File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 327
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 436
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 471
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 472
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 475
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 329
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 330
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 406
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 407
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 336
+# File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 337
+# File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 340
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 57
+msgid "Exception Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 372
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/AIO/CreateHotel.php, line: 260
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2193
+# File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 389
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 279
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 447
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 288
+# File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 366
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 275
+# File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 353
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 697
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1509
+# File: console/src/Xml/Command/EnjoyCuba/CreateHotel.php, line: 309
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 265
+# File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 342
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 294
+# File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 371
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 354
+# File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 743
+# File: console/src/Xml/Command/Tourico/CreateCar.php, line: 320
+# File: console/src/Xml/Command/Tourico/CreateHotel.php, line: 327
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 284
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/Travco/CreateHotel.php, line: 298
+# File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 315
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 377
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 454
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 531
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 492
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 580
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 786
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 838
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1112
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1535
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 524
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 624
+# File: console/src/Xml/Command/GTA/CreateHotel.php, line: 724
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 461
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 549
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
+# File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
+# File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 362
+# File: console/src/Xml/Command/Reservations.php, line: 3766
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 272
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 454
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 532
+# File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 327
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 475
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 333
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 340
+msgid "Reservation"
+msgstr ""
+#
+# File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 131
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 127
+# File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 148
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 127
+# File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 148
+# File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 208
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 208
+msgid "cancelled by"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 621
+# File: console/src/Xml/Command/Reservations.php, line: 695
+# File: console/src/Xml/Command/Reservations.php, line: 753
+# File: console/src/Xml/Command/Reservations.php, line: 962
+# File: console/src/Xml/Command/Reservations.php, line: 2099
+# File: console/src/Xml/Command/Reservations.php, line: 4181
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
+msgid "Process Credit Card"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 623
+# File: console/src/Xml/Command/Reservations.php, line: 697
+# File: console/src/Xml/Command/Reservations.php, line: 755
+# File: console/src/Xml/Command/Reservations.php, line: 964
+# File: console/src/Xml/Command/Reservations.php, line: 4183
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
+msgid "Credit Card Number not Available"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateAir_Fare_PricePNRWithBookingClass.php, line: 76
+msgid "Fare Price PNR With Booking Class Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 259
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 953
+msgid "Credit Card Available"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 292
+# File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 983
+# File: console/src/Xml/Command/Reservations.php, line: 898
+# File: console/src/Xml/Command/Reservations.php, line: 2068
+msgid "Credit Card"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 989
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 996
+msgid "Cash"
+msgstr ""
+#
+# File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1452
+msgid "Ticket Create TST Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sendvoucher.php, line: 898
+# File: console/src/Xml/Command/Sendmessage.php, line: 257
+msgid "Travel Confirmation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 178
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 184
+msgid "Reservation is being processed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 177
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 183
+msgid "Cancellation is being processed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 32
+msgid "Reservation Cancellation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 69
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 129
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 246
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 353
+msgid "Booking Cancellation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 74
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 134
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 358
+msgid "We received a cancellation request for booking"
+msgstr ""
+#
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 74
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 134
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 358
+msgid "This email is to confirm we have successfully cancelled the reservation."
+msgstr ""
+#
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 251
+msgid "We are hereby requesting cancellation for booking"
+msgstr ""
+#
+# File: console/src/Xml/Command/Direct/CancelHotel.php, line: 251
+msgid "This email is to confirm the reservation cancellation."
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 137
+# File: console/src/Xml/Command/Hotelbeds/CancelHotelXML.php, line: 126
+msgid "Cancellation charges:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
+msgid "CANCELLATION CHARGES NOW:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 161
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 183
+msgid "Effective from:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 164
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 186
+msgid "day(s) before arrival"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 167
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 189
+msgid "after"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 173
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 192
+msgid "Last Possible Cancellation Date:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 176
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 195
+msgid "before"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 372
+msgid "Total cancellation fee is"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CancelHotel.php, line: 478
+msgid "Charges:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travco/CreateHotel.php, line: 89
+msgid "None"
+msgstr ""
+#
+# File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 274
+# File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 315
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 234
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 262
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 263
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 281
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 428
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 495
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 590
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 622
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 623
+# File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
+msgid "Cancellation Exception Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 548
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1080
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1503
+msgid "Unknown Exception Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 825
+# File: console/src/Xml/Command/Reservations.php, line: 827
+# File: console/src/Xml/Command/Reservations.php, line: 829
+# File: console/src/Xml/Command/Reservations.php, line: 2005
+# File: console/src/Xml/Command/Reservations.php, line: 2007
+# File: console/src/Xml/Command/Reservations.php, line: 2009
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 50
+msgid "Reservation Pending"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 831
+# File: console/src/Xml/Command/Reservations.php, line: 2011
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 51
+msgid "Reservation Confirmed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 833
+# File: console/src/Xml/Command/Reservations.php, line: 2013
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 52
+msgid "Reservation Cancelled"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 835
+# File: console/src/Xml/Command/Reservations.php, line: 2015
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 53
+msgid "Reservation Waiting Confirmation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 837
+# File: console/src/Xml/Command/Reservations.php, line: 2017
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 54
+msgid "Checked In"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 839
+# File: console/src/Xml/Command/Reservations.php, line: 2019
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 55
+msgid "Checked Out"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 841
+# File: console/src/Xml/Command/Reservations.php, line: 2021
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 56
+msgid "Complete"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 845
+# File: console/src/Xml/Command/Reservations.php, line: 876
+# File: console/src/Xml/Command/Reservations.php, line: 2025
+# File: console/src/Xml/Command/Reservations.php, line: 2056
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 58
+msgid "Supervisor Action Required"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 847
+# File: console/src/Xml/Command/Reservations.php, line: 2027
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 59
+msgid "Queue Reservation for Processing"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 849
+# File: console/src/Xml/Command/Reservations.php, line: 2029
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 63
+msgid "Unknown Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 854
+# File: console/src/Xml/Command/Reservations.php, line: 856
+# File: console/src/Xml/Command/Reservations.php, line: 2034
+# File: console/src/Xml/Command/Reservations.php, line: 2036
+msgid "Awaiting Payment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 858
+# File: console/src/Xml/Command/Reservations.php, line: 2038
+msgid "Payment Received"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 860
+# File: console/src/Xml/Command/Reservations.php, line: 2040
+msgid "Payment Refunded"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 862
+# File: console/src/Xml/Command/Reservations.php, line: 2042
+msgid "Chargeback"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 864
+# File: console/src/Xml/Command/Reservations.php, line: 2044
+msgid "Payment On Hold"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 866
+# File: console/src/Xml/Command/Reservations.php, line: 2046
+msgid "Partially Paid"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 868
+# File: console/src/Xml/Command/Reservations.php, line: 2048
+msgid "Awaiting Refund"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 870
+# File: console/src/Xml/Command/Reservations.php, line: 2050
+msgid "Awaiting Capture"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 872
+# File: console/src/Xml/Command/Reservations.php, line: 2052
+msgid "Payment Cancelled"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 874
+# File: console/src/Xml/Command/Reservations.php, line: 2054
+msgid "Exception Payment Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 878
+# File: console/src/Xml/Command/Reservations.php, line: 2058
+msgid "Payment Failed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 880
+# File: console/src/Xml/Command/Reservations.php, line: 2060
+msgid "Queue Payment for Processing"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 882
+msgid "GDS Payment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 884
+# File: console/src/Xml/Command/Reservations.php, line: 2062
+msgid "Unknown Payment Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 900
+# File: console/src/Xml/Command/Reservations.php, line: 2070
+msgid "Paypal"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 902
+# File: console/src/Xml/Command/Reservations.php, line: 904
+# File: console/src/Xml/Command/Reservations.php, line: 2072
+# File: console/src/Xml/Command/Reservations.php, line: 2074
+msgid "SafetyPay"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 906
+# File: console/src/Xml/Command/Reservations.php, line: 2076
+msgid "PayU"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 908
+# File: console/src/Xml/Command/Reservations.php, line: 2078
+msgid "Book Now and Pay Later"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 910
+# File: console/src/Xml/Command/Reservations.php, line: 2080
+msgid "PAYFORT"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 912
+msgid "PAYFORT - Sadad"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 914
+msgid "Payeezy"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 917
+# File: console/src/Xml/Command/Reservations.php, line: 2082
+msgid "Unknown Payment Method"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1492
+# File: console/src/Xml/Command/Reservations.php, line: 2401
+msgid "Thank you for your order. Unfortunately, we were unable to charge your credit card. Please click below to update your payment information."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1493
+# File: console/src/Xml/Command/Reservations.php, line: 2402
+msgid "We'll continue trying to process your card through our system. Unfortunately, we won't be able to deliver your order if a valid card is not provided."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1494
+# File: console/src/Xml/Command/Reservations.php, line: 2403
+msgid "Please contact us and reference"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1495
+# File: console/src/Xml/Command/Reservations.php, line: 2404
+msgid "Please ignore this email if you have already submitted your payment."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1496
+# File: console/src/Xml/Command/Reservations.php, line: 2405
+msgid "There could be several different reasons you're seeing a decline error message or your payment won't go through."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1497
+# File: console/src/Xml/Command/Reservations.php, line: 2406
+msgid "You are trying to pay with an unsupported card type"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1498
+# File: console/src/Xml/Command/Reservations.php, line: 2407
+msgid "Some electronic cards may work, but others may not"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1499
+# File: console/src/Xml/Command/Reservations.php, line: 2408
+msgid "There are not enough funds available to process the transaction"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1500
+# File: console/src/Xml/Command/Reservations.php, line: 2409
+msgid "Invalid Card Verification Code (CVC)"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1501
+# File: console/src/Xml/Command/Reservations.php, line: 2410
+msgid "Pending Payment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 1501
+# File: console/src/Xml/Command/Reservations.php, line: 2410
+msgid "Reservation #"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3564
+# File: console/src/Xml/Command/Reservations.php, line: 3565
+# File: console/src/Xml/Command/Reservations.php, line: 3617
+msgid "Reset Password"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3568
+msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3569
+msgid "If you did not request a password reset then you can safely ignore this email."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3616
+# File: console/src/Xml/Command/Templates/notification.phtml, line: 273
+msgid "Go"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3621
+msgid "Your password has been successfully changed. Please log in with this temporary password and make sure to change your password into a new permanent password."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3622
+msgid "Your new password is"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 3703
+msgid "Welcome"
+msgstr ""
+#
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 239
+msgid "Payable through"
+msgstr ""
+#
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+msgid "acting as agent for the service operating company, details of which can be provided upon request."
+msgstr ""
+#
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+msgid "VAT:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+msgid "Reference:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Hotelbeds/CancelHotelXML.php, line: 127
+msgid "Cancellation date:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 971
+msgid "Unable to confirm segment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 974
+msgid "Waitlisted"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 976
+msgid "Need Segment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 979
+msgid "Unable to confirm or waitlist"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 392
+msgid "adult"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 392
+msgid "adults"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 392
+msgid "children"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 406
+msgid "Based on"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 406
+msgid "reviews"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 435
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 534
+msgid "details"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 451
+msgid "total"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 42
+msgid "Reservation Request Nr."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 45
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 37
+msgid "Instructions"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 45
+msgid "Thank you for giving us the opportunity to make your travel arrangements for your trip to"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 46
+msgid "We are actively working on your reservation request. Processing is usually done immediately, but can sometimes take longer - mainly depending on travel service providers. If we encounter any issues while processing your booking, we will contact you via email or phone."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 47
+msgid "Below is important information about your trip. Please review everything carefully, especially paperwork requirements, terms & condition and payment deadlines. Please also review your invoice for accuracy. If you have any questions, please contact us as soon as possible."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 51
+msgid "Flight info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 71
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 107
+msgid "Departure:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 72
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 108
+msgid "Arrival:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 73
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 109
+msgid "Flight:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 73
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 109
+msgid "Class"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 80
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 76
+msgid "Adults:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 85
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 81
+msgid "Child:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 85
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 81
+msgid "Children:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 91
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 87
+msgid "Infant:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 91
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 87
+msgid "Infants:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 96
+msgid "Cost per adult"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 98
+msgid "Cost per child"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 101
+msgid "Cost per infant"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 103
+msgid "Taxes"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 105
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 162
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 219
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 298
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 358
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 398
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 117
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 336
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 455
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 216
+msgid "Subtotal"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 110
+msgid "Hotel info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 114
+msgid "star"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 125
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 131
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 149
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 82
+msgid "Night"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 125
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 131
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 149
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 82
+msgid "Nights"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 127
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 152
+msgid "avg./night"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 127
+msgid "Room"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 131
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 198
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 252
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 279
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 379
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 289
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 316
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 85
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 169
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 196
+msgid "Adults"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 136
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 85
+msgid "Child"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 138
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 199
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 253
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 280
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 380
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 290
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 317
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 85
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 170
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 197
+msgid "Children"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 145
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 362
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 203
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 448
+msgid "Cancellation Policy"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 152
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 174
+msgid "Guests"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 155
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 178
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 443
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 104
+msgid "age"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 170
+msgid "Discount"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 173
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 435
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 528
+msgid "Total"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 180
+msgid "Cruise info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 187
+msgid "Cruise Line"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 192
+msgid "Fare"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 200
+msgid "Dining Selection"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 201
+msgid "Cabin"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 205
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 259
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 286
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 296
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 323
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 176
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 203
+msgid "From"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 214
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 268
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 289
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 305
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 326
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 185
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 206
+msgid "To"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 229
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 262
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 142
+msgid "Transfer info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 239
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 276
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 156
+msgid "Destination"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 244
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 273
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 281
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 310
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 161
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 190
+msgid "Journey"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 246
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 274
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 283
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 311
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 163
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 191
+msgid "Estimated journey time"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 254
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 281
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 291
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 318
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 171
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 198
+msgid "Infants"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 255
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 282
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 324
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 292
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 319
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 363
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 172
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 199
+msgid "Bags"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 307
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 347
+msgid "Car info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 323
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 362
+msgid "Passengers"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 325
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 364
+msgid "Doors"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 326
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 365
+msgid "Transmission"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 327
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 366
+msgid "Air Conditioning"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 331
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 380
+msgid "Supplier info:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 333
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 382
+msgid "Vendor:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 335
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 385
+msgid "Pick up location:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 349
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 410
+msgid "Pick up:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 350
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 414
+msgid "Drop off:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 355
+msgid "Mandatory fees paid at the counter"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 369
+msgid "Activity info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 390
+msgid "Date:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 408
+msgid "Service Charge"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 415
+msgid "Rewards Earned"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 422
+msgid "Rewards Used"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 429
+msgid "Rewards Discount"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 441
+msgid "Travel Insurance"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 441
+msgid "We recommend the purchase of a travel protection plan to help protect you and your travel investment against the unexpected. Even with the most meticulous planning, travel can be full of surprises. With travel protection, you can relax and enjoy your trip with some peace of mind knowing that you've got coverage in place for unforseen circumstances."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 441
+msgid "The travel protection plan we recommend may be purchased with your travel package or at any time prior to making your final payment."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 444
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 536
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 139
+msgid "Contact info"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 20
+msgid "Prepaid Accommodation Voucher"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 33
+msgid "Confirmation Voucher"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 38
+msgid "Thanks for choosing"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 38
+msgid "for your trip! You'll find everything you need to know about your reservation below. We wish you the best travel experience during your stay."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 42
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 185
+msgid "Reservation Id"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 47
+msgid "Reservation Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 49
+msgid "New Reservation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 60
+msgid "Queue Reservation for Cancellation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 61
+msgid "Pending Review - Fraud"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 62
+msgid "Recovered/Rescued Booking"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 70
+msgid "Air Itinerary"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 121
+msgid "Air Confirmation:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 123
+msgid "You will need to bring valid photo ID to check in. A valid passport and visa may be required when travelling to certain destinations."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 131
+msgid "Hotel details"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 153
+msgid "Room:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 85
+msgid "Adult"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 162
+msgid "Taxes & Fees"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 191
+msgid "Voucher"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 198
+msgid "Confirmation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 209
+msgid "Comments or Special Requests"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 215
+msgid "Check-in instructions"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 221
+msgid "Special Check-in instructions"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 227
+msgid "Mandatory Fees"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 233
+msgid "Optionals"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 244
+msgid "Due at hotel"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 251
+msgid "Hotels total"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 272
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 152
+msgid "Transfer provided by"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 273
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 153
+msgid "Booking ref"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 373
+msgid "Your reference number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 374
+msgid "Car rental supplier reservation number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 390
+msgid "Phone:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 391
+msgid "Operating Hours:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 421
+msgid "Inclusions:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 431
+msgid "Exclusions:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 440
+msgid "Drivers:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
+msgid "Invoice"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 37
+msgid "Issue Date:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 39
+msgid "Due Date:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 44
+msgid "Bill to"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 92
+msgid "Base Rate"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 94
+msgid "Tax Recovery Charges and Service Fees"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 104
+msgid "Sub Total:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 109
+msgid "Tax Recovery Charges and Service Fees:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 125
+msgid "Car Rental"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 289
+msgid "Total Due:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 294
+msgid "Total:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/message.phtml, line: 250
+# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
+# File: console/src/Xml/Command/Templates/notification.phtml, line: 248
+msgid "Dear"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/message.phtml, line: 281
+# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 248
+# File: console/src/Xml/Command/Templates/notification.phtml, line: 284
+msgid "Best Regards"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 243
+msgid "We received your request to cancel your reservation number"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 244
+msgid "We are very sorry to hear about that. If we can assist you with booking alternate dates, please call our reservations department."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 245
+msgid "As long as you have cancelled within the permitted cancellation policy you will receive a full refund within 10-12 business dayst."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 249
+msgid "Customer Support Team"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 36
+msgid "TRAVEL VOUCHER"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 44
+msgid "Your reservation is confirmed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 50
+msgid "Address:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 53
+msgid "Check in:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 60
+msgid "Booking ID:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 72
+msgid "Confirmation Number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 80
+msgid "Guests:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 86
+msgid "Room 1:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 87
+msgid "Room 2:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 110
+msgid "Room type"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 116
+msgid "Meal Plan/ Plan de alimentation:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 122
+msgid "Special Requests (Not guaranteed)"
+msgstr ""
