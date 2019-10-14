@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-14 17:39-0400\n"
+"POT-Creation-Date: 2019-10-14 18:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,7 +59,7 @@ msgstr ""
 # File: src/App/Action/W2M/Policies.php, line: 430
 # File: src/App/Action/DOTW/Policies.php, line: 523
 # File: src/App/Action/EETGlobal/Policies.php, line: 499
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 240
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 241
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 89
 msgid "Price has changed. Please review booking."
 msgstr ""
@@ -102,6 +102,8 @@ msgstr ""
 # File: src/App/Action/Abreu/Policies.php, line: 377
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 472
 # File: src/App/Action/Ocean/SearchHotels.php, line: 446
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 506
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 510
 # File: src/App/Action/Tourico/Policies.php, line: 500
 # File: src/App/Action/Tourico/Policies.php, line: 504
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 444
@@ -121,7 +123,7 @@ msgstr ""
 # File: src/App/Action/HotelsPro/Policies.php, line: 329
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 257
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 258
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 284
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
@@ -163,7 +165,7 @@ msgstr ""
 # File: src/App/Action/Ocean/SearchHotels.php, line: 450
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 446
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 448
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 257
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 258
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
@@ -482,53 +484,64 @@ msgstr ""
 msgid "of total booking"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 437
 # File: src/App/Action/Tourico/Policies.php, line: 431
 # File: src/App/Action/Direct/SearchHotels.php, line: 105
 # File: src/App/Action/Direct/SearchHotels.php, line: 119
 msgid "days"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 470
 # File: src/App/Action/Tourico/Policies.php, line: 464
 msgid "before checkin date"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 474
 # File: src/App/Action/Tourico/Policies.php, line: 468
 msgid "after booking is made"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 479
 # File: src/App/Action/Tourico/Policies.php, line: 473
 # File: src/App/Action/Direct/SearchHotels.php, line: 112
 msgid "night"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 481
 # File: src/App/Action/Tourico/Policies.php, line: 475
 # File: src/App/Action/Direct/SearchHotels.php, line: 114
 msgid "nights"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 485
 # File: src/App/Action/Tourico/Policies.php, line: 479
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 msgid "full stay"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 488
 # File: src/App/Action/Tourico/Policies.php, line: 482
 msgid "percentage"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 506
 # File: src/App/Action/Tourico/Policies.php, line: 500
 # File: src/App/Action/Travco/Policies.php, line: 229
 # File: src/App/Action/Travco/Policies.php, line: 231
 msgid "if"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 506
 # File: src/App/Action/Tourico/Policies.php, line: 500
 msgid "No show"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 506
 # File: src/App/Action/Tourico/Policies.php, line: 500
 msgid " - No show means that the guest did not cancel the reservation and did not stay at the hotel during the reserved period of time"
 msgstr ""
 #
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 509
 # File: src/App/Action/Tourico/Policies.php, line: 503
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 # File: src/App/Action/Direct/SearchHotels.php, line: 109
