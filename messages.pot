@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-15 17:31-0400\n"
+"POT-Creation-Date: 2019-10-15 17:42-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,6 +49,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 392
 # File: src/App/Action/PricelineNet/Hotel.php, line: 344
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 184
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 377
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 352
 # File: src/App/Action/EETGlobal/SearchHotels.php, line: 350
 # File: src/App/language/languages.php, line: 6
@@ -284,6 +285,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 394
 # File: src/App/Action/PricelineNet/Hotel.php, line: 346
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 186
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 379
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 354
 # File: src/App/language/languages.php, line: 7
 msgid "Bed & Breakfast"
@@ -323,6 +325,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 403
 # File: src/App/Action/PricelineNet/Hotel.php, line: 341
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 181
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 374
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 349
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 437
 # File: src/App/Action/Palace/SearchHotels.php, line: 431
@@ -840,12 +843,14 @@ msgstr ""
 #
 # File: src/App/Action/PricelineNet/Hotel.php, line: 317
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 157
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 350
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 325
 msgid "Room Assigned at Check-in - Sleeps"
 msgstr ""
 #
 # File: src/App/Action/PricelineNet/Hotel.php, line: 317
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 157
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 350
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 325
 msgid "Adult(s)"
 msgstr ""
