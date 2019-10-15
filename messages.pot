@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-15 13:47-0400\n"
+"POT-Creation-Date: 2019-10-15 14:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,11 +53,15 @@ msgstr ""
 msgid "Room Only"
 msgstr ""
 #
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 218
 # File: src/App/Action/RoomsXML/Policies.php, line: 222
 # File: src/App/Action/AIO/Policies.php, line: 496
 # File: src/App/Action/ActionTravel/Policies.php, line: 445
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 204
 # File: src/App/Action/Travellanda/Policies.php, line: 209
+# File: src/App/Action/W2M/MultiPolicies.php, line: 425
 # File: src/App/Action/W2M/Policies.php, line: 430
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 519
 # File: src/App/Action/DOTW/Policies.php, line: 523
 # File: src/App/Action/EETGlobal/Policies.php, line: 499
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 241
@@ -65,23 +69,28 @@ msgstr ""
 msgid "Price has changed. Please review booking."
 msgstr ""
 #
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 259
 # File: src/App/Action/RoomsXML/Policies.php, line: 262
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 170
 msgid "Cancellation Policy:"
 msgstr ""
 #
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 264
 # File: src/App/Action/RoomsXML/Policies.php, line: 267
 msgid "Cancellation Penaly:"
 msgstr ""
 #
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 264
 # File: src/App/Action/RoomsXML/Policies.php, line: 267
 msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
 msgstr ""
 #
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 266
 # File: src/App/Action/RoomsXML/Policies.php, line: 269
 msgid "Charge:"
 msgstr ""
 #
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 270
 # File: src/App/Action/RoomsXML/Policies.php, line: 273
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
@@ -114,6 +123,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 121
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 77
 # File: src/App/Action/DOTW/Hotel.php, line: 667
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 421
 # File: src/App/Action/DOTW/Policies.php, line: 425
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 458
 # File: src/App/Action/DOTW/SearchHotels.php, line: 719
@@ -183,6 +193,8 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 379
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
+# File: src/App/Action/W2M/MultiPolicies.php, line: 351
+# File: src/App/Action/W2M/MultiPolicies.php, line: 353
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/W2M/Policies.php, line: 358
 # File: src/App/Action/EETGlobal/Policies.php, line: 380
@@ -192,6 +204,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/Policies.php, line: 377
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
+# File: src/App/Action/W2M/MultiPolicies.php, line: 351
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/EETGlobal/Policies.php, line: 380
 msgid "until the start date of travel"
@@ -202,9 +215,11 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
 # File: src/App/Action/Travelplan/Policies.php, line: 200
+# File: src/App/Action/W2M/MultiPolicies.php, line: 353
 # File: src/App/Action/W2M/Policies.php, line: 358
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 494
 # File: src/App/Action/DOTW/Hotel.php, line: 625
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 338
 # File: src/App/Action/DOTW/Policies.php, line: 342
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 403
 # File: src/App/Action/DOTW/SearchHotels.php, line: 664
@@ -222,6 +237,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/Policies.php, line: 384
 # File: src/App/Action/ActionTravel/Policies.php, line: 379
+# File: src/App/Action/W2M/MultiPolicies.php, line: 358
 # File: src/App/Action/W2M/Policies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 387
 msgid "of expenses"
@@ -451,6 +467,7 @@ msgstr ""
 #
 # File: src/App/Action/Travelplan/Policies.php, line: 200
 # File: src/App/Action/DOTW/Hotel.php, line: 622
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 335
 # File: src/App/Action/DOTW/Policies.php, line: 339
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 400
 # File: src/App/Action/DOTW/SearchHotels.php, line: 661
@@ -465,15 +482,20 @@ msgstr ""
 msgid "pay"
 msgstr ""
 #
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 206
 # File: src/App/Action/Travellanda/Policies.php, line: 211
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
 msgid "Cancel on or after"
 msgstr ""
 #
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 206
 # File: src/App/Action/Travellanda/Policies.php, line: 211
 msgid "and pay"
 msgstr ""
 #
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 231
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 236
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 241
 # File: src/App/Action/Travellanda/Policies.php, line: 236
 # File: src/App/Action/Travellanda/Policies.php, line: 241
 # File: src/App/Action/Travellanda/Policies.php, line: 246
@@ -490,6 +512,7 @@ msgstr ""
 msgid "Pay"
 msgstr ""
 #
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 236
 # File: src/App/Action/Travellanda/Policies.php, line: 241
 msgid "of total booking"
 msgstr ""
@@ -687,6 +710,7 @@ msgid "Residents Rate"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 630
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 343
 # File: src/App/Action/DOTW/Policies.php, line: 347
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 408
 # File: src/App/Action/DOTW/SearchHotels.php, line: 669
@@ -694,6 +718,7 @@ msgid "Cancel from today to"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 658
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 412
 # File: src/App/Action/DOTW/Policies.php, line: 416
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 449
 # File: src/App/Action/DOTW/SearchHotels.php, line: 710
@@ -702,6 +727,7 @@ msgid "Amend is restricted"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 661
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 415
 # File: src/App/Action/DOTW/Policies.php, line: 419
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 452
 # File: src/App/Action/DOTW/SearchHotels.php, line: 713
@@ -710,6 +736,7 @@ msgid "Cancel is restricted"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 664
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 418
 # File: src/App/Action/DOTW/Policies.php, line: 422
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 455
 # File: src/App/Action/DOTW/SearchHotels.php, line: 716
