@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-15 15:32-0400\n"
+"POT-Creation-Date: 2019-10-15 16:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,6 +223,8 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 342
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 403
 # File: src/App/Action/DOTW/SearchHotels.php, line: 664
+# File: src/App/Action/GTA/MultiPolicies.php, line: 296
+# File: src/App/Action/GTA/MultiPolicies.php, line: 298
 # File: src/App/Action/GTA/Policies.php, line: 300
 # File: src/App/Action/GTA/Policies.php, line: 302
 # File: src/App/Action/GTA/SearchHotels.php, line: 540
@@ -744,6 +746,8 @@ msgstr ""
 msgid "Free cancellation"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 243
+# File: src/App/Action/GTA/MultiPolicies.php, line: 257
 # File: src/App/Action/GTA/Policies.php, line: 247
 # File: src/App/Action/GTA/Policies.php, line: 261
 # File: src/App/Action/GTA/SearchHotels.php, line: 495
@@ -753,30 +757,40 @@ msgstr ""
 msgid "Not allowable"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 250
 # File: src/App/Action/GTA/Policies.php, line: 254
 # File: src/App/Action/GTA/SearchHotels.php, line: 500
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 310
 msgid "or earlier"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 250
 # File: src/App/Action/GTA/Policies.php, line: 254
 # File: src/App/Action/GTA/SearchHotels.php, line: 500
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 310
 msgid "you will not be charged"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 260
 # File: src/App/Action/GTA/Policies.php, line: 264
 # File: src/App/Action/GTA/SearchHotels.php, line: 507
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 324
 msgid "Effective today you will be charged"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 264
 # File: src/App/Action/GTA/Policies.php, line: 268
 # File: src/App/Action/GTA/SearchHotels.php, line: 510
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 327
 msgid "onwards"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 264
+# File: src/App/Action/GTA/MultiPolicies.php, line: 269
+# File: src/App/Action/GTA/MultiPolicies.php, line: 291
+# File: src/App/Action/GTA/MultiPolicies.php, line: 296
+# File: src/App/Action/GTA/MultiPolicies.php, line: 298
+# File: src/App/Action/GTA/MultiPolicies.php, line: 303
 # File: src/App/Action/GTA/Policies.php, line: 268
 # File: src/App/Action/GTA/Policies.php, line: 273
 # File: src/App/Action/GTA/Policies.php, line: 295
@@ -799,6 +813,7 @@ msgstr ""
 msgid "you will be charged"
 msgstr ""
 #
+# File: src/App/Action/GTA/MultiPolicies.php, line: 291
 # File: src/App/Action/GTA/Policies.php, line: 295
 # File: src/App/Action/GTA/SearchHotels.php, line: 535
 msgid "From today to"
