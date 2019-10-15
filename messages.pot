@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-15 12:36-0400\n"
+"POT-Creation-Date: 2019-10-15 13:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -804,6 +804,8 @@ msgstr ""
 msgid "Adult(s)"
 msgstr ""
 #
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 510
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 511
 # File: src/App/Action/PricelineNet/Policies.php, line: 515
 # File: src/App/Action/PricelineNet/Policies.php, line: 516
 msgid "This booking is Non-Refundable and cannot be amended or modified. If you fail to arrive or cancel the booking, no refund will be given."
