@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-15 18:00-0400\n"
+"POT-Creation-Date: 2019-10-15 18:25-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,6 +129,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 421
 # File: src/App/Action/DOTW/Policies.php, line: 425
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 458
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 740
 # File: src/App/Action/DOTW/SearchHotels.php, line: 719
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 416
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 428
@@ -225,6 +226,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 338
 # File: src/App/Action/DOTW/Policies.php, line: 342
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 403
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 685
 # File: src/App/Action/DOTW/SearchHotels.php, line: 664
 # File: src/App/Action/GTA/MultiPolicies.php, line: 296
 # File: src/App/Action/GTA/MultiPolicies.php, line: 298
@@ -263,6 +265,7 @@ msgstr ""
 # File: src/App/Action/Travco/SearchHotels.php, line: 289
 # File: src/App/Action/DOTW/Hotel.php, line: 589
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 367
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 649
 # File: src/App/Action/DOTW/SearchHotels.php, line: 628
 # File: src/App/Action/Priceline/Hotel.php, line: 274
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 132
@@ -381,6 +384,7 @@ msgstr ""
 #
 # File: src/App/Action/Bonotel/Hotel.php, line: 649
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 481
+# File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 675
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 651
 # File: src/App/Action/Tourico/Hotel.php, line: 363
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 167
@@ -467,7 +471,7 @@ msgstr ""
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 125
 # File: src/App/Action/Roomer/SearchHotels.php, line: 384
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
-# File: src/App/Action/GoGlobal/SearchHotelsMulti.php, line: 273
+# File: src/App/Action/GoGlobal/SearchHotelsMulti.php, line: 288
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 273
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 421
 # File: src/App/Action/Palace/SearchHotels.php, line: 415
@@ -480,6 +484,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 335
 # File: src/App/Action/DOTW/Policies.php, line: 339
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 400
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 682
 # File: src/App/Action/DOTW/SearchHotels.php, line: 661
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 233
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1291
@@ -723,6 +728,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 343
 # File: src/App/Action/DOTW/Policies.php, line: 347
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 408
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 690
 # File: src/App/Action/DOTW/SearchHotels.php, line: 669
 msgid "Cancel from today to"
 msgstr ""
@@ -731,6 +737,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 412
 # File: src/App/Action/DOTW/Policies.php, line: 416
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 449
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 731
 # File: src/App/Action/DOTW/SearchHotels.php, line: 710
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1327
 msgid "Amend is restricted"
@@ -740,6 +747,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 415
 # File: src/App/Action/DOTW/Policies.php, line: 419
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 452
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 734
 # File: src/App/Action/DOTW/SearchHotels.php, line: 713
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1330
 msgid "Cancel is restricted"
@@ -749,6 +757,7 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 418
 # File: src/App/Action/DOTW/Policies.php, line: 422
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 455
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 737
 # File: src/App/Action/DOTW/SearchHotels.php, line: 716
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1333
 msgid "Free cancellation"
