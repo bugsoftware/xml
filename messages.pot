@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-15 19:05-0400\n"
+"POT-Creation-Date: 2019-10-16 05:12-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1248,9 +1248,9 @@ msgstr ""
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 362
 # File: console/src/Xml/Command/Reservations.php, line: 843
 # File: console/src/Xml/Command/Reservations.php, line: 2023
-# File: console/src/Xml/Command/Reservations.php, line: 3762
-# File: console/src/Xml/Command/Reservations.php, line: 3763
 # File: console/src/Xml/Command/Reservations.php, line: 3766
+# File: console/src/Xml/Command/Reservations.php, line: 3767
+# File: console/src/Xml/Command/Reservations.php, line: 3770
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 442
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 443
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
@@ -1336,7 +1336,7 @@ msgstr ""
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 362
-# File: console/src/Xml/Command/Reservations.php, line: 3766
+# File: console/src/Xml/Command/Reservations.php, line: 3770
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 525
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 272
@@ -1367,7 +1367,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 753
 # File: console/src/Xml/Command/Reservations.php, line: 962
 # File: console/src/Xml/Command/Reservations.php, line: 2099
-# File: console/src/Xml/Command/Reservations.php, line: 4181
+# File: console/src/Xml/Command/Reservations.php, line: 4185
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
 msgid "Process Credit Card"
 msgstr ""
@@ -1376,7 +1376,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 697
 # File: console/src/Xml/Command/Reservations.php, line: 755
 # File: console/src/Xml/Command/Reservations.php, line: 964
-# File: console/src/Xml/Command/Reservations.php, line: 4183
+# File: console/src/Xml/Command/Reservations.php, line: 4187
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
 msgid "Credit Card Number not Available"
 msgstr ""
@@ -1754,34 +1754,34 @@ msgstr ""
 msgid "Reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3564
-# File: console/src/Xml/Command/Reservations.php, line: 3565
-# File: console/src/Xml/Command/Reservations.php, line: 3617
+# File: console/src/Xml/Command/Reservations.php, line: 3568
+# File: console/src/Xml/Command/Reservations.php, line: 3569
+# File: console/src/Xml/Command/Reservations.php, line: 3621
 msgid "Reset Password"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3568
+# File: console/src/Xml/Command/Reservations.php, line: 3572
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3569
+# File: console/src/Xml/Command/Reservations.php, line: 3573
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3616
+# File: console/src/Xml/Command/Reservations.php, line: 3620
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 273
 msgid "Go"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3621
+# File: console/src/Xml/Command/Reservations.php, line: 3625
 msgid "Your password has been successfully changed. Please log in with this temporary password and make sure to change your password into a new permanent password."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3622
+# File: console/src/Xml/Command/Reservations.php, line: 3626
 msgid "Your new password is"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3703
+# File: console/src/Xml/Command/Reservations.php, line: 3707
 msgid "Welcome"
 msgstr ""
 #
