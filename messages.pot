@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-20 13:28-0400\n"
+"POT-Creation-Date: 2019-10-20 16:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 msgid "Room Only"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 218
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 216
 # File: src/App/Action/RoomsXML/Policies.php, line: 222
 # File: src/App/Action/AIO/Policies.php, line: 496
 # File: src/App/Action/ActionTravel/Policies.php, line: 445
@@ -73,28 +73,28 @@ msgstr ""
 msgid "Price has changed. Please review booking."
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 259
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 257
 # File: src/App/Action/RoomsXML/Policies.php, line: 262
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 170
 msgid "Cancellation Policy:"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 264
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 262
 # File: src/App/Action/RoomsXML/Policies.php, line: 267
 msgid "Cancellation Penaly:"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 264
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 262
 # File: src/App/Action/RoomsXML/Policies.php, line: 267
 msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 266
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 264
 # File: src/App/Action/RoomsXML/Policies.php, line: 269
 msgid "Charge:"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 270
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 268
 # File: src/App/Action/RoomsXML/Policies.php, line: 273
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
@@ -137,15 +137,15 @@ msgstr ""
 # File: src/App/Action/Riu/MultiPolicies.php, line: 631
 # File: src/App/Action/Riu/Policies.php, line: 635
 # File: src/App/Action/HotelsPro/Hotel.php, line: 331
-# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 273
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 274
 # File: src/App/Action/HotelsPro/Policies.php, line: 329
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 258
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 284
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
-# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 417
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 418
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 470
 # File: src/App/Action/Sandos/SearchHotels.php, line: 444
@@ -711,12 +711,12 @@ msgstr ""
 # File: src/App/Action/Coming2/SearchHotels.php, line: 298
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 426
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 428
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 326
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 328
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 327
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 329
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 183
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 185
-# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 453
-# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 455
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 454
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 456
 msgid "Package Rate"
 msgstr ""
 #
@@ -958,20 +958,20 @@ msgstr ""
 msgid "Fuel:"
 msgstr ""
 #
-# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 264
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 265
 # File: src/App/Action/HotelsPro/Policies.php, line: 320
 msgid "This is a non refundable offer. You will be charged full amount of the booking."
 msgstr ""
 #
-# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 273
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 274
 # File: src/App/Action/HotelsPro/Policies.php, line: 329
 msgid "if cancelled on and after"
 msgstr ""
 #
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 284
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
-# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 417
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 418
 msgid "if charged after"
 msgstr ""
 #
