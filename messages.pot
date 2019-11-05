@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-05 06:43-0500\n"
+"POT-Creation-Date: 2019-11-05 09:31-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,8 +117,8 @@ msgstr ""
 # File: src/App/Action/Abreu/Policies.php, line: 377
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 472
 # File: src/App/Action/Ocean/SearchHotels.php, line: 446
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 514
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 518
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 513
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 517
 # File: src/App/Action/Tourico/Policies.php, line: 500
 # File: src/App/Action/Tourico/Policies.php, line: 504
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 444
@@ -536,64 +536,64 @@ msgstr ""
 msgid "of total booking"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 445
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 444
 # File: src/App/Action/Tourico/Policies.php, line: 431
 # File: src/App/Action/Direct/SearchHotels.php, line: 105
 # File: src/App/Action/Direct/SearchHotels.php, line: 119
 msgid "days"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 478
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 477
 # File: src/App/Action/Tourico/Policies.php, line: 464
 msgid "before checkin date"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 482
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 481
 # File: src/App/Action/Tourico/Policies.php, line: 468
 msgid "after booking is made"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 487
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 486
 # File: src/App/Action/Tourico/Policies.php, line: 473
 # File: src/App/Action/Direct/SearchHotels.php, line: 112
 msgid "night"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 489
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 488
 # File: src/App/Action/Tourico/Policies.php, line: 475
 # File: src/App/Action/Direct/SearchHotels.php, line: 114
 msgid "nights"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 493
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 492
 # File: src/App/Action/Tourico/Policies.php, line: 479
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 msgid "full stay"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 496
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 495
 # File: src/App/Action/Tourico/Policies.php, line: 482
 msgid "percentage"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 514
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 513
 # File: src/App/Action/Tourico/Policies.php, line: 500
 # File: src/App/Action/Travco/Policies.php, line: 229
 # File: src/App/Action/Travco/Policies.php, line: 231
 msgid "if"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 514
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 513
 # File: src/App/Action/Tourico/Policies.php, line: 500
 msgid "No show"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 514
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 513
 # File: src/App/Action/Tourico/Policies.php, line: 500
 msgid " - No show means that the guest did not cancel the reservation and did not stay at the hotel during the reserved period of time"
 msgstr ""
 #
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 517
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 516
 # File: src/App/Action/Tourico/Policies.php, line: 503
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 # File: src/App/Action/Direct/SearchHotels.php, line: 109
@@ -898,7 +898,7 @@ msgstr ""
 msgid "days before pick up"
 msgstr ""
 #
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 283
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 297
 # File: src/App/Action/GoGlobal/Policies.php, line: 290
 msgid "Cancellation deadline is"
 msgstr ""
