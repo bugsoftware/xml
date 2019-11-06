@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-06 09:32-0500\n"
+"POT-Creation-Date: 2019-11-06 09:41-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,7 +63,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/Policies.php, line: 445
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 218
 # File: src/App/Action/Travellanda/Policies.php, line: 209
-# File: src/App/Action/W2M/MultiPolicies.php, line: 443
+# File: src/App/Action/W2M/MultiPolicies.php, line: 440
 # File: src/App/Action/W2M/Policies.php, line: 430
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 527
 # File: src/App/Action/DOTW/Policies.php, line: 524
@@ -198,8 +198,8 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 379
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
-# File: src/App/Action/W2M/MultiPolicies.php, line: 369
-# File: src/App/Action/W2M/MultiPolicies.php, line: 371
+# File: src/App/Action/W2M/MultiPolicies.php, line: 366
+# File: src/App/Action/W2M/MultiPolicies.php, line: 368
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/W2M/Policies.php, line: 358
 # File: src/App/Action/EETGlobal/Policies.php, line: 380
@@ -209,7 +209,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/Policies.php, line: 377
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
-# File: src/App/Action/W2M/MultiPolicies.php, line: 369
+# File: src/App/Action/W2M/MultiPolicies.php, line: 366
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/EETGlobal/Policies.php, line: 380
 msgid "until the start date of travel"
@@ -220,7 +220,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
 # File: src/App/Action/Travelplan/Policies.php, line: 200
-# File: src/App/Action/W2M/MultiPolicies.php, line: 371
+# File: src/App/Action/W2M/MultiPolicies.php, line: 368
 # File: src/App/Action/W2M/Policies.php, line: 358
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 494
 # File: src/App/Action/DOTW/Hotel.php, line: 625
@@ -247,7 +247,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/Policies.php, line: 384
 # File: src/App/Action/ActionTravel/Policies.php, line: 379
-# File: src/App/Action/W2M/MultiPolicies.php, line: 376
+# File: src/App/Action/W2M/MultiPolicies.php, line: 373
 # File: src/App/Action/W2M/Policies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 387
 msgid "of expenses"
