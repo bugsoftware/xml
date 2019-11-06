@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-06 09:50-0500\n"
+"POT-Creation-Date: 2019-11-06 10:37-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -472,7 +472,7 @@ msgstr ""
 # File: src/App/Action/Travelplan/Policies.php, line: 198
 # File: src/App/Action/Travco/Policies.php, line: 238
 # File: src/App/Action/Enterprise/Policies.php, line: 458
-# File: src/App/Action/Roomer/HotelParallelParse.php, line: 125
+# File: src/App/Action/Roomer/HotelParallelParse.php, line: 127
 # File: src/App/Action/Roomer/SearchHotels.php, line: 384
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
 # File: src/App/Action/GoGlobal/SearchHotelsMulti.php, line: 288
@@ -883,8 +883,8 @@ msgstr ""
 msgid "Adult(s)"
 msgstr ""
 #
-# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 510
-# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 511
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 524
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 525
 # File: src/App/Action/PricelineNet/Policies.php, line: 515
 # File: src/App/Action/PricelineNet/Policies.php, line: 516
 msgid "This booking is Non-Refundable and cannot be amended or modified. If you fail to arrive or cancel the booking, no refund will be given."
