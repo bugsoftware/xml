@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-11 10:28-0500\n"
+"POT-Creation-Date: 2019-11-11 12:04-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,6 +132,7 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 458
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 740
 # File: src/App/Action/DOTW/SearchHotels.php, line: 719
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 167
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 416
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 428
 # File: src/App/Action/Riu/MultiPolicies.php, line: 631
@@ -710,6 +711,8 @@ msgid "if cancelled between"
 msgstr ""
 #
 # File: src/App/Action/Coming2/SearchHotels.php, line: 298
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 185
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 187
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 426
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 428
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 327
@@ -766,6 +769,14 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 716
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1333
 msgid "Free cancellation"
+msgstr ""
+#
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 167
+# File: src/App/Action/Hotelbeds/Hotel.php, line: 408
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
+# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 418
+msgid "if charged after"
 msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 243
@@ -967,13 +978,6 @@ msgstr ""
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 288
 # File: src/App/Action/HotelsPro/Policies.php, line: 329
 msgid "if cancelled on and after"
-msgstr ""
-#
-# File: src/App/Action/Hotelbeds/Hotel.php, line: 408
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
-# File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 418
-msgid "if charged after"
 msgstr ""
 #
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
