@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-12 09:46-0500\n"
+"POT-Creation-Date: 2019-11-12 15:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -472,7 +472,7 @@ msgstr ""
 # File: src/App/Action/Travelplan/Policies.php, line: 198
 # File: src/App/Action/Travco/Policies.php, line: 238
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 390
-# File: src/App/Action/Enterprise/Policies.php, line: 458
+# File: src/App/Action/Enterprise/Policies.php, line: 461
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 127
 # File: src/App/Action/Roomer/SearchHotels.php, line: 384
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
@@ -891,11 +891,11 @@ msgstr ""
 msgid "This booking is Non-Refundable and cannot be amended or modified. If you fail to arrive or cancel the booking, no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Enterprise/Policies.php, line: 462
+# File: src/App/Action/Enterprise/Policies.php, line: 465
 msgid "day before pick up"
 msgstr ""
 #
-# File: src/App/Action/Enterprise/Policies.php, line: 464
+# File: src/App/Action/Enterprise/Policies.php, line: 467
 msgid "days before pick up"
 msgstr ""
 #
