@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 14:06-0500\n"
+"POT-Creation-Date: 2019-11-25 15:39-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,6 +53,7 @@ msgstr ""
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 184
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 377
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 352
+# File: src/App/Action/EETGlobal/SearchHotelsMulti.php, line: 374
 # File: src/App/Action/EETGlobal/SearchHotels.php, line: 350
 # File: src/App/language/languages.php, line: 6
 msgid "Room Only"
@@ -69,6 +70,7 @@ msgstr ""
 # File: src/App/Action/W2M/Policies.php, line: 430
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 527
 # File: src/App/Action/DOTW/Policies.php, line: 524
+# File: src/App/Action/EETGlobal/MultiPolicies.php, line: 434
 # File: src/App/Action/EETGlobal/Policies.php, line: 499
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 255
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 89
@@ -207,6 +209,8 @@ msgstr ""
 # File: src/App/Action/W2M/MultiPolicies.php, line: 368
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/W2M/Policies.php, line: 358
+# File: src/App/Action/EETGlobal/MultiPolicies.php, line: 360
+# File: src/App/Action/EETGlobal/MultiPolicies.php, line: 362
 # File: src/App/Action/EETGlobal/Policies.php, line: 380
 # File: src/App/Action/EETGlobal/Policies.php, line: 382
 msgid "Cancelling from"
@@ -217,6 +221,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
 # File: src/App/Action/W2M/MultiPolicies.php, line: 366
 # File: src/App/Action/W2M/Policies.php, line: 356
+# File: src/App/Action/EETGlobal/MultiPolicies.php, line: 360
 # File: src/App/Action/EETGlobal/Policies.php, line: 380
 msgid "until the start date of travel"
 msgstr ""
@@ -244,6 +249,7 @@ msgstr ""
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 496
 # File: src/App/Action/GTA/SearchHotels.php, line: 540
 # File: src/App/Action/GTA/SearchHotels.php, line: 542
+# File: src/App/Action/EETGlobal/MultiPolicies.php, line: 362
 # File: src/App/Action/EETGlobal/Policies.php, line: 382
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 233
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1294
@@ -257,6 +263,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/Policies.php, line: 379
 # File: src/App/Action/W2M/MultiPolicies.php, line: 373
 # File: src/App/Action/W2M/Policies.php, line: 363
+# File: src/App/Action/EETGlobal/MultiPolicies.php, line: 367
 # File: src/App/Action/EETGlobal/Policies.php, line: 387
 msgid "of expenses"
 msgstr ""
