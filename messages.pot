@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-25 11:43-0500\n"
+"POT-Creation-Date: 2019-11-25 11:46-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,7 +59,7 @@ msgstr ""
 #
 # File: src/App/Action/RoomsXML/MultiPolicies.php, line: 231
 # File: src/App/Action/RoomsXML/Policies.php, line: 222
-# File: src/App/Action/AIO/MultiPolicies.php, line: 440
+# File: src/App/Action/AIO/MultiPolicies.php, line: 434
 # File: src/App/Action/AIO/Policies.php, line: 496
 # File: src/App/Action/ActionTravel/Policies.php, line: 445
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 218
@@ -196,8 +196,8 @@ msgstr ""
 msgid "if cancelled after"
 msgstr ""
 #
-# File: src/App/Action/AIO/MultiPolicies.php, line: 366
-# File: src/App/Action/AIO/MultiPolicies.php, line: 368
+# File: src/App/Action/AIO/MultiPolicies.php, line: 360
+# File: src/App/Action/AIO/MultiPolicies.php, line: 362
 # File: src/App/Action/AIO/Policies.php, line: 377
 # File: src/App/Action/AIO/Policies.php, line: 379
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
@@ -211,7 +211,7 @@ msgstr ""
 msgid "Cancelling from"
 msgstr ""
 #
-# File: src/App/Action/AIO/MultiPolicies.php, line: 366
+# File: src/App/Action/AIO/MultiPolicies.php, line: 360
 # File: src/App/Action/AIO/Policies.php, line: 377
 # File: src/App/Action/ActionTravel/Policies.php, line: 372
 # File: src/App/Action/W2M/MultiPolicies.php, line: 366
@@ -220,7 +220,7 @@ msgstr ""
 msgid "until the start date of travel"
 msgstr ""
 #
-# File: src/App/Action/AIO/MultiPolicies.php, line: 368
+# File: src/App/Action/AIO/MultiPolicies.php, line: 362
 # File: src/App/Action/AIO/Policies.php, line: 379
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
@@ -251,7 +251,7 @@ msgstr ""
 msgid "to"
 msgstr ""
 #
-# File: src/App/Action/AIO/MultiPolicies.php, line: 373
+# File: src/App/Action/AIO/MultiPolicies.php, line: 367
 # File: src/App/Action/AIO/Policies.php, line: 384
 # File: src/App/Action/ActionTravel/Policies.php, line: 379
 # File: src/App/Action/W2M/MultiPolicies.php, line: 373
