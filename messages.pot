@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-24 17:20-0500\n"
+"POT-Creation-Date: 2019-11-25 05:27-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1423,7 +1423,13 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 983
+# File: console/src/Xml/Command/Sendvoucher.php, line: 994
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
+msgid "Invoice"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sendvoucher.php, line: 996
 # File: console/src/Xml/Command/Sendmessage.php, line: 259
 msgid "Travel Confirmation"
 msgstr ""
@@ -2415,11 +2421,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 442
 msgid "Drivers:"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
-# File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
-msgid "Invoice"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 37
