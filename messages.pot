@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-04 17:30-0500\n"
+"POT-Creation-Date: 2019-12-05 11:50-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,8 +72,8 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 524
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 434
 # File: src/App/Action/EETGlobal/Policies.php, line: 499
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 255
-# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 89
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 316
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 151
 msgid "Price has changed. Please review booking."
 msgstr ""
 #
@@ -146,9 +146,9 @@ msgstr ""
 # File: src/App/Action/HotelsPro/Policies.php, line: 329
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 272
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 333
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
-# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 168
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 420
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
@@ -188,9 +188,9 @@ msgstr ""
 # File: src/App/Action/Ocean/SearchHotels.php, line: 450
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 446
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 448
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 272
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 333
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
-# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 106
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 168
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 472
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 474
