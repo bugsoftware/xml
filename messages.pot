@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-09 14:32-0500\n"
+"POT-Creation-Date: 2019-12-09 17:15-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -701,6 +701,7 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 526
 # File: src/App/Action/Expedia/SearchHotels.php, line: 502
 # File: src/App/Action/Expedia/SearchHotels.php, line: 504
+# File: src/App/Action/Agoda/SearchHotels.php, line: 359
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 213
 msgid "and"
 msgstr ""
@@ -788,6 +789,20 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 716
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1333
 msgid "Free cancellation"
+msgstr ""
+#
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 265
+# File: src/App/Action/Agoda/SearchHotels.php, line: 574
+msgid "Included"
+msgstr ""
+#
+# File: src/App/Action/Agoda/SearchHotels.php, line: 469
+# File: src/App/Action/Agoda/SearchHotels.php, line: 474
+msgid "fee"
+msgstr ""
+#
+# File: src/App/Action/Agoda/SearchHotels.php, line: 578
+msgid "Includes"
 msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 243
