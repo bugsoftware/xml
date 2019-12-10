@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 11:00-0500\n"
+"POT-Creation-Date: 2019-12-10 13:14-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -120,7 +120,7 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
-# File: src/App/Action/Abreu/Policies.php, line: 377
+# File: src/App/Action/Abreu/Policies.php, line: 392
 # File: src/App/Action/Jactravel/Policies.php, line: 351
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 472
 # File: src/App/Action/Ocean/SearchHotels.php, line: 446
@@ -183,7 +183,7 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 475
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 446
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 448
-# File: src/App/Action/Abreu/Policies.php, line: 377
+# File: src/App/Action/Abreu/Policies.php, line: 392
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 476
 # File: src/App/Action/Ocean/SearchHotels.php, line: 448
@@ -398,8 +398,8 @@ msgstr ""
 msgid "day(s) after confirmation would incur"
 msgstr ""
 #
-# File: src/App/Action/Abreu/Policies.php, line: 366
-# File: src/App/Action/Abreu/Policies.php, line: 367
+# File: src/App/Action/Abreu/Policies.php, line: 381
+# File: src/App/Action/Abreu/Policies.php, line: 382
 msgid "This is a non refundable booking"
 msgstr ""
 #
@@ -1154,12 +1154,12 @@ msgstr ""
 # File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 276
 # File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 277
 # File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 280
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 443
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 444
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 447
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 521
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 522
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 441
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 442
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 445
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 519
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 520
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 523
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 284
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 285
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 288
@@ -1339,8 +1339,8 @@ msgstr ""
 # File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2195
 # File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 392
 # File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 280
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 447
-# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 445
+# File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 523
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 288
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 366
 # File: console/src/Xml/Command/Infinitas/CreateHotel.php, line: 275
