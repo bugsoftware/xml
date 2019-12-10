@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 14:51-0500\n"
+"POT-Creation-Date: 2019-12-10 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -133,7 +133,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 # File: src/App/Action/Direct/SearchHotels.php, line: 109
 # File: src/App/Action/Direct/SearchHotels.php, line: 121
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 99
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 119
 # File: src/App/Action/DOTW/Hotel.php, line: 667
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 429
 # File: src/App/Action/DOTW/Policies.php, line: 426
@@ -697,7 +697,7 @@ msgstr ""
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 205
 # File: src/App/Action/Expedia/Policies.php, line: 194
 # File: src/App/Action/Expedia/Policies.php, line: 196
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 99
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 119
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 524
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 526
 # File: src/App/Action/Expedia/SearchHotels.php, line: 502
@@ -728,7 +728,7 @@ msgstr ""
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 99
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 119
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
 msgid "if cancelled between"
 msgstr ""
