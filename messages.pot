@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-10 13:14-0500\n"
+"POT-Creation-Date: 2019-12-10 13:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,6 +66,7 @@ msgstr ""
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 896
 # File: src/App/Action/Getaroom/Policies.php, line: 887
 # File: src/App/Action/ActionTravel/Policies.php, line: 445
+# File: src/App/Action/Abreu/Policies.php, line: 428
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 218
 # File: src/App/Action/Travellanda/Policies.php, line: 209
 # File: src/App/Action/W2M/MultiPolicies.php, line: 440
@@ -120,7 +121,7 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
-# File: src/App/Action/Abreu/Policies.php, line: 392
+# File: src/App/Action/Abreu/Policies.php, line: 464
 # File: src/App/Action/Jactravel/Policies.php, line: 351
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 472
 # File: src/App/Action/Ocean/SearchHotels.php, line: 446
@@ -183,7 +184,7 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 475
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 446
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 448
-# File: src/App/Action/Abreu/Policies.php, line: 392
+# File: src/App/Action/Abreu/Policies.php, line: 464
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 476
 # File: src/App/Action/Ocean/SearchHotels.php, line: 448
@@ -398,8 +399,8 @@ msgstr ""
 msgid "day(s) after confirmation would incur"
 msgstr ""
 #
-# File: src/App/Action/Abreu/Policies.php, line: 381
-# File: src/App/Action/Abreu/Policies.php, line: 382
+# File: src/App/Action/Abreu/Policies.php, line: 453
+# File: src/App/Action/Abreu/Policies.php, line: 454
 msgid "This is a non refundable booking"
 msgstr ""
 #
