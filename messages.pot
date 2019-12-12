@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-12 15:29-0500\n"
+"POT-Creation-Date: 2019-12-12 16:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,6 +75,8 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 524
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 497
 # File: src/App/Action/EETGlobal/Policies.php, line: 561
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 337
+# File: src/App/Action/HotelsPro/Policies.php, line: 332
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 316
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 151
 msgid "Price has changed. Please review booking."
@@ -112,7 +114,7 @@ msgstr ""
 # File: src/App/Action/Riu/MultiPolicies.php, line: 631
 # File: src/App/Action/Riu/Policies.php, line: 635
 # File: src/App/Action/HotelsPro/Hotel.php, line: 331
-# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
+# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 189
 # File: src/App/Action/Majestic/Policies.php, line: 499
 msgid "if cancelled on or after"
 msgstr ""
@@ -145,9 +147,9 @@ msgstr ""
 # File: src/App/Action/Riu/MultiPolicies.php, line: 631
 # File: src/App/Action/Riu/Policies.php, line: 635
 # File: src/App/Action/HotelsPro/Hotel.php, line: 331
-# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 290
-# File: src/App/Action/HotelsPro/Policies.php, line: 286
-# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 147
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 365
+# File: src/App/Action/HotelsPro/Policies.php, line: 360
+# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 189
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 333
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
@@ -718,7 +720,7 @@ msgstr ""
 #
 # File: src/App/Action/HotelDO/SearchHotels.php, line: 983
 # File: src/App/Action/HotelsPro/Hotel.php, line: 284
-# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 100
+# File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 142
 # File: src/App/Action/HotelsPro/SearchHotelsMulti.php, line: 330
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 299
 # File: src/App/Action/MikiTravel/Hotel.php, line: 419
@@ -1005,13 +1007,13 @@ msgstr ""
 msgid "Fuel:"
 msgstr ""
 #
-# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 281
-# File: src/App/Action/HotelsPro/Policies.php, line: 277
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 356
+# File: src/App/Action/HotelsPro/Policies.php, line: 351
 msgid "This is a non refundable offer. You will be charged full amount of the booking."
 msgstr ""
 #
-# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 290
-# File: src/App/Action/HotelsPro/Policies.php, line: 286
+# File: src/App/Action/HotelsPro/MultiPolicies.php, line: 365
+# File: src/App/Action/HotelsPro/Policies.php, line: 360
 msgid "if cancelled on and after"
 msgstr ""
 #
