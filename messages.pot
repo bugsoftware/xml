@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-19 09:10-0500\n"
+"POT-Creation-Date: 2019-12-19 09:22-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1036,32 +1036,41 @@ msgstr ""
 msgid "NOTE: Cancellation time is based on timezone destination"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 432
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 398
+msgid "Cancel on or from"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 398
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
+msgid "charge"
+msgstr ""
+#
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 440
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 796
 msgid "Private Transfer"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 434
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 442
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 798
 msgid "Bus Transfer"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 436
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 444
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 800
 msgid "Unknown Transfer"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 441
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 449
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 805
 msgid "Terminal to Terminal"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 443
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 451
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 807
 msgid "Transfer from pickup to destination"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 445
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 453
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 809
 msgid "Return transfer from the destination to the pickup"
 msgstr ""
@@ -1114,10 +1123,6 @@ msgstr ""
 #
 # File: translate-dummy.php, line: 3
 msgid "Includes Resort Fee"
-msgstr ""
-#
-# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
-msgid "charge"
 msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
