@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-23 07:09-0500\n"
+"POT-Creation-Date: 2019-12-24 05:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -533,46 +533,46 @@ msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 204
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 206
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 203
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 205
-# File: src/App/Action/Expedia/Policies.php, line: 194
-# File: src/App/Action/Expedia/Policies.php, line: 196
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 524
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 526
-# File: src/App/Action/Expedia/SearchHotels.php, line: 502
-# File: src/App/Action/Expedia/SearchHotels.php, line: 504
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 214
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 216
+# File: src/App/Action/Expedia/Policies.php, line: 205
+# File: src/App/Action/Expedia/Policies.php, line: 207
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 535
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
+# File: src/App/Action/Expedia/SearchHotels.php, line: 513
+# File: src/App/Action/Expedia/SearchHotels.php, line: 515
 msgid "Cancel between"
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 204
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 206
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 203
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 205
-# File: src/App/Action/Expedia/Policies.php, line: 194
-# File: src/App/Action/Expedia/Policies.php, line: 196
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 214
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 216
+# File: src/App/Action/Expedia/Policies.php, line: 205
+# File: src/App/Action/Expedia/Policies.php, line: 207
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 119
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 524
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 526
-# File: src/App/Action/Expedia/SearchHotels.php, line: 502
-# File: src/App/Action/Expedia/SearchHotels.php, line: 504
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 535
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
+# File: src/App/Action/Expedia/SearchHotels.php, line: 513
+# File: src/App/Action/Expedia/SearchHotels.php, line: 515
 # File: src/App/Action/Agoda/SearchHotels.php, line: 359
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 213
 msgid "and"
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 204
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 203
-# File: src/App/Action/Expedia/Policies.php, line: 194
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 524
-# File: src/App/Action/Expedia/SearchHotels.php, line: 502
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 214
+# File: src/App/Action/Expedia/Policies.php, line: 205
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 535
+# File: src/App/Action/Expedia/SearchHotels.php, line: 513
 msgid "night charge"
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 206
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 205
-# File: src/App/Action/Expedia/Policies.php, line: 196
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 526
-# File: src/App/Action/Expedia/SearchHotels.php, line: 504
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 216
+# File: src/App/Action/Expedia/Policies.php, line: 207
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
+# File: src/App/Action/Expedia/SearchHotels.php, line: 515
 msgid "nights charge"
 msgstr ""
 #
@@ -738,10 +738,10 @@ msgstr ""
 msgid "Special Offer"
 msgstr ""
 #
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 523
-# File: src/App/Action/Expedia/Policies.php, line: 518
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
-# File: src/App/Action/Expedia/SearchHotels.php, line: 515
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 534
+# File: src/App/Action/Expedia/Policies.php, line: 529
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 548
+# File: src/App/Action/Expedia/SearchHotels.php, line: 526
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
