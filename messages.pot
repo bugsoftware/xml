@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-09 17:50-0500\n"
+"POT-Creation-Date: 2020-01-09 17:56-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,6 +146,7 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 458
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 740
 # File: src/App/Action/DOTW/SearchHotels.php, line: 719
+# File: src/App/Action/Youtravel/MultiPolicies.php, line: 230
 # File: src/App/Action/Youtravel/Policies.php, line: 222
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 471
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 444
@@ -758,6 +759,8 @@ msgstr ""
 # File: src/App/Action/Expedia/Policies.php, line: 529
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 548
 # File: src/App/Action/Expedia/SearchHotels.php, line: 526
+# File: src/App/Action/Youtravel/MultiPolicies.php, line: 263
+# File: src/App/Action/Youtravel/MultiPolicies.php, line: 264
 # File: src/App/Action/Youtravel/Policies.php, line: 250
 # File: src/App/Action/Youtravel/Policies.php, line: 251
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
@@ -934,6 +937,7 @@ msgstr ""
 msgid "Child sharing existing bedding"
 msgstr ""
 #
+# File: src/App/Action/Youtravel/MultiPolicies.php, line: 230
 # File: src/App/Action/Youtravel/Policies.php, line: 222
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
 msgid "if charged on or after"
