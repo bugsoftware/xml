@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-09 11:50-0500\n"
+"POT-Creation-Date: 2020-01-09 12:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,7 +146,7 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 458
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 740
 # File: src/App/Action/DOTW/SearchHotels.php, line: 719
-# File: src/App/Action/Youtravel/Policies.php, line: 201
+# File: src/App/Action/Youtravel/Policies.php, line: 222
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 471
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 444
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
@@ -758,8 +758,8 @@ msgstr ""
 # File: src/App/Action/Expedia/Policies.php, line: 529
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 548
 # File: src/App/Action/Expedia/SearchHotels.php, line: 526
-# File: src/App/Action/Youtravel/Policies.php, line: 229
-# File: src/App/Action/Youtravel/Policies.php, line: 230
+# File: src/App/Action/Youtravel/Policies.php, line: 250
+# File: src/App/Action/Youtravel/Policies.php, line: 251
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -934,7 +934,7 @@ msgstr ""
 msgid "Child sharing existing bedding"
 msgstr ""
 #
-# File: src/App/Action/Youtravel/Policies.php, line: 201
+# File: src/App/Action/Youtravel/Policies.php, line: 222
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 285
 msgid "if charged on or after"
 msgstr ""
@@ -1355,9 +1355,9 @@ msgstr ""
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
 # File: console/src/Xml/Command/Reservations.php, line: 844
 # File: console/src/Xml/Command/Reservations.php, line: 2024
-# File: console/src/Xml/Command/Reservations.php, line: 3953
-# File: console/src/Xml/Command/Reservations.php, line: 3954
 # File: console/src/Xml/Command/Reservations.php, line: 3957
+# File: console/src/Xml/Command/Reservations.php, line: 3958
+# File: console/src/Xml/Command/Reservations.php, line: 3961
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 447
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
@@ -1449,7 +1449,7 @@ msgstr ""
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
-# File: console/src/Xml/Command/Reservations.php, line: 3957
+# File: console/src/Xml/Command/Reservations.php, line: 3961
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 529
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
@@ -1481,7 +1481,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 754
 # File: console/src/Xml/Command/Reservations.php, line: 963
 # File: console/src/Xml/Command/Reservations.php, line: 2100
-# File: console/src/Xml/Command/Reservations.php, line: 4372
+# File: console/src/Xml/Command/Reservations.php, line: 4376
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
 msgid "Process Credit Card"
 msgstr ""
@@ -1490,7 +1490,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 698
 # File: console/src/Xml/Command/Reservations.php, line: 756
 # File: console/src/Xml/Command/Reservations.php, line: 965
-# File: console/src/Xml/Command/Reservations.php, line: 4374
+# File: console/src/Xml/Command/Reservations.php, line: 4378
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
 msgid "Credit Card Number not Available"
 msgstr ""
@@ -1874,60 +1874,60 @@ msgstr ""
 msgid "Reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3755
-# File: console/src/Xml/Command/Reservations.php, line: 3756
-# File: console/src/Xml/Command/Reservations.php, line: 3808
+# File: console/src/Xml/Command/Reservations.php, line: 3759
+# File: console/src/Xml/Command/Reservations.php, line: 3760
+# File: console/src/Xml/Command/Reservations.php, line: 3812
 msgid "Reset Password"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3759
+# File: console/src/Xml/Command/Reservations.php, line: 3763
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3760
+# File: console/src/Xml/Command/Reservations.php, line: 3764
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3807
+# File: console/src/Xml/Command/Reservations.php, line: 3811
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 273
 msgid "Go"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3812
+# File: console/src/Xml/Command/Reservations.php, line: 3816
 msgid "Your password has been successfully changed. Please log in with this temporary password and make sure to change your password into a new permanent password."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3813
+# File: console/src/Xml/Command/Reservations.php, line: 3817
 msgid "Your new password is"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 3894
+# File: console/src/Xml/Command/Reservations.php, line: 3898
 msgid "Welcome"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4707
-# File: console/src/Xml/Command/Reservations.php, line: 4708
-# File: console/src/Xml/Command/Reservations.php, line: 4741
+# File: console/src/Xml/Command/Reservations.php, line: 4711
+# File: console/src/Xml/Command/Reservations.php, line: 4712
+# File: console/src/Xml/Command/Reservations.php, line: 4745
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4712
+# File: console/src/Xml/Command/Reservations.php, line: 4716
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4713
+# File: console/src/Xml/Command/Reservations.php, line: 4717
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4740
+# File: console/src/Xml/Command/Reservations.php, line: 4744
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4745
+# File: console/src/Xml/Command/Reservations.php, line: 4749
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4746
+# File: console/src/Xml/Command/Reservations.php, line: 4750
 msgid "Reservation Reference:"
 msgstr ""
 #
