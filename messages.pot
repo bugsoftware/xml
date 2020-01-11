@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-11 13:41-0500\n"
+"POT-Creation-Date: 2020-01-11 14:09-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1524,13 +1524,13 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1019
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1037
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1021
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1039
 # File: console/src/Xml/Command/Sendmessage.php, line: 259
 msgid "Travel Confirmation"
 msgstr ""
@@ -2046,6 +2046,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 80
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 76
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 466
 msgid "Adults:"
 msgstr ""
 #
@@ -2056,6 +2057,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 85
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 81
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 470
 msgid "Children:"
 msgstr ""
 #
@@ -2094,6 +2096,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 117
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 314
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 435
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 481
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 216
 msgid "Subtotal"
 msgstr ""
@@ -2185,8 +2188,8 @@ msgid "Discount"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 175
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 417
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 508
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 416
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 491
 msgid "Total"
 msgstr ""
 #
@@ -2323,6 +2326,7 @@ msgid "Mandatory fees paid at the counter"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 349
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 447
 msgid "Activity info"
 msgstr ""
 #
@@ -2330,36 +2334,36 @@ msgstr ""
 msgid "Date:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 390
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 389
 msgid "Service Charge"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 397
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 396
 msgid "Rewards Earned"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 404
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 403
 msgid "Rewards Used"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 411
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 410
 msgid "Rewards Discount"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 423
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 422
 msgid "Travel Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 423
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 422
 msgid "We recommend the purchase of a travel protection plan to help protect you and your travel investment against the unexpected. Even with the most meticulous planning, travel can be full of surprises. With travel protection, you can relax and enjoy your trip with some peace of mind knowing that you've got coverage in place for unforseen circumstances."
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 423
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 422
 msgid "The travel protection plan we recommend may be purchased with your travel package or at any time prior to making your final payment."
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 426
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 516
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 425
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 499
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 139
 msgid "Contact info"
 msgstr ""
@@ -2506,6 +2510,10 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 418
 msgid "Drivers:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 463
+msgid "Travelers:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 37
