@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-13 05:56-0500\n"
+"POT-Creation-Date: 2020-01-13 06:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2046,7 +2046,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 80
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 76
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 465
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 479
 msgid "Adults:"
 msgstr ""
 #
@@ -2057,7 +2057,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 85
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 81
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 469
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 483
 msgid "Children:"
 msgstr ""
 #
@@ -2096,7 +2096,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 117
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 314
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 435
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 480
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 494
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 216
 msgid "Subtotal"
 msgstr ""
@@ -2189,7 +2189,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 175
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 416
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 490
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 504
 msgid "Total"
 msgstr ""
 #
@@ -2363,7 +2363,7 @@ msgid "The travel protection plan we recommend may be purchased with your travel
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 425
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 498
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 512
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 139
 msgid "Contact info"
 msgstr ""
@@ -2439,10 +2439,12 @@ msgid "Taxes & Fees"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 191
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 457
 msgid "Voucher"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 198
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 464
 msgid "Confirmation"
 msgstr ""
 #
@@ -2512,7 +2514,7 @@ msgstr ""
 msgid "Drivers:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 462
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 476
 msgid "Travelers:"
 msgstr ""
 #
