@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-16 06:16-0500\n"
+"POT-Creation-Date: 2020-01-16 07:05-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2533,6 +2533,10 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 518
 msgid "To:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 562
+msgid "This is a pre-paid reservation. If the customer's length of stay matches the itinerary above, there is no charge to the customer. Depending on the property, you may incur other charges that we do not collect. Examples of fees not included in the prices are hotel resort fees, hotel energy surcharges, parking fees, pet fees, and incidental charges (such as room service, mini-bar, gratuities). These amounts will be collected from you directly by the hotel unless otherwise indicated at the time of booking."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 37
