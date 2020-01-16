@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-16 17:07-0500\n"
+"POT-Creation-Date: 2020-01-16 18:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -322,6 +322,35 @@ msgstr ""
 msgid "discount"
 msgstr ""
 #
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 304
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 306
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 220
+# File: src/App/Action/Travellanda/Policies.php, line: 211
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
+msgid "Cancel on or after"
+msgstr ""
+#
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 304
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
+# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
+msgid "charge"
+msgstr ""
+#
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 452
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 534
+# File: src/App/Action/Expedia/Policies.php, line: 529
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 548
+# File: src/App/Action/Expedia/SearchHotels.php, line: 526
+# File: src/App/Action/Youtravel/MultiPolicies.php, line: 263
+# File: src/App/Action/Youtravel/MultiPolicies.php, line: 264
+# File: src/App/Action/Youtravel/Policies.php, line: 250
+# File: src/App/Action/Youtravel/Policies.php, line: 251
+msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
+msgstr ""
+#
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 467
 # File: src/App/Action/Convencional/SearchHotels.php, line: 433
 # File: src/App/Action/Tourico/Hotel.php, line: 356
@@ -598,14 +627,6 @@ msgstr ""
 #
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 220
 # File: src/App/Action/Travellanda/Policies.php, line: 211
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
-# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
-msgid "Cancel on or after"
-msgstr ""
-#
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 220
-# File: src/App/Action/Travellanda/Policies.php, line: 211
 msgid "and pay"
 msgstr ""
 #
@@ -751,17 +772,6 @@ msgstr ""
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 190
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 419
 msgid "Special Offer"
-msgstr ""
-#
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 534
-# File: src/App/Action/Expedia/Policies.php, line: 529
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 548
-# File: src/App/Action/Expedia/SearchHotels.php, line: 526
-# File: src/App/Action/Youtravel/MultiPolicies.php, line: 263
-# File: src/App/Action/Youtravel/MultiPolicies.php, line: 264
-# File: src/App/Action/Youtravel/Policies.php, line: 250
-# File: src/App/Action/Youtravel/Policies.php, line: 251
-msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 119
@@ -1059,12 +1069,6 @@ msgstr ""
 #
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
 msgid "NOTE: Cancellation time is based on timezone destination"
-msgstr ""
-#
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
-# File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
-msgid "charge"
 msgstr ""
 #
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 441
