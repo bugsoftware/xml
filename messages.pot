@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-29 07:51-0500\n"
+"POT-Creation-Date: 2020-01-29 08:20-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -806,8 +806,8 @@ msgstr ""
 msgid "at"
 msgstr ""
 #
-# File: src/App/Action/HotelDO/HotelParallelParse.php, line: 850
-# File: src/App/Action/HotelDO/SearchHotels.php, line: 991
+# File: src/App/Action/HotelDO/HotelParallelParse.php, line: 740
+# File: src/App/Action/HotelDO/SearchHotels.php, line: 894
 # File: src/App/Action/HotelsPro/Hotel.php, line: 284
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 142
 # File: src/App/Action/HotelsPro/SearchHotelsMulti.php, line: 339
@@ -1327,6 +1327,10 @@ msgstr ""
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 294
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 295
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 298
+# File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 466
+# File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 467
+# File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 470
+# File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 485
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 311
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 312
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 373
@@ -1478,6 +1482,7 @@ msgstr ""
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 333
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 410
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 298
+# File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 470
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 315
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 377
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 454
@@ -1675,6 +1680,13 @@ msgstr ""
 msgid "None"
 msgstr ""
 #
+# File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 438
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 548
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1080
+# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1503
+msgid "Unknown Exception Error"
+msgstr ""
+#
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 274
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 315
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 234
@@ -1689,12 +1701,6 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 623
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 msgid "Cancellation Exception Error"
-msgstr ""
-#
-# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 548
-# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1080
-# File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1503
-msgid "Unknown Exception Error"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 845
