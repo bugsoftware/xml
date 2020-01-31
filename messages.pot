@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-31 08:49-0500\n"
+"POT-Creation-Date: 2020-01-31 09:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1586,13 +1586,13 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1129
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1132
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1131
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1134
 # File: console/src/Xml/Command/Sendmessage.php, line: 259
 msgid "Travel Confirmation"
 msgstr ""
@@ -2250,7 +2250,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 157
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 185
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 328
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 443
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 520
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 104
@@ -2564,7 +2563,7 @@ msgstr ""
 msgid "Booking ref"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 324
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 321
 msgid "Pax Name:"
 msgstr ""
 #
