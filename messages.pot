@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-03 12:45-0500\n"
+"POT-Creation-Date: 2020-02-03 15:57-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -280,6 +280,10 @@ msgstr ""
 # File: src/App/Action/GTA/SearchHotels.php, line: 540
 # File: src/App/Action/GTA/SearchHotels.php, line: 542
 # File: src/App/Action/Panamericana/Policies.php, line: 359
+# File: src/App/Action/TBO/Policies.php, line: 241
+# File: src/App/Action/TBO/Policies.php, line: 243
+# File: src/App/Action/TBO/SearchHotels.php, line: 372
+# File: src/App/Action/TBO/SearchHotels.php, line: 374
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 359
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 383
@@ -343,6 +347,10 @@ msgstr ""
 #
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 75
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 359
+# File: src/App/Action/TBO/Policies.php, line: 241
+# File: src/App/Action/TBO/Policies.php, line: 243
+# File: src/App/Action/TBO/SearchHotels.php, line: 372
+# File: src/App/Action/TBO/SearchHotels.php, line: 374
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
@@ -360,6 +368,8 @@ msgstr ""
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 264
 # File: src/App/Action/Youtravel/Policies.php, line: 250
 # File: src/App/Action/Youtravel/Policies.php, line: 251
+# File: src/App/Action/TBO/SearchHotels.php, line: 461
+# File: src/App/Action/TBO/SearchHotels.php, line: 462
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 448
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
@@ -485,8 +495,6 @@ msgstr ""
 # File: src/App/Action/TBO/MultiPolicies.php, line: 528
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 243
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 244
-# File: src/App/Action/TBO/SearchHotels.php, line: 458
-# File: src/App/Action/TBO/SearchHotels.php, line: 459
 msgid "This is a non refundable booking"
 msgstr ""
 #
@@ -1023,6 +1031,18 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 357
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 125
 msgid "or similar"
+msgstr ""
+#
+# File: src/App/Action/TBO/Policies.php, line: 241
+# File: src/App/Action/TBO/Policies.php, line: 243
+# File: src/App/Action/TBO/SearchHotels.php, line: 372
+# File: src/App/Action/TBO/SearchHotels.php, line: 374
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 207
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 259
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 303
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 176
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 203
+msgid "From"
 msgstr ""
 #
 # File: src/App/Action/PricelineNet/Hotel.php, line: 317
@@ -2294,14 +2314,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 203
 msgid "Cabin"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 207
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 259
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 303
-# File: console/src/Xml/Command/Templates/invoice.phtml, line: 176
-# File: console/src/Xml/Command/Templates/invoice.phtml, line: 203
-msgid "From"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 216
