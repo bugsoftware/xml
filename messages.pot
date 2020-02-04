@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-03 16:57-0500\n"
+"POT-Creation-Date: 2020-02-04 04:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -337,8 +337,8 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 361
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 220
 # File: src/App/Action/Travellanda/Policies.php, line: 211
-# File: src/App/Action/AvisBudget/SearchCars.php, line: 472
-# File: src/App/Action/AvisBudget/SearchCars.php, line: 473
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 481
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 482
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
@@ -1009,16 +1009,20 @@ msgstr ""
 msgid "if charged on or after"
 msgstr ""
 #
-# File: src/App/Action/AvisBudget/SearchCars.php, line: 380
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 379
+msgid "Taxes and surcharges payable at the counter"
+msgstr ""
+#
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 389
 msgid "Included in the rate"
 msgstr ""
 #
-# File: src/App/Action/AvisBudget/SearchCars.php, line: 382
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 391
 msgid "Payable at the counter"
 msgstr ""
 #
-# File: src/App/Action/AvisBudget/SearchCars.php, line: 472
-# File: src/App/Action/AvisBudget/SearchCars.php, line: 473
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 481
+# File: src/App/Action/AvisBudget/SearchCars.php, line: 482
 msgid "charge full amount"
 msgstr ""
 #
