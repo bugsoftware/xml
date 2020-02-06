@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-05 15:27-0500\n"
+"POT-Creation-Date: 2020-02-06 08:09-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,7 +52,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 393
 # File: src/App/Action/Lotsofhotels/SearchHotels.php, line: 443
 # File: src/App/Action/PricelineNet/Hotel.php, line: 344
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 184
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 182
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 377
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 352
 # File: src/App/Action/EETGlobal/SearchHotelsMulti.php, line: 374
@@ -72,8 +72,8 @@ msgstr ""
 # File: src/App/Action/Abreu/Policies.php, line: 433
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 218
 # File: src/App/Action/Travellanda/Policies.php, line: 209
-# File: src/App/Action/W2M/MultiPolicies.php, line: 512
-# File: src/App/Action/W2M/Policies.php, line: 492
+# File: src/App/Action/W2M/MultiPolicies.php, line: 510
+# File: src/App/Action/W2M/Policies.php, line: 490
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 527
 # File: src/App/Action/DOTW/Policies.php, line: 524
 # File: src/App/Action/Panamericana/Policies.php, line: 493
@@ -229,10 +229,10 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 380
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
 # File: src/App/Action/ActionTravel/Policies.php, line: 376
+# File: src/App/Action/W2M/MultiPolicies.php, line: 374
 # File: src/App/Action/W2M/MultiPolicies.php, line: 376
-# File: src/App/Action/W2M/MultiPolicies.php, line: 378
+# File: src/App/Action/W2M/Policies.php, line: 354
 # File: src/App/Action/W2M/Policies.php, line: 356
-# File: src/App/Action/W2M/Policies.php, line: 358
 # File: src/App/Action/Panamericana/Policies.php, line: 357
 # File: src/App/Action/Panamericana/Policies.php, line: 359
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 357
@@ -247,8 +247,8 @@ msgstr ""
 # File: src/App/Action/AIO/MultiPolicies.php, line: 361
 # File: src/App/Action/AIO/Policies.php, line: 378
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
-# File: src/App/Action/W2M/MultiPolicies.php, line: 376
-# File: src/App/Action/W2M/Policies.php, line: 356
+# File: src/App/Action/W2M/MultiPolicies.php, line: 374
+# File: src/App/Action/W2M/Policies.php, line: 354
 # File: src/App/Action/Panamericana/Policies.php, line: 357
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 357
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 361
@@ -262,8 +262,8 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
 # File: src/App/Action/Travelplan/Policies.php, line: 200
-# File: src/App/Action/W2M/MultiPolicies.php, line: 378
-# File: src/App/Action/W2M/Policies.php, line: 358
+# File: src/App/Action/W2M/MultiPolicies.php, line: 376
+# File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 538
 # File: src/App/Action/DOTW/Hotel.php, line: 625
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 346
@@ -297,8 +297,8 @@ msgstr ""
 # File: src/App/Action/AIO/MultiPolicies.php, line: 368
 # File: src/App/Action/AIO/Policies.php, line: 385
 # File: src/App/Action/ActionTravel/Policies.php, line: 381
-# File: src/App/Action/W2M/MultiPolicies.php, line: 383
-# File: src/App/Action/W2M/Policies.php, line: 363
+# File: src/App/Action/W2M/MultiPolicies.php, line: 381
+# File: src/App/Action/W2M/Policies.php, line: 361
 # File: src/App/Action/Panamericana/Policies.php, line: 364
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 364
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 368
@@ -387,7 +387,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 383
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 395
 # File: src/App/Action/PricelineNet/Hotel.php, line: 346
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 186
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 184
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 379
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 354
 # File: src/App/language/languages.php, line: 7
@@ -427,7 +427,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 392
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 404
 # File: src/App/Action/PricelineNet/Hotel.php, line: 341
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 181
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 179
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 374
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 349
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 437
@@ -584,7 +584,7 @@ msgstr ""
 #
 # File: src/App/Action/Travelplan/Policies.php, line: 198
 # File: src/App/Action/Travco/Policies.php, line: 238
-# File: src/App/Action/Priceline/MultiPolicies.php, line: 390
+# File: src/App/Action/Priceline/MultiPolicies.php, line: 388
 # File: src/App/Action/Enterprise/Policies.php, line: 478
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 127
 # File: src/App/Action/Roomer/SearchHotels.php, line: 384
@@ -1063,10 +1063,10 @@ msgstr ""
 msgid "Adult(s)"
 msgstr ""
 #
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 523
 # File: src/App/Action/PricelineNet/MultiPolicies.php, line: 524
-# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 525
+# File: src/App/Action/PricelineNet/Policies.php, line: 514
 # File: src/App/Action/PricelineNet/Policies.php, line: 515
-# File: src/App/Action/PricelineNet/Policies.php, line: 516
 msgid "This booking is Non-Refundable and cannot be amended or modified. If you fail to arrive or cancel the booking, no refund will be given."
 msgstr ""
 #
