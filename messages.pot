@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-11 13:54-0500\n"
+"POT-Creation-Date: 2020-02-11 14:35-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,6 +48,7 @@ msgstr ""
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 159
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 338
 # File: src/App/Action/Priceline/SearchHotels.php, line: 312
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 194
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 381
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 393
 # File: src/App/Action/Lotsofhotels/SearchHotels.php, line: 443
@@ -114,6 +115,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
 # File: src/App/Action/Shared/AddActivity.php, line: 28
 # File: src/App/Action/Coming2/SearchHotels.php, line: 288
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 251
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
 # File: src/App/Action/Riu/MultiPolicies.php, line: 631
@@ -153,6 +155,7 @@ msgstr ""
 # File: src/App/Action/Youtravel/Policies.php, line: 222
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 471
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 444
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 251
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
 # File: src/App/Action/Riu/MultiPolicies.php, line: 631
@@ -385,6 +388,7 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 336
 # File: src/App/Action/Tourico/SearchHotels.php, line: 400
 # File: src/App/Action/Tourico/SearchHotels.php, line: 402
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 196
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 383
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 395
 # File: src/App/Action/PricelineNet/Hotel.php, line: 346
@@ -397,6 +401,7 @@ msgstr ""
 #
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 470
 # File: src/App/Action/Convencional/SearchHotels.php, line: 436
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 199
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 386
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 398
 # File: src/App/language/languages.php, line: 8
@@ -405,6 +410,7 @@ msgstr ""
 #
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 473
 # File: src/App/Action/Convencional/SearchHotels.php, line: 439
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 202
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 389
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 401
 # File: src/App/language/languages.php, line: 9
@@ -425,6 +431,7 @@ msgstr ""
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 157
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 336
 # File: src/App/Action/Priceline/SearchHotels.php, line: 310
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 205
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 392
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 404
 # File: src/App/Action/PricelineNet/Hotel.php, line: 341
@@ -439,6 +446,7 @@ msgstr ""
 #
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 499
 # File: src/App/Action/Convencional/SearchHotels.php, line: 465
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 247
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 414
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 426
 msgid "This is a non refundable booking. You will be charged full stay of the booking."
@@ -513,6 +521,7 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotels.php, line: 411
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 614
 # File: src/App/Action/GTA/SearchHotels.php, line: 656
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 158
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 369
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 381
 msgid "On Request Rate"
