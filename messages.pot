@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-12 09:40-0500\n"
+"POT-Creation-Date: 2020-02-12 09:49-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -265,6 +265,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
 # File: src/App/Action/Travelplan/Policies.php, line: 200
+# File: src/App/Action/SunHotels/Policies.php, line: 225
 # File: src/App/Action/W2M/MultiPolicies.php, line: 376
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 538
@@ -682,6 +683,19 @@ msgstr ""
 msgid "nights charge"
 msgstr ""
 #
+# File: src/App/Action/SunHotels/Policies.php, line: 225
+# File: src/App/Action/TBO/Policies.php, line: 241
+# File: src/App/Action/TBO/Policies.php, line: 243
+# File: src/App/Action/TBO/SearchHotels.php, line: 409
+# File: src/App/Action/TBO/SearchHotels.php, line: 411
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 207
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 260
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 304
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 176
+# File: console/src/Xml/Command/Templates/invoice.phtml, line: 203
+msgid "From"
+msgstr ""
+#
 # File: src/App/Action/Jactravel/Policies.php, line: 344
 msgid "Special Conditions For Arrival On"
 msgstr ""
@@ -1052,18 +1066,6 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 358
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 125
 msgid "or similar"
-msgstr ""
-#
-# File: src/App/Action/TBO/Policies.php, line: 241
-# File: src/App/Action/TBO/Policies.php, line: 243
-# File: src/App/Action/TBO/SearchHotels.php, line: 409
-# File: src/App/Action/TBO/SearchHotels.php, line: 411
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 207
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 260
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 304
-# File: console/src/Xml/Command/Templates/invoice.phtml, line: 176
-# File: console/src/Xml/Command/Templates/invoice.phtml, line: 203
-msgid "From"
 msgstr ""
 #
 # File: src/App/Action/PricelineNet/Hotel.php, line: 317
