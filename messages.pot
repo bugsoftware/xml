@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-12 13:31-0500\n"
+"POT-Creation-Date: 2020-02-12 13:44-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -265,7 +265,8 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
 # File: src/App/Action/Travelplan/Policies.php, line: 200
-# File: src/App/Action/SunHotels/Policies.php, line: 232
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 286
+# File: src/App/Action/SunHotels/Policies.php, line: 252
 # File: src/App/Action/W2M/MultiPolicies.php, line: 376
 # File: src/App/Action/W2M/Policies.php, line: 356
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 538
@@ -632,8 +633,8 @@ msgstr ""
 msgid "pay"
 msgstr ""
 #
-# File: src/App/Action/SunHotels/MultiPolicies.php, line: 204
-# File: src/App/Action/SunHotels/MultiPolicies.php, line: 206
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 177
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 179
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 214
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 216
 # File: src/App/Action/Expedia/Policies.php, line: 205
@@ -647,8 +648,8 @@ msgstr ""
 msgid "Cancel between"
 msgstr ""
 #
-# File: src/App/Action/SunHotels/MultiPolicies.php, line: 204
-# File: src/App/Action/SunHotels/MultiPolicies.php, line: 206
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 177
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 179
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 214
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 216
 # File: src/App/Action/Expedia/Policies.php, line: 205
@@ -665,7 +666,7 @@ msgstr ""
 msgid "and"
 msgstr ""
 #
-# File: src/App/Action/SunHotels/MultiPolicies.php, line: 204
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 177
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 214
 # File: src/App/Action/Expedia/Policies.php, line: 205
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 535
@@ -674,7 +675,7 @@ msgstr ""
 msgid "night charge"
 msgstr ""
 #
-# File: src/App/Action/SunHotels/MultiPolicies.php, line: 206
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 179
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 216
 # File: src/App/Action/Expedia/Policies.php, line: 207
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
@@ -683,7 +684,8 @@ msgstr ""
 msgid "nights charge"
 msgstr ""
 #
-# File: src/App/Action/SunHotels/Policies.php, line: 232
+# File: src/App/Action/SunHotels/MultiPolicies.php, line: 286
+# File: src/App/Action/SunHotels/Policies.php, line: 252
 # File: src/App/Action/TBO/Policies.php, line: 241
 # File: src/App/Action/TBO/Policies.php, line: 243
 # File: src/App/Action/TBO/SearchHotels.php, line: 409
