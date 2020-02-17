@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-16 11:24-0500\n"
+"POT-Creation-Date: 2020-02-17 09:59-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -524,8 +524,8 @@ msgstr ""
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 244
 # File: src/App/Action/AIC/SearchHotels.php, line: 352
 # File: src/App/Action/AIC/SearchHotels.php, line: 353
-# File: src/App/Action/Palace/HotelParallelParse.php, line: 225
-# File: src/App/Action/Palace/HotelParallelParse.php, line: 226
+# File: src/App/Action/Palace/HotelParallelParse.php, line: 202
+# File: src/App/Action/Palace/HotelParallelParse.php, line: 203
 msgid "This is a non refundable booking"
 msgstr ""
 #
@@ -1270,19 +1270,19 @@ msgstr ""
 msgid "of your stay if cancelled on or after"
 msgstr ""
 #
-# File: src/App/Action/Palace/HotelParallel.php, line: 192
+# File: src/App/Action/Palace/HotelParallel.php, line: 187
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 225
 # File: src/App/Action/Palace/SearchHotels.php, line: 218
 msgid "1 King Bed"
 msgstr ""
 #
-# File: src/App/Action/Palace/HotelParallel.php, line: 194
+# File: src/App/Action/Palace/HotelParallel.php, line: 189
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 227
 # File: src/App/Action/Palace/SearchHotels.php, line: 220
 msgid "2 Double Beds"
 msgstr ""
 #
-# File: src/App/Action/Palace/HotelParallelParse.php, line: 231
+# File: src/App/Action/Palace/HotelParallelParse.php, line: 208
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 425
 # File: src/App/Action/Palace/SearchHotels.php, line: 419
 msgid "day(s) prior to arrival"
