@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-17 11:08-0500\n"
+"POT-Creation-Date: 2020-02-17 13:18-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -647,6 +647,11 @@ msgstr ""
 # File: src/App/Action/Travelplan/Policies.php, line: 203
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 236
 msgid "pay"
+msgstr ""
+#
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 223
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
+msgid "This is a non refundable booking."
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 177
