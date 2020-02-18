@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-18 06:08-0500\n"
+"POT-Creation-Date: 2020-02-18 06:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -516,8 +516,6 @@ msgstr ""
 # File: src/App/Action/RTS/HotelParallelParse.php, line: 592
 # File: src/App/Action/RTS/SearchHotels.php, line: 830
 # File: src/App/Action/RTS/SearchHotels.php, line: 831
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 134
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 135
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 178
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 179
 # File: src/App/Action/TBO/MultiPolicies.php, line: 527
@@ -653,6 +651,8 @@ msgstr ""
 #
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 223
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 134
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 135
 msgid "This is a non refundable booking."
 msgstr ""
 #
