@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-18 08:50-0500\n"
+"POT-Creation-Date: 2020-02-18 08:56-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -532,7 +532,7 @@ msgstr ""
 # File: src/App/Action/Bonotel/Hotel.php, line: 649
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 481
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 675
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 651
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 672
 # File: src/App/Action/Tourico/Hotel.php, line: 363
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 167
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 313
@@ -624,7 +624,7 @@ msgstr ""
 # File: src/App/Action/Roomer/SearchHotels.php, line: 384
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
 # File: src/App/Action/GoGlobal/SearchHotelsMulti.php, line: 288
-# File: src/App/Action/GoGlobal/SearchHotels.php, line: 293
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 289
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 421
 # File: src/App/Action/Palace/SearchHotels.php, line: 415
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 231
@@ -889,7 +889,7 @@ msgstr ""
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 331
 # File: src/App/Action/MikiTravel/Hotel.php, line: 419
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 190
-# File: src/App/Action/MikiTravel/SearchHotels.php, line: 419
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 418
 msgid "Special Offer"
 msgstr ""
 #
