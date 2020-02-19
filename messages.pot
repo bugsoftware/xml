@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-19 11:27-0500\n"
+"POT-Creation-Date: 2020-02-19 11:59-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -177,6 +177,7 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 420
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 232
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 470
 # File: src/App/Action/Sandos/SearchHotels.php, line: 444
 # File: src/App/Action/Majestic/Policies.php, line: 499
@@ -227,6 +228,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 168
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 234
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 236
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 472
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/Sandos/SearchHotels.php, line: 446
@@ -1285,13 +1288,13 @@ msgstr ""
 msgid "of your stay if cancelled on or after"
 msgstr ""
 #
-# File: src/App/Action/Palace/HotelParallel.php, line: 187
+# File: src/App/Action/Palace/HotelParallel.php, line: 186
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 225
 # File: src/App/Action/Palace/SearchHotels.php, line: 218
 msgid "1 King Bed"
 msgstr ""
 #
-# File: src/App/Action/Palace/HotelParallel.php, line: 189
+# File: src/App/Action/Palace/HotelParallel.php, line: 188
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 227
 # File: src/App/Action/Palace/SearchHotels.php, line: 220
 msgid "2 Double Beds"
