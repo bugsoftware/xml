@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-21 05:16-0500\n"
+"POT-Creation-Date: 2020-02-21 06:41-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -328,6 +328,7 @@ msgstr ""
 msgid "of expenses"
 msgstr ""
 #
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1266
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1516
 # File: src/App/Action/Omnibees/SearchHotels.php, line: 1490
 # File: src/App/Action/Travellanda/Hotel.php, line: 248
@@ -352,6 +353,15 @@ msgstr ""
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 311
 # File: src/App/Action/Priceline/SearchHotels.php, line: 306
 msgid "discount"
+msgstr ""
+#
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1277
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 223
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 134
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 135
+# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
+msgid "This is a non refundable booking."
 msgstr ""
 #
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 75
@@ -660,14 +670,6 @@ msgstr ""
 # File: src/App/Action/Travelplan/Policies.php, line: 203
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 236
 msgid "pay"
-msgstr ""
-#
-# File: src/App/Action/Palladium/HotelParallelParse.php, line: 223
-# File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 134
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 135
-# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
-msgid "This is a non refundable booking."
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 177
