@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-21 10:06-0500\n"
+"POT-Creation-Date: 2020-02-21 10:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -116,6 +116,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
 # File: src/App/Action/Shared/AddActivity.php, line: 28
+# File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 288
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
@@ -361,6 +362,7 @@ msgstr ""
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 134
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 135
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
+# File: src/App/Action/Coming2/HotelParallelParse.php, line: 180
 msgid "This is a non refundable booking."
 msgstr ""
 #
@@ -753,6 +755,7 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 241
 # File: src/App/Action/Travellanda/Policies.php, line: 246
 # File: src/App/Action/Shared/AddActivity.php, line: 28
+# File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 288
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
@@ -916,6 +919,7 @@ msgstr ""
 msgid "if cancelled between"
 msgstr ""
 #
+# File: src/App/Action/Coming2/HotelParallelParse.php, line: 94
 # File: src/App/Action/Coming2/SearchHotels.php, line: 298
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 426
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 428
@@ -928,10 +932,12 @@ msgstr ""
 msgid "Package Rate"
 msgstr ""
 #
+# File: src/App/Action/Coming2/HotelParallelParse.php, line: 97
 # File: src/App/Action/Coming2/SearchHotels.php, line: 301
 msgid "Senior Rate"
 msgstr ""
 #
+# File: src/App/Action/Coming2/HotelParallelParse.php, line: 100
 # File: src/App/Action/Coming2/SearchHotels.php, line: 304
 msgid "Residents Rate"
 msgstr ""
