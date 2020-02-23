@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-23 05:51-0500\n"
+"POT-Creation-Date: 2020-02-23 06:20-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,6 +42,7 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 464
 # File: src/App/Action/Direct/SearchHotels.php, line: 266
 # File: src/App/Action/Direct/SearchHotels.php, line: 1291
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 379
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 623
 # File: src/App/Action/GTA/SearchHotels.php, line: 687
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 445
@@ -307,6 +308,8 @@ msgstr ""
 # File: src/App/Action/GTA/MultiPolicies.php, line: 298
 # File: src/App/Action/GTA/Policies.php, line: 300
 # File: src/App/Action/GTA/Policies.php, line: 302
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 252
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 254
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 494
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 496
 # File: src/App/Action/GTA/SearchHotels.php, line: 540
@@ -587,6 +590,7 @@ msgstr ""
 # File: src/App/Action/Tourico/Hotel.php, line: 363
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 167
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 313
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 345
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 614
 # File: src/App/Action/GTA/SearchHotels.php, line: 656
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 157
@@ -1028,6 +1032,8 @@ msgstr ""
 # File: src/App/Action/GTA/MultiPolicies.php, line: 257
 # File: src/App/Action/GTA/Policies.php, line: 247
 # File: src/App/Action/GTA/Policies.php, line: 261
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 207
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 217
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 449
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 459
 # File: src/App/Action/GTA/SearchHotels.php, line: 495
@@ -1039,6 +1045,7 @@ msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 250
 # File: src/App/Action/GTA/Policies.php, line: 254
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 212
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 454
 # File: src/App/Action/GTA/SearchHotels.php, line: 500
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 310
@@ -1047,6 +1054,7 @@ msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 250
 # File: src/App/Action/GTA/Policies.php, line: 254
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 212
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 454
 # File: src/App/Action/GTA/SearchHotels.php, line: 500
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 310
@@ -1055,6 +1063,7 @@ msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 260
 # File: src/App/Action/GTA/Policies.php, line: 264
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 219
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 461
 # File: src/App/Action/GTA/SearchHotels.php, line: 507
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 324
@@ -1063,6 +1072,7 @@ msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 264
 # File: src/App/Action/GTA/Policies.php, line: 268
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 222
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 464
 # File: src/App/Action/GTA/SearchHotels.php, line: 510
 # File: console/src/Xml/Command/GTA/CreateHotel.php, line: 327
@@ -1081,6 +1091,12 @@ msgstr ""
 # File: src/App/Action/GTA/Policies.php, line: 300
 # File: src/App/Action/GTA/Policies.php, line: 302
 # File: src/App/Action/GTA/Policies.php, line: 307
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 222
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 226
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 247
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 252
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 254
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 258
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 464
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 468
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 489
@@ -1105,11 +1121,13 @@ msgstr ""
 #
 # File: src/App/Action/GTA/MultiPolicies.php, line: 291
 # File: src/App/Action/GTA/Policies.php, line: 295
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 247
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 489
 # File: src/App/Action/GTA/SearchHotels.php, line: 535
 msgid "From today to"
 msgstr ""
 #
+# File: src/App/Action/GTA/HotelParallelParse.php, line: 191
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 433
 # File: src/App/Action/GTA/SearchHotels.php, line: 479
 msgid "Child sharing existing bedding"
