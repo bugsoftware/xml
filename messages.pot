@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-26 05:22-0500\n"
+"POT-Creation-Date: 2020-02-26 05:34-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -182,7 +182,7 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 283
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 313
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 168
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 168
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 420
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
 # File: src/App/Action/Sandos/HotelParallelParse.php, line: 232
@@ -957,8 +957,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 428
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 343
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 345
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 183
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 185
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 186
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 188
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 456
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 458
 msgid "Package Rate"
@@ -1295,7 +1295,7 @@ msgid "if cancelled on and after"
 msgstr ""
 #
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 165
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 168
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 420
 msgid "if charged after"
 msgstr ""
