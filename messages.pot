@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-26 16:32-0500\n"
+"POT-Creation-Date: 2020-02-26 17:23-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 450
 # File: src/App/Action/Abreu/Policies.php, line: 433
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 218
-# File: src/App/Action/Travellanda/Policies.php, line: 209
+# File: src/App/Action/Travellanda/Policies.php, line: 281
 # File: src/App/Action/W2M/MultiPolicies.php, line: 510
 # File: src/App/Action/W2M/Policies.php, line: 490
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 527
@@ -401,8 +401,15 @@ msgstr ""
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 77
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 359
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 361
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 220
-# File: src/App/Action/Travellanda/Policies.php, line: 211
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 226
+# File: src/App/Action/Travellanda/Policies.php, line: 327
+# File: src/App/Action/Travellanda/Policies.php, line: 329
+# File: src/App/Action/Travellanda/Policies.php, line: 331
+# File: src/App/Action/Travellanda/Policies.php, line: 333
+# File: src/App/Action/Travellanda/Policies.php, line: 339
+# File: src/App/Action/Travellanda/Policies.php, line: 341
+# File: src/App/Action/Travellanda/Policies.php, line: 346
+# File: src/App/Action/Travellanda/Policies.php, line: 348
 # File: src/App/Action/AvisBudget/SearchCars.old.php, line: 514
 # File: src/App/Action/AvisBudget/SearchCars.old.php, line: 515
 # File: src/App/Action/AvisBudget/SearchCars.php, line: 733
@@ -712,6 +719,14 @@ msgid "Cancel from"
 msgstr ""
 #
 # File: src/App/Action/Travelplan/Policies.php, line: 203
+# File: src/App/Action/Travellanda/Policies.php, line: 327
+# File: src/App/Action/Travellanda/Policies.php, line: 329
+# File: src/App/Action/Travellanda/Policies.php, line: 331
+# File: src/App/Action/Travellanda/Policies.php, line: 333
+# File: src/App/Action/Travellanda/Policies.php, line: 339
+# File: src/App/Action/Travellanda/Policies.php, line: 341
+# File: src/App/Action/Travellanda/Policies.php, line: 346
+# File: src/App/Action/Travellanda/Policies.php, line: 348
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 236
 msgid "pay"
 msgstr ""
@@ -751,6 +766,8 @@ msgid "and"
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 177
+# File: src/App/Action/Travellanda/Policies.php, line: 327
+# File: src/App/Action/Travellanda/Policies.php, line: 329
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 214
 # File: src/App/Action/Expedia/Policies.php, line: 205
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 535
@@ -760,6 +777,8 @@ msgid "night charge"
 msgstr ""
 #
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 179
+# File: src/App/Action/Travellanda/Policies.php, line: 331
+# File: src/App/Action/Travellanda/Policies.php, line: 333
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 216
 # File: src/App/Action/Expedia/Policies.php, line: 207
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
@@ -786,17 +805,13 @@ msgstr ""
 msgid "Special Conditions For Arrival On"
 msgstr ""
 #
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 220
-# File: src/App/Action/Travellanda/Policies.php, line: 211
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 226
 msgid "and pay"
 msgstr ""
 #
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 245
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 250
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 255
-# File: src/App/Action/Travellanda/Policies.php, line: 236
-# File: src/App/Action/Travellanda/Policies.php, line: 241
-# File: src/App/Action/Travellanda/Policies.php, line: 246
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 252
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 257
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 262
 # File: src/App/Action/Shared/AddActivity.php, line: 28
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 296
 # File: src/App/Action/Coming2/Policies.php, line: 302
@@ -818,13 +833,21 @@ msgstr ""
 msgid "Pay"
 msgstr ""
 #
-# File: src/App/Action/Travellanda/MultiPolicies.php, line: 250
-# File: src/App/Action/Travellanda/Policies.php, line: 241
+# File: src/App/Action/Travellanda/MultiPolicies.php, line: 257
+# File: src/App/Action/Travellanda/Policies.php, line: 339
+# File: src/App/Action/Travellanda/Policies.php, line: 341
 msgid "of total booking"
 msgstr ""
 #
-# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 149
-# File: src/App/Action/Travellanda/SearchHotels.php, line: 268
+# File: src/App/Action/Travellanda/Policies.php, line: 290
+# File: src/App/Action/Travellanda/Policies.php, line: 293
+msgid "Last day to cancel without penalties is"
+msgstr ""
+#
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 150
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 155
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 269
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 274
 msgid "Cancellation policy deadline is"
 msgstr ""
 #
