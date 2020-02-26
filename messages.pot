@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-26 05:52-0500\n"
+"POT-Creation-Date: 2020-02-26 09:25-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,7 +86,7 @@ msgstr ""
 # File: src/App/Action/EETGlobal/Policies.php, line: 561
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 337
 # File: src/App/Action/HotelsPro/Policies.php, line: 332
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 316
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 317
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 151
 msgid "Price has changed. Please review booking."
 msgstr ""
@@ -178,12 +178,13 @@ msgstr ""
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 189
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 353
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 408
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 333
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 283
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 313
-# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 168
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 168
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 198
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 336
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 367
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 286
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 316
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 179
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 171
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 201
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 420
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
 # File: src/App/Action/Sandos/HotelParallelParse.php, line: 232
@@ -237,9 +238,10 @@ msgstr ""
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 475
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 446
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 448
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 333
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 336
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 367
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
-# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 168
+# File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 179
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
 # File: src/App/Action/Sandos/HotelParallelParse.php, line: 234
 # File: src/App/Action/Sandos/HotelParallelParse.php, line: 236
@@ -956,10 +958,10 @@ msgstr ""
 # File: src/App/Action/Coming2/SearchHotels.php, line: 293
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 426
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 428
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 343
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 345
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 216
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 218
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 346
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 348
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 219
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 221
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 456
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 458
 msgid "Package Rate"
@@ -1137,10 +1139,10 @@ msgstr ""
 #
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 230
 # File: src/App/Action/Youtravel/Policies.php, line: 222
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 283
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 313
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 168
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 198
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 286
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 316
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 171
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 201
 msgid "if charged on or after"
 msgstr ""
 #
