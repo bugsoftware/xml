@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-26 09:42-0500\n"
+"POT-Creation-Date: 2020-02-26 09:52-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,8 @@ msgstr ""
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 448
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 336
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 367
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 214
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 173
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 204
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 510
@@ -738,7 +739,8 @@ msgstr ""
 # File: src/App/Action/Agoda/SearchHotels.php, line: 367
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 191
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 193
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 213
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 219
 msgid "and"
 msgstr ""
 #
@@ -794,8 +796,9 @@ msgstr ""
 # File: src/App/Action/Coming2/Policies.php, line: 302
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 283
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 214
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 217
 # File: src/App/Action/MikiTravel/Hotel.php, line: 269
 # File: src/App/Action/MikiTravel/Hotel.php, line: 271
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 48
@@ -930,8 +933,9 @@ msgstr ""
 #
 # File: src/App/Action/Travco/Policies.php, line: 229
 # File: src/App/Action/Travco/Policies.php, line: 231
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 210
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 214
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 217
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 267
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 315
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 183
@@ -952,7 +956,7 @@ msgid "Special Offer"
 msgstr ""
 #
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 119
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 212
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 217
 msgid "if cancelled between"
 msgstr ""
 #
@@ -1306,7 +1310,8 @@ msgstr ""
 msgid "if charged after"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 225
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 226
 msgid "NOTE: Cancellation time is based on timezone destination"
 msgstr ""
 #
