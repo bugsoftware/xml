@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-27 10:23-0500\n"
+"POT-Creation-Date: 2020-02-27 12:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -401,12 +401,14 @@ msgstr ""
 msgid "This is a non refundable booking."
 msgstr ""
 #
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 75
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 77
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 364
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 366
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 369
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 371
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 80
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 100
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 103
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 105
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 365
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 385
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 388
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 390
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 337
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 339
@@ -435,9 +437,10 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 75
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 364
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 366
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 80
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 100
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 365
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/TBO/Policies.php, line: 241
 # File: src/App/Action/TBO/Policies.php, line: 243
 # File: src/App/Action/TBO/SearchHotels.php, line: 409
@@ -448,8 +451,8 @@ msgstr ""
 msgid "charge"
 msgstr ""
 #
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 207
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 542
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 241
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 561
 # File: src/App/Action/HotelDO/Policies.php, line: 920
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 534
 # File: src/App/Action/Expedia/Policies.php, line: 529
