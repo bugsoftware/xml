@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-27 13:41-0500\n"
+"POT-Creation-Date: 2020-02-27 15:59-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,9 +37,9 @@ msgstr ""
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 164
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 338
 # File: src/App/Action/Tourico/SearchHotels.php, line: 422
-# File: src/App/Action/W2M/Hotel.php, line: 415
+# File: src/App/Action/W2M/Hotel.php, line: 416
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 252
-# File: src/App/Action/W2M/SearchHotels.php, line: 471
+# File: src/App/Action/W2M/SearchHotels.php, line: 543
 # File: src/App/Action/Direct/SearchHotels.php, line: 266
 # File: src/App/Action/Direct/SearchHotels.php, line: 1291
 # File: src/App/Action/GTA/HotelParallelParse.php, line: 381
@@ -273,6 +273,8 @@ msgstr ""
 # File: src/App/Action/W2M/MultiPolicies.php, line: 376
 # File: src/App/Action/W2M/Policies.php, line: 354
 # File: src/App/Action/W2M/Policies.php, line: 356
+# File: src/App/Action/W2M/SearchHotels.php, line: 314
+# File: src/App/Action/W2M/SearchHotels.php, line: 317
 # File: src/App/Action/Panamericana/Policies.php, line: 357
 # File: src/App/Action/Panamericana/Policies.php, line: 359
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 357
@@ -305,13 +307,15 @@ msgstr ""
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 89
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 403
-# File: src/App/Action/Travelplan/Policies.php, line: 388
+# File: src/App/Action/Travelplan/MultiPolicies.php, line: 451
+# File: src/App/Action/Travelplan/Policies.php, line: 433
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 390
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 286
 # File: src/App/Action/SunHotels/Policies.php, line: 252
 # File: src/App/Action/W2M/MultiPolicies.php, line: 376
 # File: src/App/Action/W2M/Policies.php, line: 356
+# File: src/App/Action/W2M/SearchHotels.php, line: 314
+# File: src/App/Action/W2M/SearchHotels.php, line: 317
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 538
 # File: src/App/Action/DOTW/Hotel.php, line: 625
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 346
@@ -350,6 +354,8 @@ msgstr ""
 # File: src/App/Action/ActionTravel/Policies.php, line: 381
 # File: src/App/Action/W2M/MultiPolicies.php, line: 381
 # File: src/App/Action/W2M/Policies.php, line: 361
+# File: src/App/Action/W2M/SearchHotels.php, line: 319
+# File: src/App/Action/W2M/SearchHotels.php, line: 320
 # File: src/App/Action/Panamericana/Policies.php, line: 364
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 364
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 368
@@ -441,6 +447,14 @@ msgstr ""
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 100
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 365
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
+# File: src/App/Action/W2M/SearchHotels.php, line: 319
+# File: src/App/Action/W2M/SearchHotels.php, line: 320
+# File: src/App/Action/W2M/SearchHotels.php, line: 323
+# File: src/App/Action/W2M/SearchHotels.php, line: 324
+# File: src/App/Action/W2M/SearchHotels.php, line: 326
+# File: src/App/Action/W2M/SearchHotels.php, line: 327
+# File: src/App/Action/W2M/SearchHotels.php, line: 352
+# File: src/App/Action/W2M/SearchHotels.php, line: 353
 # File: src/App/Action/TBO/Policies.php, line: 241
 # File: src/App/Action/TBO/Policies.php, line: 243
 # File: src/App/Action/TBO/SearchHotels.php, line: 409
@@ -599,10 +613,10 @@ msgstr ""
 # File: src/App/Action/Abreu/Policies.php, line: 462
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 185
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 186
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 450
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 451
-# File: src/App/Action/Travelplan/Policies.php, line: 435
-# File: src/App/Action/Travelplan/Policies.php, line: 436
+# File: src/App/Action/Travelplan/MultiPolicies.php, line: 498
+# File: src/App/Action/Travelplan/MultiPolicies.php, line: 499
+# File: src/App/Action/Travelplan/Policies.php, line: 480
+# File: src/App/Action/Travelplan/Policies.php, line: 481
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 437
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 438
 # File: src/App/Action/RTS/MultiPolicies.php, line: 512
@@ -713,8 +727,8 @@ msgstr ""
 msgid "N/A"
 msgstr ""
 #
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 401
-# File: src/App/Action/Travelplan/Policies.php, line: 386
+# File: src/App/Action/Travelplan/MultiPolicies.php, line: 449
+# File: src/App/Action/Travelplan/Policies.php, line: 431
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 388
 # File: src/App/Action/Travco/Policies.php, line: 238
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 388
@@ -730,8 +744,8 @@ msgstr ""
 msgid "Non Refundable"
 msgstr ""
 #
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 403
-# File: src/App/Action/Travelplan/Policies.php, line: 388
+# File: src/App/Action/Travelplan/MultiPolicies.php, line: 451
+# File: src/App/Action/Travelplan/Policies.php, line: 433
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 390
 # File: src/App/Action/DOTW/Hotel.php, line: 622
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 343
@@ -745,8 +759,8 @@ msgstr ""
 msgid "Cancel from"
 msgstr ""
 #
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 406
-# File: src/App/Action/Travelplan/Policies.php, line: 391
+# File: src/App/Action/Travelplan/MultiPolicies.php, line: 454
+# File: src/App/Action/Travelplan/Policies.php, line: 436
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 393
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 337
@@ -909,12 +923,16 @@ msgstr ""
 #
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 486
 # File: src/App/Action/Tourico/Policies.php, line: 473
+# File: src/App/Action/W2M/SearchHotels.php, line: 323
+# File: src/App/Action/W2M/SearchHotels.php, line: 324
 # File: src/App/Action/Direct/SearchHotels.php, line: 112
 msgid "night"
 msgstr ""
 #
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 488
 # File: src/App/Action/Tourico/Policies.php, line: 475
+# File: src/App/Action/W2M/SearchHotels.php, line: 326
+# File: src/App/Action/W2M/SearchHotels.php, line: 327
 # File: src/App/Action/Direct/SearchHotels.php, line: 114
 msgid "nights"
 msgstr ""
@@ -953,6 +971,15 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 109
 # File: src/App/Action/Direct/SearchHotels.php, line: 121
 msgid "if cancelled"
+msgstr ""
+#
+# File: src/App/Action/W2M/SearchHotels.php, line: 332
+# File: src/App/Action/W2M/SearchHotels.php, line: 335
+# File: src/App/Action/W2M/SearchHotels.php, line: 338
+# File: src/App/Action/W2M/SearchHotels.php, line: 341
+# File: src/App/Action/W2M/SearchHotels.php, line: 344
+# File: src/App/Action/W2M/SearchHotels.php, line: 347
+msgid "This is the average price of all nights"
 msgstr ""
 #
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1248
