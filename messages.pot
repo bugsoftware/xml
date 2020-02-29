@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-29 12:49-0500\n"
+"POT-Creation-Date: 2020-02-29 13:18-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -455,7 +455,7 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 348
 # File: src/App/Action/Travellanda/Policies.php, line: 372
 # File: src/App/Action/Travellanda/Policies.php, line: 374
-# File: src/App/Action/Agoda/SearchHotels.php, line: 640
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
 # File: src/App/Action/AvisBudget/SearchCars.old.php, line: 514
 # File: src/App/Action/AvisBudget/SearchCars.old.php, line: 515
 # File: src/App/Action/AvisBudget/SearchCars.php, line: 733
@@ -1233,7 +1233,7 @@ msgid "fee"
 msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 318
-# File: src/App/Action/Agoda/SearchHotels.php, line: 676
+# File: src/App/Action/Agoda/SearchHotels.php, line: 724
 msgid "Included"
 msgstr ""
 #
@@ -1259,79 +1259,79 @@ msgid "If you fail to arrive at your hotel or property you will incur in"
 msgstr ""
 #
 # File: src/App/Action/Agoda/SearchHotels.php, line: 560
-# File: src/App/Action/Agoda/SearchHotels.php, line: 584
-# File: src/App/Action/Agoda/SearchHotels.php, line: 586
+# File: src/App/Action/Agoda/SearchHotels.php, line: 585
+# File: src/App/Action/Agoda/SearchHotels.php, line: 587
 msgid "night charge."
 msgstr ""
 #
 # File: src/App/Action/Agoda/SearchHotels.php, line: 562
-# File: src/App/Action/Agoda/SearchHotels.php, line: 590
-# File: src/App/Action/Agoda/SearchHotels.php, line: 592
+# File: src/App/Action/Agoda/SearchHotels.php, line: 591
+# File: src/App/Action/Agoda/SearchHotels.php, line: 593
 msgid "nights charge."
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 570
-# File: src/App/Action/Agoda/SearchHotels.php, line: 572
-# File: src/App/Action/Agoda/SearchHotels.php, line: 576
-# File: src/App/Action/Agoda/SearchHotels.php, line: 578
-# File: src/App/Action/Agoda/SearchHotels.php, line: 584
-# File: src/App/Action/Agoda/SearchHotels.php, line: 586
-# File: src/App/Action/Agoda/SearchHotels.php, line: 590
-# File: src/App/Action/Agoda/SearchHotels.php, line: 592
+# File: src/App/Action/Agoda/SearchHotels.php, line: 571
+# File: src/App/Action/Agoda/SearchHotels.php, line: 573
+# File: src/App/Action/Agoda/SearchHotels.php, line: 577
+# File: src/App/Action/Agoda/SearchHotels.php, line: 579
+# File: src/App/Action/Agoda/SearchHotels.php, line: 585
+# File: src/App/Action/Agoda/SearchHotels.php, line: 587
+# File: src/App/Action/Agoda/SearchHotels.php, line: 591
+# File: src/App/Action/Agoda/SearchHotels.php, line: 593
 msgid "Any cancellation received within"
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 570
+# File: src/App/Action/Agoda/SearchHotels.php, line: 571
 msgid "day prior to the arrival date will be charged for the entire stay."
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 572
+# File: src/App/Action/Agoda/SearchHotels.php, line: 573
 msgid "days prior to the arrival date will be charged for the entire stay."
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 576
+# File: src/App/Action/Agoda/SearchHotels.php, line: 577
 msgid "day prior to the arrival date will incur a charge of "
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 576
-# File: src/App/Action/Agoda/SearchHotels.php, line: 578
+# File: src/App/Action/Agoda/SearchHotels.php, line: 577
+# File: src/App/Action/Agoda/SearchHotels.php, line: 579
 msgid "of the booking value."
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 578
+# File: src/App/Action/Agoda/SearchHotels.php, line: 579
 msgid "days prior to the arrival date will incur a charge of "
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 584
-# File: src/App/Action/Agoda/SearchHotels.php, line: 590
+# File: src/App/Action/Agoda/SearchHotels.php, line: 585
+# File: src/App/Action/Agoda/SearchHotels.php, line: 591
 msgid "day prior to the arrival date will incur in"
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 586
-# File: src/App/Action/Agoda/SearchHotels.php, line: 592
+# File: src/App/Action/Agoda/SearchHotels.php, line: 587
+# File: src/App/Action/Agoda/SearchHotels.php, line: 593
 msgid "days prior to the arrival date will incur in"
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 633
-# File: src/App/Action/Agoda/SearchHotels.php, line: 635
+# File: src/App/Action/Agoda/SearchHotels.php, line: 638
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
 msgid "Cancel before"
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 633
+# File: src/App/Action/Agoda/SearchHotels.php, line: 638
 msgid "without penalties."
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 635
-# File: src/App/Action/Agoda/SearchHotels.php, line: 640
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
 msgid "will incur in"
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 635
-# File: src/App/Action/Agoda/SearchHotels.php, line: 640
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
 msgid "penalty."
 msgstr ""
 #
-# File: src/App/Action/Agoda/SearchHotels.php, line: 680
+# File: src/App/Action/Agoda/SearchHotels.php, line: 728
 msgid "Includes"
 msgstr ""
 #
