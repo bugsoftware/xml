@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-29 18:07-0500\n"
+"POT-Creation-Date: 2020-02-29 18:10-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -793,7 +793,6 @@ msgstr ""
 # File: src/App/Action/Enterprise/Policies.php, line: 478
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 125
 # File: src/App/Action/Roomer/SearchHotels.php, line: 406
-# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
 # File: src/App/Action/GoGlobal/SearchHotelsMulti.php, line: 288
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 421
 # File: src/App/Action/Palace/SearchHotels.php, line: 415
@@ -1234,6 +1233,7 @@ msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 290
 # File: src/App/Action/Agoda/SearchHotels.php, line: 550
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 56
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 288
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
@@ -1342,16 +1342,22 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
 # File: src/App/Action/GoGlobal/Policies.php, line: 304
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 67
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
 msgid "Cancel before"
 msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
 # File: src/App/Action/GoGlobal/Policies.php, line: 304
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 67
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
 msgid "without penalties."
 msgstr ""
@@ -1582,8 +1588,8 @@ msgstr ""
 msgid "days before pick up"
 msgstr ""
 #
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 295
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 297
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 296
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 298
 # File: src/App/Action/GoGlobal/Policies.php, line: 289
 # File: src/App/Action/GoGlobal/Policies.php, line: 291
 msgid "Cancellation deadline is"
