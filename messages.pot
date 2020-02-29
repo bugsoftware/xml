@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-29 17:12-0500\n"
+"POT-Creation-Date: 2020-02-29 18:07-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,8 +131,12 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
-# File: src/App/Action/DidaTravel/Policies.php, line: 375
-# File: src/App/Action/DidaTravel/Policies.php, line: 404
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 375
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 404
+# File: src/App/Action/DidaTravel/Policies.php, line: 371
+# File: src/App/Action/DidaTravel/Policies.php, line: 400
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 58
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 308
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 336
 # File: src/App/Action/Riu/MultiPolicies.php, line: 643
@@ -791,7 +795,6 @@ msgstr ""
 # File: src/App/Action/Roomer/SearchHotels.php, line: 406
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 112
 # File: src/App/Action/GoGlobal/SearchHotelsMulti.php, line: 288
-# File: src/App/Action/GoGlobal/SearchHotels.php, line: 289
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 421
 # File: src/App/Action/Palace/SearchHotels.php, line: 415
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 231
@@ -1231,6 +1234,7 @@ msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 290
 # File: src/App/Action/Agoda/SearchHotels.php, line: 550
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 288
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
@@ -1338,11 +1342,17 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/GoGlobal/Policies.php, line: 302
+# File: src/App/Action/GoGlobal/Policies.php, line: 304
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
 msgid "Cancel before"
 msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
+# File: src/App/Action/GoGlobal/Policies.php, line: 302
+# File: src/App/Action/GoGlobal/Policies.php, line: 304
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
 msgid "without penalties."
 msgstr ""
 #
@@ -1476,8 +1486,12 @@ msgstr ""
 #
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 230
 # File: src/App/Action/Youtravel/Policies.php, line: 222
-# File: src/App/Action/DidaTravel/Policies.php, line: 375
-# File: src/App/Action/DidaTravel/Policies.php, line: 404
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 375
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 404
+# File: src/App/Action/DidaTravel/Policies.php, line: 371
+# File: src/App/Action/DidaTravel/Policies.php, line: 400
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 58
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 308
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 336
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 286
@@ -1570,8 +1584,8 @@ msgstr ""
 #
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 295
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 297
-# File: src/App/Action/GoGlobal/Policies.php, line: 288
-# File: src/App/Action/GoGlobal/Policies.php, line: 290
+# File: src/App/Action/GoGlobal/Policies.php, line: 289
+# File: src/App/Action/GoGlobal/Policies.php, line: 291
 msgid "Cancellation deadline is"
 msgstr ""
 #
