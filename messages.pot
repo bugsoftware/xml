@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-29 18:45-0500\n"
+"POT-Creation-Date: 2020-03-01 08:11-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 # File: src/App/Action/GTA/SearchHotels.php, line: 687
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 445
 # File: src/App/Action/Priceline/Hotel.php, line: 301
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 159
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 208
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 338
 # File: src/App/Action/Priceline/SearchHotels.php, line: 333
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 192
@@ -55,7 +55,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 393
 # File: src/App/Action/Lotsofhotels/SearchHotels.php, line: 443
 # File: src/App/Action/PricelineNet/Hotel.php, line: 344
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 182
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 185
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 377
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 394
 # File: src/App/Action/EETGlobal/SearchHotelsMulti.php, line: 374
@@ -408,7 +408,7 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 678
 # File: src/App/Action/DOTW/SearchHotels.php, line: 657
 # File: src/App/Action/Priceline/Hotel.php, line: 274
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 132
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 181
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 311
 # File: src/App/Action/Priceline/SearchHotels.php, line: 306
 msgid "discount"
@@ -555,7 +555,7 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 383
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 395
 # File: src/App/Action/PricelineNet/Hotel.php, line: 346
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 184
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 187
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 379
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 396
 # File: src/App/language/languages.php, line: 7
@@ -594,14 +594,14 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotels.php, line: 414
 # File: src/App/Action/Tourico/SearchHotels.php, line: 416
 # File: src/App/Action/Priceline/Hotel.php, line: 299
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 157
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 206
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 336
 # File: src/App/Action/Priceline/SearchHotels.php, line: 331
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 203
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 392
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 404
 # File: src/App/Action/PricelineNet/Hotel.php, line: 341
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 179
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 182
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 374
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 391
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 437
@@ -1560,14 +1560,14 @@ msgid "Day"
 msgstr ""
 #
 # File: src/App/Action/PricelineNet/Hotel.php, line: 317
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 157
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 160
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 350
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 325
 msgid "Room Assigned at Check-in - Sleeps"
 msgstr ""
 #
 # File: src/App/Action/PricelineNet/Hotel.php, line: 317
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 157
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 160
 # File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 350
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 325
 msgid "Adult(s)"
