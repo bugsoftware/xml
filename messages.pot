@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-01 11:12-0500\n"
+"POT-Creation-Date: 2020-03-01 12:31-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,6 +439,7 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 390
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 387
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 337
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 339
@@ -703,7 +704,7 @@ msgstr ""
 # File: src/App/Action/Bonotel/Hotel.php, line: 649
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 481
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 675
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 672
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 615
 # File: src/App/Action/Tourico/Hotel.php, line: 363
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 167
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 313
@@ -714,6 +715,48 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 369
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 381
 msgid "On Request Rate"
+msgstr ""
+#
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 365
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
+# File: src/App/Action/Agoda/SearchHotels.php, line: 638
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
+# File: src/App/Action/GoGlobal/Policies.php, line: 302
+# File: src/App/Action/GoGlobal/Policies.php, line: 304
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 67
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
+msgid "Cancel before"
+msgstr ""
+#
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 365
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
+# File: src/App/Action/Agoda/SearchHotels.php, line: 638
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
+# File: src/App/Action/GoGlobal/Policies.php, line: 302
+# File: src/App/Action/GoGlobal/Policies.php, line: 304
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 67
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
+msgid "without penalties."
+msgstr ""
+#
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 387
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
+msgid "will incur in"
+msgstr ""
+#
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 387
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
+msgid "penalty."
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 906
@@ -1338,44 +1381,6 @@ msgstr ""
 # File: src/App/Action/Agoda/SearchHotels.php, line: 587
 # File: src/App/Action/Agoda/SearchHotels.php, line: 593
 msgid "days prior to the arrival date will incur in"
-msgstr ""
-#
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
-# File: src/App/Action/Agoda/SearchHotels.php, line: 638
-# File: src/App/Action/Agoda/SearchHotels.php, line: 661
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
-# File: src/App/Action/GoGlobal/Policies.php, line: 302
-# File: src/App/Action/GoGlobal/Policies.php, line: 304
-# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 67
-# File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
-msgid "Cancel before"
-msgstr ""
-#
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
-# File: src/App/Action/Agoda/SearchHotels.php, line: 638
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
-# File: src/App/Action/GoGlobal/Policies.php, line: 302
-# File: src/App/Action/GoGlobal/Policies.php, line: 304
-# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 67
-# File: src/App/Action/GoGlobal/SearchHotels.php, line: 299
-msgid "without penalties."
-msgstr ""
-#
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
-# File: src/App/Action/Agoda/SearchHotels.php, line: 661
-# File: src/App/Action/Agoda/SearchHotels.php, line: 688
-msgid "will incur in"
-msgstr ""
-#
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
-# File: src/App/Action/Agoda/SearchHotels.php, line: 661
-# File: src/App/Action/Agoda/SearchHotels.php, line: 688
-msgid "penalty."
 msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 444
