@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-01 13:29-0500\n"
+"POT-Creation-Date: 2020-03-01 14:11-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,8 +439,8 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 390
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 373
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 400
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 337
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 339
@@ -705,7 +705,7 @@ msgstr ""
 # File: src/App/Action/Bonotel/Hotel.php, line: 649
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 481
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 675
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 629
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 642
 # File: src/App/Action/Tourico/Hotel.php, line: 363
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 167
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 313
@@ -718,8 +718,8 @@ msgstr ""
 msgid "On Request Rate"
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 371
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 379
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 375
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 392
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
@@ -733,8 +733,8 @@ msgstr ""
 msgid "Cancel before"
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 371
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 379
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 375
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 392
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
@@ -746,8 +746,8 @@ msgstr ""
 msgid "without penalties."
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 373
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 400
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
@@ -755,8 +755,8 @@ msgstr ""
 msgid "will incur in"
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 373
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 400
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
@@ -764,20 +764,20 @@ msgstr ""
 msgid "penalty."
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 375
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 402
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 379
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 415
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 296
 # File: src/App/Action/Agoda/SearchHotels.php, line: 556
 msgid "Failure to arrive at your hotel or property will incur a charge of"
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 683
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 684
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 696
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 697
 msgid "This booking is Non-Refundable and cannot be amended or modified."
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 683
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 684
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 696
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 697
 msgid "Failure to arrive at your hotel or property will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
