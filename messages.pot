@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-01 17:21-0500\n"
+"POT-Creation-Date: 2020-03-01 17:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,6 +439,8 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 390
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 377
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 413
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
@@ -703,7 +705,7 @@ msgid "This is a non refundable booking"
 msgstr ""
 #
 # File: src/App/Action/Bonotel/Hotel.php, line: 649
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 414
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 459
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 675
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 642
 # File: src/App/Action/Tourico/Hotel.php, line: 363
@@ -718,6 +720,8 @@ msgstr ""
 msgid "On Request Rate"
 msgstr ""
 #
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 205
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 222
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 375
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 392
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
@@ -733,6 +737,8 @@ msgstr ""
 msgid "Cancel before"
 msgstr ""
 #
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 205
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 222
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 375
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 392
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 378
@@ -746,6 +752,8 @@ msgstr ""
 msgid "without penalties."
 msgstr ""
 #
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 377
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 413
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
@@ -755,6 +763,8 @@ msgstr ""
 msgid "will incur in"
 msgstr ""
 #
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 377
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 413
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
@@ -764,6 +774,8 @@ msgstr ""
 msgid "penalty."
 msgstr ""
 #
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 209
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 245
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 379
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 415
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 296
