@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-02 11:12-0500\n"
+"POT-Creation-Date: 2020-03-02 12:48-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,6 +439,8 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 390
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 319
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 321
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 377
@@ -542,6 +544,40 @@ msgstr ""
 # File: src/App/Action/TBO/SearchHotels.php, line: 505
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 448
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
+msgstr ""
+#
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 319
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 321
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
+msgid "will incur in"
+msgstr ""
+#
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 319
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 321
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
+# File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Agoda/SearchHotels.php, line: 688
+msgid "penalty."
+msgstr ""
+#
+# File: src/App/Action/Getaroom/SearchHotels.php, line: 475
+# File: src/App/Action/Agoda/HotelParallelParse.php, line: 290
+# File: src/App/Action/Agoda/SearchHotels.php, line: 550
+# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 56
+# File: src/App/Action/GoGlobal/SearchHotels.php, line: 288
+msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 258
@@ -728,6 +764,7 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/Roomer/HotelParallelParse.php, line: 105
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
@@ -752,28 +789,6 @@ msgstr ""
 msgid "without penalties."
 msgstr ""
 #
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
-# File: src/App/Action/Agoda/SearchHotels.php, line: 661
-# File: src/App/Action/Agoda/SearchHotels.php, line: 688
-msgid "will incur in"
-msgstr ""
-#
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 377
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 413
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
-# File: src/App/Action/Agoda/SearchHotels.php, line: 661
-# File: src/App/Action/Agoda/SearchHotels.php, line: 688
-msgid "penalty."
-msgstr ""
-#
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 209
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 245
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 379
@@ -785,14 +800,14 @@ msgstr ""
 #
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 696
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 697
-# File: src/App/Action/Roomer/HotelParallelParse.php, line: 125
+# File: src/App/Action/Roomer/HotelParallelParse.php, line: 147
 # File: src/App/Action/Roomer/SearchHotels.php, line: 406
 msgid "This booking is Non-Refundable and cannot be amended or modified."
 msgstr ""
 #
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 696
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 697
-# File: src/App/Action/Roomer/HotelParallelParse.php, line: 125
+# File: src/App/Action/Roomer/HotelParallelParse.php, line: 147
 # File: src/App/Action/Roomer/SearchHotels.php, line: 406
 msgid "Failure to arrive at your hotel or property will be treated as a No-Show and no refund will be given."
 msgstr ""
@@ -1312,13 +1327,6 @@ msgstr ""
 msgid "fee"
 msgstr ""
 #
-# File: src/App/Action/Agoda/HotelParallelParse.php, line: 290
-# File: src/App/Action/Agoda/SearchHotels.php, line: 550
-# File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 56
-# File: src/App/Action/GoGlobal/SearchHotels.php, line: 288
-msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
-msgstr ""
-#
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 294
 # File: src/App/Action/Agoda/SearchHotels.php, line: 554
 msgid "If you fail to arrive or cancel the booking, no refund will be given."
@@ -1624,6 +1632,10 @@ msgstr ""
 #
 # File: src/App/Action/Enterprise/Policies.php, line: 484
 msgid "days before pick up"
+msgstr ""
+#
+# File: src/App/Action/Roomer/HotelParallelParse.php, line: 105
+msgid "and you will receive a refund of"
 msgstr ""
 #
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 296
