@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-02 09:31-0500\n"
+"POT-Creation-Date: 2020-03-02 10:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -198,7 +198,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
 # File: src/App/Action/Shared/AddActivity.php, line: 28
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 296
-# File: src/App/Action/Coming2/Policies.php, line: 302
+# File: src/App/Action/Coming2/Policies.php, line: 299
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 283
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
@@ -426,7 +426,7 @@ msgstr ""
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 135
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 323
-# File: src/App/Action/Coming2/Policies.php, line: 328
+# File: src/App/Action/Coming2/Policies.php, line: 324
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 180
 msgid "This is a non refundable booking."
 msgstr ""
@@ -1020,7 +1020,7 @@ msgstr ""
 #
 # File: src/App/Action/Shared/AddActivity.php, line: 28
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 296
-# File: src/App/Action/Coming2/Policies.php, line: 302
+# File: src/App/Action/Coming2/Policies.php, line: 299
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 283
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 214
@@ -1934,15 +1934,15 @@ msgstr ""
 # File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 463
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 311
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 312
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 373
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 374
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 377
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 450
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 451
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 454
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 527
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 528
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 531
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 313
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 314
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 317
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 390
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 391
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 467
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 468
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 161
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 192
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 404
@@ -2085,9 +2085,9 @@ msgstr ""
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 298
 # File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 448
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 315
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 377
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 454
-# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 531
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 317
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
+# File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 492
