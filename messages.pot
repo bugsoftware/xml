@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-03 10:07-0500\n"
+"POT-Creation-Date: 2020-03-03 10:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -877,8 +877,8 @@ msgstr ""
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 109
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 118
-# File: src/App/Action/Roomer/SearchHotels.php, line: 303
-# File: src/App/Action/Roomer/SearchHotels.php, line: 312
+# File: src/App/Action/Roomer/SearchHotels.php, line: 306
+# File: src/App/Action/Roomer/SearchHotels.php, line: 315
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
@@ -923,14 +923,14 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 696
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 697
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 161
-# File: src/App/Action/Roomer/SearchHotels.php, line: 418
+# File: src/App/Action/Roomer/SearchHotels.php, line: 421
 msgid "This booking is Non-Refundable and cannot be amended or modified."
 msgstr ""
 #
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 696
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 697
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 161
-# File: src/App/Action/Roomer/SearchHotels.php, line: 418
+# File: src/App/Action/Roomer/SearchHotels.php, line: 421
 msgid "Failure to arrive at your hotel or property will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -1801,9 +1801,14 @@ msgstr ""
 #
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 109
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 118
-# File: src/App/Action/Roomer/SearchHotels.php, line: 303
-# File: src/App/Action/Roomer/SearchHotels.php, line: 312
+# File: src/App/Action/Roomer/SearchHotels.php, line: 306
+# File: src/App/Action/Roomer/SearchHotels.php, line: 315
 msgid "and you will receive a refund of"
+msgstr ""
+#
+# File: src/App/Action/Roomer/SearchHotels.php, line: 300
+# File: src/App/Action/Roomer/SearchHotels.php, line: 304
+msgid "Partial Refund"
 msgstr ""
 #
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 296
