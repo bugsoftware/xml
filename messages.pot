@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-03 05:52-0500\n"
+"POT-Creation-Date: 2020-03-03 06:03-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -483,6 +483,10 @@ msgstr ""
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 435
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 477
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 483
+# File: src/App/Action/Priceline/Policies.php, line: 417
+# File: src/App/Action/Priceline/Policies.php, line: 423
+# File: src/App/Action/Priceline/Policies.php, line: 465
+# File: src/App/Action/Priceline/Policies.php, line: 471
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 181
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 202
 # File: src/App/Action/Priceline/SearchHotels.php, line: 332
@@ -592,6 +596,12 @@ msgstr ""
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 477
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 483
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 485
+# File: src/App/Action/Priceline/Policies.php, line: 417
+# File: src/App/Action/Priceline/Policies.php, line: 423
+# File: src/App/Action/Priceline/Policies.php, line: 425
+# File: src/App/Action/Priceline/Policies.php, line: 465
+# File: src/App/Action/Priceline/Policies.php, line: 471
+# File: src/App/Action/Priceline/Policies.php, line: 473
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 181
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 202
 # File: src/App/Action/Priceline/SearchHotels.php, line: 332
@@ -625,6 +635,12 @@ msgstr ""
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 477
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 483
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 485
+# File: src/App/Action/Priceline/Policies.php, line: 417
+# File: src/App/Action/Priceline/Policies.php, line: 423
+# File: src/App/Action/Priceline/Policies.php, line: 425
+# File: src/App/Action/Priceline/Policies.php, line: 465
+# File: src/App/Action/Priceline/Policies.php, line: 471
+# File: src/App/Action/Priceline/Policies.php, line: 473
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 181
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 202
 # File: src/App/Action/Priceline/SearchHotels.php, line: 332
@@ -857,6 +873,8 @@ msgstr ""
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 431
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 479
+# File: src/App/Action/Priceline/Policies.php, line: 419
+# File: src/App/Action/Priceline/Policies.php, line: 467
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
@@ -1041,6 +1059,10 @@ msgstr ""
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 437
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 479
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 485
+# File: src/App/Action/Priceline/Policies.php, line: 419
+# File: src/App/Action/Priceline/Policies.php, line: 425
+# File: src/App/Action/Priceline/Policies.php, line: 467
+# File: src/App/Action/Priceline/Policies.php, line: 473
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 191
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 193
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
@@ -1665,16 +1687,22 @@ msgstr ""
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 437
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 479
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 485
+# File: src/App/Action/Priceline/Policies.php, line: 419
+# File: src/App/Action/Priceline/Policies.php, line: 425
+# File: src/App/Action/Priceline/Policies.php, line: 467
+# File: src/App/Action/Priceline/Policies.php, line: 473
 msgid "Cancel on or between"
 msgstr ""
 #
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 508
+# File: src/App/Action/Priceline/Policies.php, line: 496
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 334
 # File: src/App/Action/Priceline/SearchHotels.php, line: 480
 msgid "This is a Non-Refundable booking. You are not allowed to change or cancel your reservation."
 msgstr ""
 #
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 508
+# File: src/App/Action/Priceline/Policies.php, line: 496
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 334
 # File: src/App/Action/Priceline/SearchHotels.php, line: 480
 msgid "If you fail to arrive or cancel the booking, no refund will be given and you will still be charged for the full reservation amount."
