@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-04 11:50-0500\n"
+"POT-Creation-Date: 2020-03-04 12:02-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,8 +32,8 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 465
 # File: src/App/Action/Convencional/SearchHotels.php, line: 431
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 444
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 370
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 582
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 369
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 580
 # File: src/App/Action/Jactravel/SearchHotels.php, line: 417
 # File: src/App/Action/Tourico/Hotel.php, line: 360
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 164
@@ -77,8 +77,8 @@ msgstr ""
 # File: src/App/Action/ActionTravel/Policies.php, line: 509
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 450
 # File: src/App/Action/Abreu/Policies.php, line: 433
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 557
-# File: src/App/Action/Itaparica/Policies.php, line: 540
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 556
+# File: src/App/Action/Itaparica/Policies.php, line: 539
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 291
 # File: src/App/Action/Travellanda/Policies.php, line: 290
 # File: src/App/Action/W2M/MultiPolicies.php, line: 556
@@ -275,22 +275,22 @@ msgstr ""
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 379
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
 # File: src/App/Action/ActionTravel/Policies.php, line: 376
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 384
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 386
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 392
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 394
-# File: src/App/Action/Itaparica/Policies.php, line: 367
-# File: src/App/Action/Itaparica/Policies.php, line: 369
-# File: src/App/Action/Itaparica/Policies.php, line: 375
-# File: src/App/Action/Itaparica/Policies.php, line: 377
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 130
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 132
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 138
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 140
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 383
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 385
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 391
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 393
+# File: src/App/Action/Itaparica/Policies.php, line: 366
+# File: src/App/Action/Itaparica/Policies.php, line: 368
+# File: src/App/Action/Itaparica/Policies.php, line: 374
+# File: src/App/Action/Itaparica/Policies.php, line: 376
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 129
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 131
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 137
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 139
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 316
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 318
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 320
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 324
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 326
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 328
 # File: src/App/Action/W2M/Hotel.php, line: 289
 # File: src/App/Action/W2M/Hotel.php, line: 291
 # File: src/App/Action/W2M/Hotel.php, line: 297
@@ -346,14 +346,14 @@ msgstr ""
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 390
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 286
 # File: src/App/Action/SunHotels/Policies.php, line: 252
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 384
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 392
-# File: src/App/Action/Itaparica/Policies.php, line: 367
-# File: src/App/Action/Itaparica/Policies.php, line: 375
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 130
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 138
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 318
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 326
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 383
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 391
+# File: src/App/Action/Itaparica/Policies.php, line: 366
+# File: src/App/Action/Itaparica/Policies.php, line: 374
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 129
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 137
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 316
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 324
 # File: src/App/Action/W2M/Hotel.php, line: 289
 # File: src/App/Action/W2M/Hotel.php, line: 297
 # File: src/App/Action/W2M/MultiPolicies.php, line: 383
@@ -400,14 +400,14 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 385
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 384
 # File: src/App/Action/ActionTravel/Policies.php, line: 381
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 396
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 397
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 398
+# File: src/App/Action/Itaparica/Policies.php, line: 379
 # File: src/App/Action/Itaparica/Policies.php, line: 380
-# File: src/App/Action/Itaparica/Policies.php, line: 381
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 142
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 143
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 144
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 331
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 332
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 329
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 330
 # File: src/App/Action/W2M/Hotel.php, line: 302
 # File: src/App/Action/W2M/Hotel.php, line: 303
 # File: src/App/Action/W2M/MultiPolicies.php, line: 396
@@ -544,38 +544,38 @@ msgstr ""
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 100
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 365
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 396
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 397
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 398
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 400
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 401
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 402
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 403
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 404
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 405
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 424
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 446
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 423
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 445
+# File: src/App/Action/Itaparica/Policies.php, line: 379
 # File: src/App/Action/Itaparica/Policies.php, line: 380
-# File: src/App/Action/Itaparica/Policies.php, line: 381
+# File: src/App/Action/Itaparica/Policies.php, line: 383
 # File: src/App/Action/Itaparica/Policies.php, line: 384
-# File: src/App/Action/Itaparica/Policies.php, line: 385
+# File: src/App/Action/Itaparica/Policies.php, line: 386
 # File: src/App/Action/Itaparica/Policies.php, line: 387
-# File: src/App/Action/Itaparica/Policies.php, line: 388
-# File: src/App/Action/Itaparica/Policies.php, line: 407
-# File: src/App/Action/Itaparica/Policies.php, line: 429
+# File: src/App/Action/Itaparica/Policies.php, line: 406
+# File: src/App/Action/Itaparica/Policies.php, line: 428
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 142
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 143
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 144
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 146
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 147
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 148
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 149
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 150
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 151
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 170
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 192
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 331
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 332
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 335
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 169
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 191
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 329
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 330
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 333
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 334
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 336
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 338
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 339
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 358
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 380
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 337
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 356
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 378
 # File: src/App/Action/W2M/Hotel.php, line: 302
 # File: src/App/Action/W2M/Hotel.php, line: 303
 # File: src/App/Action/W2M/Hotel.php, line: 306
@@ -1214,14 +1214,14 @@ msgstr ""
 msgid "From"
 msgstr ""
 #
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 400
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 401
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 402
+# File: src/App/Action/Itaparica/Policies.php, line: 383
 # File: src/App/Action/Itaparica/Policies.php, line: 384
-# File: src/App/Action/Itaparica/Policies.php, line: 385
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 146
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 147
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 148
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 335
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 336
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 333
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 334
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 486
 # File: src/App/Action/Tourico/Policies.php, line: 473
 # File: src/App/Action/W2M/Hotel.php, line: 306
@@ -1238,14 +1238,14 @@ msgstr ""
 msgid "night"
 msgstr ""
 #
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 403
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 404
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 405
+# File: src/App/Action/Itaparica/Policies.php, line: 386
 # File: src/App/Action/Itaparica/Policies.php, line: 387
-# File: src/App/Action/Itaparica/Policies.php, line: 388
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 149
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 150
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 151
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 338
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 339
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 336
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 337
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 488
 # File: src/App/Action/Tourico/Policies.php, line: 475
 # File: src/App/Action/W2M/Hotel.php, line: 309
@@ -1262,14 +1262,14 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 410
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 419
-# File: src/App/Action/Itaparica/Policies.php, line: 393
-# File: src/App/Action/Itaparica/Policies.php, line: 402
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 156
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 165
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 344
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 353
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 409
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 418
+# File: src/App/Action/Itaparica/Policies.php, line: 392
+# File: src/App/Action/Itaparica/Policies.php, line: 401
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 155
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 164
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 342
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 351
 # File: src/App/Action/W2M/Hotel.php, line: 315
 # File: src/App/Action/W2M/Hotel.php, line: 324
 # File: src/App/Action/W2M/MultiPolicies.php, line: 409
@@ -1283,10 +1283,10 @@ msgstr ""
 msgid "This is the average price of all nights"
 msgstr ""
 #
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 413
-# File: src/App/Action/Itaparica/Policies.php, line: 396
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 159
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 347
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 412
+# File: src/App/Action/Itaparica/Policies.php, line: 395
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 158
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 345
 # File: src/App/Action/W2M/Hotel.php, line: 318
 # File: src/App/Action/W2M/MultiPolicies.php, line: 412
 # File: src/App/Action/W2M/Policies.php, line: 395
@@ -1295,10 +1295,10 @@ msgstr ""
 msgid "This is the price of the first night"
 msgstr ""
 #
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 416
-# File: src/App/Action/Itaparica/Policies.php, line: 399
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 162
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 350
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 415
+# File: src/App/Action/Itaparica/Policies.php, line: 398
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 161
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 348
 # File: src/App/Action/W2M/Hotel.php, line: 321
 # File: src/App/Action/W2M/MultiPolicies.php, line: 415
 # File: src/App/Action/W2M/Policies.php, line: 398
@@ -1307,14 +1307,14 @@ msgstr ""
 msgid "This is the price of the most expensive night"
 msgstr ""
 #
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 447
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 448
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 449
+# File: src/App/Action/Itaparica/Policies.php, line: 430
 # File: src/App/Action/Itaparica/Policies.php, line: 431
-# File: src/App/Action/Itaparica/Policies.php, line: 432
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 193
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 194
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 195
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 382
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 383
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 380
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 381
 # File: src/App/Action/W2M/Hotel.php, line: 353
 # File: src/App/Action/W2M/Hotel.php, line: 354
 # File: src/App/Action/W2M/MultiPolicies.php, line: 447
