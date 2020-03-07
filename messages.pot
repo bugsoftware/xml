@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-07 12:21-0500\n"
+"POT-Creation-Date: 2020-03-07 12:26-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,6 +47,7 @@ msgstr ""
 # File: src/App/Action/GTA/HotelParallelParse.php, line: 381
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 623
 # File: src/App/Action/GTA/SearchHotels.php, line: 687
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 177
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 445
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 333
 # File: src/App/Action/Priceline/Hotel.php, line: 301
@@ -86,6 +87,7 @@ msgstr ""
 # File: src/App/Action/Coming2/Policies.php, line: 360
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 527
 # File: src/App/Action/DOTW/Policies.php, line: 524
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 492
 # File: src/App/Action/Panamericana/Policies.php, line: 493
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 493
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 497
@@ -311,6 +313,8 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 318
 # File: src/App/Action/W2M/SearchHotels.php, line: 324
 # File: src/App/Action/W2M/SearchHotels.php, line: 326
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 356
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 358
 # File: src/App/Action/Panamericana/Policies.php, line: 357
 # File: src/App/Action/Panamericana/Policies.php, line: 359
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 357
@@ -326,6 +330,7 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 378
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 377
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 356
 # File: src/App/Action/Panamericana/Policies.php, line: 357
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 357
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 361
@@ -381,6 +386,7 @@ msgstr ""
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 496
 # File: src/App/Action/GTA/SearchHotels.php, line: 540
 # File: src/App/Action/GTA/SearchHotels.php, line: 542
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 358
 # File: src/App/Action/Panamericana/Policies.php, line: 359
 # File: src/App/Action/TBO/Policies.php, line: 241
 # File: src/App/Action/TBO/Policies.php, line: 243
@@ -418,6 +424,7 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 143
 # File: src/App/Action/W2M/SearchHotels.php, line: 329
 # File: src/App/Action/W2M/SearchHotels.php, line: 330
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 363
 # File: src/App/Action/Panamericana/Policies.php, line: 364
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 364
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 368
@@ -467,6 +474,10 @@ msgstr ""
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 327
 # File: src/App/Action/Coming2/Policies.php, line: 392
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 180
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 538
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 539
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 231
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 232
 msgid "This is a non refundable booking."
 msgstr ""
 #
