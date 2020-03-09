@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 12:39-0400\n"
+"POT-Creation-Date: 2020-03-09 17:45-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1364,6 +1364,12 @@ msgstr ""
 msgid "Cancellation policy deadline is"
 msgstr ""
 #
+# File: src/App/Action/SpecialTours/SearchTours.php, line: 73
+# File: src/App/Action/EuropaMundo/SearchTours.php, line: 72
+# File: src/App/Action/EuropaMundo/Tour.php, line: 61
+msgid "Visiting:"
+msgstr ""
+#
 # File: src/App/Action/Shared/AddActivity.php, line: 28
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 293
 # File: src/App/Action/Coming2/Policies.php, line: 294
@@ -1869,11 +1875,6 @@ msgstr ""
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 389
 # File: src/App/Action/Priceline/SearchHotels.php, line: 539
 msgid "If you fail to arrive or cancel the booking, no refund will be given and you will still be charged for the full reservation amount."
-msgstr ""
-#
-# File: src/App/Action/EuropaMundo/SearchTours.php, line: 72
-# File: src/App/Action/EuropaMundo/Tour.php, line: 61
-msgid "Visiting:"
 msgstr ""
 #
 # File: src/App/Action/EuropaMundo/Policies.php, line: 99
