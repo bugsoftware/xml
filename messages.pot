@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 17:45-0400\n"
+"POT-Creation-Date: 2020-03-14 05:45-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,7 +74,7 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 558
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 946
 # File: src/App/Action/Getaroom/Policies.php, line: 911
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 512
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 526
 # File: src/App/Action/ActionTravel/Policies.php, line: 509
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 450
 # File: src/App/Action/Abreu/Policies.php, line: 433
@@ -103,7 +103,7 @@ msgstr ""
 # File: src/App/Action/RoomsXML/MultiPolicies.php, line: 327
 # File: src/App/Action/RoomsXML/Policies.php, line: 331
 # File: src/App/Action/RoomsXML/Policies.php, line: 332
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 232
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 233
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 471
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 438
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 316
@@ -147,7 +147,7 @@ msgstr ""
 # File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 308
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 336
-# File: src/App/Action/Riu/MultiPolicies.php, line: 643
+# File: src/App/Action/Riu/MultiPolicies.php, line: 657
 # File: src/App/Action/Riu/Policies.php, line: 635
 # File: src/App/Action/HotelsPro/Hotel.php, line: 331
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 395
@@ -205,14 +205,14 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
 # File: src/App/Action/Convencional/SearchHotels.php, line: 468
 # File: src/App/Action/Shared/AddActivity.php, line: 28
-# File: src/App/Action/Coming2/MultiPolicies.php, line: 293
+# File: src/App/Action/Coming2/MultiPolicies.php, line: 307
 # File: src/App/Action/Coming2/Policies.php, line: 294
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 285
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
-# File: src/App/Action/Riu/MultiPolicies.php, line: 643
+# File: src/App/Action/Riu/MultiPolicies.php, line: 657
 # File: src/App/Action/Riu/Policies.php, line: 635
 # File: src/App/Action/HotelsPro/Hotel.php, line: 331
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 201
@@ -230,8 +230,8 @@ msgstr ""
 msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
 msgstr ""
 #
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 234
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 236
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 235
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 237
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 473
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 475
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 440
@@ -273,8 +273,8 @@ msgstr ""
 # File: src/App/Action/AIO/MultiPolicies.php, line: 363
 # File: src/App/Action/AIO/Policies.php, line: 378
 # File: src/App/Action/AIO/Policies.php, line: 380
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 377
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 379
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 391
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 393
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
 # File: src/App/Action/ActionTravel/Policies.php, line: 376
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 383
@@ -328,7 +328,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/MultiPolicies.php, line: 361
 # File: src/App/Action/AIO/Policies.php, line: 378
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 377
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 391
 # File: src/App/Action/ActionTravel/Policies.php, line: 374
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 356
 # File: src/App/Action/Panamericana/Policies.php, line: 357
@@ -340,7 +340,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/MultiPolicies.php, line: 363
 # File: src/App/Action/AIO/Policies.php, line: 380
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 379
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 393
 # File: src/App/Action/ActionTravel/Policies.php, line: 376
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 81
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 89
@@ -404,7 +404,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/MultiPolicies.php, line: 368
 # File: src/App/Action/AIO/Policies.php, line: 385
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 384
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 398
 # File: src/App/Action/ActionTravel/Policies.php, line: 381
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 396
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 397
@@ -461,8 +461,8 @@ msgid "discount"
 msgstr ""
 #
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1277
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 550
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 551
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 564
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 565
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 214
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 199
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 200
@@ -471,7 +471,7 @@ msgstr ""
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 134
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 135
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
-# File: src/App/Action/Coming2/MultiPolicies.php, line: 327
+# File: src/App/Action/Coming2/MultiPolicies.php, line: 341
 # File: src/App/Action/Coming2/Policies.php, line: 392
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 180
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 538
@@ -1371,7 +1371,7 @@ msgid "Visiting:"
 msgstr ""
 #
 # File: src/App/Action/Shared/AddActivity.php, line: 28
-# File: src/App/Action/Coming2/MultiPolicies.php, line: 293
+# File: src/App/Action/Coming2/MultiPolicies.php, line: 307
 # File: src/App/Action/Coming2/Policies.php, line: 294
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 285
