@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 10:37-0400\n"
+"POT-Creation-Date: 2020-03-19 11:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -490,8 +490,8 @@ msgstr ""
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 232
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 669
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 670
-# File: src/App/Action/Nuitee/Policies.php, line: 658
-# File: src/App/Action/Nuitee/Policies.php, line: 659
+# File: src/App/Action/Nuitee/Policies.php, line: 637
+# File: src/App/Action/Nuitee/Policies.php, line: 638
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 404
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 405
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 632
@@ -1872,14 +1872,14 @@ msgid "charge full amount"
 msgstr ""
 #
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 502
-# File: src/App/Action/Nuitee/Policies.php, line: 490
+# File: src/App/Action/Nuitee/Policies.php, line: 471
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 222
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 444
 msgid "Cancelling after"
 msgstr ""
 #
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 502
-# File: src/App/Action/Nuitee/Policies.php, line: 490
+# File: src/App/Action/Nuitee/Policies.php, line: 471
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 222
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 444
 msgid "cost"
