@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 17:54-0400\n"
+"POT-Creation-Date: 2020-03-19 17:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgstr ""
 # File: src/App/Action/RoomsXML/Policies.php, line: 248
 # File: src/App/Action/AIO/MultiPolicies.php, line: 497
 # File: src/App/Action/AIO/Policies.php, line: 558
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 957
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 962
 # File: src/App/Action/Getaroom/Policies.php, line: 926
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 526
 # File: src/App/Action/ActionTravel/Policies.php, line: 509
@@ -509,8 +509,8 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 390
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 797
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 823
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 802
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 828
 # File: src/App/Action/Getaroom/Policies.php, line: 788
 # File: src/App/Action/Getaroom/Policies.php, line: 814
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 77
@@ -682,8 +682,8 @@ msgstr ""
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 797
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 823
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 802
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 828
 # File: src/App/Action/Getaroom/Policies.php, line: 788
 # File: src/App/Action/Getaroom/Policies.php, line: 814
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 77
@@ -729,8 +729,8 @@ msgstr ""
 msgid "will incur in"
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 797
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 823
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 802
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 828
 # File: src/App/Action/Getaroom/Policies.php, line: 788
 # File: src/App/Action/Getaroom/Policies.php, line: 814
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 77
@@ -776,7 +776,7 @@ msgstr ""
 msgid "penalty."
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1025
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1030
 # File: src/App/Action/Getaroom/Policies.php, line: 965
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 270
 # File: src/App/Action/Getaroom/SearchHotels.php, line: 569
@@ -785,7 +785,7 @@ msgstr ""
 msgid "If you fail to arrive or cancel the booking, no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1036
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1041
 # File: src/App/Action/Getaroom/Policies.php, line: 976
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 281
 # File: src/App/Action/Getaroom/SearchHotels.php, line: 580
