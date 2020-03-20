@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-20 09:00-0400\n"
+"POT-Creation-Date: 2020-03-20 09:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -135,6 +135,8 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 748
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 231
 # File: src/App/Action/Youtravel/Policies.php, line: 223
+# File: src/App/Action/Nuitee/Policies.php, line: 474
+# File: src/App/Action/Nuitee/Policies.php, line: 476
 # File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 231
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 471
 # File: src/App/Action/VivaWyndham/SearchHotels.php, line: 444
@@ -211,9 +213,19 @@ msgstr ""
 # File: src/App/Action/Coming2/Policies.php, line: 294
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
 # File: src/App/Action/Coming2/SearchHotels.php, line: 285
+# File: src/App/Action/Nuitee/Policies.php, line: 474
+# File: src/App/Action/Nuitee/Policies.php, line: 476
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 375
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 404
+# File: src/App/Action/DidaTravel/Policies.php, line: 371
+# File: src/App/Action/DidaTravel/Policies.php, line: 400
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 58
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
+# File: src/App/Action/DidaTravel/SearchHotels.php, line: 308
+# File: src/App/Action/DidaTravel/SearchHotels.php, line: 336
 # File: src/App/Action/Riu/MultiPolicies.php, line: 657
 # File: src/App/Action/Riu/Policies.php, line: 635
 # File: src/App/Action/HotelsPro/Hotel.php, line: 331
@@ -490,8 +502,6 @@ msgstr ""
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 232
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 669
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 670
-# File: src/App/Action/Nuitee/Policies.php, line: 641
-# File: src/App/Action/Nuitee/Policies.php, line: 642
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 404
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 405
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 632
@@ -676,6 +686,9 @@ msgstr ""
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 268
 # File: src/App/Action/Youtravel/Policies.php, line: 254
 # File: src/App/Action/Youtravel/Policies.php, line: 255
+# File: src/App/Action/Nuitee/Policies.php, line: 656
+# File: src/App/Action/Nuitee/Policies.php, line: 657
+# File: src/App/Action/Nuitee/Policies.php, line: 658
 # File: src/App/Action/TBO/SearchHotels.php, line: 504
 # File: src/App/Action/TBO/SearchHotels.php, line: 505
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 448
@@ -1834,14 +1847,6 @@ msgstr ""
 #
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 231
 # File: src/App/Action/Youtravel/Policies.php, line: 223
-# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 375
-# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 404
-# File: src/App/Action/DidaTravel/Policies.php, line: 371
-# File: src/App/Action/DidaTravel/Policies.php, line: 400
-# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 58
-# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
-# File: src/App/Action/DidaTravel/SearchHotels.php, line: 308
-# File: src/App/Action/DidaTravel/SearchHotels.php, line: 336
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 286
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 316
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 170
@@ -1872,14 +1877,12 @@ msgid "charge full amount"
 msgstr ""
 #
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 502
-# File: src/App/Action/Nuitee/Policies.php, line: 468
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 222
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 444
 msgid "Cancelling after"
 msgstr ""
 #
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 502
-# File: src/App/Action/Nuitee/Policies.php, line: 468
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 222
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 444
 msgid "cost"
