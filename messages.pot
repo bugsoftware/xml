@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 12:33-0400\n"
+"POT-Creation-Date: 2020-03-31 13:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -147,6 +147,10 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 415
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 417
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 89
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 91
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 337
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 339
 # File: src/App/Action/DidaTravel/MultiPolicies.php, line: 375
@@ -228,6 +232,10 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 249
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 417
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 429
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 415
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 417
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 89
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 91
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 337
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 339
 # File: src/App/Action/DidaTravel/MultiPolicies.php, line: 375
@@ -707,7 +715,8 @@ msgstr ""
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 423
 # File: src/App/Action/TBO/SearchHotels.php, line: 504
 # File: src/App/Action/TBO/SearchHotels.php, line: 505
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 448
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 431
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 432
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -1012,6 +1021,10 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/SearchHotels.php, line: 638
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 419
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 421
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 93
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 95
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 341
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 343
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 109
@@ -1041,6 +1054,10 @@ msgstr ""
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 252
 # File: src/App/Action/Priceline/SearchHotels.php, line: 355
 # File: src/App/Action/Priceline/SearchHotels.php, line: 403
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 419
+# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 421
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 93
+# File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 95
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 341
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 343
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
@@ -1206,8 +1223,6 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
 # File: src/App/Action/Expedia/SearchHotels.php, line: 529
 # File: src/App/Action/Expedia/SearchHotels.php, line: 531
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 191
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 193
 msgid "Cancel between"
 msgstr ""
 #
@@ -1239,8 +1254,6 @@ msgstr ""
 # File: src/App/Action/Priceline/SearchHotels.php, line: 361
 # File: src/App/Action/Priceline/SearchHotels.php, line: 403
 # File: src/App/Action/Priceline/SearchHotels.php, line: 409
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 191
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 193
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 219
 msgid "and"
@@ -1255,7 +1268,6 @@ msgstr ""
 # File: src/App/Action/Expedia/Policies.php, line: 205
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 535
 # File: src/App/Action/Expedia/SearchHotels.php, line: 529
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 191
 msgid "night charge"
 msgstr ""
 #
@@ -1268,7 +1280,6 @@ msgstr ""
 # File: src/App/Action/Expedia/Policies.php, line: 207
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 537
 # File: src/App/Action/Expedia/SearchHotels.php, line: 531
-# File: src/App/Action/SnapTravel/MultiPolicies.php, line: 193
 msgid "nights charge"
 msgstr ""
 #
