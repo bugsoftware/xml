@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-26 18:26-0400\n"
+"POT-Creation-Date: 2020-04-27 05:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,6 +65,8 @@ msgstr ""
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 394
 # File: src/App/Action/EETGlobal/SearchHotelsMulti.php, line: 374
 # File: src/App/Action/EETGlobal/SearchHotels.php, line: 350
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 369
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 580
 # File: src/App/language/languages.php, line: 6
 msgid "Room Only"
 msgstr ""
@@ -94,6 +96,8 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 493
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 497
 # File: src/App/Action/EETGlobal/Policies.php, line: 561
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 556
+# File: src/App/Action/NexusTours/Policies.php, line: 539
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 360
 # File: src/App/Action/HotelsPro/Policies.php, line: 356
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 317
@@ -363,6 +367,22 @@ msgstr ""
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 381
 # File: src/App/Action/EETGlobal/Policies.php, line: 383
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 383
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 385
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 391
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 393
+# File: src/App/Action/NexusTours/Policies.php, line: 366
+# File: src/App/Action/NexusTours/Policies.php, line: 368
+# File: src/App/Action/NexusTours/Policies.php, line: 374
+# File: src/App/Action/NexusTours/Policies.php, line: 376
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 129
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 131
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 137
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 139
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 316
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 318
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 324
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 326
 msgid "Cancelling from"
 msgstr ""
 #
@@ -437,6 +457,14 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 359
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 383
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 383
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 391
+# File: src/App/Action/NexusTours/Policies.php, line: 366
+# File: src/App/Action/NexusTours/Policies.php, line: 374
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 129
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 137
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 316
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 324
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 233
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1294
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1299
@@ -473,6 +501,14 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 364
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 368
 # File: src/App/Action/EETGlobal/Policies.php, line: 388
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 396
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 397
+# File: src/App/Action/NexusTours/Policies.php, line: 379
+# File: src/App/Action/NexusTours/Policies.php, line: 380
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 142
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 143
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 329
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 330
 msgid "of expenses"
 msgstr ""
 #
@@ -693,6 +729,38 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 426
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 448
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 396
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 397
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 400
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 401
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 403
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 404
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 423
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 445
+# File: src/App/Action/NexusTours/Policies.php, line: 379
+# File: src/App/Action/NexusTours/Policies.php, line: 380
+# File: src/App/Action/NexusTours/Policies.php, line: 383
+# File: src/App/Action/NexusTours/Policies.php, line: 384
+# File: src/App/Action/NexusTours/Policies.php, line: 386
+# File: src/App/Action/NexusTours/Policies.php, line: 387
+# File: src/App/Action/NexusTours/Policies.php, line: 406
+# File: src/App/Action/NexusTours/Policies.php, line: 428
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 142
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 143
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 146
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 147
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 149
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 150
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 169
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 191
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 329
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 330
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 333
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 334
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 336
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 337
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 356
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 378
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 732
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
@@ -1326,6 +1394,14 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 112
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 403
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 404
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 400
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 401
+# File: src/App/Action/NexusTours/Policies.php, line: 383
+# File: src/App/Action/NexusTours/Policies.php, line: 384
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 146
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 147
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 333
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 334
 msgid "night"
 msgstr ""
 #
@@ -1352,6 +1428,14 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 114
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 406
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 403
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 404
+# File: src/App/Action/NexusTours/Policies.php, line: 386
+# File: src/App/Action/NexusTours/Policies.php, line: 387
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 149
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 150
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 336
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 337
 msgid "nights"
 msgstr ""
 #
@@ -1375,6 +1459,14 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 351
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 412
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 421
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 409
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 418
+# File: src/App/Action/NexusTours/Policies.php, line: 392
+# File: src/App/Action/NexusTours/Policies.php, line: 401
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 155
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 164
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 342
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 351
 msgid "This is the average price of all nights"
 msgstr ""
 #
@@ -1388,6 +1480,10 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 158
 # File: src/App/Action/W2M/SearchHotels.php, line: 345
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 415
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 412
+# File: src/App/Action/NexusTours/Policies.php, line: 395
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 158
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 345
 msgid "This is the price of the first night"
 msgstr ""
 #
@@ -1401,6 +1497,10 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 161
 # File: src/App/Action/W2M/SearchHotels.php, line: 348
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 418
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 415
+# File: src/App/Action/NexusTours/Policies.php, line: 398
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 161
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 348
 msgid "This is the price of the most expensive night"
 msgstr ""
 #
@@ -1424,6 +1524,14 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 381
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 450
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 451
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 447
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 448
+# File: src/App/Action/NexusTours/Policies.php, line: 430
+# File: src/App/Action/NexusTours/Policies.php, line: 431
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 193
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 194
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 380
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 381
 msgid "free of charge"
 msgstr ""
 #
@@ -2434,6 +2542,12 @@ msgstr ""
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 543
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 544
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 547
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 281
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 282
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 285
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 626
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 627
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 630
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 248
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 249
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 252
@@ -2520,6 +2634,8 @@ msgstr ""
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 469
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 547
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 285
+# File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 630
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 252
 # File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 475
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 333
