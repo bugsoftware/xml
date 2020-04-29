@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-28 16:43-0400\n"
+"POT-Creation-Date: 2020-04-29 06:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2662,7 +2662,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 805
 # File: console/src/Xml/Command/Reservations.php, line: 1014
 # File: console/src/Xml/Command/Reservations.php, line: 2154
-# File: console/src/Xml/Command/Reservations.php, line: 4687
+# File: console/src/Xml/Command/Reservations.php, line: 4701
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
 msgid "Process Credit Card"
 msgstr ""
@@ -2671,7 +2671,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 749
 # File: console/src/Xml/Command/Reservations.php, line: 807
 # File: console/src/Xml/Command/Reservations.php, line: 1016
-# File: console/src/Xml/Command/Reservations.php, line: 4689
+# File: console/src/Xml/Command/Reservations.php, line: 4703
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
 msgid "Credit Card Number not Available"
 msgstr ""
@@ -3104,29 +3104,29 @@ msgstr ""
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5022
-# File: console/src/Xml/Command/Reservations.php, line: 5023
-# File: console/src/Xml/Command/Reservations.php, line: 5056
+# File: console/src/Xml/Command/Reservations.php, line: 5036
+# File: console/src/Xml/Command/Reservations.php, line: 5037
+# File: console/src/Xml/Command/Reservations.php, line: 5070
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5027
+# File: console/src/Xml/Command/Reservations.php, line: 5041
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5028
+# File: console/src/Xml/Command/Reservations.php, line: 5042
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5055
+# File: console/src/Xml/Command/Reservations.php, line: 5069
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5060
+# File: console/src/Xml/Command/Reservations.php, line: 5074
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5061
+# File: console/src/Xml/Command/Reservations.php, line: 5075
 msgid "Reservation Reference:"
 msgstr ""
 #
@@ -3398,7 +3398,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 684
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 370
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 435
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 494
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 497
 msgid "Total"
 msgstr ""
 #
@@ -3827,13 +3827,21 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 327
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 383
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 448
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 507
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 515
 msgid "Book Now"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 364
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 488
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 491
 msgid "Just"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 478
+msgid "Pick Up"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 479
+msgid "Drop Off"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/message.phtml, line: 250
