@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 18:55-0400\n"
+"POT-Creation-Date: 2020-05-03 06:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgstr ""
 # File: src/App/Action/EETGlobal/SearchHotelsMulti.php, line: 374
 # File: src/App/Action/EETGlobal/SearchHotels.php, line: 350
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 369
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 583
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 581
 # File: src/App/language/languages.php, line: 6
 msgid "Room Only"
 msgstr ""
@@ -379,10 +379,10 @@ msgstr ""
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 131
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 137
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 139
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 317
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 319
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 321
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 325
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 327
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 329
 msgid "Cancelling from"
 msgstr ""
 #
@@ -463,8 +463,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 376
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 129
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 137
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 319
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 327
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 317
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 325
 # File: console/src/Xml/Command/Travelplan/CreateHotel.php, line: 233
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1294
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1299
@@ -507,8 +507,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 382
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 142
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 143
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 332
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 333
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 330
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 331
 msgid "of expenses"
 msgstr ""
 #
@@ -753,14 +753,14 @@ msgstr ""
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 150
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 169
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 191
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 332
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 333
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 336
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 330
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 331
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 334
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 335
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 337
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 339
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 340
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 359
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 381
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 338
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 357
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 379
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 387
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 733
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
@@ -1400,8 +1400,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 386
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 146
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 147
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 336
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 337
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 334
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 335
 msgid "night"
 msgstr ""
 #
@@ -1434,8 +1434,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 389
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 149
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 150
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 339
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 340
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 337
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 338
 msgid "nights"
 msgstr ""
 #
@@ -1465,8 +1465,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 403
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 155
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 164
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 345
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 354
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 343
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 352
 msgid "This is the average price of all nights"
 msgstr ""
 #
@@ -1483,7 +1483,7 @@ msgstr ""
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 411
 # File: src/App/Action/NexusTours/Policies.php, line: 397
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 158
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 348
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 346
 msgid "This is the price of the first night"
 msgstr ""
 #
@@ -1500,7 +1500,7 @@ msgstr ""
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 414
 # File: src/App/Action/NexusTours/Policies.php, line: 400
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 161
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 351
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 349
 msgid "This is the price of the most expensive night"
 msgstr ""
 #
@@ -1530,8 +1530,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 433
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 193
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 194
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 383
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 384
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 381
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 382
 msgid "free of charge"
 msgstr ""
 #
@@ -3396,10 +3396,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 175
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 468
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 684
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 374
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 445
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 512
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 582
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 370
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 441
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 508
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 578
 msgid "Total"
 msgstr ""
 #
@@ -3821,37 +3821,37 @@ msgstr ""
 msgid "Total:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 261
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 258
 msgid "View in browser"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 320
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 316
 msgid "Travel to"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 331
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 393
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 463
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 530
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 600
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 327
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 389
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 459
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 526
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 596
 msgid "Book Now"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 368
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 506
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 576
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 364
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 502
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 572
 msgid "Just"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 493
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 489
 msgid "Pick Up"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 494
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 490
 msgid "Drop Off"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 553
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 549
 msgid "transfer"
 msgstr ""
 #
