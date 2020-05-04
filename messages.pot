@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-04 05:36-0400\n"
+"POT-Creation-Date: 2020-05-04 08:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2186,6 +2186,10 @@ msgstr ""
 # File: src/App/Action/CarTrawler/SearchCars.php, line: 849
 # File: src/App/Action/CarTrawler/SearchCars.php, line: 851
 msgid "Fuel:"
+msgstr ""
+#
+# File: src/App/Action/NexusTours/SearchActivities.php, line: 310
+msgid "day(s)"
 msgstr ""
 #
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 379
