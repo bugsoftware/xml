@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-04 12:30-0400\n"
+"POT-Creation-Date: 2020-05-04 13:21-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -367,6 +367,10 @@ msgstr ""
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 381
 # File: src/App/Action/EETGlobal/Policies.php, line: 383
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 357
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 359
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 365
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 367
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 382
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 384
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 390
@@ -457,6 +461,8 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 359
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 363
 # File: src/App/Action/EETGlobal/Policies.php, line: 383
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 357
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 365
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 382
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 390
 # File: src/App/Action/NexusTours/Policies.php, line: 368
@@ -501,6 +507,8 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/Policies.php, line: 364
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 368
 # File: src/App/Action/EETGlobal/Policies.php, line: 388
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 370
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 371
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 395
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 396
 # File: src/App/Action/NexusTours/Policies.php, line: 381
@@ -729,6 +737,14 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 426
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 448
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 370
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 371
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 374
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 375
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 377
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 378
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 397
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 419
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 395
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 396
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 399
@@ -905,6 +921,7 @@ msgstr ""
 # File: src/App/Action/Agoda/SearchHotels.php, line: 550
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 56
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 288
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 616
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
@@ -1394,6 +1411,8 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 112
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 403
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 404
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 374
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 375
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 399
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 400
 # File: src/App/Action/NexusTours/Policies.php, line: 385
@@ -1428,6 +1447,8 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 114
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 406
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 377
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 378
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 402
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 403
 # File: src/App/Action/NexusTours/Policies.php, line: 388
@@ -1459,6 +1480,8 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 351
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 412
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 421
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 383
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 392
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 408
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 417
 # File: src/App/Action/NexusTours/Policies.php, line: 394
@@ -1480,6 +1503,7 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 158
 # File: src/App/Action/W2M/SearchHotels.php, line: 345
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 415
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 386
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 411
 # File: src/App/Action/NexusTours/Policies.php, line: 397
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 158
@@ -1497,6 +1521,7 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 161
 # File: src/App/Action/W2M/SearchHotels.php, line: 348
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 418
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 389
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 414
 # File: src/App/Action/NexusTours/Policies.php, line: 400
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 161
@@ -1524,6 +1549,8 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 381
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 450
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 451
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 421
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 422
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 446
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 447
 # File: src/App/Action/NexusTours/Policies.php, line: 432
@@ -2188,7 +2215,7 @@ msgstr ""
 msgid "Fuel:"
 msgstr ""
 #
-# File: src/App/Action/NexusTours/SearchActivities.php, line: 310
+# File: src/App/Action/NexusTours/SearchActivities.php, line: 321
 msgid "day(s)"
 msgstr ""
 #
