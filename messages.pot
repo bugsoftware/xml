@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-06 14:24-0400\n"
+"POT-Creation-Date: 2020-05-06 15:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3427,10 +3427,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 175
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 468
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 684
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 374
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 445
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 512
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 582
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 385
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 456
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 523
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 593
 msgid "Total"
 msgstr ""
 #
@@ -3852,39 +3852,42 @@ msgstr ""
 msgid "Total:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 259
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 264
 msgid "View in browser"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 317
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 328
 msgid "Travel to"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 328
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 393
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 463
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 530
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 600
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 339
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 404
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 474
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 541
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 611
 msgid "Book Now"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 332
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 368
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 439
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 506
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 576
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 343
+msgid "Total Just"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 379
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 450
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 517
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 587
 msgid "Just"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 493
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 504
 msgid "Pick Up"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 494
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 505
 msgid "Drop Off"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 553
+# File: console/src/Xml/Command/Templates/t1/index.phtml, line: 564
 msgid "transfer"
 msgstr ""
 #
