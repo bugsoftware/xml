@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-11 11:18-0400\n"
+"POT-Creation-Date: 2020-05-11 12:44-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2689,6 +2689,7 @@ msgid "cancelled by"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 621
+# File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 279
 # File: console/src/Xml/Command/Reservations.php, line: 751
 # File: console/src/Xml/Command/Reservations.php, line: 809
 # File: console/src/Xml/Command/Reservations.php, line: 1018
@@ -2699,6 +2700,7 @@ msgid "Process Credit Card"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 623
+# File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 281
 # File: console/src/Xml/Command/Reservations.php, line: 753
 # File: console/src/Xml/Command/Reservations.php, line: 811
 # File: console/src/Xml/Command/Reservations.php, line: 1020
