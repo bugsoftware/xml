@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-26 03:49-0400\n"
+"POT-Creation-Date: 2020-05-26 05:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2571,11 +2571,11 @@ msgstr ""
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 296
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 297
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
-# File: console/src/Xml/Command/Reservations.php, line: 919
-# File: console/src/Xml/Command/Reservations.php, line: 2102
-# File: console/src/Xml/Command/Reservations.php, line: 4293
-# File: console/src/Xml/Command/Reservations.php, line: 4294
-# File: console/src/Xml/Command/Reservations.php, line: 4297
+# File: console/src/Xml/Command/Reservations.php, line: 939
+# File: console/src/Xml/Command/Reservations.php, line: 2122
+# File: console/src/Xml/Command/Reservations.php, line: 4313
+# File: console/src/Xml/Command/Reservations.php, line: 4314
+# File: console/src/Xml/Command/Reservations.php, line: 4317
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 447
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
@@ -2677,7 +2677,7 @@ msgstr ""
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
-# File: console/src/Xml/Command/Reservations.php, line: 4297
+# File: console/src/Xml/Command/Reservations.php, line: 4317
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 529
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
@@ -2708,21 +2708,21 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 621
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 279
-# File: console/src/Xml/Command/Reservations.php, line: 771
-# File: console/src/Xml/Command/Reservations.php, line: 829
-# File: console/src/Xml/Command/Reservations.php, line: 1038
-# File: console/src/Xml/Command/Reservations.php, line: 2178
-# File: console/src/Xml/Command/Reservations.php, line: 4821
+# File: console/src/Xml/Command/Reservations.php, line: 791
+# File: console/src/Xml/Command/Reservations.php, line: 849
+# File: console/src/Xml/Command/Reservations.php, line: 1058
+# File: console/src/Xml/Command/Reservations.php, line: 2198
+# File: console/src/Xml/Command/Reservations.php, line: 4841
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
 msgid "Process Credit Card"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 623
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 281
-# File: console/src/Xml/Command/Reservations.php, line: 773
-# File: console/src/Xml/Command/Reservations.php, line: 831
-# File: console/src/Xml/Command/Reservations.php, line: 1040
-# File: console/src/Xml/Command/Reservations.php, line: 4823
+# File: console/src/Xml/Command/Reservations.php, line: 793
+# File: console/src/Xml/Command/Reservations.php, line: 851
+# File: console/src/Xml/Command/Reservations.php, line: 1060
+# File: console/src/Xml/Command/Reservations.php, line: 4843
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
 msgid "Credit Card Number not Available"
 msgstr ""
@@ -2739,8 +2739,8 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 292
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 983
-# File: console/src/Xml/Command/Reservations.php, line: 974
-# File: console/src/Xml/Command/Reservations.php, line: 2147
+# File: console/src/Xml/Command/Reservations.php, line: 994
+# File: console/src/Xml/Command/Reservations.php, line: 2167
 msgid "Credit Card"
 msgstr ""
 #
@@ -2879,305 +2879,305 @@ msgstr ""
 msgid "Cancellation Exception Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 901
-# File: console/src/Xml/Command/Reservations.php, line: 903
-# File: console/src/Xml/Command/Reservations.php, line: 905
-# File: console/src/Xml/Command/Reservations.php, line: 2084
-# File: console/src/Xml/Command/Reservations.php, line: 2086
-# File: console/src/Xml/Command/Reservations.php, line: 2088
+# File: console/src/Xml/Command/Reservations.php, line: 921
+# File: console/src/Xml/Command/Reservations.php, line: 923
+# File: console/src/Xml/Command/Reservations.php, line: 925
+# File: console/src/Xml/Command/Reservations.php, line: 2104
+# File: console/src/Xml/Command/Reservations.php, line: 2106
+# File: console/src/Xml/Command/Reservations.php, line: 2108
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 51
 msgid "Reservation Pending"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 907
-# File: console/src/Xml/Command/Reservations.php, line: 2090
+# File: console/src/Xml/Command/Reservations.php, line: 927
+# File: console/src/Xml/Command/Reservations.php, line: 2110
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 52
 msgid "Reservation Confirmed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 909
-# File: console/src/Xml/Command/Reservations.php, line: 2092
+# File: console/src/Xml/Command/Reservations.php, line: 929
+# File: console/src/Xml/Command/Reservations.php, line: 2112
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 53
 msgid "Reservation Cancelled"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 911
-# File: console/src/Xml/Command/Reservations.php, line: 2094
+# File: console/src/Xml/Command/Reservations.php, line: 931
+# File: console/src/Xml/Command/Reservations.php, line: 2114
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 54
 msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 913
-# File: console/src/Xml/Command/Reservations.php, line: 2096
+# File: console/src/Xml/Command/Reservations.php, line: 933
+# File: console/src/Xml/Command/Reservations.php, line: 2116
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 55
 msgid "Checked In"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 915
-# File: console/src/Xml/Command/Reservations.php, line: 2098
+# File: console/src/Xml/Command/Reservations.php, line: 935
+# File: console/src/Xml/Command/Reservations.php, line: 2118
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 56
 msgid "Checked Out"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 917
-# File: console/src/Xml/Command/Reservations.php, line: 2100
+# File: console/src/Xml/Command/Reservations.php, line: 937
+# File: console/src/Xml/Command/Reservations.php, line: 2120
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 57
 msgid "Complete"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 921
-# File: console/src/Xml/Command/Reservations.php, line: 952
-# File: console/src/Xml/Command/Reservations.php, line: 2104
-# File: console/src/Xml/Command/Reservations.php, line: 2135
+# File: console/src/Xml/Command/Reservations.php, line: 941
+# File: console/src/Xml/Command/Reservations.php, line: 972
+# File: console/src/Xml/Command/Reservations.php, line: 2124
+# File: console/src/Xml/Command/Reservations.php, line: 2155
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 59
 msgid "Supervisor Action Required"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 923
-# File: console/src/Xml/Command/Reservations.php, line: 2106
+# File: console/src/Xml/Command/Reservations.php, line: 943
+# File: console/src/Xml/Command/Reservations.php, line: 2126
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 60
 msgid "Queue Reservation for Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 925
-# File: console/src/Xml/Command/Reservations.php, line: 2108
+# File: console/src/Xml/Command/Reservations.php, line: 945
+# File: console/src/Xml/Command/Reservations.php, line: 2128
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 64
 msgid "Unknown Status"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 930
-# File: console/src/Xml/Command/Reservations.php, line: 932
-# File: console/src/Xml/Command/Reservations.php, line: 2113
-# File: console/src/Xml/Command/Reservations.php, line: 2115
-msgid "Awaiting Payment"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 934
-# File: console/src/Xml/Command/Reservations.php, line: 2117
-msgid "Payment Received"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 936
-# File: console/src/Xml/Command/Reservations.php, line: 2119
-msgid "Payment Refunded"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 938
-# File: console/src/Xml/Command/Reservations.php, line: 2121
-msgid "Chargeback"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 940
-# File: console/src/Xml/Command/Reservations.php, line: 2123
-msgid "Payment On Hold"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 942
-# File: console/src/Xml/Command/Reservations.php, line: 2125
-msgid "Partially Paid"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 944
-# File: console/src/Xml/Command/Reservations.php, line: 2127
-msgid "Awaiting Refund"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 946
-# File: console/src/Xml/Command/Reservations.php, line: 2129
-msgid "Awaiting Capture"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 948
-# File: console/src/Xml/Command/Reservations.php, line: 2131
-msgid "Payment Cancelled"
-msgstr ""
-#
 # File: console/src/Xml/Command/Reservations.php, line: 950
+# File: console/src/Xml/Command/Reservations.php, line: 952
 # File: console/src/Xml/Command/Reservations.php, line: 2133
-msgid "Exception Payment Status"
+# File: console/src/Xml/Command/Reservations.php, line: 2135
+msgid "Awaiting Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 954
 # File: console/src/Xml/Command/Reservations.php, line: 2137
-msgid "Payment Failed"
+msgid "Payment Received"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 956
 # File: console/src/Xml/Command/Reservations.php, line: 2139
-msgid "Queue Payment for Processing"
+msgid "Payment Refunded"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 958
-msgid "GDS Payment"
+# File: console/src/Xml/Command/Reservations.php, line: 2141
+msgid "Chargeback"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 960
-# File: console/src/Xml/Command/Reservations.php, line: 2141
-msgid "Unknown Payment Status"
+# File: console/src/Xml/Command/Reservations.php, line: 2143
+msgid "Payment On Hold"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 962
+# File: console/src/Xml/Command/Reservations.php, line: 2145
+msgid "Partially Paid"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 964
+# File: console/src/Xml/Command/Reservations.php, line: 2147
+msgid "Awaiting Refund"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 966
+# File: console/src/Xml/Command/Reservations.php, line: 2149
+msgid "Awaiting Capture"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 968
+# File: console/src/Xml/Command/Reservations.php, line: 2151
+msgid "Payment Cancelled"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 970
+# File: console/src/Xml/Command/Reservations.php, line: 2153
+msgid "Exception Payment Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 974
+# File: console/src/Xml/Command/Reservations.php, line: 2157
+msgid "Payment Failed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 976
-# File: console/src/Xml/Command/Reservations.php, line: 2149
-msgid "Paypal"
+# File: console/src/Xml/Command/Reservations.php, line: 2159
+msgid "Queue Payment for Processing"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 978
+msgid "GDS Payment"
+msgstr ""
+#
 # File: console/src/Xml/Command/Reservations.php, line: 980
-# File: console/src/Xml/Command/Reservations.php, line: 2151
-# File: console/src/Xml/Command/Reservations.php, line: 2153
+# File: console/src/Xml/Command/Reservations.php, line: 2161
+msgid "Unknown Payment Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 996
+# File: console/src/Xml/Command/Reservations.php, line: 2169
+msgid "Paypal"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 998
+# File: console/src/Xml/Command/Reservations.php, line: 1000
+# File: console/src/Xml/Command/Reservations.php, line: 2171
+# File: console/src/Xml/Command/Reservations.php, line: 2173
 msgid "SafetyPay"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 982
-# File: console/src/Xml/Command/Reservations.php, line: 2155
+# File: console/src/Xml/Command/Reservations.php, line: 1002
+# File: console/src/Xml/Command/Reservations.php, line: 2175
 msgid "PayU"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 984
-# File: console/src/Xml/Command/Reservations.php, line: 2157
+# File: console/src/Xml/Command/Reservations.php, line: 1004
+# File: console/src/Xml/Command/Reservations.php, line: 2177
 msgid "Book Now and Pay Later"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 986
-# File: console/src/Xml/Command/Reservations.php, line: 2159
+# File: console/src/Xml/Command/Reservations.php, line: 1006
+# File: console/src/Xml/Command/Reservations.php, line: 2179
 msgid "PAYFORT"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 988
+# File: console/src/Xml/Command/Reservations.php, line: 1008
 msgid "PAYFORT - Sadad"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 990
+# File: console/src/Xml/Command/Reservations.php, line: 1010
 msgid "Payeezy"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 993
-# File: console/src/Xml/Command/Reservations.php, line: 2161
+# File: console/src/Xml/Command/Reservations.php, line: 1013
+# File: console/src/Xml/Command/Reservations.php, line: 2181
 msgid "Unknown Payment Method"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1568
-# File: console/src/Xml/Command/Reservations.php, line: 2496
+# File: console/src/Xml/Command/Reservations.php, line: 1588
+# File: console/src/Xml/Command/Reservations.php, line: 2516
 msgid "Thank you for your order. Unfortunately, we were unable to charge your credit card. Please click below to update your payment information."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1569
-# File: console/src/Xml/Command/Reservations.php, line: 2497
+# File: console/src/Xml/Command/Reservations.php, line: 1589
+# File: console/src/Xml/Command/Reservations.php, line: 2517
 msgid "We'll continue trying to process your card through our system. Unfortunately, we won't be able to deliver your order if a valid card is not provided."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1570
-# File: console/src/Xml/Command/Reservations.php, line: 2498
+# File: console/src/Xml/Command/Reservations.php, line: 1590
+# File: console/src/Xml/Command/Reservations.php, line: 2518
 msgid "Please contact us and reference"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1571
-# File: console/src/Xml/Command/Reservations.php, line: 2499
+# File: console/src/Xml/Command/Reservations.php, line: 1591
+# File: console/src/Xml/Command/Reservations.php, line: 2519
 msgid "Please ignore this email if you have already submitted your payment."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1572
-# File: console/src/Xml/Command/Reservations.php, line: 2500
+# File: console/src/Xml/Command/Reservations.php, line: 1592
+# File: console/src/Xml/Command/Reservations.php, line: 2520
 msgid "There could be several different reasons you're seeing a decline error message or your payment won't go through."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1573
-# File: console/src/Xml/Command/Reservations.php, line: 2501
+# File: console/src/Xml/Command/Reservations.php, line: 1593
+# File: console/src/Xml/Command/Reservations.php, line: 2521
 msgid "You are trying to pay with an unsupported card type"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1574
-# File: console/src/Xml/Command/Reservations.php, line: 2502
+# File: console/src/Xml/Command/Reservations.php, line: 1594
+# File: console/src/Xml/Command/Reservations.php, line: 2522
 msgid "Some electronic cards may work, but others may not"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1575
-# File: console/src/Xml/Command/Reservations.php, line: 2503
+# File: console/src/Xml/Command/Reservations.php, line: 1595
+# File: console/src/Xml/Command/Reservations.php, line: 2523
 msgid "There are not enough funds available to process the transaction"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1576
-# File: console/src/Xml/Command/Reservations.php, line: 2504
+# File: console/src/Xml/Command/Reservations.php, line: 1596
+# File: console/src/Xml/Command/Reservations.php, line: 2524
 msgid "Invalid Card Verification Code (CVC)"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1577
-# File: console/src/Xml/Command/Reservations.php, line: 2505
+# File: console/src/Xml/Command/Reservations.php, line: 1597
+# File: console/src/Xml/Command/Reservations.php, line: 2525
 msgid "Pending Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 1577
-# File: console/src/Xml/Command/Reservations.php, line: 2505
+# File: console/src/Xml/Command/Reservations.php, line: 1597
+# File: console/src/Xml/Command/Reservations.php, line: 2525
 msgid "Reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4024
-# File: console/src/Xml/Command/Reservations.php, line: 4055
-# File: console/src/Xml/Command/Reservations.php, line: 4108
+# File: console/src/Xml/Command/Reservations.php, line: 4044
+# File: console/src/Xml/Command/Reservations.php, line: 4075
+# File: console/src/Xml/Command/Reservations.php, line: 4128
 msgid "Reset Password"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4027
+# File: console/src/Xml/Command/Reservations.php, line: 4047
 msgid "Login"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4030
-# File: console/src/Xml/Command/Reservations.php, line: 4113
+# File: console/src/Xml/Command/Reservations.php, line: 4050
+# File: console/src/Xml/Command/Reservations.php, line: 4133
 msgid "Your new password is"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4031
+# File: console/src/Xml/Command/Reservations.php, line: 4051
 msgid "If you did not request to retreive your password, please login and change your password immediately."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4058
+# File: console/src/Xml/Command/Reservations.php, line: 4078
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4059
+# File: console/src/Xml/Command/Reservations.php, line: 4079
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4107
+# File: console/src/Xml/Command/Reservations.php, line: 4127
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 273
 msgid "Go"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4112
+# File: console/src/Xml/Command/Reservations.php, line: 4132
 msgid "Your password has been successfully changed. Please log in with this temporary password and make sure to change your password into a new permanent password."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4200
+# File: console/src/Xml/Command/Reservations.php, line: 4220
 msgid "Welcome"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4232
+# File: console/src/Xml/Command/Reservations.php, line: 4252
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5164
-# File: console/src/Xml/Command/Reservations.php, line: 5165
-# File: console/src/Xml/Command/Reservations.php, line: 5198
+# File: console/src/Xml/Command/Reservations.php, line: 5184
+# File: console/src/Xml/Command/Reservations.php, line: 5185
+# File: console/src/Xml/Command/Reservations.php, line: 5218
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5169
+# File: console/src/Xml/Command/Reservations.php, line: 5189
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5170
+# File: console/src/Xml/Command/Reservations.php, line: 5190
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5197
+# File: console/src/Xml/Command/Reservations.php, line: 5217
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5202
+# File: console/src/Xml/Command/Reservations.php, line: 5222
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5203
+# File: console/src/Xml/Command/Reservations.php, line: 5223
 msgid "Reservation Reference:"
 msgstr ""
 #
