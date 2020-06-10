@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-10 13:46-0400\n"
+"POT-Creation-Date: 2020-06-10 17:17-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -193,8 +193,8 @@ msgstr ""
 # File: src/App/Action/Majestic/Policies.php, line: 499
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 192
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 194
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 129
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 131
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 63
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 65
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 127
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 129
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 146
@@ -2360,7 +2360,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 200
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 137
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 71
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 135
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 154
 # File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 199
@@ -2384,8 +2384,6 @@ msgid "Cancelled"
 msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 312
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 148
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 152
 msgid "Unable to cancel booking"
 msgstr ""
 #
@@ -2698,7 +2696,7 @@ msgid "Reservation"
 msgstr ""
 #
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 194
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 131
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 65
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 127
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 148
 # File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 193
