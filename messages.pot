@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-11 08:51-0400\n"
+"POT-Creation-Date: 2020-06-11 11:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -193,8 +193,8 @@ msgstr ""
 # File: src/App/Action/Majestic/Policies.php, line: 499
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 192
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 194
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 154
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 156
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 180
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 182
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 127
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 129
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 146
@@ -411,7 +411,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 288
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 296
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 451
-# File: src/App/Action/Travelplan/Policies.php, line: 449
+# File: src/App/Action/Travelplan/Policies.php, line: 451
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 390
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 286
 # File: src/App/Action/SunHotels/Policies.php, line: 252
@@ -1062,8 +1062,8 @@ msgstr ""
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 186
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 498
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 499
-# File: src/App/Action/Travelplan/Policies.php, line: 498
-# File: src/App/Action/Travelplan/Policies.php, line: 499
+# File: src/App/Action/Travelplan/Policies.php, line: 500
+# File: src/App/Action/Travelplan/Policies.php, line: 501
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 437
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 438
 # File: src/App/Action/RTS/MultiPolicies.php, line: 512
@@ -1278,7 +1278,7 @@ msgid "N/A"
 msgstr ""
 #
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 449
-# File: src/App/Action/Travelplan/Policies.php, line: 447
+# File: src/App/Action/Travelplan/Policies.php, line: 449
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 388
 # File: src/App/Action/Travco/Policies.php, line: 237
 # File: src/App/Action/Enterprise/Policies.php, line: 478
@@ -1289,7 +1289,7 @@ msgid "Non Refundable"
 msgstr ""
 #
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 451
-# File: src/App/Action/Travelplan/Policies.php, line: 449
+# File: src/App/Action/Travelplan/Policies.php, line: 451
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 390
 # File: src/App/Action/DOTW/Hotel.php, line: 622
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 343
@@ -1303,7 +1303,7 @@ msgid "Cancel from"
 msgstr ""
 #
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 454
-# File: src/App/Action/Travelplan/Policies.php, line: 452
+# File: src/App/Action/Travelplan/Policies.php, line: 454
 # File: src/App/Action/Travelplan/Policies.sergio.php, line: 393
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 337
@@ -2360,7 +2360,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 200
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 162
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 188
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 135
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 154
 # File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 199
@@ -2696,7 +2696,7 @@ msgid "Reservation"
 msgstr ""
 #
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 194
-# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 156
+# File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 182
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 127
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 148
 # File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 193
