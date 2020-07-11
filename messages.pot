@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-11 12:33-0400\n"
+"POT-Creation-Date: 2020-07-11 18:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,7 +114,7 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 438
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 316
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
-# File: src/App/Action/Convencional/SearchHotels.php, line: 468
+# File: src/App/Action/Convencional/SearchHotels.php, line: 470
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 489
 # File: src/App/Action/Abreu/Policies.php, line: 472
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 196
@@ -226,12 +226,12 @@ msgstr ""
 # File: src/App/Action/RoomsXML/Policies.php, line: 338
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 316
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 502
-# File: src/App/Action/Convencional/SearchHotels.php, line: 468
+# File: src/App/Action/Convencional/SearchHotels.php, line: 470
 # File: src/App/Action/Shared/AddActivity.php, line: 29
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 307
 # File: src/App/Action/Coming2/Policies.php, line: 294
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
-# File: src/App/Action/Coming2/SearchHotels.php, line: 285
+# File: src/App/Action/Coming2/SearchHotels.php, line: 286
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 489
 # File: src/App/Action/Nuitee/MultiPolicies.php, line: 491
 # File: src/App/Action/Nuitee/Policies.php, line: 474
@@ -936,6 +936,7 @@ msgstr ""
 # File: src/App/Action/Getaroom/Policies.php, line: 976
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 284
 # File: src/App/Action/Getaroom/SearchHotels.php, line: 580
+# File: src/App/Action/Coming2/SearchHotels.php, line: 379
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 290
 # File: src/App/Action/Agoda/SearchHotels.php, line: 550
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 238
@@ -1023,7 +1024,7 @@ msgstr ""
 #
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 312
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 499
-# File: src/App/Action/Convencional/SearchHotels.php, line: 465
+# File: src/App/Action/Convencional/SearchHotels.php, line: 466
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 245
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 414
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 426
@@ -1666,7 +1667,7 @@ msgstr ""
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 307
 # File: src/App/Action/Coming2/Policies.php, line: 294
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 91
-# File: src/App/Action/Coming2/SearchHotels.php, line: 285
+# File: src/App/Action/Coming2/SearchHotels.php, line: 286
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 214
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 217
@@ -1814,7 +1815,7 @@ msgid "Special Offer"
 msgstr ""
 #
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 94
-# File: src/App/Action/Coming2/SearchHotels.php, line: 295
+# File: src/App/Action/Coming2/SearchHotels.php, line: 296
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 426
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 428
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 350
@@ -1827,12 +1828,12 @@ msgid "Package Rate"
 msgstr ""
 #
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 97
-# File: src/App/Action/Coming2/SearchHotels.php, line: 298
+# File: src/App/Action/Coming2/SearchHotels.php, line: 299
 msgid "Senior Rate"
 msgstr ""
 #
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 100
-# File: src/App/Action/Coming2/SearchHotels.php, line: 301
+# File: src/App/Action/Coming2/SearchHotels.php, line: 302
 msgid "Residents Rate"
 msgstr ""
 #
