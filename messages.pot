@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-16 12:32-0400\n"
+"POT-Creation-Date: 2020-07-16 18:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -445,7 +445,7 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 137
 # File: src/App/Action/W2M/SearchHotels.php, line: 319
 # File: src/App/Action/W2M/SearchHotels.php, line: 327
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 543
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 547
 # File: src/App/Action/DOTW/Hotel.php, line: 625
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 346
 # File: src/App/Action/DOTW/Policies.php, line: 343
@@ -1263,14 +1263,14 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1069
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1074
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1079
-# File: src/App/Action/Costa/SearchCruises.php, line: 723
 # File: src/App/Action/Costa/SearchCruises.php, line: 725
-# File: src/App/Action/Costa/SearchCruises.php, line: 748
+# File: src/App/Action/Costa/SearchCruises.php, line: 727
 # File: src/App/Action/Costa/SearchCruises.php, line: 750
-# File: src/App/Action/Costa/SearchCruises.php, line: 773
+# File: src/App/Action/Costa/SearchCruises.php, line: 752
 # File: src/App/Action/Costa/SearchCruises.php, line: 775
-# File: src/App/Action/Costa/SearchCruises.php, line: 798
+# File: src/App/Action/Costa/SearchCruises.php, line: 777
 # File: src/App/Action/Costa/SearchCruises.php, line: 800
+# File: src/App/Action/Costa/SearchCruises.php, line: 802
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 845
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 847
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 870
@@ -1744,19 +1744,19 @@ msgstr ""
 msgid "Direct"
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 543
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 547
 msgid "From "
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 765
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 769
 msgid "Passenger Type"
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 768
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 772
 msgid "Change Penalty is"
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 771
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 775
 msgid "Cancel Penalty is"
 msgstr ""
 #
