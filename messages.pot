@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-11 17:00-0400\n"
+"POT-Creation-Date: 2020-08-12 05:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -937,6 +937,7 @@ msgstr ""
 # File: src/App/Action/Getaroom/Policies.php, line: 976
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 284
 # File: src/App/Action/Getaroom/SearchHotels.php, line: 580
+# File: src/App/Action/HotelDO/HotelParallelParse.php, line: 698
 # File: src/App/Action/Coming2/SearchHotels.php, line: 379
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 290
 # File: src/App/Action/Agoda/SearchHotels.php, line: 550
@@ -1818,7 +1819,7 @@ msgstr ""
 msgid "at"
 msgstr ""
 #
-# File: src/App/Action/HotelDO/HotelParallelParse.php, line: 686
+# File: src/App/Action/HotelDO/HotelParallelParse.php, line: 689
 # File: src/App/Action/HotelDO/SearchHotels.php, line: 862
 # File: src/App/Action/HotelsPro/Hotel.php, line: 284
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 142
