@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-12 17:36-0400\n"
+"POT-Creation-Date: 2020-08-16 09:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1643,6 +1643,21 @@ msgstr ""
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 381
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 382
 msgid "free of charge"
+msgstr ""
+#
+# File: src/App/Action/JTG/SearchTransfers.php, line: 679
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1215
+msgid "If you Cancel a booking before"
+msgstr ""
+#
+# File: src/App/Action/JTG/SearchTransfers.php, line: 679
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1215
+msgid "has a"
+msgstr ""
+#
+# File: src/App/Action/JTG/SearchTransfers.php, line: 679
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1215
+msgid "of total booking amount penalty."
 msgstr ""
 #
 # File: src/App/Action/Jactravel/Policies.php, line: 344
