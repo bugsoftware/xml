@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-18 10:12-0400\n"
+"POT-Creation-Date: 2020-08-18 10:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -571,6 +571,14 @@ msgstr ""
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 200
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 223
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
+# File: src/App/Action/JTG/MultiPolicies.php, line: 905
+# File: src/App/Action/JTG/MultiPolicies.php, line: 906
+# File: src/App/Action/JTG/Policies.php, line: 893
+# File: src/App/Action/JTG/Policies.php, line: 894
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 535
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 536
+# File: src/App/Action/JTG/SearchHotels.php, line: 843
+# File: src/App/Action/JTG/SearchHotels.php, line: 844
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 134
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 135
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
@@ -1643,18 +1651,18 @@ msgstr ""
 msgid "free of charge"
 msgstr ""
 #
-# File: src/App/Action/JTG/SearchTransfers.php, line: 678
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1211
+# File: src/App/Action/JTG/SearchTransfers.php, line: 681
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1214
 msgid "If you Cancel a booking before"
 msgstr ""
 #
-# File: src/App/Action/JTG/SearchTransfers.php, line: 678
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1211
+# File: src/App/Action/JTG/SearchTransfers.php, line: 681
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1214
 msgid "has a"
 msgstr ""
 #
-# File: src/App/Action/JTG/SearchTransfers.php, line: 678
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1211
+# File: src/App/Action/JTG/SearchTransfers.php, line: 681
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1214
 msgid "of total booking amount penalty."
 msgstr ""
 #
