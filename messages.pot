@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-18 09:01-0400\n"
+"POT-Creation-Date: 2020-08-18 09:27-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2636,6 +2636,11 @@ msgstr ""
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 406
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 407
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 414
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 442
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 443
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 446
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 461
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 303
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 304
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 348
@@ -2757,6 +2762,7 @@ msgstr ""
 # File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 552
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 333
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 446
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 352
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 293
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
@@ -2968,6 +2974,14 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 623
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 msgid "Cancellation Exception Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 258
+msgid "Booking Status"
+msgstr ""
+#
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 294
+msgid "Price Changed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 988
