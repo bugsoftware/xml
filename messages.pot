@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-31 08:13-0400\n"
+"POT-Creation-Date: 2020-08-31 08:49-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1811,42 +1811,48 @@ msgstr ""
 msgid "Cancel Penalty is"
 msgstr ""
 #
-# File: src/App/Action/Direct/SearchTransfers.php, line: 165
+# File: src/App/Action/Direct/SearchTransfers.php, line: 163
+# File: src/App/Action/Direct/SearchTransfers.php, line: 379
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 441
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 787
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 796
 msgid "Private Transfer"
 msgstr ""
 #
-# File: src/App/Action/Direct/SearchTransfers.php, line: 167
+# File: src/App/Action/Direct/SearchTransfers.php, line: 165
+# File: src/App/Action/Direct/SearchTransfers.php, line: 381
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 443
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 789
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 798
 msgid "Bus Transfer"
 msgstr ""
 #
-# File: src/App/Action/Direct/SearchTransfers.php, line: 169
+# File: src/App/Action/Direct/SearchTransfers.php, line: 167
+# File: src/App/Action/Direct/SearchTransfers.php, line: 383
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 445
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 791
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 800
 msgid "Unknown Transfer"
 msgstr ""
 #
-# File: src/App/Action/Direct/SearchTransfers.php, line: 174
+# File: src/App/Action/Direct/SearchTransfers.php, line: 172
+# File: src/App/Action/Direct/SearchTransfers.php, line: 388
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 450
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 796
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 805
 msgid "Terminal to Terminal"
 msgstr ""
 #
-# File: src/App/Action/Direct/SearchTransfers.php, line: 176
+# File: src/App/Action/Direct/SearchTransfers.php, line: 174
+# File: src/App/Action/Direct/SearchTransfers.php, line: 390
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 452
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 798
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 807
 msgid "Transfer from pickup to destination"
 msgstr ""
 #
-# File: src/App/Action/Direct/SearchTransfers.php, line: 178
+# File: src/App/Action/Direct/SearchTransfers.php, line: 176
+# File: src/App/Action/Direct/SearchTransfers.php, line: 392
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 454
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 800
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 809
