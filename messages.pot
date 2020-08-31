@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-30 06:50-0400\n"
+"POT-Creation-Date: 2020-08-31 05:42-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2866,19 +2866,19 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1198
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1200
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1200
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1202
 # File: console/src/Xml/Command/Sendmessage.php, line: 284
 msgid "Travel Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 179
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 185
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 180
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 186
 msgid "Reservation is being processed"
 msgstr ""
 #
