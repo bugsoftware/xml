@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-03 17:46-0400\n"
+"POT-Creation-Date: 2020-09-04 15:34-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1235,7 +1235,7 @@ msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 946
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 985
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1479
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1491
 msgid "No bags allowed"
 msgstr ""
 #
@@ -1255,33 +1255,33 @@ msgstr ""
 msgid "Pounds allowed"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1452
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1460
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1464
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1472
 # File: src/App/Action/AirChartersAction.php, line: 946
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1249
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1255
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1375
 # File: src/App/Action/Direct/SearchFlights.php, line: 246
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 872
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 880
-# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 792
-# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 800
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 804
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 812
 msgid "Stop"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1454
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1462
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1466
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1474
 # File: src/App/Action/AirChartersAction.php, line: 947
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1251
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1257
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1377
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 874
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 882
-# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 794
-# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 802
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 806
+# File: src/App/Action/Sabre/SearchFlightsParse.php, line: 814
 msgid "Stops"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1897
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1909
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
@@ -1790,7 +1790,7 @@ msgstr ""
 msgid "if cancelled"
 msgstr ""
 #
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1254
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1260
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1380
 msgid "Direct"
 msgstr ""
