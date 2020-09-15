@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-15 08:40-0400\n"
+"POT-Creation-Date: 2020-09-15 09:23-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1260,7 +1260,7 @@ msgstr ""
 # File: src/App/Action/AirChartersAction.php, line: 946
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1255
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1375
-# File: src/App/Action/Travelport/SearchFlightsV2.php, line: 1258
+# File: src/App/Action/Travelport/SearchFlightsV2.php, line: 1259
 # File: src/App/Action/Direct/SearchFlights.php, line: 246
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 872
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 880
@@ -1274,7 +1274,7 @@ msgstr ""
 # File: src/App/Action/AirChartersAction.php, line: 947
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1257
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1377
-# File: src/App/Action/Travelport/SearchFlightsV2.php, line: 1260
+# File: src/App/Action/Travelport/SearchFlightsV2.php, line: 1261
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 874
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 882
@@ -1794,7 +1794,7 @@ msgstr ""
 #
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1260
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1380
-# File: src/App/Action/Travelport/SearchFlightsV2.php, line: 1263
+# File: src/App/Action/Travelport/SearchFlightsV2.php, line: 1264
 msgid "Direct"
 msgstr ""
 #
@@ -1941,8 +1941,8 @@ msgstr ""
 #
 # File: src/App/Action/ATI/HotelParallelParse.php, line: 204
 # File: src/App/Action/ATI/HotelParallelParse.php, line: 205
-# File: src/App/Action/ATI/SearchHotels.php, line: 423
-# File: src/App/Action/ATI/SearchHotels.php, line: 424
+# File: src/App/Action/ATI/SearchHotels.php, line: 444
+# File: src/App/Action/ATI/SearchHotels.php, line: 445
 msgid "To avoid penalties you must cancel the booking before"
 msgstr ""
 #
