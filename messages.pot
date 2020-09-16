@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-16 06:50-0400\n"
+"POT-Creation-Date: 2020-09-16 09:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1258,7 +1258,7 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1464
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1472
 # File: src/App/Action/AirChartersAction.php, line: 946
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1255
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1257
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1375
 # File: src/App/Action/Direct/SearchFlights.php, line: 246
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 872
@@ -1271,7 +1271,7 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1466
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1474
 # File: src/App/Action/AirChartersAction.php, line: 947
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1257
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1259
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1377
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 874
@@ -1790,7 +1790,7 @@ msgstr ""
 msgid "if cancelled"
 msgstr ""
 #
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1260
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1262
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1380
 msgid "Direct"
 msgstr ""
