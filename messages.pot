@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-18 05:51-0400\n"
+"POT-Creation-Date: 2020-09-19 08:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -450,6 +450,7 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 319
 # File: src/App/Action/W2M/SearchHotels.php, line: 327
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 547
+# File: src/App/Action/Travelport/PoliciesAirV2.php, line: 545
 # File: src/App/Action/DOTW/Hotel.php, line: 625
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 346
 # File: src/App/Action/DOTW/Policies.php, line: 343
@@ -1258,7 +1259,7 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1464
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1472
 # File: src/App/Action/AirChartersAction.php, line: 946
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1257
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1260
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1375
 # File: src/App/Action/Direct/SearchFlights.php, line: 246
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 872
@@ -1271,7 +1272,7 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1466
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1474
 # File: src/App/Action/AirChartersAction.php, line: 947
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1259
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1262
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1377
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 874
@@ -1790,24 +1791,28 @@ msgstr ""
 msgid "if cancelled"
 msgstr ""
 #
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1262
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1265
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1380
 msgid "Direct"
 msgstr ""
 #
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 547
+# File: src/App/Action/Travelport/PoliciesAirV2.php, line: 545
 msgid "From "
 msgstr ""
 #
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 769
+# File: src/App/Action/Travelport/PoliciesAirV2.php, line: 767
 msgid "Passenger Type"
 msgstr ""
 #
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 772
+# File: src/App/Action/Travelport/PoliciesAirV2.php, line: 770
 msgid "Change Penalty is"
 msgstr ""
 #
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 775
+# File: src/App/Action/Travelport/PoliciesAirV2.php, line: 773
 msgid "Cancel Penalty is"
 msgstr ""
 #
