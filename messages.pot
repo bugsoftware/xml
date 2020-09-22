@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-21 18:07-0400\n"
+"POT-Creation-Date: 2020-09-22 06:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1118,10 +1118,10 @@ msgstr ""
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 178
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 179
-# File: src/App/Action/Rakuten/Policies.php, line: 387
-# File: src/App/Action/Rakuten/Policies.php, line: 388
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 357
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 358
+# File: src/App/Action/Rakuten/Policies.php, line: 406
+# File: src/App/Action/Rakuten/Policies.php, line: 407
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 374
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 375
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 277
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 278
 # File: src/App/Action/AIC/SearchHotels.php, line: 352
@@ -1945,8 +1945,8 @@ msgstr ""
 msgid "Residents Rate"
 msgstr ""
 #
-# File: src/App/Action/Rakuten/Policies.php, line: 392
-msgid " If you cancel this booking Date From "
+# File: src/App/Action/Rakuten/Policies.php, line: 411
+msgid "If you cancel this booking Date From "
 msgstr ""
 #
 # File: src/App/Action/ATI/HotelParallelParse.php, line: 204
