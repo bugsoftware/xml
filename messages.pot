@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-01 13:44-0400\n"
+"POT-Creation-Date: 2020-10-02 07:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,8 +75,8 @@ msgstr ""
 # File: src/App/Action/RoomsXML/Policies.php, line: 248
 # File: src/App/Action/AIO/MultiPolicies.php, line: 497
 # File: src/App/Action/AIO/Policies.php, line: 558
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 961
-# File: src/App/Action/Getaroom/Policies.php, line: 926
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 963
+# File: src/App/Action/Getaroom/Policies.php, line: 928
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 526
 # File: src/App/Action/ActionTravel/Policies.php, line: 509
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 450
@@ -619,10 +619,10 @@ msgstr ""
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 390
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 801
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 827
-# File: src/App/Action/Getaroom/Policies.php, line: 788
-# File: src/App/Action/Getaroom/Policies.php, line: 814
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 803
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 829
+# File: src/App/Action/Getaroom/Policies.php, line: 790
+# File: src/App/Action/Getaroom/Policies.php, line: 816
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 78
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 104
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 125
@@ -847,10 +847,10 @@ msgstr ""
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 801
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 827
-# File: src/App/Action/Getaroom/Policies.php, line: 788
-# File: src/App/Action/Getaroom/Policies.php, line: 814
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 803
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 829
+# File: src/App/Action/Getaroom/Policies.php, line: 790
+# File: src/App/Action/Getaroom/Policies.php, line: 816
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 78
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 104
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 125
@@ -894,10 +894,10 @@ msgstr ""
 msgid "will incur in"
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 801
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 827
-# File: src/App/Action/Getaroom/Policies.php, line: 788
-# File: src/App/Action/Getaroom/Policies.php, line: 814
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 803
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 829
+# File: src/App/Action/Getaroom/Policies.php, line: 790
+# File: src/App/Action/Getaroom/Policies.php, line: 816
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 78
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 104
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 125
@@ -941,8 +941,8 @@ msgstr ""
 msgid "penalty."
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1029
-# File: src/App/Action/Getaroom/Policies.php, line: 965
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1031
+# File: src/App/Action/Getaroom/Policies.php, line: 967
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 273
 # File: src/App/Action/Getaroom/SearchHotels.php, line: 568
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 294
@@ -950,8 +950,8 @@ msgstr ""
 msgid "If you fail to arrive or cancel the booking, no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1040
-# File: src/App/Action/Getaroom/Policies.php, line: 976
+# File: src/App/Action/Getaroom/MultiPolicies.php, line: 1042
+# File: src/App/Action/Getaroom/Policies.php, line: 978
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 285
 # File: src/App/Action/Getaroom/SearchHotels.php, line: 580
 # File: src/App/Action/HotelDO/HotelParallelParse.php, line: 706
@@ -1171,8 +1171,8 @@ msgstr ""
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 118
 # File: src/App/Action/Roomer/SearchHotels.php, line: 306
 # File: src/App/Action/Roomer/SearchHotels.php, line: 315
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 310
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 312
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
 # File: src/App/Action/GoGlobal/Policies.php, line: 304
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 68
@@ -1202,8 +1202,8 @@ msgstr ""
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 95
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 364
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 366
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 309
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 311
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 310
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 312
 # File: src/App/Action/GoGlobal/Policies.php, line: 302
 # File: src/App/Action/GoGlobal/Policies.php, line: 304
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 68
@@ -2351,8 +2351,8 @@ msgstr ""
 msgid "Partial Refund"
 msgstr ""
 #
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 296
-# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 298
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 297
+# File: src/App/Action/GoGlobal/MultiPolicies.php, line: 299
 # File: src/App/Action/GoGlobal/Policies.php, line: 289
 # File: src/App/Action/GoGlobal/Policies.php, line: 291
 msgid "Cancellation deadline is"
