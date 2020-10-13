@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-13 11:23-0400\n"
+"POT-Creation-Date: 2020-10-13 16:53-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -582,12 +582,12 @@ msgstr ""
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
 # File: src/App/Action/JTG/MultiPolicies.php, line: 905
 # File: src/App/Action/JTG/MultiPolicies.php, line: 906
-# File: src/App/Action/JTG/Policies.php, line: 858
-# File: src/App/Action/JTG/Policies.php, line: 859
+# File: src/App/Action/JTG/Policies.php, line: 869
+# File: src/App/Action/JTG/Policies.php, line: 870
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 535
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 536
-# File: src/App/Action/JTG/SearchHotels.php, line: 818
-# File: src/App/Action/JTG/SearchHotels.php, line: 819
+# File: src/App/Action/JTG/SearchHotels.php, line: 811
+# File: src/App/Action/JTG/SearchHotels.php, line: 812
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 133
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 134
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
@@ -641,6 +641,8 @@ msgstr ""
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 377
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 413
+# File: src/App/Action/JTG/Policies.php, line: 833
+# File: src/App/Action/JTG/SearchHotels.php, line: 718
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 335
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 337
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 339
@@ -916,6 +918,8 @@ msgstr ""
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 243
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 377
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 413
+# File: src/App/Action/JTG/Policies.php, line: 820
+# File: src/App/Action/JTG/SearchHotels.php, line: 705
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 401
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 428
 # File: src/App/Action/Agoda/SearchHotels.php, line: 661
@@ -1705,6 +1709,26 @@ msgstr ""
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 381
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 382
 msgid "free of charge"
+msgstr ""
+#
+# File: src/App/Action/JTG/Policies.php, line: 820
+# File: src/App/Action/JTG/SearchHotels.php, line: 705
+msgid "No-Show - Failure to arrive at the hotel will inccur in a"
+msgstr ""
+#
+# File: src/App/Action/JTG/Policies.php, line: 833
+# File: src/App/Action/JTG/SearchHotels.php, line: 718
+msgid "has a penalty of"
+msgstr ""
+#
+# File: src/App/Action/JTG/Policies.php, line: 833
+# File: src/App/Action/JTG/SearchHotels.php, line: 718
+msgid "of total booking."
+msgstr ""
+#
+# File: src/App/Action/JTG/Policies.php, line: 835
+# File: src/App/Action/JTG/SearchHotels.php, line: 720
+msgid "Unknown cancellation policy"
 msgstr ""
 #
 # File: src/App/Action/JTG/SearchTransfers.php, line: 705
