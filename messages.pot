@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-20 16:47-0400\n"
+"POT-Creation-Date: 2020-10-20 17:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -602,8 +602,8 @@ msgstr ""
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 180
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 557
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 558
-# File: src/App/Action/Rakuten/Policies.php, line: 539
-# File: src/App/Action/Rakuten/Policies.php, line: 540
+# File: src/App/Action/Rakuten/Policies.php, line: 532
+# File: src/App/Action/Rakuten/Policies.php, line: 533
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 159
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 160
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 552
@@ -1134,8 +1134,8 @@ msgstr ""
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 178
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 179
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 449
 # File: src/App/Action/Rakuten/SearchHotels.php, line: 450
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 451
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 277
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 278
 # File: src/App/Action/AIC/SearchHotels.php, line: 352
@@ -2042,22 +2042,22 @@ msgid "Residents Rate"
 msgstr ""
 #
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 562
-# File: src/App/Action/Rakuten/Policies.php, line: 544
+# File: src/App/Action/Rakuten/Policies.php, line: 537
 msgid "If you cancel this booking Date From "
 msgstr ""
 #
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 562
-# File: src/App/Action/Rakuten/Policies.php, line: 544
+# File: src/App/Action/Rakuten/Policies.php, line: 537
 msgid " Date To "
 msgstr ""
 #
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 562
-# File: src/App/Action/Rakuten/Policies.php, line: 544
+# File: src/App/Action/Rakuten/Policies.php, line: 537
 msgid " cost "
 msgstr ""
 #
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 562
-# File: src/App/Action/Rakuten/Policies.php, line: 544
+# File: src/App/Action/Rakuten/Policies.php, line: 537
 #, php-format
 msgid "% of total."
 msgstr ""
