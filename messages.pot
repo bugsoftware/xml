@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-21 12:53-0400\n"
+"POT-Creation-Date: 2020-10-21 15:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -498,7 +498,7 @@ msgstr ""
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 325
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1294
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1299
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 998
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1000
 msgid "to"
 msgstr ""
 #
@@ -2607,7 +2607,7 @@ msgstr ""
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 214
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 199
 # File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 214
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 998
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1000
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 382
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 427
 msgid "Status:"
@@ -3483,19 +3483,19 @@ msgstr ""
 msgid "Cancellation date:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 998
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1000
 msgid "Unable to confirm segment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1001
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1003
 msgid "Waitlisted"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1003
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1005
 msgid "Need Segment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1006
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1008
 msgid "Unable to confirm or waitlist"
 msgstr ""
 #
