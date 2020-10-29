@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-29 09:48-0400\n"
+"POT-Creation-Date: 2020-10-29 12:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1344,22 +1344,22 @@ msgstr ""
 # File: src/App/Action/Costa/SearchCruises.php, line: 777
 # File: src/App/Action/Costa/SearchCruises.php, line: 800
 # File: src/App/Action/Costa/SearchCruises.php, line: 802
-# File: src/App/Action/RCCL/SearchCruises.php, line: 548
-# File: src/App/Action/RCCL/SearchCruises.php, line: 550
-# File: src/App/Action/RCCL/SearchCruises.php, line: 573
-# File: src/App/Action/RCCL/SearchCruises.php, line: 575
-# File: src/App/Action/RCCL/SearchCruises.php, line: 598
-# File: src/App/Action/RCCL/SearchCruises.php, line: 600
-# File: src/App/Action/RCCL/SearchCruises.php, line: 623
-# File: src/App/Action/RCCL/SearchCruises.php, line: 625
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1331
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1333
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1356
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1358
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1381
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1383
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1406
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1408
+# File: src/App/Action/RCCL/SearchCruises.php, line: 552
+# File: src/App/Action/RCCL/SearchCruises.php, line: 554
+# File: src/App/Action/RCCL/SearchCruises.php, line: 577
+# File: src/App/Action/RCCL/SearchCruises.php, line: 579
+# File: src/App/Action/RCCL/SearchCruises.php, line: 602
+# File: src/App/Action/RCCL/SearchCruises.php, line: 604
+# File: src/App/Action/RCCL/SearchCruises.php, line: 627
+# File: src/App/Action/RCCL/SearchCruises.php, line: 629
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1335
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1337
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1360
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1362
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1385
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1387
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1410
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1412
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 879
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 881
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 904
@@ -2822,15 +2822,15 @@ msgstr ""
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 406
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 407
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 410
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 804
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 832
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 833
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 836
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 851
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 975
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 976
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 979
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 994
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 812
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 840
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 841
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 844
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 859
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 983
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 984
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 987
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 1002
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 303
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 304
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 348
@@ -2845,15 +2845,15 @@ msgstr ""
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 669
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 670
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 804
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 832
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 833
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 836
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 851
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 975
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 976
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 979
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 994
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 812
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 840
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 841
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 844
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 859
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 983
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 984
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 987
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 1002
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 362
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 363
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
@@ -2961,14 +2961,14 @@ msgstr ""
 # File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 552
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 333
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 410
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 836
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 979
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 844
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 987
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 352
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 293
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 836
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 979
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 844
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 987
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
 # File: console/src/Xml/Command/Reservations.php, line: 4648
@@ -3178,23 +3178,23 @@ msgstr ""
 msgid "Cancellation Exception Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 648
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 648
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 656
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 656
 msgid "Booking Status"
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 684
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 684
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 692
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 692
 msgid "Price Changed"
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 898
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 898
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 906
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 906
 msgid "Exception Error - 30 minutes have passed, session expired, we can't make booking."
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 937
-# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 937
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 945
+# File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 945
 msgid "Exception Error - Initial search time - 30 minutes have passed, session expired, we can't make booking."
 msgstr ""
 #
