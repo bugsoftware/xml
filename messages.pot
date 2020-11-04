@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-04 12:02-0500\n"
+"POT-Creation-Date: 2020-11-04 12:31-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1776,6 +1776,18 @@ msgstr ""
 #
 # File: src/App/Action/RCCL/Cabin.php, line: 396
 msgid "Invalid number of passengers. This cabin can't hold the selected number of passengers."
+msgstr ""
+#
+# File: src/App/Action/RCCL/Cabins.php, line: 386
+msgid "No Restrictions - Refundable"
+msgstr ""
+#
+# File: src/App/Action/RCCL/Cabins.php, line: 388
+msgid "Non-Refundable - Deposit"
+msgstr ""
+#
+# File: src/App/Action/RCCL/Cabins.php, line: 390
+msgid "Non-Refundable - Full Fare"
 msgstr ""
 #
 # File: src/App/Action/Jactravel/Policies.php, line: 344
