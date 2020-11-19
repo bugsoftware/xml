@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-19 11:00-0500\n"
+"POT-Creation-Date: 2020-11-19 11:32-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -594,8 +594,8 @@ msgstr ""
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 536
 # File: src/App/Action/JTG/SearchHotels.php, line: 811
 # File: src/App/Action/JTG/SearchHotels.php, line: 812
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 177
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 178
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 179
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 529
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 530
@@ -3020,6 +3020,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 2476
 # File: console/src/Xml/Command/Reservations.php, line: 5299
 # File: console/src/Xml/Command/FraudCheck.php, line: 673
+# File: console/src/Xml/Command/FraudCheck.php, line: 726
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
 msgid "Process Credit Card"
 msgstr ""
@@ -3031,6 +3032,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1282
 # File: console/src/Xml/Command/Reservations.php, line: 5301
 # File: console/src/Xml/Command/FraudCheck.php, line: 675
+# File: console/src/Xml/Command/FraudCheck.php, line: 728
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
 msgid "Credit Card Number not Available"
 msgstr ""
