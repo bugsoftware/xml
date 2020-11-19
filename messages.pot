@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-19 13:37-0500\n"
+"POT-Creation-Date: 2020-11-19 15:53-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,6 +46,7 @@ msgstr ""
 # File: src/App/Action/Direct/HotelParallel.php, line: 1289
 # File: src/App/Action/Direct/SearchHotels.php, line: 267
 # File: src/App/Action/Direct/SearchHotels.php, line: 1295
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 179
 # File: src/App/Action/GTA/HotelParallelParse.php, line: 381
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 623
 # File: src/App/Action/GTA/SearchHotels.php, line: 687
@@ -610,8 +611,8 @@ msgstr ""
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 637
 # File: src/App/Action/Rakuten/Policies.php, line: 638
 # File: src/App/Action/Rakuten/Policies.php, line: 639
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 217
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 218
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 219
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 220
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 552
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 553
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 231
@@ -1146,8 +1147,8 @@ msgstr ""
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 178
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 179
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 484
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 485
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 486
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 487
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 324
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 325
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 323
