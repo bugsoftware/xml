@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-19 07:59-0500\n"
+"POT-Creation-Date: 2020-11-19 10:11-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -610,8 +610,8 @@ msgstr ""
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 637
 # File: src/App/Action/Rakuten/Policies.php, line: 638
 # File: src/App/Action/Rakuten/Policies.php, line: 639
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 171
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 172
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 217
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 218
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 552
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 553
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 231
@@ -1146,8 +1146,8 @@ msgstr ""
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 178
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 179
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 463
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 464
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 484
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 485
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 324
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 325
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 323
@@ -3019,6 +3019,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1280
 # File: console/src/Xml/Command/Reservations.php, line: 2476
 # File: console/src/Xml/Command/Reservations.php, line: 5299
+# File: console/src/Xml/Command/FraudCheck.php, line: 673
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
 msgid "Process Credit Card"
 msgstr ""
@@ -3029,6 +3030,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1072
 # File: console/src/Xml/Command/Reservations.php, line: 1282
 # File: console/src/Xml/Command/Reservations.php, line: 5301
+# File: console/src/Xml/Command/FraudCheck.php, line: 675
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
 msgid "Credit Card Number not Available"
 msgstr ""
