@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 05:54-0500\n"
+"POT-Creation-Date: 2020-11-23 08:05-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -606,12 +606,12 @@ msgstr ""
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 341
 # File: src/App/Action/Coming2/Policies.php, line: 392
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 180
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 636
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 637
-# File: src/App/Action/Rakuten/Policies.php, line: 638
-# File: src/App/Action/Rakuten/Policies.php, line: 639
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 244
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 245
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 652
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 653
+# File: src/App/Action/Rakuten/Policies.php, line: 666
+# File: src/App/Action/Rakuten/Policies.php, line: 667
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 248
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 249
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 552
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 553
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 231
@@ -1146,8 +1146,8 @@ msgstr ""
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 178
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 179
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 519
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 520
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 522
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 523
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 324
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 325
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 323
@@ -2081,23 +2081,23 @@ msgstr ""
 msgid "Residents Rate"
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 641
-# File: src/App/Action/Rakuten/Policies.php, line: 643
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 657
+# File: src/App/Action/Rakuten/Policies.php, line: 671
 msgid "If you cancel this booking Date From "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 641
-# File: src/App/Action/Rakuten/Policies.php, line: 643
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 657
+# File: src/App/Action/Rakuten/Policies.php, line: 671
 msgid " Date To "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 641
-# File: src/App/Action/Rakuten/Policies.php, line: 643
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 657
+# File: src/App/Action/Rakuten/Policies.php, line: 671
 msgid " cost "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 641
-# File: src/App/Action/Rakuten/Policies.php, line: 643
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 657
+# File: src/App/Action/Rakuten/Policies.php, line: 671
 #, php-format
 msgid "% of total."
 msgstr ""
