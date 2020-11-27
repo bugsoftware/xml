@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-27 05:38-0500\n"
+"POT-Creation-Date: 2020-11-27 09:25-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3073,6 +3073,23 @@ msgstr ""
 # File: console/src/Xml/Command/Sendvoucher.php, line: 1246
 # File: console/src/Xml/Command/Sendmessage.php, line: 287
 msgid "Travel Confirmation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 1626
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 3025
+msgid "Invoice has been created"
+msgstr ""
+#
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 1627
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 1740
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 1856
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 3026
+msgid "View Reservation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 1739
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 1855
+msgid "Exception Error - Unable to create invoice"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemail.php, line: 189
