@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-27 16:10-0500\n"
+"POT-Creation-Date: 2020-11-27 16:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -623,10 +623,10 @@ msgstr ""
 msgid "This is a non refundable booking."
 msgstr ""
 #
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 82
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 102
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 105
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 87
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 107
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 110
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 112
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 365
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 388
@@ -695,8 +695,8 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 82
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 102
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 87
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 107
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 365
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 385
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 396
@@ -837,7 +837,7 @@ msgstr ""
 msgid "charge"
 msgstr ""
 #
-# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 289
+# File: src/App/Action/Symrooms/HotelParallelParse.php, line: 294
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 561
 # File: src/App/Action/HotelDO/Policies.php, line: 920
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 534
@@ -2037,13 +2037,23 @@ msgid "at"
 msgstr ""
 #
 # File: src/App/Action/OlympiaEurope/Policies.php, line: 459
-# File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 112
 msgid "If you cancel booking "
 msgstr ""
 #
 # File: src/App/Action/OlympiaEurope/Policies.php, line: 459
-# File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 112
 msgid " before checkin cost "
+msgstr ""
+#
+# File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 116
+msgid "If you cancel booking"
+msgstr ""
+#
+# File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 116
+msgid "before checkin"
+msgstr ""
+#
+# File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 116
+msgid "there is a charge of"
 msgstr ""
 #
 # File: src/App/Action/HotelDO/HotelParallelParse.php, line: 741
