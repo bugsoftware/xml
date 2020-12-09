@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-09 08:16-0500\n"
+"POT-Creation-Date: 2020-12-09 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,10 +42,10 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 531
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 413
 # File: src/App/Action/W2M/SearchHotels.php, line: 584
-# File: src/App/Action/Direct/HotelParallel.php, line: 261
-# File: src/App/Action/Direct/HotelParallel.php, line: 1289
-# File: src/App/Action/Direct/SearchHotels.php, line: 267
-# File: src/App/Action/Direct/SearchHotels.php, line: 1295
+# File: src/App/Action/Direct/HotelParallel.php, line: 262
+# File: src/App/Action/Direct/HotelParallel.php, line: 1371
+# File: src/App/Action/Direct/SearchHotels.php, line: 268
+# File: src/App/Action/Direct/SearchHotels.php, line: 1377
 # File: src/App/Action/GTA/HotelParallelParse.php, line: 381
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 623
 # File: src/App/Action/GTA/SearchHotels.php, line: 687
@@ -129,12 +129,12 @@ msgstr ""
 # File: src/App/Action/Tourico/Policies.php, line: 500
 # File: src/App/Action/Tourico/Policies.php, line: 504
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 444
-# File: src/App/Action/Direct/HotelParallel.php, line: 102
-# File: src/App/Action/Direct/HotelParallel.php, line: 104
-# File: src/App/Action/Direct/HotelParallel.php, line: 116
-# File: src/App/Action/Direct/SearchHotels.php, line: 107
-# File: src/App/Action/Direct/SearchHotels.php, line: 109
-# File: src/App/Action/Direct/SearchHotels.php, line: 121
+# File: src/App/Action/Direct/HotelParallel.php, line: 103
+# File: src/App/Action/Direct/HotelParallel.php, line: 105
+# File: src/App/Action/Direct/HotelParallel.php, line: 117
+# File: src/App/Action/Direct/SearchHotels.php, line: 108
+# File: src/App/Action/Direct/SearchHotels.php, line: 110
+# File: src/App/Action/Direct/SearchHotels.php, line: 122
 # File: src/App/Action/DOTW/Hotel.php, line: 667
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 429
 # File: src/App/Action/DOTW/Policies.php, line: 426
@@ -1583,8 +1583,8 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 147
 # File: src/App/Action/W2M/SearchHotels.php, line: 336
 # File: src/App/Action/W2M/SearchHotels.php, line: 337
-# File: src/App/Action/Direct/HotelParallel.php, line: 107
-# File: src/App/Action/Direct/SearchHotels.php, line: 112
+# File: src/App/Action/Direct/HotelParallel.php, line: 108
+# File: src/App/Action/Direct/SearchHotels.php, line: 113
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 403
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 404
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 374
@@ -1620,8 +1620,8 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 150
 # File: src/App/Action/W2M/SearchHotels.php, line: 339
 # File: src/App/Action/W2M/SearchHotels.php, line: 340
-# File: src/App/Action/Direct/HotelParallel.php, line: 109
-# File: src/App/Action/Direct/SearchHotels.php, line: 114
+# File: src/App/Action/Direct/HotelParallel.php, line: 110
+# File: src/App/Action/Direct/SearchHotels.php, line: 115
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 406
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 377
@@ -1850,10 +1850,10 @@ msgstr ""
 #
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 444
 # File: src/App/Action/Tourico/Policies.php, line: 431
-# File: src/App/Action/Direct/HotelParallel.php, line: 100
-# File: src/App/Action/Direct/HotelParallel.php, line: 114
-# File: src/App/Action/Direct/SearchHotels.php, line: 105
-# File: src/App/Action/Direct/SearchHotels.php, line: 119
+# File: src/App/Action/Direct/HotelParallel.php, line: 101
+# File: src/App/Action/Direct/HotelParallel.php, line: 115
+# File: src/App/Action/Direct/SearchHotels.php, line: 106
+# File: src/App/Action/Direct/SearchHotels.php, line: 120
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 473
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 683
 msgid "days"
@@ -1871,8 +1871,8 @@ msgstr ""
 #
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 492
 # File: src/App/Action/Tourico/Policies.php, line: 479
-# File: src/App/Action/Direct/HotelParallel.php, line: 102
-# File: src/App/Action/Direct/SearchHotels.php, line: 107
+# File: src/App/Action/Direct/HotelParallel.php, line: 103
+# File: src/App/Action/Direct/SearchHotels.php, line: 108
 msgid "full stay"
 msgstr ""
 #
@@ -1900,12 +1900,12 @@ msgstr ""
 #
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 516
 # File: src/App/Action/Tourico/Policies.php, line: 503
-# File: src/App/Action/Direct/HotelParallel.php, line: 102
-# File: src/App/Action/Direct/HotelParallel.php, line: 104
-# File: src/App/Action/Direct/HotelParallel.php, line: 116
-# File: src/App/Action/Direct/SearchHotels.php, line: 107
-# File: src/App/Action/Direct/SearchHotels.php, line: 109
-# File: src/App/Action/Direct/SearchHotels.php, line: 121
+# File: src/App/Action/Direct/HotelParallel.php, line: 103
+# File: src/App/Action/Direct/HotelParallel.php, line: 105
+# File: src/App/Action/Direct/HotelParallel.php, line: 117
+# File: src/App/Action/Direct/SearchHotels.php, line: 108
+# File: src/App/Action/Direct/SearchHotels.php, line: 110
+# File: src/App/Action/Direct/SearchHotels.php, line: 122
 msgid "if cancelled"
 msgstr ""
 #
@@ -1934,31 +1934,31 @@ msgstr ""
 msgid "Cancel Penalty is"
 msgstr ""
 #
-# File: src/App/Action/Direct/HotelParallel.php, line: 98
-# File: src/App/Action/Direct/HotelParallel.php, line: 112
-# File: src/App/Action/Direct/SearchHotels.php, line: 103
-# File: src/App/Action/Direct/SearchHotels.php, line: 117
+# File: src/App/Action/Direct/HotelParallel.php, line: 99
+# File: src/App/Action/Direct/HotelParallel.php, line: 113
+# File: src/App/Action/Direct/SearchHotels.php, line: 104
+# File: src/App/Action/Direct/SearchHotels.php, line: 118
 msgid "day"
 msgstr ""
 #
-# File: src/App/Action/Direct/HotelParallel.php, line: 102
-# File: src/App/Action/Direct/HotelParallel.php, line: 104
-# File: src/App/Action/Direct/HotelParallel.php, line: 116
-# File: src/App/Action/Direct/SearchHotels.php, line: 107
-# File: src/App/Action/Direct/SearchHotels.php, line: 109
-# File: src/App/Action/Direct/SearchHotels.php, line: 121
+# File: src/App/Action/Direct/HotelParallel.php, line: 103
+# File: src/App/Action/Direct/HotelParallel.php, line: 105
+# File: src/App/Action/Direct/HotelParallel.php, line: 117
+# File: src/App/Action/Direct/SearchHotels.php, line: 108
+# File: src/App/Action/Direct/SearchHotels.php, line: 110
+# File: src/App/Action/Direct/SearchHotels.php, line: 122
 msgid "before arrival"
 msgstr ""
 #
-# File: src/App/Action/Direct/HotelParallel.php, line: 565
-# File: src/App/Action/Direct/SearchHotels.php, line: 573
+# File: src/App/Action/Direct/HotelParallel.php, line: 637
+# File: src/App/Action/Direct/SearchHotels.php, line: 645
 msgid "On Request"
 msgstr ""
 #
-# File: src/App/Action/Direct/HotelParallel.php, line: 1150
-# File: src/App/Action/Direct/HotelParallel.php, line: 1192
-# File: src/App/Action/Direct/SearchHotels.php, line: 1156
-# File: src/App/Action/Direct/SearchHotels.php, line: 1198
+# File: src/App/Action/Direct/HotelParallel.php, line: 1232
+# File: src/App/Action/Direct/HotelParallel.php, line: 1274
+# File: src/App/Action/Direct/SearchHotels.php, line: 1238
+# File: src/App/Action/Direct/SearchHotels.php, line: 1280
 msgid "Free"
 msgstr ""
 #
