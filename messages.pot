@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-23 15:16-0500\n"
+"POT-Creation-Date: 2020-12-23 16:50-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2844,15 +2844,15 @@ msgstr ""
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 406
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 407
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 410
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 804
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 832
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 805
 # File: console/src/Xml/Command/TBO/CreateHotel.php, line: 833
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 836
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 851
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 975
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 834
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 837
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 852
 # File: console/src/Xml/Command/TBO/CreateHotel.php, line: 976
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 979
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 994
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 977
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 980
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 995
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 303
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 304
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 348
@@ -2986,8 +2986,8 @@ msgstr ""
 # File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 564
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 333
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 410
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 836
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 979
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 837
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 980
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 352
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 293
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
@@ -3225,22 +3225,22 @@ msgstr ""
 msgid "Cancellation Exception Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 648
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 649
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 648
 msgid "Booking Status"
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 684
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 685
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 684
 msgid "Price Changed"
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 898
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 899
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 898
 msgid "Exception Error - 30 minutes have passed, session expired, we can't make booking."
 msgstr ""
 #
-# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 937
+# File: console/src/Xml/Command/TBO/CreateHotel.php, line: 938
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 937
 msgid "Exception Error - Initial search time - 30 minutes have passed, session expired, we can't make booking."
 msgstr ""
