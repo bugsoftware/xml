@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-07 05:48-0500\n"
+"POT-Creation-Date: 2021-01-07 09:25-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,7 +82,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 527
 # File: src/App/Action/ActionTravel/Policies.php, line: 510
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 451
-# File: src/App/Action/Abreu/Policies.php, line: 434
+# File: src/App/Action/Abreu/Policies.php, line: 438
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 557
 # File: src/App/Action/Itaparica/Policies.php, line: 540
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 292
@@ -118,7 +118,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 503
 # File: src/App/Action/Convencional/SearchHotels.php, line: 471
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 490
-# File: src/App/Action/Abreu/Policies.php, line: 473
+# File: src/App/Action/Abreu/Policies.php, line: 477
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 197
 # File: src/App/Action/Jactravel/Policies.php, line: 352
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 237
@@ -235,7 +235,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 503
 # File: src/App/Action/Convencional/SearchHotels.php, line: 471
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 490
-# File: src/App/Action/Abreu/Policies.php, line: 473
+# File: src/App/Action/Abreu/Policies.php, line: 477
 # File: src/App/Action/Shared/AddActivity.php, line: 30
 # File: src/App/Action/Shared/AddActivity.php, line: 79
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
@@ -1128,8 +1128,8 @@ msgstr ""
 #
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 479
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 480
-# File: src/App/Action/Abreu/Policies.php, line: 462
-# File: src/App/Action/Abreu/Policies.php, line: 463
+# File: src/App/Action/Abreu/Policies.php, line: 466
+# File: src/App/Action/Abreu/Policies.php, line: 467
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 186
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 187
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 509
@@ -2036,11 +2036,11 @@ msgstr ""
 msgid "at"
 msgstr ""
 #
-# File: src/App/Action/OlympiaEurope/Policies.php, line: 460
-msgid "If you cancel booking "
+# File: src/App/Action/OlympiaEurope/Policies.php, line: 488
+msgid "If you cancel"
 msgstr ""
 #
-# File: src/App/Action/OlympiaEurope/Policies.php, line: 460
+# File: src/App/Action/OlympiaEurope/Policies.php, line: 488
 msgid " before checkin cost "
 msgstr ""
 #
