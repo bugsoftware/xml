@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-11 15:37-0500\n"
+"POT-Creation-Date: 2021-01-11 17:03-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Room Only"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 244
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 248
 # File: src/App/Action/RoomsXML/Policies.php, line: 249
 # File: src/App/Action/AIO/MultiPolicies.php, line: 498
 # File: src/App/Action/AIO/Policies.php, line: 559
@@ -107,8 +107,8 @@ msgstr ""
 msgid "Price has changed. Please review booking."
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 327
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 328
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 334
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 335
 # File: src/App/Action/RoomsXML/Policies.php, line: 332
 # File: src/App/Action/RoomsXML/Policies.php, line: 333
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 234
@@ -227,8 +227,8 @@ msgstr ""
 msgid "Charge"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 333
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 334
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 340
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 341
 # File: src/App/Action/RoomsXML/Policies.php, line: 338
 # File: src/App/Action/RoomsXML/Policies.php, line: 339
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 317
@@ -286,8 +286,8 @@ msgstr ""
 msgid "if cancelled on or after"
 msgstr ""
 #
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 338
-# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 339
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 345
+# File: src/App/Action/RoomsXML/MultiPolicies.php, line: 346
 # File: src/App/Action/RoomsXML/Policies.php, line: 343
 # File: src/App/Action/RoomsXML/Policies.php, line: 344
 msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
