@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-14 04:30-0500\n"
+"POT-Creation-Date: 2021-01-14 08:46-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1823,6 +1823,26 @@ msgstr ""
 msgid "Visiting:"
 msgstr ""
 #
+# File: src/App/Action/PackagesAction.php, line: 355
+# File: src/App/Action/Direct/HotelParallel.php, line: 100
+# File: src/App/Action/Direct/HotelParallel.php, line: 114
+# File: src/App/Action/Direct/SearchHotels.php, line: 105
+# File: src/App/Action/Direct/SearchHotels.php, line: 119
+msgid "day"
+msgstr ""
+#
+# File: src/App/Action/PackagesAction.php, line: 357
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 445
+# File: src/App/Action/Tourico/Policies.php, line: 432
+# File: src/App/Action/Direct/HotelParallel.php, line: 102
+# File: src/App/Action/Direct/HotelParallel.php, line: 116
+# File: src/App/Action/Direct/SearchHotels.php, line: 107
+# File: src/App/Action/Direct/SearchHotels.php, line: 121
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 473
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 683
+msgid "days"
+msgstr ""
+#
 # File: src/App/Action/Shared/AddActivity.php, line: 30
 # File: src/App/Action/Shared/AddActivity.php, line: 79
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
@@ -1844,17 +1864,6 @@ msgstr ""
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 310
 # File: console/src/Xml/Command/Templates/message.phtml, line: 282
 msgid "Pay"
-msgstr ""
-#
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 445
-# File: src/App/Action/Tourico/Policies.php, line: 432
-# File: src/App/Action/Direct/HotelParallel.php, line: 102
-# File: src/App/Action/Direct/HotelParallel.php, line: 116
-# File: src/App/Action/Direct/SearchHotels.php, line: 107
-# File: src/App/Action/Direct/SearchHotels.php, line: 121
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 473
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 683
-msgid "days"
 msgstr ""
 #
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 478
@@ -1930,13 +1939,6 @@ msgstr ""
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 781
 # File: src/App/Action/Travelport/PoliciesAirV2.php, line: 855
 msgid "Cancel Penalty is"
-msgstr ""
-#
-# File: src/App/Action/Direct/HotelParallel.php, line: 100
-# File: src/App/Action/Direct/HotelParallel.php, line: 114
-# File: src/App/Action/Direct/SearchHotels.php, line: 105
-# File: src/App/Action/Direct/SearchHotels.php, line: 119
-msgid "day"
 msgstr ""
 #
 # File: src/App/Action/Direct/HotelParallel.php, line: 104
