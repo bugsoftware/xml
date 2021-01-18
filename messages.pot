@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-18 10:56-0500\n"
+"POT-Creation-Date: 2021-01-18 14:52-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1586,6 +1586,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 114
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 404
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 405
+# File: src/App/Action/PackageAction.php, line: 283
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 375
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 376
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 400
@@ -1624,6 +1625,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 116
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
 # File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 408
+# File: src/App/Action/PackageAction.php, line: 285
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 378
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 379
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 403
@@ -1830,6 +1832,7 @@ msgstr ""
 # File: src/App/Action/Direct/HotelParallel.php, line: 114
 # File: src/App/Action/Direct/SearchHotels.php, line: 105
 # File: src/App/Action/Direct/SearchHotels.php, line: 119
+# File: src/App/Action/PackageAction.php, line: 278
 msgid "day"
 msgstr ""
 #
@@ -1840,6 +1843,7 @@ msgstr ""
 # File: src/App/Action/Direct/HotelParallel.php, line: 116
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 # File: src/App/Action/Direct/SearchHotels.php, line: 121
+# File: src/App/Action/PackageAction.php, line: 280
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 473
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 683
 msgid "days"
