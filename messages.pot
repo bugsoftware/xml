@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-25 16:12-0500\n"
+"POT-Creation-Date: 2021-01-26 11:38-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1776,19 +1776,19 @@ msgstr ""
 msgid "of total booking amount penalty."
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabin.php, line: 397
+# File: src/App/Action/RCCL/Cabin.php, line: 410
 msgid "Invalid number of passengers. This cabin can't hold the selected number of passengers."
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 401
+# File: src/App/Action/RCCL/Cabins.php, line: 416
 msgid "No Restrictions - Refundable"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 403
+# File: src/App/Action/RCCL/Cabins.php, line: 418
 msgid "Non-Refundable - Deposit"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 405
+# File: src/App/Action/RCCL/Cabins.php, line: 420
 msgid "Non-Refundable - Full Fare"
 msgstr ""
 #
