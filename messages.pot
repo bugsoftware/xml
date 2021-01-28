@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-27 17:53-0500\n"
+"POT-Creation-Date: 2021-01-28 12:03-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -840,15 +840,15 @@ msgstr ""
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 295
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 562
 # File: src/App/Action/HotelDO/Policies.php, line: 921
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 534
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 535
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 536
+# File: src/App/Action/Expedia/Policies.php, line: 557
 # File: src/App/Action/Expedia/Policies.php, line: 558
-# File: src/App/Action/Expedia/Policies.php, line: 559
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 387
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 388
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 577
-# File: src/App/Action/Expedia/SearchHotels.php, line: 623
-# File: src/App/Action/Expedia/SearchHotels.php, line: 624
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 390
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 391
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 580
+# File: src/App/Action/Expedia/SearchHotels.php, line: 626
+# File: src/App/Action/Expedia/SearchHotels.php, line: 627
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 268
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 269
 # File: src/App/Action/Youtravel/Policies.php, line: 255
@@ -1464,8 +1464,8 @@ msgstr ""
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 564
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 566
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 567
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 569
 # File: src/App/Action/Expedia/SearchHotels.php, line: 447
 # File: src/App/Action/Expedia/SearchHotels.php, line: 448
 # File: src/App/Action/Expedia/SearchHotels.php, line: 450
@@ -1483,8 +1483,8 @@ msgstr ""
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 564
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 566
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 567
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 569
 # File: src/App/Action/Expedia/SearchHotels.php, line: 447
 # File: src/App/Action/Expedia/SearchHotels.php, line: 448
 # File: src/App/Action/Expedia/SearchHotels.php, line: 450
@@ -1520,7 +1520,7 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 337
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 154
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 155
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 564
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 567
 # File: src/App/Action/Expedia/SearchHotels.php, line: 447
 # File: src/App/Action/Expedia/SearchHotels.php, line: 448
 msgid "night charge"
@@ -1533,7 +1533,7 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 341
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 157
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 566
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 569
 # File: src/App/Action/Expedia/SearchHotels.php, line: 450
 # File: src/App/Action/Expedia/SearchHotels.php, line: 451
 msgid "nights charge"
