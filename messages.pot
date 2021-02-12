@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-12 09:42-0500\n"
+"POT-Creation-Date: 2021-02-12 10:53-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1258,38 +1258,49 @@ msgstr ""
 msgid "Failure to arrive at your hotel or property will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 926
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 921
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2040
 msgid "Unable to fetch availability for the selected criteria"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 927
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 922
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2041
 msgid "we are unable to get results"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 965
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1004
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1510
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 960
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 999
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1505
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2079
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2118
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2624
 msgid "No bags allowed"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 979
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 974
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2093
 msgid "1 free bag"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 981
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 976
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2095
 msgid "Free bags allowed"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 994
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 989
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2108
 msgid "Kilos allowed"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 996
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 991
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2110
 msgid "Pounds allowed"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1483
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1491
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1478
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1486
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2597
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2605
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1261
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1375
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
@@ -1300,8 +1311,10 @@ msgstr ""
 msgid "Stop"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1485
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1493
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1480
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1488
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2599
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2607
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1263
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1377
 # File: src/App/Action/Direct/SearchFlights.php, line: 248
@@ -1312,7 +1325,7 @@ msgstr ""
 msgid "Stops"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1928
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1923
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
