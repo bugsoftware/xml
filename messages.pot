@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-02 17:02-0500\n"
+"POT-Creation-Date: 2021-03-02 18:15-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -559,8 +559,8 @@ msgstr ""
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
 # File: src/App/Action/Omnibees/SearchHotels.php, line: 1539
 # File: src/App/Action/Travellanda/Hotel.php, line: 249
-# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 98
-# File: src/App/Action/Travellanda/SearchHotels.php, line: 261
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 143
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 284
 # File: src/App/Action/Tourico/Hotel.php, line: 251
 # File: src/App/Action/Tourico/Hotel.php, line: 253
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 55
@@ -1822,10 +1822,10 @@ msgstr ""
 msgid "of total booking"
 msgstr ""
 #
-# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 151
-# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 156
-# File: src/App/Action/Travellanda/SearchHotels.php, line: 270
-# File: src/App/Action/Travellanda/SearchHotels.php, line: 275
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 196
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 201
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 293
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 298
 msgid "Cancellation policy deadline is"
 msgstr ""
 #
