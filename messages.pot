@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 05:11-0400\n"
+"POT-Creation-Date: 2021-03-23 06:25-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3148,13 +3148,13 @@ msgstr ""
 msgid "Exception Error - Unable to create invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 189
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 195
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 200
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 206
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 177
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 183
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 221
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 227
 msgid "Cancellation is being processed"
 msgstr ""
 #
