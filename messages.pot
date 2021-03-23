@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 10:03-0400\n"
+"POT-Creation-Date: 2021-03-23 13:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,11 +49,11 @@ msgstr ""
 # File: src/App/Action/GTA/HotelParallelParse.php, line: 382
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 624
 # File: src/App/Action/GTA/SearchHotels.php, line: 688
-# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 178
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 199
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 450
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 334
 # File: src/App/Action/Priceline/Hotel.php, line: 302
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 418
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 448
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 354
 # File: src/App/Action/Priceline/SearchHotels.php, line: 562
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 193
@@ -119,7 +119,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotels.php, line: 471
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 490
 # File: src/App/Action/Abreu/Policies.php, line: 477
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 197
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 214
 # File: src/App/Action/BeLive/SearchHotels.php, line: 440
 # File: src/App/Action/Jactravel/Policies.php, line: 352
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 237
@@ -196,8 +196,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 391
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 175
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 206
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 189
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 219
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 190
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 220
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 421
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 511
 # File: src/App/Action/Sandos/HotelParallelParse.php, line: 233
@@ -302,7 +302,7 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 476
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 436
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 438
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 197
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 214
 # File: src/App/Action/BeLive/SearchHotels.php, line: 442
 # File: src/App/Action/BeLive/SearchHotels.php, line: 444
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 239
@@ -577,7 +577,8 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 658
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 307
 # File: src/App/Action/Priceline/Hotel.php, line: 275
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 364
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 386
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 388
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 327
 # File: src/App/Action/Priceline/SearchHotels.php, line: 529
 msgid "discount"
@@ -586,7 +587,7 @@ msgstr ""
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1278
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 565
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 566
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 261
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 287
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 200
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 201
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 224
@@ -599,8 +600,8 @@ msgstr ""
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 537
 # File: src/App/Action/JTG/SearchHotels.php, line: 844
 # File: src/App/Action/JTG/SearchHotels.php, line: 845
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 179
-# File: src/App/Action/Restel/HotelParallelParse.php, line: 180
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 205
+# File: src/App/Action/Restel/HotelParallelParse.php, line: 206
 # File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 530
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 531
@@ -619,8 +620,8 @@ msgstr ""
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 269
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 554
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 555
-# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 232
-# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 233
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 262
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 263
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 672
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 673
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 306
@@ -849,8 +850,8 @@ msgstr ""
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 535
 # File: src/App/Action/Expedia/Policies.php, line: 557
 # File: src/App/Action/Expedia/Policies.php, line: 558
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 390
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 391
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 420
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 421
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 580
 # File: src/App/Action/Expedia/SearchHotels.php, line: 651
 # File: src/App/Action/Expedia/SearchHotels.php, line: 652
@@ -1012,7 +1013,7 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 337
 # File: src/App/Action/Tourico/SearchHotels.php, line: 419
 # File: src/App/Action/Tourico/SearchHotels.php, line: 421
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 414
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 444
 # File: src/App/Action/Priceline/SearchHotels.php, line: 558
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 195
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 384
@@ -1058,8 +1059,8 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotels.php, line: 417
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 332
 # File: src/App/Action/Priceline/Hotel.php, line: 300
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 412
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 416
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 442
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 446
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
 # File: src/App/Action/Priceline/SearchHotels.php, line: 556
 # File: src/App/Action/Priceline/SearchHotels.php, line: 560
@@ -1135,8 +1136,8 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 480
 # File: src/App/Action/Abreu/Policies.php, line: 466
 # File: src/App/Action/Abreu/Policies.php, line: 467
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 186
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 187
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 203
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 204
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 509
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 510
 # File: src/App/Action/Travelplan/Policies.php, line: 429
@@ -1165,7 +1166,7 @@ msgid "This is a non refundable booking"
 msgstr ""
 #
 # File: src/App/Action/Bonotel/Hotel.php, line: 650
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 504
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 525
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 676
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 665
 # File: src/App/Action/Tourico/Hotel.php, line: 364
@@ -2092,8 +2093,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 429
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 424
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 426
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 237
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 239
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 238
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 240
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 457
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 459
 msgid "Package Rate"
@@ -2389,8 +2390,8 @@ msgstr ""
 #
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 232
 # File: src/App/Action/Youtravel/Policies.php, line: 224
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 189
-# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 219
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 190
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 220
 msgid "if charged on or after"
 msgstr ""
 #
@@ -2448,14 +2449,14 @@ msgstr ""
 #
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 523
 # File: src/App/Action/Priceline/Policies.php, line: 511
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 437
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 467
 # File: src/App/Action/Priceline/SearchHotels.php, line: 583
 msgid "This is a Non-Refundable booking. You are not allowed to change or cancel your reservation."
 msgstr ""
 #
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 523
 # File: src/App/Action/Priceline/Policies.php, line: 511
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 437
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 467
 # File: src/App/Action/Priceline/SearchHotels.php, line: 583
 msgid "If you fail to arrive or cancel the booking, no refund will be given and you will still be charged for the full reservation amount."
 msgstr ""
