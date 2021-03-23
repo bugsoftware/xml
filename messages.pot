@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 13:08-0400\n"
+"POT-Creation-Date: 2021-03-23 13:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -432,8 +432,8 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 381
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 394
 # File: src/App/Action/ActionTravel/Policies.php, line: 391
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 84
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 92
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 83
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 91
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 292
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 300
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 460
@@ -1086,13 +1086,13 @@ msgstr ""
 msgid "This is a non refundable booking. You will be charged full stay of the booking."
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 63
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 62
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 271
 msgid "No penalty"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 65
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 67
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 64
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 66
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 273
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 275
 # File: src/App/Action/EuropaMundo/Policies.php, line: 102
@@ -1100,34 +1100,34 @@ msgstr ""
 msgid "penalty"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 70
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 69
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 278
 msgid "Pay First Night"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 75
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 74
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 283
 msgid "Average price of all nights"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 79
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 78
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 287
 msgid "No Show:"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 82
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 90
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 81
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 89
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 290
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 298
 msgid "Cancelling"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 86
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 85
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 294
 msgid "day(s) before check-in date you have"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 94
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 93
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 302
 msgid "day(s) after confirmation would incur"
 msgstr ""
