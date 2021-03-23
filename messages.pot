@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-23 13:31-0400\n"
+"POT-Creation-Date: 2021-03-23 13:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
 # File: src/App/Action/Convencional/SearchHotels.php, line: 432
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 445
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 374
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 403
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 585
 # File: src/App/Action/Jactravel/SearchHotels.php, line: 418
 # File: src/App/Action/Tourico/Hotel.php, line: 361
@@ -555,7 +555,7 @@ msgstr ""
 msgid "of expenses"
 msgstr ""
 #
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1267
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1288
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
 # File: src/App/Action/Omnibees/SearchHotels.php, line: 1561
 # File: src/App/Action/Travellanda/Hotel.php, line: 249
@@ -584,7 +584,7 @@ msgstr ""
 msgid "discount"
 msgstr ""
 #
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1278
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1307
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 565
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 566
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 287
@@ -602,7 +602,7 @@ msgstr ""
 # File: src/App/Action/JTG/SearchHotels.php, line: 845
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 205
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 206
-# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 222
+# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 251
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 530
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 531
 # File: src/App/Action/Travelport/Policies.php, line: 530
