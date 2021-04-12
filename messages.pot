@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-09 08:48-0400\n"
+"POT-Creation-Date: 2021-04-12 10:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr ""
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 257
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
 # File: src/App/Action/Convencional/SearchHotels.php, line: 432
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 445
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 452
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 403
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 585
 # File: src/App/Action/Jactravel/SearchHotels.php, line: 418
@@ -3572,29 +3572,34 @@ msgstr ""
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5873
-# File: console/src/Xml/Command/Reservations.php, line: 5874
-# File: console/src/Xml/Command/Reservations.php, line: 5922
-msgid "Congratulations"
+# File: console/src/Xml/Command/Reservations.php, line: 5829
+msgid "Settlement"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5879
+# File: console/src/Xml/Command/Reservations.php, line: 5834
+# File: console/src/Xml/Command/Reservations.php, line: 6028
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5880
+# File: console/src/Xml/Command/Reservations.php, line: 6022
+# File: console/src/Xml/Command/Reservations.php, line: 6023
+# File: console/src/Xml/Command/Reservations.php, line: 6071
+msgid "Congratulations"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 6029
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5921
+# File: console/src/Xml/Command/Reservations.php, line: 6070
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5927
+# File: console/src/Xml/Command/Reservations.php, line: 6076
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5928
+# File: console/src/Xml/Command/Reservations.php, line: 6077
 msgid "Reservation Reference:"
 msgstr ""
 #
