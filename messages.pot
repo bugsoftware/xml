@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:28-0400\n"
+"POT-Creation-Date: 2021-04-14 16:10-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1881,7 +1881,7 @@ msgstr ""
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 284
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 286
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 310
-# File: console/src/Xml/Command/Templates/message.phtml, line: 282
+# File: console/src/Xml/Command/Templates/message.phtml, line: 255
 msgid "Pay"
 msgstr ""
 #
@@ -3641,37 +3641,37 @@ msgstr ""
 msgid "Date:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5900
+# File: console/src/Xml/Command/Reservations.php, line: 5901
 msgid "Account Id:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5902
+# File: console/src/Xml/Command/Reservations.php, line: 5905
 msgid "PNR/Reference:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6073
-# File: console/src/Xml/Command/Reservations.php, line: 6074
-# File: console/src/Xml/Command/Reservations.php, line: 6122
+# File: console/src/Xml/Command/Reservations.php, line: 6077
+# File: console/src/Xml/Command/Reservations.php, line: 6078
+# File: console/src/Xml/Command/Reservations.php, line: 6126
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6079
+# File: console/src/Xml/Command/Reservations.php, line: 6083
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6080
+# File: console/src/Xml/Command/Reservations.php, line: 6084
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6121
+# File: console/src/Xml/Command/Reservations.php, line: 6125
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6127
+# File: console/src/Xml/Command/Reservations.php, line: 6131
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6128
+# File: console/src/Xml/Command/Reservations.php, line: 6132
 msgid "Reservation Reference:"
 msgstr ""
 #
@@ -4425,11 +4425,11 @@ msgstr ""
 msgid "Dear"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/message.phtml, line: 282
+# File: console/src/Xml/Command/Templates/message.phtml, line: 255
 msgid "View Terms & Conditions"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/message.phtml, line: 293
+# File: console/src/Xml/Command/Templates/message.phtml, line: 258
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 248
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 284
 msgid "Best Regards"
