@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 06:40-0400\n"
+"POT-Creation-Date: 2021-04-16 09:39-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3073,7 +3073,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1203
 # File: console/src/Xml/Command/Reservations.php, line: 1415
 # File: console/src/Xml/Command/Reservations.php, line: 2611
-# File: console/src/Xml/Command/Reservations.php, line: 5525
+# File: console/src/Xml/Command/Reservations.php, line: 5542
 # File: console/src/Xml/Command/FraudCheck.php, line: 767
 # File: console/src/Xml/Command/FraudCheck.php, line: 820
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 240
@@ -3085,7 +3085,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1146
 # File: console/src/Xml/Command/Reservations.php, line: 1205
 # File: console/src/Xml/Command/Reservations.php, line: 1417
-# File: console/src/Xml/Command/Reservations.php, line: 5527
+# File: console/src/Xml/Command/Reservations.php, line: 5544
 # File: console/src/Xml/Command/FraudCheck.php, line: 769
 # File: console/src/Xml/Command/FraudCheck.php, line: 822
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 242
@@ -3106,14 +3106,14 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 987
 # File: console/src/Xml/Command/Reservations.php, line: 1351
 # File: console/src/Xml/Command/Reservations.php, line: 2580
-# File: console/src/Xml/Command/Reservations.php, line: 5854
+# File: console/src/Xml/Command/Reservations.php, line: 5871
 msgid "Credit Card"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 993
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1000
-# File: console/src/Xml/Command/Reservations.php, line: 5851
+# File: console/src/Xml/Command/Reservations.php, line: 5868
 msgid "Cash"
 msgstr ""
 #
@@ -3574,104 +3574,104 @@ msgstr ""
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5829
+# File: console/src/Xml/Command/Reservations.php, line: 5846
 msgid "Settlement"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5834
+# File: console/src/Xml/Command/Reservations.php, line: 5851
 msgid "New Payment/Settlement has been posted."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5857
-# File: console/src/Xml/Command/Reservations.php, line: 5877
+# File: console/src/Xml/Command/Reservations.php, line: 5874
+# File: console/src/Xml/Command/Reservations.php, line: 5894
 msgid "Unknown"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5862
+# File: console/src/Xml/Command/Reservations.php, line: 5879
 msgid "Total Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5865
+# File: console/src/Xml/Command/Reservations.php, line: 5882
 msgid "1st Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5868
+# File: console/src/Xml/Command/Reservations.php, line: 5885
 msgid "2nd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5871
+# File: console/src/Xml/Command/Reservations.php, line: 5888
 msgid "3rd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5874
+# File: console/src/Xml/Command/Reservations.php, line: 5891
 msgid "4th Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5880
+# File: console/src/Xml/Command/Reservations.php, line: 5897
 msgid "Reservation #:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5882
+# File: console/src/Xml/Command/Reservations.php, line: 5899
 msgid "Country of Payment:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5884
+# File: console/src/Xml/Command/Reservations.php, line: 5901
 msgid "Type of Payment:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5886
+# File: console/src/Xml/Command/Reservations.php, line: 5903
 msgid "Payment Method:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5889
+# File: console/src/Xml/Command/Reservations.php, line: 5906
 msgid "Receipt Number:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5893
+# File: console/src/Xml/Command/Reservations.php, line: 5910
 msgid "Approval Number:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5896
+# File: console/src/Xml/Command/Reservations.php, line: 5913
 msgid "Amount:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5898
+# File: console/src/Xml/Command/Reservations.php, line: 5915
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 440
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 485
 msgid "Date:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5901
+# File: console/src/Xml/Command/Reservations.php, line: 5918
 msgid "Account Id:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5905
+# File: console/src/Xml/Command/Reservations.php, line: 5922
 msgid "PNR/Reference:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6077
-# File: console/src/Xml/Command/Reservations.php, line: 6078
-# File: console/src/Xml/Command/Reservations.php, line: 6126
+# File: console/src/Xml/Command/Reservations.php, line: 6094
+# File: console/src/Xml/Command/Reservations.php, line: 6095
+# File: console/src/Xml/Command/Reservations.php, line: 6143
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6083
+# File: console/src/Xml/Command/Reservations.php, line: 6100
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6084
+# File: console/src/Xml/Command/Reservations.php, line: 6101
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6125
+# File: console/src/Xml/Command/Reservations.php, line: 6142
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6131
+# File: console/src/Xml/Command/Reservations.php, line: 6148
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6132
+# File: console/src/Xml/Command/Reservations.php, line: 6149
 msgid "Reservation Reference:"
 msgstr ""
 #
