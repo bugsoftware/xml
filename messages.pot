@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-21 07:49-0400\n"
+"POT-Creation-Date: 2021-04-21 12:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3108,14 +3108,14 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 987
 # File: console/src/Xml/Command/Reservations.php, line: 1351
 # File: console/src/Xml/Command/Reservations.php, line: 2610
-# File: console/src/Xml/Command/Reservations.php, line: 5914
+# File: console/src/Xml/Command/Reservations.php, line: 5898
 msgid "Credit Card"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 993
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1000
-# File: console/src/Xml/Command/Reservations.php, line: 5911
+# File: console/src/Xml/Command/Reservations.php, line: 5895
 msgid "Cash"
 msgstr ""
 #
@@ -3576,37 +3576,37 @@ msgstr ""
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5889
-msgid "Settlement"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 5894
-msgid "New Payment/Settlement has been posted."
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 5917
-# File: console/src/Xml/Command/Reservations.php, line: 5937
+# File: console/src/Xml/Command/Reservations.php, line: 5901
+# File: console/src/Xml/Command/Reservations.php, line: 5921
 msgid "Unknown"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5922
+# File: console/src/Xml/Command/Reservations.php, line: 5906
 msgid "Total Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5925
+# File: console/src/Xml/Command/Reservations.php, line: 5909
 msgid "1st Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5928
+# File: console/src/Xml/Command/Reservations.php, line: 5912
 msgid "2nd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5931
+# File: console/src/Xml/Command/Reservations.php, line: 5915
 msgid "3rd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5934
+# File: console/src/Xml/Command/Reservations.php, line: 5918
 msgid "4th Payment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 5934
+msgid "Settlement"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 5939
+msgid "New Payment/Settlement has been posted."
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 5940
