@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-28 12:19-0400\n"
+"POT-Creation-Date: 2021-04-28 17:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3106,8 +3106,6 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 292
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 987
-# File: console/src/Xml/Command/Reservations.php, line: 1353
-# File: console/src/Xml/Command/Reservations.php, line: 2613
 # File: console/src/Xml/Command/Reservations.php, line: 5902
 msgid "Credit Card"
 msgstr ""
@@ -3471,46 +3469,6 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1336
 # File: console/src/Xml/Command/Reservations.php, line: 2607
 msgid "Unknown Payment Status"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1355
-# File: console/src/Xml/Command/Reservations.php, line: 2615
-msgid "Paypal"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1357
-# File: console/src/Xml/Command/Reservations.php, line: 1359
-# File: console/src/Xml/Command/Reservations.php, line: 2617
-# File: console/src/Xml/Command/Reservations.php, line: 2619
-msgid "SafetyPay"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1361
-# File: console/src/Xml/Command/Reservations.php, line: 2621
-msgid "PayU"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1363
-# File: console/src/Xml/Command/Reservations.php, line: 2623
-msgid "Book Now and Pay Later"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1365
-# File: console/src/Xml/Command/Reservations.php, line: 2625
-msgid "PAYFORT"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1367
-msgid "PAYFORT - Sadad"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1369
-msgid "Payeezy"
-msgstr ""
-#
-# File: console/src/Xml/Command/Reservations.php, line: 1372
-# File: console/src/Xml/Command/Reservations.php, line: 2627
-msgid "Unknown Payment Method"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 1984
