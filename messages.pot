@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-28 17:13-0400\n"
+"POT-Creation-Date: 2021-04-29 02:06-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -510,6 +510,7 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1294
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1299
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1023
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
 msgid "to"
 msgstr ""
 #
@@ -3073,7 +3074,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1203
 # File: console/src/Xml/Command/Reservations.php, line: 1417
 # File: console/src/Xml/Command/Reservations.php, line: 2644
-# File: console/src/Xml/Command/Reservations.php, line: 5589
+# File: console/src/Xml/Command/Reservations.php, line: 5733
 # File: console/src/Xml/Command/FraudCheck.php, line: 767
 # File: console/src/Xml/Command/FraudCheck.php, line: 820
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 263
@@ -3086,7 +3087,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1146
 # File: console/src/Xml/Command/Reservations.php, line: 1205
 # File: console/src/Xml/Command/Reservations.php, line: 1419
-# File: console/src/Xml/Command/Reservations.php, line: 5591
+# File: console/src/Xml/Command/Reservations.php, line: 5735
 # File: console/src/Xml/Command/FraudCheck.php, line: 769
 # File: console/src/Xml/Command/FraudCheck.php, line: 822
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 265
@@ -3106,14 +3107,14 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 292
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 987
-# File: console/src/Xml/Command/Reservations.php, line: 5902
+# File: console/src/Xml/Command/Reservations.php, line: 6046
 msgid "Credit Card"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 993
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1000
-# File: console/src/Xml/Command/Reservations.php, line: 5899
+# File: console/src/Xml/Command/Reservations.php, line: 6043
 msgid "Cash"
 msgstr ""
 #
@@ -3578,104 +3579,104 @@ msgstr ""
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5905
-# File: console/src/Xml/Command/Reservations.php, line: 5925
+# File: console/src/Xml/Command/Reservations.php, line: 6049
+# File: console/src/Xml/Command/Reservations.php, line: 6069
 msgid "Unknown"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5910
+# File: console/src/Xml/Command/Reservations.php, line: 6054
 msgid "Total Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5913
+# File: console/src/Xml/Command/Reservations.php, line: 6057
 msgid "1st Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5916
+# File: console/src/Xml/Command/Reservations.php, line: 6060
 msgid "2nd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5919
+# File: console/src/Xml/Command/Reservations.php, line: 6063
 msgid "3rd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5922
+# File: console/src/Xml/Command/Reservations.php, line: 6066
 msgid "4th Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5938
+# File: console/src/Xml/Command/Reservations.php, line: 6082
 msgid "Settlement"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5943
+# File: console/src/Xml/Command/Reservations.php, line: 6087
 msgid "New Payment/Settlement has been posted."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5944
+# File: console/src/Xml/Command/Reservations.php, line: 6088
 msgid "Reservation #:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5946
+# File: console/src/Xml/Command/Reservations.php, line: 6090
 msgid "Country of Payment:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5948
+# File: console/src/Xml/Command/Reservations.php, line: 6092
 msgid "Type of Payment:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5950
+# File: console/src/Xml/Command/Reservations.php, line: 6094
 msgid "Payment Method:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5953
+# File: console/src/Xml/Command/Reservations.php, line: 6097
 msgid "Receipt Number:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5957
+# File: console/src/Xml/Command/Reservations.php, line: 6101
 msgid "Approval Number:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5960
+# File: console/src/Xml/Command/Reservations.php, line: 6104
 msgid "Amount:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5962
+# File: console/src/Xml/Command/Reservations.php, line: 6106
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 440
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 485
 msgid "Date:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5965
+# File: console/src/Xml/Command/Reservations.php, line: 6109
 msgid "Account Id:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5969
+# File: console/src/Xml/Command/Reservations.php, line: 6113
 msgid "PNR/Reference:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6141
-# File: console/src/Xml/Command/Reservations.php, line: 6142
-# File: console/src/Xml/Command/Reservations.php, line: 6190
+# File: console/src/Xml/Command/Reservations.php, line: 6285
+# File: console/src/Xml/Command/Reservations.php, line: 6286
+# File: console/src/Xml/Command/Reservations.php, line: 6334
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6147
+# File: console/src/Xml/Command/Reservations.php, line: 6291
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6148
+# File: console/src/Xml/Command/Reservations.php, line: 6292
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6189
+# File: console/src/Xml/Command/Reservations.php, line: 6333
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6195
+# File: console/src/Xml/Command/Reservations.php, line: 6339
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6196
+# File: console/src/Xml/Command/Reservations.php, line: 6340
 msgid "Reservation Reference:"
 msgstr ""
 #
@@ -3726,10 +3727,12 @@ msgid "adult"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 392
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 130
 msgid "adults"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 392
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 130
 msgid "children"
 msgstr ""
 #
@@ -3750,14 +3753,239 @@ msgstr ""
 msgid "total"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 36
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 37
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 38
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 39
 msgid "Quote"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 39
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 40
 msgid "With a world full of fascinating destinations, choose the perfect vacation for you..."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 123
+msgid "Quotation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 124
+msgid "As requested we detail the following quote"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 124
+msgid "we remain attentive to your inquiries and requirements"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 130
+msgid "Reference quote:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 130
+msgid "Pasajeros:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 132
+msgid "Telephone:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 132
+msgid "Quotation date:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
+# File: console/src/Xml/Command/Templates/reservation.phtml, line: 272
+msgid "Cabin"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
+msgid "Cruise from"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 153
+msgid "Date"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 154
+msgid "Itinerary"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 155
+msgid "Arrival"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 156
+msgid "Departure"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 196
+msgid "Item"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 197
+msgid "Price"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 204
+msgid "Cruise"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 212
+msgid "Taxes & Charges"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 221
+msgid "TOTAL"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 236
+msgid "enjoy even more"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 236
+msgid "your vacations"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 237
+msgid "You are one click away from starting your adventure"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 237
+msgid "but you could improve your experience even more"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 237
+msgid "adding these fabulous services"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 238
+msgid "I WANT IT"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 248
+msgid "the cruise"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 249
+msgid "GUARANTEED CABIN"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 249
+msgid "The specific cabin number is unknown. This can be assigned until the same day of departure. Once assigned the booth number cannot be changed."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 250
+msgid "INCLUDED"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 250
+msgid "Cruise, Complete meals, tea, coffee, milk, soft drinks from dispenser; shows, daily entertainment, access to various public areas such as Gym, Taxes, port charges."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 251
+msgid "IT'S NOT INCLUDED"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 251
+msgid "Air tickets, soft drinks, freshly squeezed juices, alcoholic beverages, assistance and cancellation insurance, excursions, Wifi, Transfers, purchases, tips, Casino, Spa services, and all items not detailed as included."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 263
+msgid "Enjoy"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 263
+msgid "different destinations"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 267
+msgid "Accommodation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 267
+msgid "and unique experience"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 271
+msgid "Meals"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 271
+msgid "complete"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 281
+msgid "Shows"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 281
+msgid "incredible"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 285
+msgid "Various activities"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 285
+msgid "for all ages"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 289
+msgid "Entertainment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 289
+msgid "and night life"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 299
+msgid "GENERAL CONDITIONS:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 300
+msgid "IT IS THE RESPONSIBILITY OF EACH PERSON TO CHECK VISAS AND IMMUNIZATIONS"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 301
+msgid "For required visas it is suggested to visit the following link"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 302
+msgid "A person over the age of 21 is required to be in each booth. With the sole exception of having the minor's cabin in front of or to the side of the parent's cabin."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 303
+msgid "Underage spouses can travel with proof of marriage."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 304
+msgid "Boarding of pregnant women during the 24th week is NOT allowed, a medical certificate will be requested in case of pregnant women with a period of less than 24 weeks of gestation, which indicates how many weeks of pregnancy they are at the time of boarding, showing that they are in good health and that it is not a high-risk pregnancy."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 305
+msgid "Infants under 6 months of age cannot be shipped. For itineraries of 3 consecutive nights of navigation at sea, transatlantic, transpacific and some itineraries in South America, infants must be 1 year old at the time of boarding."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 306
+msgid "For all our routes, a Valid Passport is required (minimum 6 months, at the time of disembarkation) and carry a photocopy of it."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 307
+msgid "The ports may vary, if the shipping company deems it convenient."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 320
+msgid "contact us:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 324
+msgid "OUR WEBSITE"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 335
+msgid "All rights reserved"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 336
+msgid "Write us"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 43
@@ -3973,10 +4201,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 271
 msgid "Dining Selection"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/reservation.phtml, line: 272
-msgid "Cabin"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 285
