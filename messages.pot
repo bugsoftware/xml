@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-03 18:18-0400\n"
+"POT-Creation-Date: 2021-05-04 11:18-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -699,7 +699,7 @@ msgstr ""
 # File: src/App/Action/EuropaMundo/Tour.php, line: 453
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 388
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 734
-# File: src/App/Action/Yalago/SearchHotels.php, line: 190
+# File: src/App/Action/Yalago/SearchHotels.php, line: 198
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
 msgid "Cancel on or after"
 msgstr ""
@@ -873,8 +873,8 @@ msgstr ""
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 475
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 436
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
-# File: src/App/Action/Yalago/Policies.php, line: 328
-# File: src/App/Action/Yalago/Policies.php, line: 329
+# File: src/App/Action/Yalago/Policies.php, line: 338
+# File: src/App/Action/Yalago/Policies.php, line: 339
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -1102,7 +1102,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 275
 # File: src/App/Action/EuropaMundo/Policies.php, line: 102
 # File: src/App/Action/EuropaMundo/Tour.php, line: 455
-# File: src/App/Action/Yalago/SearchHotels.php, line: 190
+# File: src/App/Action/Yalago/SearchHotels.php, line: 198
 msgid "penalty"
 msgstr ""
 #
@@ -2671,7 +2671,7 @@ msgstr ""
 msgid "All Airports"
 msgstr ""
 #
-# File: src/App/Action/Yalago/SearchHotels.php, line: 190
+# File: src/App/Action/Yalago/SearchHotels.php, line: 198
 msgid "you will incur in"
 msgstr ""
 #
@@ -3187,16 +3187,16 @@ msgid "Travel Confirmation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1729
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4396
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4508
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4404
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4516
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1730
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1843
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1959
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4397
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4509
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4405
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4517
 msgid "View Reservation"
 msgstr ""
 #
