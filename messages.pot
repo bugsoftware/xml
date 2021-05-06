@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-05 16:03-0400\n"
+"POT-Creation-Date: 2021-05-06 17:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2729,9 +2729,9 @@ msgstr ""
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 257
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 258
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 261
-# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2254
-# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2255
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2257
 # File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2258
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2261
 # File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 388
 # File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 389
 # File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 392
@@ -2983,7 +2983,7 @@ msgstr ""
 # File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 334
 # File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 411
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 261
-# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2258
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2261
 # File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 392
 # File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 280
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 445
@@ -3131,57 +3131,57 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1360
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1381
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1363
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1384
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1366
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1387
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1369
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1390
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1372
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1393
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1375
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1396
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1378
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1399
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1381
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1402
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1384
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1405
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1389
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1410
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1392
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1413
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1498
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1519
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1500
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1521
 # File: console/src/Xml/Command/Sendmessage.php, line: 287
 msgid "Travel Confirmation"
 msgstr ""
@@ -3213,6 +3213,13 @@ msgstr ""
 # File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 221
 # File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 227
 msgid "Cancellation is being processed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Shared/SendQuote.php, line: 183
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 37
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 38
+# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 39
+msgid "Quote"
 msgstr ""
 #
 # File: console/src/Xml/Command/Direct/CancelHotel.php, line: 32
@@ -3760,12 +3767,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 451
 msgid "total"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 37
-# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 38
-# File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 39
-msgid "Quote"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 40
@@ -4617,6 +4618,22 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 818
 msgid "This is a pre-paid reservation. If the customer's length of stay matches the itinerary above, there is no charge to the customer. Depending on the property, you may incur other charges that we do not collect. Excluded surcharges will be collected by property. Examples of fees not included in the prices are hotel resort fees, hotel energy surcharges, parking fees, pet fees, and incidental charges (such as room service, mini-bar, gratuities). These amounts will be collected from you directly by the hotel unless otherwise indicated at the time of booking."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 13
+msgid "Prepaid Voucher"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 20
+msgid "Booking Confirmation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 22
+msgid "Gueste Name"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 45
+msgid "Reservation ID"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 37
