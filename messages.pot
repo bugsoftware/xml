@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-07 13:14-0400\n"
+"POT-Creation-Date: 2021-05-07 15:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3743,12 +3743,15 @@ msgid "Unable to confirm or waitlist"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 19
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 19
 msgid "New Account"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 81
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 175
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 324
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 81
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 120
 msgid "OUR WEBSITE"
 msgstr ""
 #
@@ -3794,15 +3797,18 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 171
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 320
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 116
 msgid "contact us:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 186
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 335
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 131
 msgid "All rights reserved"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 187
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 132
 msgid "Write Us"
 msgstr ""
 #
@@ -5046,4 +5052,24 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/openagent_notification.phtml, line: 24
 msgid "Email:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 92
+msgid "SEARCHES REPORT"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 94
+msgid "Please find in attach excel spreadsheet"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 94
+msgid "with search history report"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 103
+msgid "Searches Report"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/searches.phtml, line: 103
+msgid "Please find in attach excel spreadsheet searches report file."
 msgstr ""
