@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-07 01:55-0400\n"
+"POT-Creation-Date: 2021-05-07 06:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -614,8 +614,8 @@ msgstr ""
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 342
 # File: src/App/Action/Coming2/Policies.php, line: 393
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 207
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 537
 # File: src/App/Action/Rakuten/MultiPolicies.php, line: 538
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 539
 # File: src/App/Action/Rakuten/Policies.php, line: 587
 # File: src/App/Action/Rakuten/Policies.php, line: 588
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 268
@@ -2116,22 +2116,22 @@ msgstr ""
 msgid "Residents Rate"
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 543
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
 # File: src/App/Action/Rakuten/Policies.php, line: 592
 msgid "If you cancel this booking Date From "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 543
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
 # File: src/App/Action/Rakuten/Policies.php, line: 592
 msgid " Date To "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 543
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
 # File: src/App/Action/Rakuten/Policies.php, line: 592
 msgid " cost "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 543
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
 # File: src/App/Action/Rakuten/Policies.php, line: 592
 #, php-format
 msgid "% of total."
