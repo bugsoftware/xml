@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-10 09:08-0400\n"
+"POT-Creation-Date: 2021-05-10 18:05-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1353,22 +1353,22 @@ msgstr ""
 # File: src/App/Action/Costa/SearchCruises.php, line: 778
 # File: src/App/Action/Costa/SearchCruises.php, line: 801
 # File: src/App/Action/Costa/SearchCruises.php, line: 803
-# File: src/App/Action/RCCL/SearchCruises.php, line: 747
-# File: src/App/Action/RCCL/SearchCruises.php, line: 749
-# File: src/App/Action/RCCL/SearchCruises.php, line: 772
-# File: src/App/Action/RCCL/SearchCruises.php, line: 774
-# File: src/App/Action/RCCL/SearchCruises.php, line: 797
-# File: src/App/Action/RCCL/SearchCruises.php, line: 799
-# File: src/App/Action/RCCL/SearchCruises.php, line: 822
-# File: src/App/Action/RCCL/SearchCruises.php, line: 824
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1530
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1532
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1555
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1557
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1580
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1582
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1605
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1607
+# File: src/App/Action/RCCL/SearchCruises.php, line: 748
+# File: src/App/Action/RCCL/SearchCruises.php, line: 750
+# File: src/App/Action/RCCL/SearchCruises.php, line: 773
+# File: src/App/Action/RCCL/SearchCruises.php, line: 775
+# File: src/App/Action/RCCL/SearchCruises.php, line: 798
+# File: src/App/Action/RCCL/SearchCruises.php, line: 800
+# File: src/App/Action/RCCL/SearchCruises.php, line: 823
+# File: src/App/Action/RCCL/SearchCruises.php, line: 825
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1531
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1533
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1556
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1558
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1581
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1583
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1606
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1608
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 880
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 882
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 905
@@ -1795,15 +1795,15 @@ msgstr ""
 msgid "Invalid number of passengers. This cabin can't hold the selected number of passengers."
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 422
+# File: src/App/Action/RCCL/Cabins.php, line: 423
 msgid "No Restrictions - Refundable"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 424
+# File: src/App/Action/RCCL/Cabins.php, line: 425
 msgid "Non-Refundable - Deposit"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 426
+# File: src/App/Action/RCCL/Cabins.php, line: 427
 msgid "Non-Refundable - Full Fare"
 msgstr ""
 #
@@ -3131,57 +3131,57 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1382
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1438
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1385
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1441
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1388
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1444
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1391
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1447
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1394
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1450
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1397
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1453
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1400
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1456
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1403
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1459
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1406
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1462
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1411
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1467
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1414
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1470
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1521
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1577
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 1523
+# File: console/src/Xml/Command/Sendvoucher.php, line: 1579
 # File: console/src/Xml/Command/Sendmessage.php, line: 287
 msgid "Travel Confirmation"
 msgstr ""
@@ -3840,8 +3840,8 @@ msgid "details"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 451
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 163
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 366
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 157
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 260
 msgid "total"
 msgstr ""
 #
@@ -3900,6 +3900,7 @@ msgid "Departure"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 196
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 156
 msgid "Item"
 msgstr ""
 #
@@ -4269,6 +4270,7 @@ msgid "Cruise Line"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 263
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 177
 msgid "Fare"
 msgstr ""
 #
@@ -4772,30 +4774,22 @@ msgid "Guest Information"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 97
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 159
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 354
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 411
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 248
 msgid "Guest #1"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 98
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 160
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 357
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 414
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 251
 msgid "Guest #2"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 99
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 161
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 360
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 417
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 254
 msgid "Guest #3"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 100
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 162
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 363
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 420
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 257
 msgid "Guest #4"
 msgstr ""
 #
@@ -4819,63 +4813,71 @@ msgstr ""
 msgid "Only Waitlist Airport"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 155
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 154
 msgid "Charges"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 166
-msgid "Cruise Fare"
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 165
+msgid "Balance Due"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 249
-msgid "Taxes, fees, and port expenses"
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 168
+msgid "Deposit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 270
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 171
+msgid "Gross Total"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 174
+msgid "Net Total"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 180
+msgid "Gratuities"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 183
+msgid "Total Commission Amount"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 198
 msgid "Total Charge"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 298
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 210
 msgid "Promotions Applied"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 327
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 221
 msgid "The minimum deposit for this reservation is Non-Refundable. A change fee of 100 USD per guest will apply for ship or sail date changes."
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 347
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 241
 msgid "on board credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 402
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 295
 msgid "Travel arrangements"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 403
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 296
 msgid "Local Times"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 423
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 300
 msgid "Arrive"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 426
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 301
 msgid "Depart"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 432
-msgid "Pre Cruise Arrangements:"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 438
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 303
 msgid "Cruise Itinerary:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 618
-msgid "Post Cruise Arrangements:"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 619
+# File: console/src/Xml/Command/Templates/voucher3.phtml, line: 311
 msgid "Cruise itinerary may change without notice as conditions warrant."
 msgstr ""
 #
