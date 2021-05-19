@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-18 13:52-0400\n"
+"POT-Creation-Date: 2021-05-19 05:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -699,7 +699,8 @@ msgstr ""
 # File: src/App/Action/EuropaMundo/Tour.php, line: 453
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 388
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 734
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 57
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 260
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
 # File: src/App/Action/Yalago/SearchHotels.php, line: 212
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
 msgid "Cancel on or after"
@@ -1103,7 +1104,8 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 275
 # File: src/App/Action/EuropaMundo/Policies.php, line: 102
 # File: src/App/Action/EuropaMundo/Tour.php, line: 455
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 57
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 260
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
 # File: src/App/Action/Yalago/SearchHotels.php, line: 212
 msgid "penalty"
 msgstr ""
@@ -2105,6 +2107,10 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 240
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 457
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 459
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 83
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 85
+# File: src/App/Action/Yalago/SearchHotels.php, line: 275
+# File: src/App/Action/Yalago/SearchHotels.php, line: 277
 msgid "Package Rate"
 msgstr ""
 #
@@ -2673,7 +2679,8 @@ msgstr ""
 msgid "All Airports"
 msgstr ""
 #
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 57
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 260
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
 # File: src/App/Action/Yalago/SearchHotels.php, line: 212
 msgid "you will incur in"
 msgstr ""
