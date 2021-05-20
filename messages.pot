@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-19 05:36-0400\n"
+"POT-Creation-Date: 2021-05-20 02:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,7 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 490
 # File: src/App/Action/Abreu/Policies.php, line: 477
 # File: src/App/Action/Shared/AddActivity.php, line: 30
-# File: src/App/Action/Shared/AddActivity.php, line: 84
+# File: src/App/Action/Shared/AddActivity.php, line: 117
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
 # File: src/App/Action/Coming2/Policies.php, line: 295
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 92
@@ -1852,6 +1852,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 105
 # File: src/App/Action/Direct/SearchHotels.php, line: 119
 # File: src/App/Action/IntelPackagesAction.php, line: 505
+# File: src/App/Action/Viator/ActivitiesDetails.php, line: 135
 # File: src/App/Action/IntelPackageAction.php, line: 247
 # File: src/App/Action/PackageAction.php, line: 282
 msgid "day"
@@ -1865,6 +1866,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 107
 # File: src/App/Action/Direct/SearchHotels.php, line: 121
 # File: src/App/Action/IntelPackagesAction.php, line: 507
+# File: src/App/Action/Viator/ActivitiesDetails.php, line: 137
 # File: src/App/Action/IntelPackageAction.php, line: 249
 # File: src/App/Action/PackageAction.php, line: 284
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 473
@@ -1873,7 +1875,7 @@ msgid "days"
 msgstr ""
 #
 # File: src/App/Action/Shared/AddActivity.php, line: 30
-# File: src/App/Action/Shared/AddActivity.php, line: 84
+# File: src/App/Action/Shared/AddActivity.php, line: 117
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
 # File: src/App/Action/Coming2/Policies.php, line: 295
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 92
@@ -2526,6 +2528,18 @@ msgstr ""
 msgid "Partial Refund"
 msgstr ""
 #
+# File: src/App/Action/Viator/ActivitiesDetails.php, line: 145
+msgid "hour"
+msgstr ""
+#
+# File: src/App/Action/Viator/ActivitiesDetails.php, line: 147
+msgid "hours"
+msgstr ""
+#
+# File: src/App/Action/Viator/ActivitiesDetails.php, line: 154
+msgid "minutes"
+msgstr ""
+#
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 300
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 302
 # File: src/App/Action/GoGlobal/Policies.php, line: 292
@@ -3093,6 +3107,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 633
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 299
+# File: console/src/Xml/Command/Travelport/CreateAir.php, line: 269
 # File: console/src/Xml/Command/Reservations.php, line: 1180
 # File: console/src/Xml/Command/Reservations.php, line: 1239
 # File: console/src/Xml/Command/Reservations.php, line: 1453
@@ -3107,6 +3122,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 635
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 301
+# File: console/src/Xml/Command/Travelport/CreateAir.php, line: 271
 # File: console/src/Xml/Command/Reservations.php, line: 1182
 # File: console/src/Xml/Command/Reservations.php, line: 1241
 # File: console/src/Xml/Command/Reservations.php, line: 1455
