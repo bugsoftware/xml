@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-24 09:28-0400\n"
+"POT-Creation-Date: 2021-05-24 12:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -699,7 +699,6 @@ msgstr ""
 # File: src/App/Action/EuropaMundo/Tour.php, line: 453
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 388
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 734
-# File: src/App/Action/Yalago/MultiPolicies.php, line: 260
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
 # File: src/App/Action/Yalago/SearchHotels.php, line: 212
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
@@ -875,8 +874,8 @@ msgstr ""
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 475
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 436
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
-# File: src/App/Action/Yalago/Policies.php, line: 335
-# File: src/App/Action/Yalago/Policies.php, line: 336
+# File: src/App/Action/Yalago/Policies.php, line: 340
+# File: src/App/Action/Yalago/Policies.php, line: 341
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -1104,7 +1103,6 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 275
 # File: src/App/Action/EuropaMundo/Policies.php, line: 102
 # File: src/App/Action/EuropaMundo/Tour.php, line: 455
-# File: src/App/Action/Yalago/MultiPolicies.php, line: 260
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
 # File: src/App/Action/Yalago/SearchHotels.php, line: 212
 msgid "penalty"
@@ -2437,7 +2435,7 @@ msgstr ""
 msgid "Oneway fee"
 msgstr ""
 #
-# File: src/App/Action/Carnect/SearchCars.php, line: 477
+# File: src/App/Action/Carnect/SearchCars.php, line: 483
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 367
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 428
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 125
@@ -2693,7 +2691,6 @@ msgstr ""
 msgid "All Airports"
 msgstr ""
 #
-# File: src/App/Action/Yalago/MultiPolicies.php, line: 260
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
 # File: src/App/Action/Yalago/SearchHotels.php, line: 212
 msgid "you will incur in"
