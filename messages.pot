@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-24 06:18-0400\n"
+"POT-Creation-Date: 2021-05-24 06:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2990,16 +2990,16 @@ msgstr ""
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 248
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 249
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 252
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 400
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 435
 # File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 436
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 471
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 472
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 475
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 329
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 330
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 333
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 406
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 407
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 439
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 293
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 294
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 297
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 370
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 371
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 374
 # File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 337
 # File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 338
 # File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 341
@@ -3084,9 +3084,9 @@ msgstr ""
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 289
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 634
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 252
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 475
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 333
-# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 439
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 297
+# File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 374
 # File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 341
 msgid "Reservation"
 msgstr ""
@@ -3734,21 +3734,21 @@ msgstr ""
 msgid "New Customer Assigned to your Account"
 msgstr ""
 #
-# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 357
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 287
 msgid "Payable through"
 msgstr ""
 #
-# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 357
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 287
 msgid "acting as agent for the service operating company, details of which can be provided upon request."
 msgstr ""
 #
-# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 357
 msgid "VAT:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 355
+# File: console/src/Xml/Command/Hotelbeds/CreateHotelXML.php, line: 357
 msgid "Reference:"
 msgstr ""
 #
