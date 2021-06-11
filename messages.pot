@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-11 11:50-0400\n"
+"POT-Creation-Date: 2021-06-11 15:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,9 +112,11 @@ msgstr ""
 # File: src/App/Action/RoomsXML/MultiPolicies.php, line: 335
 # File: src/App/Action/RoomsXML/Policies.php, line: 332
 # File: src/App/Action/RoomsXML/Policies.php, line: 333
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 234
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 240
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 241
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 472
-# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 434
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 440
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 441
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 317
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 503
 # File: src/App/Action/Convencional/SearchHotels.php, line: 471
@@ -124,11 +126,16 @@ msgstr ""
 # File: src/App/Action/Abreu/Policies.php, line: 488
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 269
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 270
-# File: src/App/Action/BeLive/SearchHotels.php, line: 440
+# File: src/App/Action/BeLive/HotelParallelParse.php, line: 244
+# File: src/App/Action/BeLive/HotelParallelParse.php, line: 245
+# File: src/App/Action/BeLive/SearchHotels.php, line: 446
+# File: src/App/Action/BeLive/SearchHotels.php, line: 447
 # File: src/App/Action/Jactravel/Policies.php, line: 352
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 237
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 244
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 245
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 488
-# File: src/App/Action/Ocean/SearchHotels.php, line: 457
+# File: src/App/Action/Ocean/SearchHotels.php, line: 463
+# File: src/App/Action/Ocean/SearchHotels.php, line: 464
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 514
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 518
 # File: src/App/Action/Tourico/Policies.php, line: 501
@@ -160,9 +167,11 @@ msgstr ""
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 455
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 457
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 459
-# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 232
+# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 238
+# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 239
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 472
-# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 445
+# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 451
+# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 452
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 250
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 418
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 430
@@ -204,9 +213,11 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 220
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 421
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 511
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 233
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 239
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 240
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 471
-# File: src/App/Action/Sandos/SearchHotels.php, line: 440
+# File: src/App/Action/Sandos/SearchHotels.php, line: 446
+# File: src/App/Action/Sandos/SearchHotels.php, line: 447
 # File: src/App/Action/Majestic/Policies.php, line: 500
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 192
 # File: console/src/Xml/Command/BahiaPrincipe/CancelHotel.php, line: 194
@@ -229,8 +240,8 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1340
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 191
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 193
-# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 206
-# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 208
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 191
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 193
 msgid "Charge"
 msgstr ""
 #
@@ -238,6 +249,14 @@ msgstr ""
 # File: src/App/Action/RoomsXML/MultiPolicies.php, line: 341
 # File: src/App/Action/RoomsXML/Policies.php, line: 338
 # File: src/App/Action/RoomsXML/Policies.php, line: 339
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 245
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 246
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 250
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 251
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 445
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 446
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 450
+# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 451
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 317
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 503
 # File: src/App/Action/Convencional/SearchHotels.php, line: 471
@@ -245,6 +264,22 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 503
 # File: src/App/Action/Abreu/Policies.php, line: 487
 # File: src/App/Action/Abreu/Policies.php, line: 488
+# File: src/App/Action/BeLive/HotelParallelParse.php, line: 249
+# File: src/App/Action/BeLive/HotelParallelParse.php, line: 250
+# File: src/App/Action/BeLive/HotelParallelParse.php, line: 254
+# File: src/App/Action/BeLive/HotelParallelParse.php, line: 255
+# File: src/App/Action/BeLive/SearchHotels.php, line: 451
+# File: src/App/Action/BeLive/SearchHotels.php, line: 452
+# File: src/App/Action/BeLive/SearchHotels.php, line: 456
+# File: src/App/Action/BeLive/SearchHotels.php, line: 457
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 249
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 250
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 254
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 255
+# File: src/App/Action/Ocean/SearchHotels.php, line: 468
+# File: src/App/Action/Ocean/SearchHotels.php, line: 469
+# File: src/App/Action/Ocean/SearchHotels.php, line: 473
+# File: src/App/Action/Ocean/SearchHotels.php, line: 474
 # File: src/App/Action/Shared/AddActivity.php, line: 30
 # File: src/App/Action/Shared/AddActivity.php, line: 117
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
@@ -263,6 +298,14 @@ msgstr ""
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 455
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 457
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 459
+# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 243
+# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 244
+# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 248
+# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 249
+# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 456
+# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 457
+# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 461
+# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 462
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 250
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 418
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 430
@@ -291,6 +334,14 @@ msgstr ""
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 385
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 364
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 394
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 244
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 245
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 249
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 250
+# File: src/App/Action/Sandos/SearchHotels.php, line: 451
+# File: src/App/Action/Sandos/SearchHotels.php, line: 452
+# File: src/App/Action/Sandos/SearchHotels.php, line: 456
+# File: src/App/Action/Sandos/SearchHotels.php, line: 457
 # File: src/App/Action/Majestic/Policies.php, line: 500
 msgid "if cancelled on or after"
 msgstr ""
@@ -302,30 +353,16 @@ msgstr ""
 msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
 msgstr ""
 #
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 236
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 238
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 476
-# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 436
-# File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 438
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 269
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 270
-# File: src/App/Action/BeLive/SearchHotels.php, line: 442
-# File: src/App/Action/BeLive/SearchHotels.php, line: 444
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 239
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 241
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 490
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 492
-# File: src/App/Action/Ocean/SearchHotels.php, line: 459
-# File: src/App/Action/Ocean/SearchHotels.php, line: 461
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 447
 # File: src/App/Action/PlayaResorts/SearchHotels.php, line: 449
-# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 234
-# File: src/App/Action/VivaWyndham/HotelParallelParse.php, line: 236
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/VivaWyndham/SearchHotelsMulti.php, line: 476
-# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 447
-# File: src/App/Action/VivaWyndham/SearchHotels.php, line: 449
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 372
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 403
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
@@ -333,12 +370,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 175
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 206
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 511
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 235
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 237
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 473
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 475
-# File: src/App/Action/Sandos/SearchHotels.php, line: 442
-# File: src/App/Action/Sandos/SearchHotels.php, line: 444
 msgid "if cancelled after"
 msgstr ""
 #
@@ -2786,7 +2819,7 @@ msgstr ""
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 155
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 214
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 199
-# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 214
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 199
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1023
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 382
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 454
@@ -2808,12 +2841,12 @@ msgstr ""
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 368
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 369
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 372
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 330
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 331
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 334
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 407
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 408
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 411
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 294
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 295
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 298
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 371
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 372
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 375
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 257
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 258
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 261
@@ -2871,12 +2904,12 @@ msgstr ""
 # File: console/src/Xml/Command/Itaparica/CreateHotel.php, line: 280
 # File: console/src/Xml/Command/Itaparica/CreateHotel.php, line: 281
 # File: console/src/Xml/Command/Itaparica/CreateHotel.php, line: 284
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 329
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 330
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 333
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 406
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 407
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 292
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 293
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 296
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 369
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 370
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 373
 # File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 328
 # File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 329
 # File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 332
@@ -3068,8 +3101,8 @@ msgid "Exception Error"
 msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 372
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 334
-# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 411
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 298
+# File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 375
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 261
 # File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2261
 # File: console/src/Xml/Command/Getaroom/CreateHotel.php, line: 392
@@ -3089,8 +3122,8 @@ msgstr ""
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 333
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 410
 # File: console/src/Xml/Command/Itaparica/CreateHotel.php, line: 284
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 333
-# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 410
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 296
+# File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 373
 # File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 332
 # File: console/src/Xml/Command/Iberostar/CreateHotel.php, line: 409
 # File: console/src/Xml/Command/Tourico/CreateCruise.php, line: 354
@@ -3161,7 +3194,7 @@ msgstr ""
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 149
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 208
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 193
-# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 208
+# File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 193
 msgid "cancelled by"
 msgstr ""
 #
