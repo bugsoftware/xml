@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-13 17:02-0400\n"
+"POT-Creation-Date: 2021-06-13 17:35-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -606,36 +606,10 @@ msgstr ""
 msgid "of expenses"
 msgstr ""
 #
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1288
-# File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
-# File: src/App/Action/Omnibees/SearchHotels.php, line: 1581
-# File: src/App/Action/Travellanda/Hotel.php, line: 249
-# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 143
-# File: src/App/Action/Travellanda/SearchHotels.php, line: 284
-# File: src/App/Action/Tourico/Hotel.php, line: 251
-# File: src/App/Action/Tourico/Hotel.php, line: 253
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 55
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 57
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 229
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 231
-# File: src/App/Action/Tourico/SearchHotels.php, line: 268
-# File: src/App/Action/Tourico/SearchHotels.php, line: 270
-# File: src/App/Action/Travco/HotelParallelParse.php, line: 164
-# File: src/App/Action/Travco/SearchHotels.php, line: 290
-# File: src/App/Action/DOTW/Hotel.php, line: 590
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 370
-# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
-# File: src/App/Action/DOTW/SearchHotels.php, line: 658
-# File: src/App/Action/Priceline/SearchHotels.old.php, line: 307
-# File: src/App/Action/Priceline/Hotel.php, line: 275
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 386
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 388
-# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 327
-# File: src/App/Action/Priceline/SearchHotels.php, line: 529
-msgid "discount"
-msgstr ""
-#
+# File: src/App/Action/Omnibees/MultiPolicies.php, line: 145
+# File: src/App/Action/Omnibees/MultiPolicies.php, line: 146
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1307
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1308
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 600
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 601
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 602
@@ -680,6 +654,35 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 306
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 307
 msgid "This is a non refundable booking."
+msgstr ""
+#
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1288
+# File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
+# File: src/App/Action/Omnibees/SearchHotels.php, line: 1581
+# File: src/App/Action/Travellanda/Hotel.php, line: 249
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 143
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 284
+# File: src/App/Action/Tourico/Hotel.php, line: 251
+# File: src/App/Action/Tourico/Hotel.php, line: 253
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 55
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 57
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 229
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 231
+# File: src/App/Action/Tourico/SearchHotels.php, line: 268
+# File: src/App/Action/Tourico/SearchHotels.php, line: 270
+# File: src/App/Action/Travco/HotelParallelParse.php, line: 164
+# File: src/App/Action/Travco/SearchHotels.php, line: 290
+# File: src/App/Action/DOTW/Hotel.php, line: 590
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 370
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
+# File: src/App/Action/DOTW/SearchHotels.php, line: 658
+# File: src/App/Action/Priceline/SearchHotels.old.php, line: 307
+# File: src/App/Action/Priceline/Hotel.php, line: 275
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 386
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 388
+# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 327
+# File: src/App/Action/Priceline/SearchHotels.php, line: 529
+msgid "discount"
 msgstr ""
 #
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 88
