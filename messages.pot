@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-14 10:40-0400\n"
+"POT-Creation-Date: 2021-06-14 12:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -620,14 +620,18 @@ msgstr ""
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 228
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 229
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 230
-# File: src/App/Action/JTG/MultiPolicies.php, line: 906
-# File: src/App/Action/JTG/MultiPolicies.php, line: 907
+# File: src/App/Action/JTG/MultiPolicies.php, line: 894
+# File: src/App/Action/JTG/MultiPolicies.php, line: 895
+# File: src/App/Action/JTG/MultiPolicies.php, line: 896
+# File: src/App/Action/JTG/MultiPolicies.php, line: 897
 # File: src/App/Action/JTG/Policies.php, line: 880
 # File: src/App/Action/JTG/Policies.php, line: 881
 # File: src/App/Action/JTG/Policies.php, line: 882
 # File: src/App/Action/JTG/Policies.php, line: 883
-# File: src/App/Action/JTG/HotelParallelParse.php, line: 536
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 537
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 538
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 539
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 540
 # File: src/App/Action/JTG/SearchHotels.php, line: 854
 # File: src/App/Action/JTG/SearchHotels.php, line: 855
 # File: src/App/Action/JTG/SearchHotels.php, line: 856
@@ -715,6 +719,8 @@ msgstr ""
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 244
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 378
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 414
+# File: src/App/Action/JTG/MultiPolicies.php, line: 855
+# File: src/App/Action/JTG/MultiPolicies.php, line: 856
 # File: src/App/Action/JTG/Policies.php, line: 842
 # File: src/App/Action/JTG/Policies.php, line: 843
 # File: src/App/Action/JTG/SearchHotels.php, line: 731
@@ -1004,6 +1010,8 @@ msgstr ""
 # File: src/App/Action/Bonotel/HotelParallelParse.php, line: 244
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 378
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 414
+# File: src/App/Action/JTG/MultiPolicies.php, line: 839
+# File: src/App/Action/JTG/MultiPolicies.php, line: 840
 # File: src/App/Action/JTG/Policies.php, line: 826
 # File: src/App/Action/JTG/Policies.php, line: 827
 # File: src/App/Action/JTG/SearchHotels.php, line: 715
@@ -1867,6 +1875,8 @@ msgstr ""
 msgid "free of charge"
 msgstr ""
 #
+# File: src/App/Action/JTG/MultiPolicies.php, line: 839
+# File: src/App/Action/JTG/MultiPolicies.php, line: 840
 # File: src/App/Action/JTG/Policies.php, line: 826
 # File: src/App/Action/JTG/Policies.php, line: 827
 # File: src/App/Action/JTG/SearchHotels.php, line: 715
@@ -1874,6 +1884,8 @@ msgstr ""
 msgid "No-Show - Failure to arrive at the hotel will inccur in a"
 msgstr ""
 #
+# File: src/App/Action/JTG/MultiPolicies.php, line: 855
+# File: src/App/Action/JTG/MultiPolicies.php, line: 856
 # File: src/App/Action/JTG/Policies.php, line: 842
 # File: src/App/Action/JTG/Policies.php, line: 843
 # File: src/App/Action/JTG/SearchHotels.php, line: 731
@@ -1881,6 +1893,8 @@ msgstr ""
 msgid "has a penalty of"
 msgstr ""
 #
+# File: src/App/Action/JTG/MultiPolicies.php, line: 855
+# File: src/App/Action/JTG/MultiPolicies.php, line: 856
 # File: src/App/Action/JTG/Policies.php, line: 842
 # File: src/App/Action/JTG/Policies.php, line: 843
 # File: src/App/Action/JTG/SearchHotels.php, line: 731
@@ -1888,6 +1902,8 @@ msgstr ""
 msgid "of total booking."
 msgstr ""
 #
+# File: src/App/Action/JTG/MultiPolicies.php, line: 858
+# File: src/App/Action/JTG/MultiPolicies.php, line: 859
 # File: src/App/Action/JTG/Policies.php, line: 845
 # File: src/App/Action/JTG/Policies.php, line: 846
 # File: src/App/Action/JTG/SearchHotels.php, line: 734
@@ -1908,6 +1924,21 @@ msgstr ""
 # File: src/App/Action/JTG/SearchTransfers.php, line: 706
 # File: src/App/Action/JTG/SearchTransfers.php, line: 1239
 msgid "of total booking amount penalty."
+msgstr ""
+#
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 532
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 533
+msgid "If you cancel on or after"
+msgstr ""
+#
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 532
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 533
+msgid "you have a penalty of"
+msgstr ""
+#
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 532
+# File: src/App/Action/JTG/HotelParallelParse.php, line: 533
+msgid "of the total booking amount."
 msgstr ""
 #
 # File: src/App/Action/RCCL/Cabin.php, line: 420
