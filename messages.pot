@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-14 15:27-0400\n"
+"POT-Creation-Date: 2021-06-14 15:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -195,8 +195,10 @@ msgstr ""
 # File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 87
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 309
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 337
-# File: src/App/Action/Riu/MultiPolicies.php, line: 662
-# File: src/App/Action/Riu/Policies.php, line: 652
+# File: src/App/Action/Riu/MultiPolicies.php, line: 666
+# File: src/App/Action/Riu/MultiPolicies.php, line: 667
+# File: src/App/Action/Riu/Policies.php, line: 658
+# File: src/App/Action/Riu/Policies.php, line: 659
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 396
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 417
@@ -333,8 +335,10 @@ msgstr ""
 # File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 87
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 309
 # File: src/App/Action/DidaTravel/SearchHotels.php, line: 337
-# File: src/App/Action/Riu/MultiPolicies.php, line: 662
-# File: src/App/Action/Riu/Policies.php, line: 652
+# File: src/App/Action/Riu/MultiPolicies.php, line: 666
+# File: src/App/Action/Riu/MultiPolicies.php, line: 667
+# File: src/App/Action/Riu/Policies.php, line: 658
+# File: src/App/Action/Riu/Policies.php, line: 659
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 247
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 267
@@ -3219,15 +3223,15 @@ msgstr ""
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 269
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 270
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 397
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 398
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 401
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 627
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 628
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 631
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 705
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 706
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 709
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 386
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 387
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 390
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 616
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 617
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 620
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 694
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 695
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 698
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 285
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 286
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 289
@@ -3325,9 +3329,9 @@ msgstr ""
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 529
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 401
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 631
-# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 709
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 390
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 620
+# File: console/src/Xml/Command/Riu/CreateHotel.php, line: 698
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 289
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 634
 # File: console/src/Xml/Command/HotelsPro/CreateHotel.php, line: 252
