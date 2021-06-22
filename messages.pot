@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-22 04:40-0400\n"
+"POT-Creation-Date: 2021-06-22 11:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -683,12 +683,18 @@ msgstr ""
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 342
 # File: src/App/Action/Coming2/Policies.php, line: 393
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 207
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 537
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 538
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 543
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 544
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 545
 # File: src/App/Action/Rakuten/Policies.php, line: 587
 # File: src/App/Action/Rakuten/Policies.php, line: 588
+# File: src/App/Action/Rakuten/Policies.php, line: 589
+# File: src/App/Action/Rakuten/Policies.php, line: 590
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 269
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 270
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 271
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 272
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 672
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 673
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 306
@@ -797,8 +803,10 @@ msgstr ""
 # File: src/App/Action/EuropaMundo/Tour.php, line: 453
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 388
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 734
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
-# File: src/App/Action/Yalago/SearchHotels.php, line: 212
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
+# File: src/App/Action/Yalago/SearchHotels.php, line: 219
+# File: src/App/Action/Yalago/SearchHotels.php, line: 220
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
 msgid "Cancel on or after"
 msgstr ""
@@ -1241,8 +1249,10 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 276
 # File: src/App/Action/EuropaMundo/Policies.php, line: 102
 # File: src/App/Action/EuropaMundo/Tour.php, line: 455
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
-# File: src/App/Action/Yalago/SearchHotels.php, line: 212
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
+# File: src/App/Action/Yalago/SearchHotels.php, line: 219
+# File: src/App/Action/Yalago/SearchHotels.php, line: 220
 msgid "penalty"
 msgstr ""
 #
@@ -2361,10 +2371,10 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 240
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 457
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 459
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 83
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 85
-# File: src/App/Action/Yalago/SearchHotels.php, line: 275
-# File: src/App/Action/Yalago/SearchHotels.php, line: 277
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 90
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 92
+# File: src/App/Action/Yalago/SearchHotels.php, line: 286
+# File: src/App/Action/Yalago/SearchHotels.php, line: 288
 msgid "Package Rate"
 msgstr ""
 #
@@ -2378,23 +2388,31 @@ msgstr ""
 msgid "Residents Rate"
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
-# File: src/App/Action/Rakuten/Policies.php, line: 592
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
+# File: src/App/Action/Rakuten/Policies.php, line: 600
+# File: src/App/Action/Rakuten/Policies.php, line: 601
 msgid "If you cancel this booking Date From "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
-# File: src/App/Action/Rakuten/Policies.php, line: 592
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
+# File: src/App/Action/Rakuten/Policies.php, line: 600
+# File: src/App/Action/Rakuten/Policies.php, line: 601
 msgid " Date To "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
-# File: src/App/Action/Rakuten/Policies.php, line: 592
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
+# File: src/App/Action/Rakuten/Policies.php, line: 600
+# File: src/App/Action/Rakuten/Policies.php, line: 601
 msgid " cost "
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
-# File: src/App/Action/Rakuten/Policies.php, line: 592
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
+# File: src/App/Action/Rakuten/Policies.php, line: 600
+# File: src/App/Action/Rakuten/Policies.php, line: 601
 #, php-format
 msgid "% of total."
 msgstr ""
@@ -2945,8 +2963,10 @@ msgstr ""
 msgid "All Airports"
 msgstr ""
 #
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 56
-# File: src/App/Action/Yalago/SearchHotels.php, line: 212
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
+# File: src/App/Action/Yalago/SearchHotels.php, line: 219
+# File: src/App/Action/Yalago/SearchHotels.php, line: 220
 msgid "you will incur in"
 msgstr ""
 #
