@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-22 11:59-0400\n"
+"POT-Creation-Date: 2021-06-23 05:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2817,58 +2817,58 @@ msgstr ""
 msgid "Cancellation deadline is"
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 664
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 639
 msgid "Inclusive with GPS"
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 668
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 643
 msgid "Inclusive No Excess"
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 672
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 647
 msgid "Diamond"
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 676
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 651
 msgid "Platinum"
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 680
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 655
 msgid "Gold"
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 694
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 696
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 669
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 671
 msgid "Fully Prepaid, Inclusive product. This means the full cost is paid up front (though some fees may be paid on arrival)."
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 701
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 703
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 676
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 678
 msgid "Fully-prepaid, Exclusive product. This means the full cost is paid up front (though some fees may be paid on arrival)."
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 708
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 710
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 683
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 685
 msgid "Fully-postpaid, Inclusive product. This means the full cost is paid when picking up the car."
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 715
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 717
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 690
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 692
 msgid "Fully-postpaid, Exclusive product. This means the full cost is paid when picking up the car."
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 722
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 724
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 697
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 699
 msgid "Partpaid (deposit), Inclusive product. This means a deposit is paid up front, with the remainder being paid when pickup up the car."
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 729
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 731
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 704
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 706
 msgid "Partpaid (deposit), Exclusive product. This means a deposit is paid up front, with the remainder being paid when pickup up the car."
 msgstr ""
 #
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 850
-# File: src/App/Action/CarTrawler/SearchCars.php, line: 852
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 821
+# File: src/App/Action/CarTrawler/SearchCars.php, line: 823
 msgid "Fuel:"
 msgstr ""
 #
@@ -3231,9 +3231,9 @@ msgstr ""
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
 # File: console/src/Xml/Command/Reservations.php, line: 1336
 # File: console/src/Xml/Command/Reservations.php, line: 2604
-# File: console/src/Xml/Command/Reservations.php, line: 5167
-# File: console/src/Xml/Command/Reservations.php, line: 5168
 # File: console/src/Xml/Command/Reservations.php, line: 5171
+# File: console/src/Xml/Command/Reservations.php, line: 5172
+# File: console/src/Xml/Command/Reservations.php, line: 5175
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 447
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
@@ -3345,7 +3345,7 @@ msgstr ""
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 979
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
-# File: console/src/Xml/Command/Reservations.php, line: 5171
+# File: console/src/Xml/Command/Reservations.php, line: 5175
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 529
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
@@ -3383,7 +3383,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1244
 # File: console/src/Xml/Command/Reservations.php, line: 1458
 # File: console/src/Xml/Command/Reservations.php, line: 2680
-# File: console/src/Xml/Command/Reservations.php, line: 5797
+# File: console/src/Xml/Command/Reservations.php, line: 5801
 # File: console/src/Xml/Command/FraudCheck.php, line: 767
 # File: console/src/Xml/Command/FraudCheck.php, line: 820
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 263
@@ -3397,7 +3397,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1187
 # File: console/src/Xml/Command/Reservations.php, line: 1246
 # File: console/src/Xml/Command/Reservations.php, line: 1460
-# File: console/src/Xml/Command/Reservations.php, line: 5799
+# File: console/src/Xml/Command/Reservations.php, line: 5803
 # File: console/src/Xml/Command/FraudCheck.php, line: 769
 # File: console/src/Xml/Command/FraudCheck.php, line: 822
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 265
@@ -3417,14 +3417,14 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 292
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1016
-# File: console/src/Xml/Command/Reservations.php, line: 6110
+# File: console/src/Xml/Command/Reservations.php, line: 6114
 msgid "Credit Card"
 msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1022
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1029
-# File: console/src/Xml/Command/Reservations.php, line: 6107
+# File: console/src/Xml/Command/Reservations.php, line: 6111
 msgid "Cash"
 msgstr ""
 #
@@ -3844,156 +3844,156 @@ msgstr ""
 msgid "Reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4802
-# File: console/src/Xml/Command/Reservations.php, line: 4834
-# File: console/src/Xml/Command/Reservations.php, line: 4887
+# File: console/src/Xml/Command/Reservations.php, line: 4806
+# File: console/src/Xml/Command/Reservations.php, line: 4838
+# File: console/src/Xml/Command/Reservations.php, line: 4891
 msgid "Reset Password"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4806
+# File: console/src/Xml/Command/Reservations.php, line: 4810
 msgid "Login"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4809
-# File: console/src/Xml/Command/Reservations.php, line: 4892
+# File: console/src/Xml/Command/Reservations.php, line: 4813
+# File: console/src/Xml/Command/Reservations.php, line: 4896
 msgid "Your new password is"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4810
+# File: console/src/Xml/Command/Reservations.php, line: 4814
 msgid "If you did not request to retreive your password, please login and change your password immediately."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4837
+# File: console/src/Xml/Command/Reservations.php, line: 4841
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4838
+# File: console/src/Xml/Command/Reservations.php, line: 4842
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4886
+# File: console/src/Xml/Command/Reservations.php, line: 4890
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 273
 msgid "Go"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4891
+# File: console/src/Xml/Command/Reservations.php, line: 4895
 msgid "Your password has been successfully changed. Please log in with this temporary password and make sure to change your password into a new permanent password."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4987
+# File: console/src/Xml/Command/Reservations.php, line: 4991
 msgid "Terms & Conditions Notification"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 4989
+# File: console/src/Xml/Command/Reservations.php, line: 4993
 msgid "Payment Notification"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5074
+# File: console/src/Xml/Command/Reservations.php, line: 5078
 msgid "Welcome"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 5106
+# File: console/src/Xml/Command/Reservations.php, line: 5110
 msgid "New Agent Registration"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6113
-# File: console/src/Xml/Command/Reservations.php, line: 6133
+# File: console/src/Xml/Command/Reservations.php, line: 6117
+# File: console/src/Xml/Command/Reservations.php, line: 6137
 msgid "Unknown"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6118
+# File: console/src/Xml/Command/Reservations.php, line: 6122
 msgid "Total Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6121
+# File: console/src/Xml/Command/Reservations.php, line: 6125
 msgid "1st Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6124
+# File: console/src/Xml/Command/Reservations.php, line: 6128
 msgid "2nd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6127
+# File: console/src/Xml/Command/Reservations.php, line: 6131
 msgid "3rd Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6130
+# File: console/src/Xml/Command/Reservations.php, line: 6134
 msgid "4th Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6146
+# File: console/src/Xml/Command/Reservations.php, line: 6150
 msgid "Settlement"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6151
+# File: console/src/Xml/Command/Reservations.php, line: 6155
 msgid "New Payment/Settlement has been posted."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6152
+# File: console/src/Xml/Command/Reservations.php, line: 6156
 msgid "Reservation #:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6154
+# File: console/src/Xml/Command/Reservations.php, line: 6158
 msgid "Country of Payment:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6156
+# File: console/src/Xml/Command/Reservations.php, line: 6160
 msgid "Type of Payment:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6158
+# File: console/src/Xml/Command/Reservations.php, line: 6162
 msgid "Payment Method:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6161
+# File: console/src/Xml/Command/Reservations.php, line: 6165
 msgid "Receipt Number:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6165
+# File: console/src/Xml/Command/Reservations.php, line: 6169
 msgid "Approval Number:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6168
+# File: console/src/Xml/Command/Reservations.php, line: 6172
 msgid "Amount:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6170
+# File: console/src/Xml/Command/Reservations.php, line: 6174
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 440
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 485
 msgid "Date:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6173
+# File: console/src/Xml/Command/Reservations.php, line: 6177
 msgid "Account Id:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6177
+# File: console/src/Xml/Command/Reservations.php, line: 6181
 msgid "PNR/Reference:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6349
-# File: console/src/Xml/Command/Reservations.php, line: 6350
-# File: console/src/Xml/Command/Reservations.php, line: 6398
+# File: console/src/Xml/Command/Reservations.php, line: 6353
+# File: console/src/Xml/Command/Reservations.php, line: 6354
+# File: console/src/Xml/Command/Reservations.php, line: 6402
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6355
+# File: console/src/Xml/Command/Reservations.php, line: 6359
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6356
+# File: console/src/Xml/Command/Reservations.php, line: 6360
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6397
+# File: console/src/Xml/Command/Reservations.php, line: 6401
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6403
+# File: console/src/Xml/Command/Reservations.php, line: 6407
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations.php, line: 6404
+# File: console/src/Xml/Command/Reservations.php, line: 6408
 msgid "Reservation Reference:"
 msgstr ""
 #
