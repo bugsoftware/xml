@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-28 08:24-0400\n"
+"POT-Creation-Date: 2021-06-29 09:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,7 +69,8 @@ msgstr ""
 # File: src/App/Action/EETGlobal/SearchHotels.php, line: 355
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 420
 # File: src/App/Action/NexusTours/SearchHotels.php, line: 586
-# File: src/App/Action/PremierInn/SearchHotels.php, line: 279
+# File: src/App/Action/PremierInn/HotelParallelParse.php, line: 87
+# File: src/App/Action/PremierInn/SearchHotels.php, line: 322
 # File: src/App/language/languages.php, line: 7
 msgid "Room Only"
 msgstr ""
@@ -130,8 +131,8 @@ msgstr ""
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 270
 # File: src/App/Action/BeLive/HotelParallelParse.php, line: 243
 # File: src/App/Action/BeLive/HotelParallelParse.php, line: 244
-# File: src/App/Action/BeLive/SearchHotels.php, line: 460
-# File: src/App/Action/BeLive/SearchHotels.php, line: 461
+# File: src/App/Action/BeLive/SearchHotels.php, line: 462
+# File: src/App/Action/BeLive/SearchHotels.php, line: 463
 # File: src/App/Action/Jactravel/Policies.php, line: 352
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 244
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 245
@@ -276,10 +277,10 @@ msgstr ""
 # File: src/App/Action/BeLive/HotelParallelParse.php, line: 249
 # File: src/App/Action/BeLive/HotelParallelParse.php, line: 253
 # File: src/App/Action/BeLive/HotelParallelParse.php, line: 254
-# File: src/App/Action/BeLive/SearchHotels.php, line: 465
-# File: src/App/Action/BeLive/SearchHotels.php, line: 466
-# File: src/App/Action/BeLive/SearchHotels.php, line: 470
-# File: src/App/Action/BeLive/SearchHotels.php, line: 471
+# File: src/App/Action/BeLive/SearchHotels.php, line: 467
+# File: src/App/Action/BeLive/SearchHotels.php, line: 468
+# File: src/App/Action/BeLive/SearchHotels.php, line: 472
+# File: src/App/Action/BeLive/SearchHotels.php, line: 473
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 249
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 250
 # File: src/App/Action/Ocean/HotelParallelParse.php, line: 254
@@ -3486,16 +3487,16 @@ msgid "Travel Confirmation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1822
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4697
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4809
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4700
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4812
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1823
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 1936
 # File: console/src/Xml/Command/Globalware/invoice.php, line: 2052
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4698
-# File: console/src/Xml/Command/Globalware/invoice.php, line: 4810
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4701
+# File: console/src/Xml/Command/Globalware/invoice.php, line: 4813
 msgid "View Reservation"
 msgstr ""
 #
