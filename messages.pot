@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 15:33-0400\n"
+"POT-Creation-Date: 2021-07-07 16:56-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3441,57 +3441,57 @@ msgstr ""
 msgid "Ticket Create TST Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2589
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2601
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2592
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2604
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2595
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2607
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2598
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2610
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2601
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2613
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2604
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2616
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2607
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2619
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2610
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2622
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2613
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2625
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2618
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2630
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2621
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2633
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2729
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2742
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2731
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2744
 # File: console/src/Xml/Command/Sendmessage.php, line: 287
 msgid "Travel Confirmation"
 msgstr ""
@@ -3515,8 +3515,8 @@ msgstr ""
 msgid "Exception Error - Unable to create invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 229
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 235
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 240
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 246
 msgid "Reservation is being processed"
 msgstr ""
 #
@@ -4765,6 +4765,10 @@ msgstr ""
 msgid "for your trip! You'll find everything you need to know about your reservation below. We wish you the best travel experience during your stay."
 msgstr ""
 #
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 39
+msgid "Thanks for choosing us for your trip! You'll find everything you need to know about your reservation below. We wish you the best travel experience during your stay."
+msgstr ""
+#
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 43
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 227
 msgid "Reservation Id"
@@ -4996,8 +5000,12 @@ msgstr ""
 msgid "Total"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/voucher.phtml, line: 837
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 838
 msgid "This is a pre-paid reservation. If the customer's length of stay matches the itinerary above, there is no charge to the customer. Depending on the property, you may incur other charges that we do not collect. Excluded surcharges will be collected by property. Examples of fees not included in the prices are hotel resort fees, hotel energy surcharges, parking fees, pet fees, and incidental charges (such as room service, mini-bar, gratuities). These amounts will be collected from you directly by the hotel unless otherwise indicated at the time of booking."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 840
+msgid "As a result of local government measures established by service providers - including hotels and activities - guests may find some facilities or services unavailable."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 13
