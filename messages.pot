@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-15 10:52-0400\n"
+"POT-Creation-Date: 2021-07-15 11:19-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3352,6 +3352,7 @@ msgstr ""
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 293
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2140
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 836
 # File: console/src/Xml/Command/TBOCUG/CreateHotel.php, line: 979
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
@@ -3661,7 +3662,11 @@ msgstr ""
 msgid "Exception Error - Initial search time - 30 minutes have passed, session expired, we can't make booking."
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2100
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2133
+msgid "A CyberSource transaction has been initiated for reservation #"
+msgstr ""
+#
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2140
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -5308,6 +5313,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/message.phtml, line: 250
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
+# File: console/src/Xml/Command/Templates/alert.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 248
 msgid "Dear"
 msgstr ""
@@ -5318,6 +5324,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/message.phtml, line: 258
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 248
+# File: console/src/Xml/Command/Templates/alert.phtml, line: 252
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 284
 msgid "Best Regards"
 msgstr ""
