@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-23 18:23+0000\n"
+"POT-Creation-Date: 2022-12-24 07:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -557,8 +557,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 211
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 380
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 410
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 382
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 412
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 383
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 413
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 425
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 511
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
@@ -1089,16 +1089,16 @@ msgstr ""
 msgid "you will be charged"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7383
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7495
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7395
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7507
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6922
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7034
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1988
 msgid "Invoice has been created"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7384
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7496
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7396
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7508
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6923
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7035
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1989
@@ -4194,7 +4194,7 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
 # File: src/App/Action/Direct/HotelParallel.php, line: 293
-# File: src/App/Action/Direct/HotelParallel.php, line: 1407
+# File: src/App/Action/Direct/HotelParallel.php, line: 1411
 # File: src/App/Action/Direct/SearchHotels.php, line: 302
 # File: src/App/Action/Direct/SearchHotels.php, line: 1421
 # File: src/App/Action/EETGlobal/SearchHotels.php, line: 355
@@ -4360,8 +4360,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 221
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 380
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 410
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 382
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 412
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 383
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 413
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 425
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 247
@@ -5320,8 +5320,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 240
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 443
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 445
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 446
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 448
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 447
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 449
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 461
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 463
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 326
@@ -5777,8 +5777,8 @@ msgstr ""
 msgid "nights"
 msgstr ""
 #
-# File: src/App/Action/Direct/HotelParallel.php, line: 1268
-# File: src/App/Action/Direct/HotelParallel.php, line: 1310
+# File: src/App/Action/Direct/HotelParallel.php, line: 1272
+# File: src/App/Action/Direct/HotelParallel.php, line: 1314
 # File: src/App/Action/Direct/SearchHotels.php, line: 1282
 # File: src/App/Action/Direct/SearchHotels.php, line: 1324
 msgid "Free"
