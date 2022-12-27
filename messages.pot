@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-24 07:46+0000\n"
+"POT-Creation-Date: 2022-12-27 07:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1504,7 +1504,7 @@ msgid "Reset Password"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 5826
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "Login"
 msgstr ""
 #
@@ -2126,7 +2126,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 248
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "Dear"
 msgstr ""
 #
@@ -5009,27 +5009,27 @@ msgstr ""
 msgid "Includes"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "One Time Password"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "Here is your One Time Password (OTP) for"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "Please enter this OTP to complete the login process"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
 msgid "Thanks"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 276
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 272
 msgid "Login - One Time Password(OTP)"
 msgstr ""
 #
@@ -6315,16 +6315,16 @@ msgstr ""
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 438
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 625
 # File: src/App/Action/Priceline/Policies.php, line: 613
-# File: src/App/Action/Priceline/SearchHotels.php, line: 594
-# File: src/App/Action/Priceline/SearchHotels.php, line: 595
+# File: src/App/Action/Priceline/SearchHotels.php, line: 598
+# File: src/App/Action/Priceline/SearchHotels.php, line: 599
 msgid "This is a Non-Refundable booking. You are not allowed to change or cancel your reservation."
 msgstr ""
 #
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 438
 # File: src/App/Action/Priceline/MultiPolicies.php, line: 625
 # File: src/App/Action/Priceline/Policies.php, line: 613
-# File: src/App/Action/Priceline/SearchHotels.php, line: 594
-# File: src/App/Action/Priceline/SearchHotels.php, line: 595
+# File: src/App/Action/Priceline/SearchHotels.php, line: 598
+# File: src/App/Action/Priceline/SearchHotels.php, line: 599
 msgid "If you fail to arrive or cancel the booking, no refund will be given and you will still be charged for the full reservation amount."
 msgstr ""
 #
