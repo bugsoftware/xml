@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-02 13:17+0000\n"
+"POT-Creation-Date: 2023-01-03 07:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1089,18 +1089,18 @@ msgstr ""
 msgid "you will be charged"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7395
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7507
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6922
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7034
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7407
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7519
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6931
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7043
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1988
 msgid "Invoice has been created"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7396
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7508
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6923
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7035
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7408
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7520
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6932
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7044
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1989
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2102
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2218
@@ -5105,48 +5105,48 @@ msgid "N/A"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 975
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2096
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2098
 msgid "Unable to fetch availability for the selected criteria"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 976
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2097
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2099
 msgid "we are unable to get results"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1014
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1053
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1559
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2135
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2174
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2680
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2137
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2176
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2682
 msgid "No bags allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1028
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2149
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2151
 msgid "1 free bag"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1030
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2151
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2153
 msgid "Free bags allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1043
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2164
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2166
 msgid "Kilos allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1045
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2166
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2168
 msgid "Pounds allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1532
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1540
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2653
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2661
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2655
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2663
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 830
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 838
@@ -5159,8 +5159,8 @@ msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1534
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1542
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2655
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2663
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2657
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2665
 # File: src/App/Action/Direct/SearchFlights.php, line: 248
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 832
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 840
@@ -5171,7 +5171,7 @@ msgstr ""
 msgid "Stops"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1978
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1980
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
