@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-05 20:53+0000\n"
+"POT-Creation-Date: 2023-01-06 12:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -447,7 +447,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 3237
 # File: console/src/Xml/Command/Reservations.php, line: 6900
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 700
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4109
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4112
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 296
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 521
 msgid "Process Credit Card"
@@ -462,7 +462,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1632
 # File: console/src/Xml/Command/Reservations.php, line: 6902
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 702
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4111
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4114
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 298
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 523
 msgid "Credit Card Number not Available"
@@ -678,7 +678,7 @@ msgstr ""
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 155
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 214
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1916
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1919
 # File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 200
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 382
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 554
@@ -823,7 +823,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1298
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1303
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1916
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1919
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
 # File: src/App/Action/AIO/MultiPolicies.php, line: 364
 # File: src/App/Action/AIO/Policies.php, line: 381
@@ -1161,7 +1161,7 @@ msgstr ""
 msgid "Cancelled"
 msgstr ""
 #
-# File: console/src/Xml/Command/Newsletter/sendcustomer.php, line: 427
+# File: console/src/Xml/Command/Newsletter/sendcustomer.php, line: 430
 msgid "Update Profile"
 msgstr ""
 #
@@ -1980,19 +1980,19 @@ msgstr ""
 msgid "Unable to cancel booking"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1916
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1919
 msgid "Unable to confirm segment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1919
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1922
 msgid "Waitlisted"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1921
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1924
 msgid "Need Segment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1924
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1927
 msgid "Unable to confirm or waitlist"
 msgstr ""
 #
