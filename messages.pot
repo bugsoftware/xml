@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 14:03+0000\n"
+"POT-Creation-Date: 2023-01-09 21:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -456,7 +456,6 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 1020
 # File: console/src/Xml/Command/Expedia/CreateHotelCommissionable.php, line: 151
 # File: console/src/Xml/Command/FraudCheck.php, line: 771
-# File: console/src/Xml/Command/Generali/Create.php, line: 267
 # File: console/src/Xml/Command/Reservations.php, line: 1317
 # File: console/src/Xml/Command/Reservations.php, line: 1382
 # File: console/src/Xml/Command/Reservations.php, line: 1632
@@ -1087,6 +1086,10 @@ msgstr ""
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 497
 # File: src/App/Action/GTA/SearchHotelsMulti.php, line: 501
 msgid "you will be charged"
+msgstr ""
+#
+# File: console/src/Xml/Command/Generali/Create.php, line: 267
+msgid "Customers Credit Card Number is Available"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7407
