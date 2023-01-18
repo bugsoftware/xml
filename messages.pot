@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-18 13:36+0000\n"
+"POT-Creation-Date: 2023-01-18 14:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -391,6 +391,7 @@ msgstr ""
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 814
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 372
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 359
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 297
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 374
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 352
@@ -1981,6 +1982,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 312
 msgid "Unable to cancel booking"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 355
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 356
+msgid "Void Ticket:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 357
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 359
+msgid "Void Ticket"
 msgstr ""
 #
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1919
