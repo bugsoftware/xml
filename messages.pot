@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-27 21:34+0000\n"
+"POT-Creation-Date: 2023-01-27 22:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -726,36 +726,36 @@ msgstr ""
 msgid "Cancellation Exception Error"
 msgstr ""
 #
+# File: console/src/Xml/Command/Costamar/points.php, line: 104
 # File: console/src/Xml/Command/Costamar/points.php, line: 105
-# File: console/src/Xml/Command/Costamar/points.php, line: 106
-# File: console/src/Xml/Command/Costamar/points.php, line: 179
+# File: console/src/Xml/Command/Costamar/points.php, line: 178
 # File: console/src/Xml/Command/Reservations.php, line: 7531
 # File: console/src/Xml/Command/Reservations.php, line: 7532
 # File: console/src/Xml/Command/Reservations.php, line: 7592
 msgid "Congratulations"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/points.php, line: 111
+# File: console/src/Xml/Command/Costamar/points.php, line: 110
 # File: console/src/Xml/Command/Reservations.php, line: 7537
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/points.php, line: 112
+# File: console/src/Xml/Command/Costamar/points.php, line: 111
 # File: console/src/Xml/Command/Reservations.php, line: 7538
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/points.php, line: 178
+# File: console/src/Xml/Command/Costamar/points.php, line: 177
 # File: console/src/Xml/Command/Reservations.php, line: 7591
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/points.php, line: 184
+# File: console/src/Xml/Command/Costamar/points.php, line: 183
 # File: console/src/Xml/Command/Reservations.php, line: 7597
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/points.php, line: 185
+# File: console/src/Xml/Command/Costamar/points.php, line: 184
 # File: console/src/Xml/Command/Reservations.php, line: 7598
 msgid "Reservation Reference:"
 msgstr ""
@@ -1102,31 +1102,31 @@ msgstr ""
 msgid "Customers Credit Card Number is Available"
 msgstr ""
 #
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7409
+# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7521
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6930
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7042
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1987
+msgid "Invoice has been created"
+msgstr ""
+#
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7410
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7522
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6931
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7043
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1988
-msgid "Invoice has been created"
-msgstr ""
-#
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7411
-# File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7523
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6932
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7044
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1989
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2102
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2218
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2333
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2101
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2217
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2332
 msgid "View Reservation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2101
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2217
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2100
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2216
 msgid "Exception Error - Unable to create invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2332
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2331
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
@@ -3196,7 +3196,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 137
 # File: src/App/Action/Direct/SearchHotels.php, line: 153
 # File: src/App/Action/IntelPackageAction.php, line: 249
-# File: src/App/Action/IntelPackagesAction.php, line: 528
+# File: src/App/Action/IntelPackagesAction.php, line: 521
 # File: src/App/Action/PackageAction.php, line: 284
 # File: src/App/Action/PackagesAction.php, line: 388
 # File: src/App/Action/PackagesSearchAction.php, line: 227
@@ -5694,7 +5694,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchHotels.php, line: 135
 # File: src/App/Action/Direct/SearchHotels.php, line: 151
 # File: src/App/Action/IntelPackageAction.php, line: 247
-# File: src/App/Action/IntelPackagesAction.php, line: 526
+# File: src/App/Action/IntelPackagesAction.php, line: 519
 # File: src/App/Action/PackageAction.php, line: 282
 # File: src/App/Action/PackagesAction.php, line: 386
 # File: src/App/Action/PackagesSearchAction.php, line: 225
@@ -5747,7 +5747,7 @@ msgstr ""
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 338
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 339
 # File: src/App/Action/IntelPackageAction.php, line: 252
-# File: src/App/Action/IntelPackagesAction.php, line: 531
+# File: src/App/Action/IntelPackagesAction.php, line: 524
 # File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 153
 # File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 154
 # File: src/App/Action/KaluahTours/MultiPolicies.php, line: 409
@@ -5805,7 +5805,7 @@ msgstr ""
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 341
 # File: src/App/Action/Itaparica/SearchHotels.php, line: 342
 # File: src/App/Action/IntelPackageAction.php, line: 254
-# File: src/App/Action/IntelPackagesAction.php, line: 533
+# File: src/App/Action/IntelPackagesAction.php, line: 526
 # File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 156
 # File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 157
 # File: src/App/Action/KaluahTours/MultiPolicies.php, line: 412
