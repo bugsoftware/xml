@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-01 17:08+0000\n"
+"POT-Creation-Date: 2023-02-02 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1695,20 +1695,20 @@ msgstr ""
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 147
 # File: src/App/Action/IBS/SearchHotels.php, line: 385
 # File: src/App/Action/IBS/SearchHotels.php, line: 386
-# File: src/App/Action/JTG/MultiPolicies.php, line: 867
 # File: src/App/Action/JTG/MultiPolicies.php, line: 868
-# File: src/App/Action/JTG/Policies.php, line: 854
+# File: src/App/Action/JTG/MultiPolicies.php, line: 869
 # File: src/App/Action/JTG/Policies.php, line: 855
-# File: src/App/Action/JTG/SearchHotels.php, line: 743
+# File: src/App/Action/JTG/Policies.php, line: 856
 # File: src/App/Action/JTG/SearchHotels.php, line: 744
-# File: src/App/Action/JTG/SearchTransfers.php, line: 862
+# File: src/App/Action/JTG/SearchHotels.php, line: 745
 # File: src/App/Action/JTG/SearchTransfers.php, line: 863
-# File: src/App/Action/JTG/SearchTransfers.php, line: 876
+# File: src/App/Action/JTG/SearchTransfers.php, line: 864
 # File: src/App/Action/JTG/SearchTransfers.php, line: 877
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1477
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1478
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1491
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1492
+# File: src/App/Action/JTG/SearchTransfers.php, line: 878
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1479
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1480
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1493
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1494
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 204
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 210
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 252
@@ -4196,8 +4196,8 @@ msgstr ""
 # File: src/App/Action/AIO/Policies.php, line: 559
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 465
 # File: src/App/Action/Abreu/Policies.php, line: 451
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 567
-# File: src/App/Action/ActionTravel/Policies.php, line: 563
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 568
+# File: src/App/Action/ActionTravel/Policies.php, line: 564
 # File: src/App/Action/Coming2/Policies.php, line: 361
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 667
 # File: src/App/Action/DOTW/Policies.php, line: 671
@@ -4548,10 +4548,10 @@ msgid "day(s) after confirmation would incur"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 289
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 612
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 613
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 614
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 615
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 616
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 208
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 342
 # File: src/App/Action/Coming2/Policies.php, line: 393
@@ -4561,18 +4561,18 @@ msgstr ""
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 548
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 549
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 550
-# File: src/App/Action/JTG/MultiPolicies.php, line: 906
 # File: src/App/Action/JTG/MultiPolicies.php, line: 907
 # File: src/App/Action/JTG/MultiPolicies.php, line: 908
 # File: src/App/Action/JTG/MultiPolicies.php, line: 909
-# File: src/App/Action/JTG/Policies.php, line: 892
+# File: src/App/Action/JTG/MultiPolicies.php, line: 910
 # File: src/App/Action/JTG/Policies.php, line: 893
 # File: src/App/Action/JTG/Policies.php, line: 894
 # File: src/App/Action/JTG/Policies.php, line: 895
-# File: src/App/Action/JTG/SearchHotels.php, line: 866
+# File: src/App/Action/JTG/Policies.php, line: 896
 # File: src/App/Action/JTG/SearchHotels.php, line: 867
 # File: src/App/Action/JTG/SearchHotels.php, line: 868
 # File: src/App/Action/JTG/SearchHotels.php, line: 869
+# File: src/App/Action/JTG/SearchHotels.php, line: 870
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 306
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 307
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 669
@@ -4963,20 +4963,20 @@ msgstr ""
 # File: src/App/Action/IBS/SearchHotels.php, line: 398
 # File: src/App/Action/IBS/SearchHotels.php, line: 400
 # File: src/App/Action/IBS/SearchHotels.php, line: 401
-# File: src/App/Action/JTG/MultiPolicies.php, line: 851
 # File: src/App/Action/JTG/MultiPolicies.php, line: 852
-# File: src/App/Action/JTG/Policies.php, line: 838
+# File: src/App/Action/JTG/MultiPolicies.php, line: 853
 # File: src/App/Action/JTG/Policies.php, line: 839
-# File: src/App/Action/JTG/SearchHotels.php, line: 727
+# File: src/App/Action/JTG/Policies.php, line: 840
 # File: src/App/Action/JTG/SearchHotels.php, line: 728
-# File: src/App/Action/JTG/SearchTransfers.php, line: 862
+# File: src/App/Action/JTG/SearchHotels.php, line: 729
 # File: src/App/Action/JTG/SearchTransfers.php, line: 863
-# File: src/App/Action/JTG/SearchTransfers.php, line: 876
+# File: src/App/Action/JTG/SearchTransfers.php, line: 864
 # File: src/App/Action/JTG/SearchTransfers.php, line: 877
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1477
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1478
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1491
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1492
+# File: src/App/Action/JTG/SearchTransfers.php, line: 878
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1479
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1480
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1493
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1494
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 204
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 210
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 212
@@ -5136,14 +5136,14 @@ msgstr ""
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1625
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1648
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1650
-# File: src/App/Action/Sabre/SearchCruises.php, line: 450
-# File: src/App/Action/Sabre/SearchCruises.php, line: 452
-# File: src/App/Action/Sabre/SearchCruises.php, line: 475
-# File: src/App/Action/Sabre/SearchCruises.php, line: 477
-# File: src/App/Action/Sabre/SearchCruises.php, line: 500
-# File: src/App/Action/Sabre/SearchCruises.php, line: 502
-# File: src/App/Action/Sabre/SearchCruises.php, line: 525
-# File: src/App/Action/Sabre/SearchCruises.php, line: 527
+# File: src/App/Action/Sabre/SearchCruises.php, line: 451
+# File: src/App/Action/Sabre/SearchCruises.php, line: 453
+# File: src/App/Action/Sabre/SearchCruises.php, line: 476
+# File: src/App/Action/Sabre/SearchCruises.php, line: 478
+# File: src/App/Action/Sabre/SearchCruises.php, line: 501
+# File: src/App/Action/Sabre/SearchCruises.php, line: 503
+# File: src/App/Action/Sabre/SearchCruises.php, line: 526
+# File: src/App/Action/Sabre/SearchCruises.php, line: 528
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 714
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 716
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 739
@@ -6231,50 +6231,50 @@ msgstr ""
 msgid "of the total booking amount."
 msgstr ""
 #
-# File: src/App/Action/JTG/MultiPolicies.php, line: 851
 # File: src/App/Action/JTG/MultiPolicies.php, line: 852
-# File: src/App/Action/JTG/Policies.php, line: 838
+# File: src/App/Action/JTG/MultiPolicies.php, line: 853
 # File: src/App/Action/JTG/Policies.php, line: 839
-# File: src/App/Action/JTG/SearchHotels.php, line: 727
+# File: src/App/Action/JTG/Policies.php, line: 840
 # File: src/App/Action/JTG/SearchHotels.php, line: 728
+# File: src/App/Action/JTG/SearchHotels.php, line: 729
 msgid "No-Show - Failure to arrive at the hotel will inccur in a"
 msgstr ""
 #
-# File: src/App/Action/JTG/MultiPolicies.php, line: 867
 # File: src/App/Action/JTG/MultiPolicies.php, line: 868
-# File: src/App/Action/JTG/Policies.php, line: 854
+# File: src/App/Action/JTG/MultiPolicies.php, line: 869
 # File: src/App/Action/JTG/Policies.php, line: 855
-# File: src/App/Action/JTG/SearchHotels.php, line: 743
+# File: src/App/Action/JTG/Policies.php, line: 856
 # File: src/App/Action/JTG/SearchHotels.php, line: 744
+# File: src/App/Action/JTG/SearchHotels.php, line: 745
 msgid "has a penalty of"
 msgstr ""
 #
-# File: src/App/Action/JTG/MultiPolicies.php, line: 867
 # File: src/App/Action/JTG/MultiPolicies.php, line: 868
-# File: src/App/Action/JTG/Policies.php, line: 854
+# File: src/App/Action/JTG/MultiPolicies.php, line: 869
 # File: src/App/Action/JTG/Policies.php, line: 855
-# File: src/App/Action/JTG/SearchHotels.php, line: 743
+# File: src/App/Action/JTG/Policies.php, line: 856
 # File: src/App/Action/JTG/SearchHotels.php, line: 744
+# File: src/App/Action/JTG/SearchHotels.php, line: 745
 msgid "of total booking."
 msgstr ""
 #
-# File: src/App/Action/JTG/MultiPolicies.php, line: 870
 # File: src/App/Action/JTG/MultiPolicies.php, line: 871
-# File: src/App/Action/JTG/Policies.php, line: 857
+# File: src/App/Action/JTG/MultiPolicies.php, line: 872
 # File: src/App/Action/JTG/Policies.php, line: 858
-# File: src/App/Action/JTG/SearchHotels.php, line: 746
+# File: src/App/Action/JTG/Policies.php, line: 859
 # File: src/App/Action/JTG/SearchHotels.php, line: 747
+# File: src/App/Action/JTG/SearchHotels.php, line: 748
 msgid "Unknown cancellation policy"
 msgstr ""
 #
-# File: src/App/Action/JTG/SearchTransfers.php, line: 862
 # File: src/App/Action/JTG/SearchTransfers.php, line: 863
-# File: src/App/Action/JTG/SearchTransfers.php, line: 876
+# File: src/App/Action/JTG/SearchTransfers.php, line: 864
 # File: src/App/Action/JTG/SearchTransfers.php, line: 877
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1477
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1478
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1491
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1492
+# File: src/App/Action/JTG/SearchTransfers.php, line: 878
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1479
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1480
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1493
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1494
 msgid "with"
 msgstr ""
 #
