@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 18:21+0000\n"
+"POT-Creation-Date: 2023-02-02 20:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1517,7 +1517,7 @@ msgid "Reset Password"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 5831
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "Login"
 msgstr ""
 #
@@ -2155,7 +2155,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 248
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "Dear"
 msgstr ""
 #
@@ -5068,27 +5068,27 @@ msgstr ""
 msgid "Includes"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "One Time Password"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "Here is your One Time Password (OTP) for"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "Please enter this OTP to complete the login process"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 269
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
 msgid "Thanks"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 272
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
 msgid "Login - One Time Password(OTP)"
 msgstr ""
 #
@@ -5136,14 +5136,14 @@ msgstr ""
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1625
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1648
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1650
-# File: src/App/Action/Sabre/SearchCruises.php, line: 453
-# File: src/App/Action/Sabre/SearchCruises.php, line: 455
-# File: src/App/Action/Sabre/SearchCruises.php, line: 478
-# File: src/App/Action/Sabre/SearchCruises.php, line: 480
-# File: src/App/Action/Sabre/SearchCruises.php, line: 503
-# File: src/App/Action/Sabre/SearchCruises.php, line: 505
-# File: src/App/Action/Sabre/SearchCruises.php, line: 528
-# File: src/App/Action/Sabre/SearchCruises.php, line: 530
+# File: src/App/Action/Sabre/SearchCruises.php, line: 461
+# File: src/App/Action/Sabre/SearchCruises.php, line: 463
+# File: src/App/Action/Sabre/SearchCruises.php, line: 486
+# File: src/App/Action/Sabre/SearchCruises.php, line: 488
+# File: src/App/Action/Sabre/SearchCruises.php, line: 511
+# File: src/App/Action/Sabre/SearchCruises.php, line: 513
+# File: src/App/Action/Sabre/SearchCruises.php, line: 536
+# File: src/App/Action/Sabre/SearchCruises.php, line: 538
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 714
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 716
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 739
