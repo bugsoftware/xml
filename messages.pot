@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-14 13:54+0000\n"
+"POT-Creation-Date: 2023-02-14 15:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1687,10 +1687,10 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 125
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 150
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 151
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 419
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 420
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 779
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 780
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 474
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 475
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 836
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 837
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 146
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 147
 # File: src/App/Action/IBS/SearchHotels.php, line: 385
@@ -1701,14 +1701,14 @@ msgstr ""
 # File: src/App/Action/JTG/Policies.php, line: 856
 # File: src/App/Action/JTG/SearchHotels.php, line: 744
 # File: src/App/Action/JTG/SearchHotels.php, line: 745
-# File: src/App/Action/JTG/SearchTransfers.php, line: 863
-# File: src/App/Action/JTG/SearchTransfers.php, line: 864
-# File: src/App/Action/JTG/SearchTransfers.php, line: 877
-# File: src/App/Action/JTG/SearchTransfers.php, line: 878
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1479
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1480
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1493
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1494
+# File: src/App/Action/JTG/SearchTransfers.php, line: 995
+# File: src/App/Action/JTG/SearchTransfers.php, line: 996
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1009
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1010
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1611
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1612
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1625
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1626
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 204
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 210
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 252
@@ -1762,10 +1762,10 @@ msgid "Cancel on or after"
 msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 419
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 420
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 779
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 780
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 474
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 475
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 836
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 837
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 155
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 156
 # File: src/App/Action/IBS/SearchHotels.php, line: 394
@@ -4986,14 +4986,14 @@ msgstr ""
 # File: src/App/Action/JTG/Policies.php, line: 840
 # File: src/App/Action/JTG/SearchHotels.php, line: 728
 # File: src/App/Action/JTG/SearchHotels.php, line: 729
-# File: src/App/Action/JTG/SearchTransfers.php, line: 863
-# File: src/App/Action/JTG/SearchTransfers.php, line: 864
-# File: src/App/Action/JTG/SearchTransfers.php, line: 877
-# File: src/App/Action/JTG/SearchTransfers.php, line: 878
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1479
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1480
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1493
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1494
+# File: src/App/Action/JTG/SearchTransfers.php, line: 995
+# File: src/App/Action/JTG/SearchTransfers.php, line: 996
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1009
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1010
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1611
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1612
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1625
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1626
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 204
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 210
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 212
@@ -5878,48 +5878,48 @@ msgstr ""
 #
 # File: src/App/Action/Direct/SearchTransfers.php, line: 473
 # File: src/App/Action/Direct/SearchTransfers.php, line: 823
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 480
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 835
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 535
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 892
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 797
 msgid "Private Transfer"
 msgstr ""
 #
 # File: src/App/Action/Direct/SearchTransfers.php, line: 475
 # File: src/App/Action/Direct/SearchTransfers.php, line: 825
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 482
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 837
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 537
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 894
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 799
 msgid "Bus Transfer"
 msgstr ""
 #
 # File: src/App/Action/Direct/SearchTransfers.php, line: 477
 # File: src/App/Action/Direct/SearchTransfers.php, line: 827
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 484
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 839
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 539
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 896
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 801
 msgid "Unknown Transfer"
 msgstr ""
 #
 # File: src/App/Action/Direct/SearchTransfers.php, line: 482
 # File: src/App/Action/Direct/SearchTransfers.php, line: 832
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 490
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 844
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 545
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 901
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 806
 msgid "Terminal to Terminal"
 msgstr ""
 #
 # File: src/App/Action/Direct/SearchTransfers.php, line: 484
 # File: src/App/Action/Direct/SearchTransfers.php, line: 834
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 492
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 846
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 547
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 903
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 808
 msgid "Transfer from pickup to destination"
 msgstr ""
 #
 # File: src/App/Action/Direct/SearchTransfers.php, line: 486
 # File: src/App/Action/Direct/SearchTransfers.php, line: 836
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 494
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 848
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 549
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 905
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 810
 msgid "Return transfer from the destination to the pickup"
 msgstr ""
@@ -6284,14 +6284,14 @@ msgstr ""
 msgid "Unknown cancellation policy"
 msgstr ""
 #
-# File: src/App/Action/JTG/SearchTransfers.php, line: 863
-# File: src/App/Action/JTG/SearchTransfers.php, line: 864
-# File: src/App/Action/JTG/SearchTransfers.php, line: 877
-# File: src/App/Action/JTG/SearchTransfers.php, line: 878
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1479
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1480
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1493
-# File: src/App/Action/JTG/SearchTransfers.php, line: 1494
+# File: src/App/Action/JTG/SearchTransfers.php, line: 995
+# File: src/App/Action/JTG/SearchTransfers.php, line: 996
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1009
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1010
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1611
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1612
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1625
+# File: src/App/Action/JTG/SearchTransfers.php, line: 1626
 msgid "with"
 msgstr ""
 #
