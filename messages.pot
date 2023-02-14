@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-14 07:15+0000\n"
+"POT-Creation-Date: 2023-02-14 13:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -842,8 +842,8 @@ msgstr ""
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 421
 # File: src/App/Action/ActionTravel/Policies.php, line: 418
 # File: src/App/Action/ActionTravel/Policies.php, line: 419
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 306
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 314
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 378
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 386
 # File: src/App/Action/DOTW/Hotel.php, line: 626
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 715
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 364
@@ -4550,14 +4550,14 @@ msgid "if cancelled on or after"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 63
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 285
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 357
 msgid "No penalty"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 65
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 67
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 287
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 289
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 359
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 361
 # File: src/App/Action/EuropaMundo/Policies.php, line: 134
 # File: src/App/Action/EuropaMundo/Tour.php, line: 455
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
@@ -4568,38 +4568,38 @@ msgid "penalty"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 70
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 292
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 364
 msgid "Pay First Night"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 75
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 297
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 369
 msgid "Average price of all nights"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 79
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 301
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 373
 msgid "No Show:"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 82
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 90
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 304
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 312
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 376
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 384
 msgid "Cancelling"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 86
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 308
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 380
 msgid "day(s) before check-in date you have"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 94
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 316
+# File: src/App/Action/ActionTravel/SearchHotels.php, line: 388
 msgid "day(s) after confirmation would incur"
 msgstr ""
 #
-# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 289
+# File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 293
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 613
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 614
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 615
@@ -5032,12 +5032,12 @@ msgid "Included"
 msgstr ""
 #
 # File: src/App/Action/Agoda/SearchHotels.php, line: 375
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 159
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 160
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 163
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 166
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 168
@@ -5646,8 +5646,8 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 742
 # File: src/App/Action/DOTW/Policies.php, line: 743
 # File: src/App/Action/DOTW/Policies.php, line: 744
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 390
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 391
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 388
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 389
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 379
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 380
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 541
@@ -5966,12 +5966,12 @@ msgstr ""
 msgid "Visiting:"
 msgstr ""
 #
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 159
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 160
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 163
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 166
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 168
@@ -5997,8 +5997,8 @@ msgstr ""
 msgid "Cancel between"
 msgstr ""
 #
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 159
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 160
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 166
 # File: src/App/Action/Expedia/SearchHotels.php, line: 477
@@ -6014,8 +6014,8 @@ msgstr ""
 msgid "night charge"
 msgstr ""
 #
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 163
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 168
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 169
 # File: src/App/Action/Expedia/SearchHotels.php, line: 480
@@ -6031,8 +6031,8 @@ msgstr ""
 msgid "nights charge"
 msgstr ""
 #
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 172
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 173
 # File: src/App/Action/Expedia/SearchHotels.php, line: 484
