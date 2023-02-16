@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-16 16:03+0000\n"
+"POT-Creation-Date: 2023-02-16 16:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5181,48 +5181,48 @@ msgid "N/A"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 975
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2098
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2109
 msgid "Unable to fetch availability for the selected criteria"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 976
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2099
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2110
 msgid "we are unable to get results"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1014
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1053
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1559
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2137
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2176
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2682
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2148
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2187
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2693
 msgid "No bags allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1028
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2151
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2162
 msgid "1 free bag"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1030
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2153
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2164
 msgid "Free bags allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1043
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2166
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2177
 msgid "Kilos allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1045
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2168
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2179
 msgid "Pounds allowed"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1532
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1540
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2655
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2663
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2666
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2674
 # File: src/App/Action/Direct/SearchFlights.php, line: 247
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 830
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 838
@@ -5235,8 +5235,8 @@ msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1534
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1542
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2657
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 2665
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2668
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 2676
 # File: src/App/Action/Direct/SearchFlights.php, line: 248
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 832
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 840
@@ -5247,7 +5247,7 @@ msgstr ""
 msgid "Stops"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchFlights.php, line: 1980
+# File: src/App/Action/Amadeus/SearchFlights.php, line: 1991
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
@@ -6684,17 +6684,17 @@ msgstr ""
 msgid "From "
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 770
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 772
 # File: src/App/Action/Travelport/PoliciesAirV2.php, line: 839
 msgid "Passenger Type"
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 773
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 775
 # File: src/App/Action/Travelport/PoliciesAirV2.php, line: 842
 msgid "Change Penalty is"
 msgstr ""
 #
-# File: src/App/Action/Travelport/PoliciesAir.php, line: 776
+# File: src/App/Action/Travelport/PoliciesAir.php, line: 778
 # File: src/App/Action/Travelport/PoliciesAirV2.php, line: 845
 msgid "Cancel Penalty is"
 msgstr ""
