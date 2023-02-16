@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-15 14:54+0000\n"
+"POT-Creation-Date: 2023-02-16 07:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -498,10 +498,10 @@ msgstr ""
 # File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 462
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 192
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 194
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 232
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 233
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 234
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 513
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 514
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 577
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 578
 # File: src/App/Action/Abreu/Policies.php, line: 500
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 240
@@ -4010,22 +4010,22 @@ msgstr ""
 #
 # File: src/App/Action/AIC/SearchHotels.php, line: 353
 # File: src/App/Action/AIC/SearchHotels.php, line: 354
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 212
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 213
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 214
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 215
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 216
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 242
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 243
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 244
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 245
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 246
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 493
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 494
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 495
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 496
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 523
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 524
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 525
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 526
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 557
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 558
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 559
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 560
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 587
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 588
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 589
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 590
 # File: src/App/Action/Abreu/Policies.php, line: 480
 # File: src/App/Action/Abreu/Policies.php, line: 481
 # File: src/App/Action/Abreu/Policies.php, line: 482
@@ -4246,7 +4246,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/MultiPolicies.php, line: 498
 # File: src/App/Action/AIO/Policies.php, line: 559
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 465
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 529
 # File: src/App/Action/Abreu/Policies.php, line: 451
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 568
 # File: src/App/Action/ActionTravel/Policies.php, line: 564
@@ -4342,22 +4342,22 @@ msgstr ""
 msgid "To avoid penalties you must cancel the booking before"
 msgstr ""
 #
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 212
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 213
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 214
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 215
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 216
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 242
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 243
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 244
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 245
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 246
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 493
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 494
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 495
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 496
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 523
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 524
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 525
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 526
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 557
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 558
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 559
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 560
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 587
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 588
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 589
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 590
 # File: src/App/Action/Abreu/Policies.php, line: 480
 # File: src/App/Action/Abreu/Policies.php, line: 481
 # File: src/App/Action/Abreu/Policies.php, line: 482
@@ -4369,8 +4369,8 @@ msgstr ""
 msgid "It cannot be cancelled, amended or modified."
 msgstr ""
 #
+# File: src/App/Action/Abreu/HotelParallelParse.php, line: 232
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 233
-# File: src/App/Action/Abreu/HotelParallelParse.php, line: 234
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 476
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 409
@@ -4392,8 +4392,8 @@ msgstr ""
 msgid "if cancelled after"
 msgstr ""
 #
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 513
-# File: src/App/Action/Abreu/MultiPolicies.php, line: 514
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 577
+# File: src/App/Action/Abreu/MultiPolicies.php, line: 578
 # File: src/App/Action/Abreu/Policies.php, line: 500
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 245
