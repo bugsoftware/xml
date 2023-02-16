@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-16 14:38+0000\n"
+"POT-Creation-Date: 2023-02-16 16:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,12 +217,12 @@ msgstr ""
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 406
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 407
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 410
-# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 495
-# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 496
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 498
 # File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 499
-# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 583
-# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 584
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 502
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 586
 # File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 587
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 590
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 581
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 582
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
@@ -339,7 +339,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1080
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3683
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3705
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 496
@@ -381,8 +381,8 @@ msgstr ""
 # File: console/src/Xml/Command/Panamericana/CreateHotel.php, line: 287
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 333
 # File: console/src/Xml/Command/PlayaResorts/CreateHotel.php, line: 410
-# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 499
-# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 587
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 502
+# File: console/src/Xml/Command/Priceline/CreateHotelCUG.php, line: 590
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 585
 # File: console/src/Xml/Command/PricelineNet/CreateHotel.php, line: 673
 # File: console/src/Xml/Command/Reservations.php, line: 6301
@@ -449,7 +449,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 3243
 # File: console/src/Xml/Command/Reservations.php, line: 6910
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 704
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4125
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4127
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 296
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 521
 msgid "Process Credit Card"
@@ -463,7 +463,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1638
 # File: console/src/Xml/Command/Reservations.php, line: 6912
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 706
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4127
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4129
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 298
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 523
 msgid "Credit Card Number not Available"
@@ -768,11 +768,11 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3676
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3698
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3683
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3705
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
