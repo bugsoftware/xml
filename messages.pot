@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-28 10:43+0000\n"
+"POT-Creation-Date: 2023-02-28 13:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1519,7 +1519,7 @@ msgid "Reset Password"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 5837
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "Login"
 msgstr ""
 #
@@ -2157,7 +2157,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 248
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "Dear"
 msgstr ""
 #
@@ -5089,27 +5089,27 @@ msgstr ""
 msgid "Includes"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "One Time Password"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "Here is your One Time Password (OTP) for"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "Please enter this OTP to complete the login process"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 270
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 449
 msgid "Thanks"
 msgstr ""
 #
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 273
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 452
 msgid "Login - One Time Password(OTP)"
 msgstr ""
 #
