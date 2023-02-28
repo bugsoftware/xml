@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-28 16:45+0000\n"
+"POT-Creation-Date: 2023-02-28 21:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -283,6 +283,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 86
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 # File: console/src/Xml/Command/Tourico/CreateCar.php, line: 316
 # File: console/src/Xml/Command/Tourico/CreateCar.php, line: 317
 # File: console/src/Xml/Command/Tourico/CreateCar.php, line: 320
@@ -1106,16 +1107,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7409
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7521
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6994
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7106
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6998
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7110
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1989
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7410
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7522
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6995
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7107
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6999
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7111
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1990
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2103
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2217
@@ -1138,6 +1139,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 196
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 206
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 191
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 196
 msgid "Status"
 msgstr ""
 #
@@ -1201,6 +1203,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 79
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Reservation Pending"
 msgstr ""
 #
@@ -1211,6 +1214,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 80
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Reservation Confirmed"
 msgstr ""
 #
@@ -1221,6 +1225,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 81
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Reservation Cancelled"
 msgstr ""
 #
@@ -1231,6 +1236,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 82
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
@@ -1241,6 +1247,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 83
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Checked In"
 msgstr ""
 #
@@ -1251,6 +1258,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 84
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Checked Out"
 msgstr ""
 #
@@ -1261,6 +1269,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 85
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Complete"
 msgstr ""
 #
@@ -1277,6 +1286,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 87
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Supervisor Action Required"
 msgstr ""
 #
@@ -1287,6 +1298,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 88
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Queue Reservation for Processing"
 msgstr ""
 #
@@ -1297,6 +1309,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 95
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Unknown Status"
 msgstr ""
 #
@@ -1312,6 +1325,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Awaiting Payment"
 msgstr ""
 #
@@ -1321,6 +1336,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Payment Received"
 msgstr ""
 #
@@ -1330,6 +1346,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Payment Refunded"
 msgstr ""
 #
@@ -1339,6 +1356,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Chargeback"
 msgstr ""
 #
@@ -1348,6 +1366,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Payment On Hold"
 msgstr ""
 #
@@ -1361,6 +1380,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Partially Paid"
 msgstr ""
 #
@@ -1374,6 +1395,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Awaiting Refund"
 msgstr ""
 #
@@ -1383,6 +1406,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Awaiting Capture"
 msgstr ""
 #
@@ -1396,6 +1420,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Payment Cancelled"
 msgstr ""
 #
@@ -1405,6 +1431,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Exception Payment Status"
 msgstr ""
 #
@@ -1414,6 +1441,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Payment Failed"
 msgstr ""
 #
@@ -1423,6 +1451,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "Queue Payment for Processing"
 msgstr ""
 #
@@ -1431,6 +1460,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 236
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
 msgid "GDS Payment"
 msgstr ""
 #
@@ -1449,6 +1479,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 236
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Unknown Payment Status"
 msgstr ""
 #
@@ -2027,7 +2059,7 @@ msgstr ""
 msgid "Unable to confirm or waitlist"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/SendQuote.php, line: 184
+# File: console/src/Xml/Command/Shared/SendQuote.php, line: 226
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 37
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 38
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 39
@@ -2140,6 +2172,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkin.phtml, line: 167
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 162
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 162
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 162
 msgid "Check in Report"
 msgstr ""
 #
@@ -2451,6 +2484,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 173
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 71
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 299
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 167
 msgid "Reservation Id"
 msgstr ""
 #
@@ -2459,6 +2493,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 171
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 176
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 101
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 171
 msgid "Reservation Date"
 msgstr ""
 #
@@ -2473,6 +2508,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkin.phtml, line: 181
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 186
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 196
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 186
 msgid "Guest(s)"
 msgstr ""
 #
@@ -2485,6 +2521,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 211
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 185
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 194
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 201
 msgid "Payment"
 msgstr ""
 #
@@ -2492,6 +2529,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 206
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 216
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 197
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 206
 msgid "Supplier Payment Status"
 msgstr ""
 #
@@ -2499,6 +2537,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 211
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 221
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 200
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 211
 msgid "Net"
 msgstr ""
 #
@@ -2511,6 +2550,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 523
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 593
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1070
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 216
 msgid "Total"
 msgstr ""
 #
@@ -2519,6 +2559,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 78
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "New Reservation"
 msgstr ""
 #
@@ -2527,6 +2568,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 89
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Queue Reservation for Cancellation"
 msgstr ""
 #
@@ -2534,6 +2576,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 234
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Pending Review - Fraud"
 msgstr ""
 #
@@ -2541,6 +2584,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 234
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Recovered Booking"
 msgstr ""
 #
@@ -2548,6 +2592,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 238
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Payment Sent"
 msgstr ""
 #
@@ -2555,6 +2600,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 238
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 252
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 216
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 238
 msgid "Payment Refund"
 msgstr ""
 #
@@ -2564,12 +2610,14 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 176
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 176
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 176
 msgid "Service Date"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 181
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 201
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 188
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 181
 msgid "Supplier"
 msgstr ""
 #
@@ -2962,11 +3010,11 @@ msgid "reviews"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 509
-# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 608
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 609
 msgid "details"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 525
+# File: console/src/Xml/Command/Templates/quote_1.phtml, line: 526
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 169
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 272
 msgid "total"
@@ -3801,6 +3849,7 @@ msgid "Cruise Only"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 63
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 191
 msgid "Ship"
 msgstr ""
 #
@@ -3954,6 +4003,19 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 323
 msgid "Cruise itinerary may change without notice as conditions warrant."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 19
+# File: console/src/Xml/Command/SupplierPaymentsCruises.php, line: 204
+msgid "Cruises Check in Report"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 162
+msgid "Cruises Reservations due to checkin in the next 14 days"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 254
+msgid "Cruises Check In report"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
