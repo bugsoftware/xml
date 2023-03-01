@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-01 10:55+0000\n"
+"POT-Creation-Date: 2023-03-01 17:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -449,8 +449,8 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1636
 # File: console/src/Xml/Command/Reservations.php, line: 3243
 # File: console/src/Xml/Command/Reservations.php, line: 6911
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 704
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4127
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 703
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4196
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 296
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 521
 msgid "Process Credit Card"
@@ -463,8 +463,8 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 1388
 # File: console/src/Xml/Command/Reservations.php, line: 1638
 # File: console/src/Xml/Command/Reservations.php, line: 6913
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 706
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4129
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 705
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4198
 # File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 298
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 523
 msgid "Credit Card Number not Available"
@@ -690,7 +690,7 @@ msgstr ""
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 155
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 214
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1932
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2001
 # File: console/src/Xml/Command/Sandos/CancelHotel.php, line: 200
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 382
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 570
@@ -835,7 +835,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1298
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1303
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1932
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2001
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
 # File: src/App/Action/AIO/MultiPolicies.php, line: 364
 # File: src/App/Action/AIO/Policies.php, line: 381
@@ -1107,16 +1107,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7409
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7521
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6998
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7110
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7001
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7113
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1989
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7410
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7522
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 6999
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7111
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7002
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7114
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 1990
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2103
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2217
@@ -2043,19 +2043,19 @@ msgstr ""
 msgid "Void Ticket"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1932
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2001
 msgid "Unable to confirm segment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1935
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2004
 msgid "Waitlisted"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1937
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2006
 msgid "Need Segment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 1940
+# File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2009
 msgid "Unable to confirm or waitlist"
 msgstr ""
 #
@@ -4695,8 +4695,8 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 307
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 669
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 670
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1387
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1388
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1406
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1407
 # File: src/App/Action/Omnibees/MultiPolicies.php, line: 137
 # File: src/App/Action/Omnibees/MultiPolicies.php, line: 138
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 228
@@ -5488,6 +5488,8 @@ msgstr ""
 # File: src/App/Action/IWTX/SearchHotels.php, line: 350
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 441
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 443
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1396
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1398
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 90
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 92
 # File: src/App/Action/Yalago/SearchHotels.php, line: 286
@@ -5597,7 +5599,7 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
 # File: src/App/Action/DOTW/SearchHotels.php, line: 673
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1368
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1379
 # File: src/App/Action/Omnibees/SearchHotels.php, line: 1641
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
 # File: src/App/Action/Priceline/Hotel.php, line: 275
