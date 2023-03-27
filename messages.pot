@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-26 09:39+0100\n"
+"POT-Creation-Date: 2023-03-27 13:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2191,7 +2191,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/message.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 248
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 454
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 313
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
 msgid "Dear"
 msgstr ""
 #
@@ -3635,7 +3635,7 @@ msgid "Activity details"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 694
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 319
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 323
 msgid "by"
 msgstr ""
 #
@@ -3819,7 +3819,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 117
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 118
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 119
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 297
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 301
 msgid "Ms"
 msgstr ""
 #
@@ -3828,7 +3828,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 117
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 118
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 119
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 294
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 298
 msgid "Mr"
 msgstr ""
 #
@@ -5172,7 +5172,7 @@ msgid "This is valid for 30 minutes only"
 msgstr ""
 #
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 454
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 321
 msgid "Thanks"
 msgstr ""
 #
@@ -6798,56 +6798,56 @@ msgstr ""
 msgid "you will incur in"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 300
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 304
 msgid "Mrs"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 303
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 307
 msgid "Miss"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 306
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 310
 msgid "Dr"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 309
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 313
 msgid "Rev"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 313
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 322
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 326
 msgid "Verify your email"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 313
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
 msgid "To update your account profile, please verify your email address."
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 313
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
 msgid "Verify Your Email"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 315
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 319
 msgid "Or, copy and past the following URL into your browser:"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 321
 msgid "Once you verify your account we will issue a"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 317
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 321
 msgid "discout gift card that can be used on selected packages"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 319
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 323
 msgid "This system email was sent to"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 319
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 323
 msgid "regarding your"
 msgstr ""
 #
-# File: src/App/Action/CustomersProfileUpdateAction.php, line: 319
+# File: src/App/Action/CustomersProfileUpdateAction.php, line: 323
 msgid "account"
 msgstr ""
 #
