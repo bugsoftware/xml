@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-29 22:07+0100\n"
+"POT-Creation-Date: 2023-03-30 17:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5102,32 +5102,32 @@ msgid "Included"
 msgstr ""
 #
 # File: src/App/Action/Agoda/SearchHotels.php, line: 375
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 159
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 160
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 165
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 163
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 165
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 168
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 169
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 172
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 170
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 173
-# File: src/App/Action/Expedia/SearchHotels.php, line: 477
-# File: src/App/Action/Expedia/SearchHotels.php, line: 478
-# File: src/App/Action/Expedia/SearchHotels.php, line: 480
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 174
 # File: src/App/Action/Expedia/SearchHotels.php, line: 481
+# File: src/App/Action/Expedia/SearchHotels.php, line: 482
 # File: src/App/Action/Expedia/SearchHotels.php, line: 484
 # File: src/App/Action/Expedia/SearchHotels.php, line: 485
+# File: src/App/Action/Expedia/SearchHotels.php, line: 488
+# File: src/App/Action/Expedia/SearchHotels.php, line: 489
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 450
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 451
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 453
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 454
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 457
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 572
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 574
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 219
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 220
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 206
@@ -5722,10 +5722,10 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 742
 # File: src/App/Action/DOTW/Policies.php, line: 743
 # File: src/App/Action/DOTW/Policies.php, line: 744
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 388
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 389
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 379
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 390
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 380
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 381
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 541
 # File: src/App/Action/Expedia/MultiPolicies.php, line: 542
 # File: src/App/Action/Expedia/MultiPoliciesCommissionable.php, line: 496
@@ -5734,11 +5734,11 @@ msgstr ""
 # File: src/App/Action/Expedia/Policies.php, line: 570
 # File: src/App/Action/Expedia/PoliciesCommissionable.php, line: 427
 # File: src/App/Action/Expedia/PoliciesCommissionable.php, line: 428
-# File: src/App/Action/Expedia/SearchHotels.php, line: 687
-# File: src/App/Action/Expedia/SearchHotels.php, line: 688
+# File: src/App/Action/Expedia/SearchHotels.php, line: 691
+# File: src/App/Action/Expedia/SearchHotels.php, line: 692
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 621
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 622
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 585
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 586
 # File: src/App/Action/HotelDO/Policies.php, line: 925
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 176
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 177
@@ -6042,46 +6042,46 @@ msgstr ""
 msgid "Visiting:"
 msgstr ""
 #
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 159
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 160
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 165
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 163
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 165
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 168
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 169
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 172
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 170
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 173
-# File: src/App/Action/Expedia/SearchHotels.php, line: 477
-# File: src/App/Action/Expedia/SearchHotels.php, line: 478
-# File: src/App/Action/Expedia/SearchHotels.php, line: 480
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 174
 # File: src/App/Action/Expedia/SearchHotels.php, line: 481
+# File: src/App/Action/Expedia/SearchHotels.php, line: 482
 # File: src/App/Action/Expedia/SearchHotels.php, line: 484
 # File: src/App/Action/Expedia/SearchHotels.php, line: 485
+# File: src/App/Action/Expedia/SearchHotels.php, line: 488
+# File: src/App/Action/Expedia/SearchHotels.php, line: 489
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 450
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 451
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 453
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 454
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 457
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 572
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 574
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 178
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 180
 msgid "Cancel between"
 msgstr ""
 #
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 158
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 159
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 165
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 160
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 166
-# File: src/App/Action/Expedia/SearchHotels.php, line: 477
-# File: src/App/Action/Expedia/SearchHotels.php, line: 478
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 167
+# File: src/App/Action/Expedia/SearchHotels.php, line: 481
+# File: src/App/Action/Expedia/SearchHotels.php, line: 482
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 450
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 451
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 572
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 178
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 336
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 338
@@ -6090,15 +6090,15 @@ msgstr ""
 msgid "night charge"
 msgstr ""
 #
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 161
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 162
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 168
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 163
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 169
-# File: src/App/Action/Expedia/SearchHotels.php, line: 480
-# File: src/App/Action/Expedia/SearchHotels.php, line: 481
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 170
+# File: src/App/Action/Expedia/SearchHotels.php, line: 484
+# File: src/App/Action/Expedia/SearchHotels.php, line: 485
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 453
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 454
-# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 574
+# File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 180
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 340
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 342
@@ -6107,12 +6107,12 @@ msgstr ""
 msgid "nights charge"
 msgstr ""
 #
-# File: src/App/Action/Expedia/HotelParallelParse.php, line: 165
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 166
-# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 172
+# File: src/App/Action/Expedia/HotelParallelParse.php, line: 167
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 173
-# File: src/App/Action/Expedia/SearchHotels.php, line: 484
-# File: src/App/Action/Expedia/SearchHotels.php, line: 485
+# File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 174
+# File: src/App/Action/Expedia/SearchHotels.php, line: 488
+# File: src/App/Action/Expedia/SearchHotels.php, line: 489
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 457
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 348
