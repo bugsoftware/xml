@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-09 07:38+0100\n"
+"POT-Creation-Date: 2023-04-10 21:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4116,8 +4116,8 @@ msgstr ""
 # File: src/App/Action/RTS/Policies.php, line: 513
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/RTS/SearchHotels.php, line: 817
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 537
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 538
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 541
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 542
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 344
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 345
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 342
@@ -4710,18 +4710,17 @@ msgstr ""
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 228
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 229
 # File: src/App/Action/Palladium/HotelParallelParse.php, line: 230
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 282
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 283
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 284
-# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 285
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 542
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 543
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 544
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 545
-# File: src/App/Action/Rakuten/Policies.php, line: 587
-# File: src/App/Action/Rakuten/Policies.php, line: 588
-# File: src/App/Action/Rakuten/Policies.php, line: 589
-# File: src/App/Action/Rakuten/Policies.php, line: 590
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 341
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 342
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 343
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 635
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 636
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 637
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 638
+# File: src/App/Action/Rakuten/Policies.php, line: 669
+# File: src/App/Action/Rakuten/Policies.php, line: 670
+# File: src/App/Action/Rakuten/Policies.php, line: 671
+# File: src/App/Action/Rakuten/Policies.php, line: 672
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 173
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 174
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 208
@@ -5770,6 +5769,7 @@ msgstr ""
 # File: src/App/Action/PriceTravel/Policies.php, line: 366
 # File: src/App/Action/PriceTravel/SearchHotels.php, line: 446
 # File: src/App/Action/PriceTravel/SearchHotels.php, line: 447
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 340
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 436
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 297
@@ -6538,33 +6538,17 @@ msgstr ""
 msgid "Non-Refundable - Full Fare"
 msgstr ""
 #
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
-# File: src/App/Action/Rakuten/Policies.php, line: 600
-# File: src/App/Action/Rakuten/Policies.php, line: 601
-msgid "If you cancel this booking Date From "
-msgstr ""
-#
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
-# File: src/App/Action/Rakuten/Policies.php, line: 600
-# File: src/App/Action/Rakuten/Policies.php, line: 601
-msgid " Date To "
-msgstr ""
-#
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
-# File: src/App/Action/Rakuten/Policies.php, line: 600
-# File: src/App/Action/Rakuten/Policies.php, line: 601
-msgid " cost "
-msgstr ""
-#
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 555
-# File: src/App/Action/Rakuten/MultiPolicies.php, line: 556
-# File: src/App/Action/Rakuten/Policies.php, line: 600
-# File: src/App/Action/Rakuten/Policies.php, line: 601
-#, php-format
-msgid "% of total."
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 351
+# File: src/App/Action/Rakuten/HotelParallelParse.php, line: 352
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 645
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 646
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 647
+# File: src/App/Action/Rakuten/MultiPolicies.php, line: 648
+# File: src/App/Action/Rakuten/Policies.php, line: 679
+# File: src/App/Action/Rakuten/Policies.php, line: 680
+# File: src/App/Action/Rakuten/Policies.php, line: 681
+# File: src/App/Action/Rakuten/Policies.php, line: 682
+msgid "You will incur in expenses/charges from"
 msgstr ""
 #
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 110
