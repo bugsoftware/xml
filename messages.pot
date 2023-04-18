@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-17 16:28+0100\n"
+"POT-Creation-Date: 2023-04-18 07:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,9 +71,9 @@ msgstr ""
 # File: console/src/Xml/Command/CarTrawler/CreateCar.php, line: 1118
 # File: console/src/Xml/Command/CarTrawler/CreateCar.php, line: 1119
 # File: console/src/Xml/Command/CarTrawler/CreateCar.php, line: 1122
-# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 304
-# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 305
-# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 308
+# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 310
+# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 311
+# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 314
 # File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 294
 # File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 295
 # File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 298
@@ -332,7 +332,7 @@ msgstr ""
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 336
 # File: console/src/Xml/Command/Booking.com/CreateCar.php, line: 392
 # File: console/src/Xml/Command/CarTrawler/CreateCar.php, line: 1122
-# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 308
+# File: console/src/Xml/Command/Carnect/CreateCar.php, line: 314
 # File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 298
 # File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 375
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 320
@@ -1689,12 +1689,12 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 521
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 48
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 49
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 310
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 311
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 246
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 247
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 182
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 183
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 314
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 315
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 250
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 251
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 173
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 174
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 473
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 474
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 601
@@ -4869,12 +4869,12 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 500
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 45
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 46
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 307
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 308
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 243
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 244
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 179
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 180
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 311
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 312
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 247
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 248
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 170
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 171
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 116
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 313
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 315
@@ -4906,12 +4906,12 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 500
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 45
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 46
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 307
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 308
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 243
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 244
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 179
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 180
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 311
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 312
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 247
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 248
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 170
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 171
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 116
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 313
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 315
@@ -4949,12 +4949,12 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 521
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 48
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 49
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 310
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 311
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 246
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 247
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 182
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 183
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 314
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 315
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 250
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 251
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 173
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 174
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 79
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 105
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 126
@@ -5019,12 +5019,12 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 521
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 48
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 49
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 310
-# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 311
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 246
-# File: src/App/Action/COSMOBEDS/Policies.php, line: 247
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 182
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 183
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 314
+# File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 315
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 250
+# File: src/App/Action/COSMOBEDS/Policies.php, line: 251
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 173
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 174
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 79
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 105
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 126
