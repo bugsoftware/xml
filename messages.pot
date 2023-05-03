@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-03 07:28+0100\n"
+"POT-Creation-Date: 2023-05-03 14:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,9 +32,9 @@ msgstr ""
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 565
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 566
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 569
-# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 338
-# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 339
-# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 342
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 375
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 379
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 725
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 726
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 729
@@ -319,7 +319,7 @@ msgstr ""
 # File: console/src/Xml/Command/ATI/CreateHotel.php, line: 460
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 481
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 569
-# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 342
+# File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 379
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 729
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1591
 # File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 299
@@ -2077,7 +2077,7 @@ msgid "Cancellation is being processed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Sendmessage.php, line: 290
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2937
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2938
 msgid "Travel Confirmation"
 msgstr ""
 #
@@ -2136,7 +2136,7 @@ msgstr ""
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2935
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2936
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
