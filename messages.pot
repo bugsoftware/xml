@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-03 14:33+0100\n"
+"POT-Creation-Date: 2023-05-04 07:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -483,8 +483,8 @@ msgstr ""
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 119
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 136
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 138
-# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 191
-# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 192
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 194
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 128
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 130
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 147
@@ -574,22 +574,38 @@ msgstr ""
 # File: src/App/Action/HotelsPro/Policies.php, line: 413
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 418
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 439
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 110
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 112
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 146
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 148
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 375
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 377
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 411
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 413
-# File: src/App/Action/IWTX/Policies.php, line: 273
-# File: src/App/Action/IWTX/Policies.php, line: 275
-# File: src/App/Action/IWTX/Policies.php, line: 309
-# File: src/App/Action/IWTX/Policies.php, line: 311
-# File: src/App/Action/IWTX/SearchHotels.php, line: 246
-# File: src/App/Action/IWTX/SearchHotels.php, line: 248
-# File: src/App/Action/IWTX/SearchHotels.php, line: 282
-# File: src/App/Action/IWTX/SearchHotels.php, line: 284
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 115
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 118
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 120
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 157
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 160
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 163
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 165
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 384
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 387
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 390
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 392
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 424
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 427
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 430
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 432
+# File: src/App/Action/IWTX/Policies.php, line: 283
+# File: src/App/Action/IWTX/Policies.php, line: 286
+# File: src/App/Action/IWTX/Policies.php, line: 289
+# File: src/App/Action/IWTX/Policies.php, line: 291
+# File: src/App/Action/IWTX/Policies.php, line: 323
+# File: src/App/Action/IWTX/Policies.php, line: 326
+# File: src/App/Action/IWTX/Policies.php, line: 329
+# File: src/App/Action/IWTX/Policies.php, line: 331
+# File: src/App/Action/IWTX/SearchHotels.php, line: 305
+# File: src/App/Action/IWTX/SearchHotels.php, line: 308
+# File: src/App/Action/IWTX/SearchHotels.php, line: 311
+# File: src/App/Action/IWTX/SearchHotels.php, line: 313
+# File: src/App/Action/IWTX/SearchHotels.php, line: 349
+# File: src/App/Action/IWTX/SearchHotels.php, line: 352
+# File: src/App/Action/IWTX/SearchHotels.php, line: 355
+# File: src/App/Action/IWTX/SearchHotels.php, line: 357
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 339
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 341
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 375
@@ -668,7 +684,7 @@ msgstr ""
 # File: console/src/Xml/Command/Catalonia/CancelHotel.php, line: 194
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 117
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 138
-# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 194
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 128
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 149
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 208
@@ -685,7 +701,7 @@ msgstr ""
 # File: console/src/Xml/Command/Catalonia/CancelHotel.php, line: 200
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 125
 # File: console/src/Xml/Command/Iberostar/CancelHotel.php, line: 144
-# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 199
+# File: console/src/Xml/Command/Ocean/CancelHotel.php, line: 200
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 136
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 155
 # File: console/src/Xml/Command/PlayaResorts/CancelHotel.php, line: 214
@@ -4535,22 +4551,38 @@ msgstr ""
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 418
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 439
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 110
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 112
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 146
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 148
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 375
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 377
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 411
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 413
-# File: src/App/Action/IWTX/Policies.php, line: 273
-# File: src/App/Action/IWTX/Policies.php, line: 275
-# File: src/App/Action/IWTX/Policies.php, line: 309
-# File: src/App/Action/IWTX/Policies.php, line: 311
-# File: src/App/Action/IWTX/SearchHotels.php, line: 246
-# File: src/App/Action/IWTX/SearchHotels.php, line: 248
-# File: src/App/Action/IWTX/SearchHotels.php, line: 282
-# File: src/App/Action/IWTX/SearchHotels.php, line: 284
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 115
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 118
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 120
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 157
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 160
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 163
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 165
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 384
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 387
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 390
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 392
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 424
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 427
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 430
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 432
+# File: src/App/Action/IWTX/Policies.php, line: 283
+# File: src/App/Action/IWTX/Policies.php, line: 286
+# File: src/App/Action/IWTX/Policies.php, line: 289
+# File: src/App/Action/IWTX/Policies.php, line: 291
+# File: src/App/Action/IWTX/Policies.php, line: 323
+# File: src/App/Action/IWTX/Policies.php, line: 326
+# File: src/App/Action/IWTX/Policies.php, line: 329
+# File: src/App/Action/IWTX/Policies.php, line: 331
+# File: src/App/Action/IWTX/SearchHotels.php, line: 305
+# File: src/App/Action/IWTX/SearchHotels.php, line: 308
+# File: src/App/Action/IWTX/SearchHotels.php, line: 311
+# File: src/App/Action/IWTX/SearchHotels.php, line: 313
+# File: src/App/Action/IWTX/SearchHotels.php, line: 349
+# File: src/App/Action/IWTX/SearchHotels.php, line: 352
+# File: src/App/Action/IWTX/SearchHotels.php, line: 355
+# File: src/App/Action/IWTX/SearchHotels.php, line: 357
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 339
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 341
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 375
@@ -5491,10 +5523,10 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 685
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 326
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 328
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 166
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 168
-# File: src/App/Action/IWTX/SearchHotels.php, line: 348
-# File: src/App/Action/IWTX/SearchHotels.php, line: 350
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 185
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 187
+# File: src/App/Action/IWTX/SearchHotels.php, line: 423
+# File: src/App/Action/IWTX/SearchHotels.php, line: 425
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 441
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 443
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1396
@@ -5748,10 +5780,12 @@ msgstr ""
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 177
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 352
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 353
-# File: src/App/Action/IWTX/Policies.php, line: 413
-# File: src/App/Action/IWTX/Policies.php, line: 414
-# File: src/App/Action/IWTX/SearchHotels.php, line: 401
-# File: src/App/Action/IWTX/SearchHotels.php, line: 402
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 548
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 549
+# File: src/App/Action/IWTX/Policies.php, line: 435
+# File: src/App/Action/IWTX/Policies.php, line: 436
+# File: src/App/Action/IWTX/SearchHotels.php, line: 476
+# File: src/App/Action/IWTX/SearchHotels.php, line: 477
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 494
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 495
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 476
@@ -5836,6 +5870,14 @@ msgstr ""
 #
 # File: src/App/Action/Direct/HotelParallel.php, line: 139
 # File: src/App/Action/Direct/SearchHotels.php, line: 146
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 118
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 163
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 390
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 430
+# File: src/App/Action/IWTX/Policies.php, line: 289
+# File: src/App/Action/IWTX/Policies.php, line: 329
+# File: src/App/Action/IWTX/SearchHotels.php, line: 311
+# File: src/App/Action/IWTX/SearchHotels.php, line: 355
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 151
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 152
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 402
@@ -5894,6 +5936,14 @@ msgstr ""
 #
 # File: src/App/Action/Direct/HotelParallel.php, line: 141
 # File: src/App/Action/Direct/SearchHotels.php, line: 148
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 120
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 165
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 392
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 432
+# File: src/App/Action/IWTX/Policies.php, line: 291
+# File: src/App/Action/IWTX/Policies.php, line: 331
+# File: src/App/Action/IWTX/SearchHotels.php, line: 313
+# File: src/App/Action/IWTX/SearchHotels.php, line: 357
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 154
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 155
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 405
