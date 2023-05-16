@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-16 18:37+0100\n"
+"POT-Creation-Date: 2023-05-16 20:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -814,14 +814,14 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 761
 # File: src/App/Action/DOTW/SearchHotels.php, line: 762
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 712
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 199
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 200
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 201
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 202
-# File: src/App/Action/TBO/MultiPolicies.php, line: 441
-# File: src/App/Action/TBO/MultiPolicies.php, line: 442
-# File: src/App/Action/TBO/MultiPolicies.php, line: 444
-# File: src/App/Action/TBO/MultiPolicies.php, line: 445
+# File: src/App/Action/TBO/MultiPolicies.php, line: 490
+# File: src/App/Action/TBO/MultiPolicies.php, line: 491
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
@@ -916,14 +916,14 @@ msgstr ""
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 344
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 287
 # File: src/App/Action/SunHotels/Policies.php, line: 253
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 199
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 200
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 201
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 202
-# File: src/App/Action/TBO/MultiPolicies.php, line: 441
-# File: src/App/Action/TBO/MultiPolicies.php, line: 442
-# File: src/App/Action/TBO/MultiPolicies.php, line: 444
-# File: src/App/Action/TBO/MultiPolicies.php, line: 445
+# File: src/App/Action/TBO/MultiPolicies.php, line: 490
+# File: src/App/Action/TBO/MultiPolicies.php, line: 491
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
@@ -1968,14 +1968,14 @@ msgstr ""
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 108
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 367
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 387
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 199
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 200
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 201
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 202
-# File: src/App/Action/TBO/MultiPolicies.php, line: 441
-# File: src/App/Action/TBO/MultiPolicies.php, line: 442
-# File: src/App/Action/TBO/MultiPolicies.php, line: 444
-# File: src/App/Action/TBO/MultiPolicies.php, line: 445
+# File: src/App/Action/TBO/MultiPolicies.php, line: 490
+# File: src/App/Action/TBO/MultiPolicies.php, line: 491
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
@@ -4134,8 +4134,8 @@ msgstr ""
 # File: src/App/Action/RTS/SearchHotels.php, line: 817
 # File: src/App/Action/Rakuten/SearchHotels.php, line: 541
 # File: src/App/Action/Rakuten/SearchHotels.php, line: 542
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 347
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 348
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 349
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 342
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 343
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 507
@@ -6620,10 +6620,10 @@ msgstr ""
 msgid "CANCELLATION CHARGE APPLIES IMMEDIATELY"
 msgstr ""
 #
+# File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
-# File: src/App/Action/TBO/HotelParallelParse.php, line: 199
-# File: src/App/Action/TBO/MultiPolicies.php, line: 441
-# File: src/App/Action/TBO/MultiPolicies.php, line: 442
+# File: src/App/Action/TBO/MultiPolicies.php, line: 490
+# File: src/App/Action/TBO/MultiPolicies.php, line: 491
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
