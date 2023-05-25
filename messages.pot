@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25 13:07+0100\n"
+"POT-Creation-Date: 2023-05-25 23:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,9 +23,9 @@ msgstr ""
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 257
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 258
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 261
-# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 456
-# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 457
-# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 460
+# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 526
+# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 529
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 477
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 478
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 481
@@ -316,7 +316,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/A2BTransfers/CreateTransfer.php, line: 378
 # File: console/src/Xml/Command/AIO/CreateHotel.php, line: 261
-# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 460
+# File: console/src/Xml/Command/ATI/CreateHotel.php, line: 529
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 481
 # File: console/src/Xml/Command/Abreu/CreateHotel.php, line: 569
 # File: console/src/Xml/Command/ActionTravel/CreateHotel.php, line: 379
@@ -5252,14 +5252,14 @@ msgstr ""
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1135
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1158
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1160
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2023
 # File: src/App/Action/RCCL/SearchCruises.php, line: 2025
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2048
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2027
 # File: src/App/Action/RCCL/SearchCruises.php, line: 2050
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2073
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2052
 # File: src/App/Action/RCCL/SearchCruises.php, line: 2075
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2098
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2077
 # File: src/App/Action/RCCL/SearchCruises.php, line: 2100
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2102
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 714
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 716
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 739
