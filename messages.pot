@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-06 07:19+0100\n"
+"POT-Creation-Date: 2023-06-06 17:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -559,12 +559,12 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 211
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 380
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 410
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 403
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 433
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 511
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.old.php, line: 511
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 610
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 640
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 403
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 433
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 251
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
@@ -861,8 +861,6 @@ msgstr ""
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 421
 # File: src/App/Action/ActionTravel/Policies.php, line: 418
 # File: src/App/Action/ActionTravel/Policies.php, line: 419
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 378
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 386
 # File: src/App/Action/DOTW/Hotel.php, line: 626
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 715
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 364
@@ -4402,8 +4400,8 @@ msgstr ""
 # File: src/App/Action/Priceline/Hotel.php, line: 302
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 419
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 333
-# File: src/App/Action/Priceline/SearchHotels.php, line: 573
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 354
+# File: src/App/Action/Priceline/SearchHotels.php, line: 573
 # File: src/App/Action/PricelineNet/Hotel.php, line: 345
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 230
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 394
@@ -4541,11 +4539,11 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 221
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 380
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 410
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 403
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 433
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.old.php, line: 511
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 610
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 640
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 403
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 433
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 251
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
@@ -4656,14 +4654,11 @@ msgid "if cancelled on or after"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 63
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 357
 msgid "No penalty"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 65
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 67
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 359
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 361
 # File: src/App/Action/EuropaMundo/Policies.php, line: 134
 # File: src/App/Action/EuropaMundo/Tour.php, line: 455
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
@@ -4674,34 +4669,27 @@ msgid "penalty"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 70
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 364
 msgid "Pay First Night"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 75
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 369
 msgid "Average price of all nights"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 79
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 373
 msgid "No Show:"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 82
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 90
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 376
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 384
 msgid "Cancelling"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 86
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 380
 msgid "day(s) before check-in date you have"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 94
-# File: src/App/Action/ActionTravel/SearchHotels.php, line: 388
 msgid "day(s) after confirmation would incur"
 msgstr ""
 #
@@ -5515,12 +5503,12 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 240
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 443
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 445
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 470
-# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 472
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.old.php, line: 547
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.old.php, line: 549
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 683
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 685
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 470
+# File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 472
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 326
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 328
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 185
@@ -5604,9 +5592,9 @@ msgstr ""
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 413
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 417
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 331
+# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
 # File: src/App/Action/Priceline/SearchHotels.php, line: 567
 # File: src/App/Action/Priceline/SearchHotels.php, line: 571
-# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
 # File: src/App/Action/PricelineNet/Hotel.php, line: 342
 # File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 227
 # File: src/App/Action/PricelineNet/SearchHotels.php, line: 391
@@ -5641,14 +5629,14 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 673
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1379
-# File: src/App/Action/Omnibees/SearchHotels.php, line: 1641
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
+# File: src/App/Action/Omnibees/SearchHotels.php, line: 1641
 # File: src/App/Action/Priceline/Hotel.php, line: 275
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 357
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 359
 # File: src/App/Action/Priceline/SearchHotels.old.php, line: 306
-# File: src/App/Action/Priceline/SearchHotels.php, line: 540
 # File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 327
+# File: src/App/Action/Priceline/SearchHotels.php, line: 540
 # File: src/App/Action/Tourico/Hotel.php, line: 251
 # File: src/App/Action/Tourico/Hotel.php, line: 253
 # File: src/App/Action/Tourico/HotelParallelParse.php, line: 55
