@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-15 21:20+0100\n"
+"POT-Creation-Date: 2023-06-16 07:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4089,6 +4089,10 @@ msgstr ""
 #
 # File: console/src/Xml/Command/cybersource.php, line: 1466
 msgid "Please review reservation."
+msgstr ""
+#
+# File: console/src/Xml/Command/SaleSysTranscript.php, line: 253
+msgid "Phone call sales lead"
 msgstr ""
 #
 # File: console/vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 43
