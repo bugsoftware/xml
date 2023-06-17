@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-16 19:37+0100\n"
+"POT-Creation-Date: 2023-06-17 07:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1697,10 +1697,10 @@ msgstr ""
 # File: src/App/Action/AvisBudget/SearchCars.old.php, line: 516
 # File: src/App/Action/AvisBudget/SearchCars.php, line: 809
 # File: src/App/Action/AvisBudget/SearchCars.php, line: 810
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 209
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 245
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 390
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 426
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 217
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 253
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 376
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 412
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 485
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 521
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 48
@@ -3515,6 +3515,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 338
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 295
 # File: src/App/Action/Agoda/SearchHotels.php, line: 559
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 200
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 201
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 354
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 355
 # File: src/App/Action/Coming2/SearchHotels.php, line: 380
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 533
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 534
@@ -4779,6 +4783,10 @@ msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 299
 # File: src/App/Action/Agoda/SearchHotels.php, line: 563
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 200
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 201
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 354
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 355
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 318
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 1013
 # File: src/App/Action/Getaroom/Policies.php, line: 968
@@ -4794,10 +4802,10 @@ msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 301
 # File: src/App/Action/Agoda/SearchHotels.php, line: 565
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 211
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 247
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 392
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 428
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 219
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 255
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 378
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 414
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 487
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 523
 msgid "Failure to arrive at your hotel or property will incur a charge of"
@@ -4897,10 +4905,10 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 406
 # File: src/App/Action/Agoda/SearchHotels.php, line: 647
 # File: src/App/Action/Agoda/SearchHotels.php, line: 670
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 224
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 388
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 405
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 215
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 232
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 374
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 391
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 483
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 500
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 45
@@ -4934,10 +4942,10 @@ msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 383
 # File: src/App/Action/Agoda/SearchHotels.php, line: 647
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 207
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 224
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 388
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 405
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 215
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 232
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 374
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 391
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 483
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 500
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 45
@@ -4977,10 +4985,10 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 433
 # File: src/App/Action/Agoda/SearchHotels.php, line: 670
 # File: src/App/Action/Agoda/SearchHotels.php, line: 697
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 209
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 245
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 390
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 426
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 217
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 253
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 376
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 412
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 485
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 521
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 48
@@ -5047,10 +5055,10 @@ msgstr ""
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 433
 # File: src/App/Action/Agoda/SearchHotels.php, line: 670
 # File: src/App/Action/Agoda/SearchHotels.php, line: 697
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 209
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 245
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 390
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 426
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 217
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 253
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 376
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 412
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 485
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 521
 # File: src/App/Action/COSMOBEDS/HotelParallelParse.php, line: 48
@@ -5404,8 +5412,8 @@ msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
 # File: src/App/Action/Bonotel/Hotel.php, line: 650
-# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 489
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 677
+# File: src/App/Action/Bonotel/HotelParallelParse.php, line: 498
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 664
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 741
 # File: src/App/Action/GTA/HotelParallelParse.php, line: 347
 # File: src/App/Action/GTA/SearchHotels.php, line: 657
@@ -5419,8 +5427,8 @@ msgstr ""
 msgid "On Request Rate"
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 731
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 732
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 718
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 719
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 795
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 796
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 163
@@ -5428,8 +5436,8 @@ msgstr ""
 msgid "This booking is Non-Refundable and cannot be amended or modified."
 msgstr ""
 #
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 731
-# File: src/App/Action/Bonotel/SearchHotels.php, line: 732
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 718
+# File: src/App/Action/Bonotel/SearchHotels.php, line: 719
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 795
 # File: src/App/Action/Bonotel/SearchHotelsMulti.php, line: 796
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 163
