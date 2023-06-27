@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-27 07:17+0100\n"
+"POT-Creation-Date: 2023-06-27 14:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4140,8 +4140,8 @@ msgstr ""
 # File: src/App/Action/RTS/Policies.php, line: 513
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/RTS/SearchHotels.php, line: 817
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 623
-# File: src/App/Action/Rakuten/SearchHotels.php, line: 624
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 608
+# File: src/App/Action/Rakuten/SearchHotels.php, line: 609
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 347
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 348
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 342
@@ -4154,8 +4154,8 @@ msgstr ""
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 516
 # File: src/App/Action/Travelplan/Policies.php, line: 526
 # File: src/App/Action/Travelplan/Policies.php, line: 527
-# File: src/App/Action/RakutenCUG/SearchHotels.php, line: 623
-# File: src/App/Action/RakutenCUG/SearchHotels.php, line: 624
+# File: src/App/Action/RakutenCUG/SearchHotels.php, line: 610
+# File: src/App/Action/RakutenCUG/SearchHotels.php, line: 611
 msgid "This is a non refundable booking"
 msgstr ""
 #
@@ -4773,10 +4773,17 @@ msgstr ""
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 533
 # File: src/App/Action/Travelport/Policies.php, line: 530
 # File: src/App/Action/Travelport/Policies.php, line: 531
-# File: src/App/Action/RakutenCUG/Policies.php, line: 747
+# File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 340
+# File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 341
+# File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 342
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 634
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 635
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 636
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 637
 # File: src/App/Action/RakutenCUG/Policies.php, line: 748
 # File: src/App/Action/RakutenCUG/Policies.php, line: 749
 # File: src/App/Action/RakutenCUG/Policies.php, line: 750
+# File: src/App/Action/RakutenCUG/Policies.php, line: 751
 msgid "This is a non refundable booking."
 msgstr ""
 #
@@ -5832,6 +5839,7 @@ msgstr ""
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 271
 # File: src/App/Action/Youtravel/Policies.php, line: 258
 # File: src/App/Action/Youtravel/Policies.php, line: 259
+# File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 339
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -6616,10 +6624,16 @@ msgstr ""
 # File: src/App/Action/Rakuten/Policies.php, line: 680
 # File: src/App/Action/Rakuten/Policies.php, line: 681
 # File: src/App/Action/Rakuten/Policies.php, line: 682
-# File: src/App/Action/RakutenCUG/Policies.php, line: 757
+# File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 350
+# File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 351
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 644
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 645
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 646
+# File: src/App/Action/RakutenCUG/MultiPolicies.php, line: 647
 # File: src/App/Action/RakutenCUG/Policies.php, line: 758
 # File: src/App/Action/RakutenCUG/Policies.php, line: 759
 # File: src/App/Action/RakutenCUG/Policies.php, line: 760
+# File: src/App/Action/RakutenCUG/Policies.php, line: 761
 msgid "You will incur in expenses/charges from"
 msgstr ""
 #
