@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-27 18:56+0100\n"
+"POT-Creation-Date: 2023-06-28 08:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -811,8 +811,8 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 591
 # File: src/App/Action/DOTW/Policies.php, line: 593
 # File: src/App/Action/DOTW/Policies.php, line: 594
-# File: src/App/Action/DOTW/SearchHotels.php, line: 761
-# File: src/App/Action/DOTW/SearchHotels.php, line: 762
+# File: src/App/Action/DOTW/SearchHotels.php, line: 855
+# File: src/App/Action/DOTW/SearchHotels.php, line: 856
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 712
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
@@ -1717,8 +1717,8 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 602
 # File: src/App/Action/DOTW/Policies.php, line: 604
 # File: src/App/Action/DOTW/Policies.php, line: 605
-# File: src/App/Action/DOTW/SearchHotels.php, line: 772
-# File: src/App/Action/DOTW/SearchHotels.php, line: 773
+# File: src/App/Action/DOTW/SearchHotels.php, line: 866
+# File: src/App/Action/DOTW/SearchHotels.php, line: 867
 # File: src/App/Action/EuropaMundo/Policies.php, line: 132
 # File: src/App/Action/EuropaMundo/Tour.php, line: 453
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 79
@@ -3522,8 +3522,8 @@ msgstr ""
 # File: src/App/Action/Coming2/SearchHotels.php, line: 380
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 533
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 534
-# File: src/App/Action/DOTW/SearchHotels.php, line: 855
-# File: src/App/Action/DOTW/SearchHotels.php, line: 856
+# File: src/App/Action/DOTW/SearchHotels.php, line: 949
+# File: src/App/Action/DOTW/SearchHotels.php, line: 950
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 330
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 1024
 # File: src/App/Action/Getaroom/Policies.php, line: 979
@@ -4680,6 +4680,10 @@ msgstr ""
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
 # File: src/App/Action/Yalago/SearchHotels.php, line: 276
 # File: src/App/Action/Yalago/SearchHotels.php, line: 277
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 315
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 316
+# File: src/App/Action/Imperatours/Policies.php, line: 294
+# File: src/App/Action/Imperatours/Policies.php, line: 295
 msgid "penalty"
 msgstr ""
 #
@@ -5208,6 +5212,10 @@ msgstr ""
 # File: src/App/Action/Priceline/SearchHotels.php, line: 433
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 178
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 180
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 315
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 316
+# File: src/App/Action/Imperatours/Policies.php, line: 294
+# File: src/App/Action/Imperatours/Policies.php, line: 295
 msgid "and"
 msgstr ""
 #
@@ -5663,7 +5671,7 @@ msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 590
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
-# File: src/App/Action/DOTW/SearchHotels.php, line: 673
+# File: src/App/Action/DOTW/SearchHotels.php, line: 767
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1379
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
@@ -5702,8 +5710,8 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 599
 # File: src/App/Action/DOTW/Policies.php, line: 601
 # File: src/App/Action/DOTW/Policies.php, line: 602
-# File: src/App/Action/DOTW/SearchHotels.php, line: 769
-# File: src/App/Action/DOTW/SearchHotels.php, line: 770
+# File: src/App/Action/DOTW/SearchHotels.php, line: 863
+# File: src/App/Action/DOTW/SearchHotels.php, line: 864
 msgid "Cancel until"
 msgstr ""
 #
@@ -5713,8 +5721,8 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 610
 # File: src/App/Action/DOTW/Policies.php, line: 612
 # File: src/App/Action/DOTW/Policies.php, line: 613
-# File: src/App/Action/DOTW/SearchHotels.php, line: 780
-# File: src/App/Action/DOTW/SearchHotels.php, line: 781
+# File: src/App/Action/DOTW/SearchHotels.php, line: 874
+# File: src/App/Action/DOTW/SearchHotels.php, line: 875
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 198
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 199
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 449
@@ -5770,8 +5778,8 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 613
 # File: src/App/Action/DOTW/Policies.php, line: 615
 # File: src/App/Action/DOTW/Policies.php, line: 616
-# File: src/App/Action/DOTW/SearchHotels.php, line: 783
-# File: src/App/Action/DOTW/SearchHotels.php, line: 784
+# File: src/App/Action/DOTW/SearchHotels.php, line: 877
+# File: src/App/Action/DOTW/SearchHotels.php, line: 878
 msgid "will be charged a cancellation penalty of"
 msgstr ""
 #
@@ -5840,6 +5848,9 @@ msgstr ""
 # File: src/App/Action/Youtravel/Policies.php, line: 258
 # File: src/App/Action/Youtravel/Policies.php, line: 259
 # File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 339
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 450
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 451
+# File: src/App/Action/Imperatours/Policies.php, line: 404
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -6151,6 +6162,10 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 178
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 180
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 315
+# File: src/App/Action/Imperatours/SearchHotels.php, line: 316
+# File: src/App/Action/Imperatours/Policies.php, line: 294
+# File: src/App/Action/Imperatours/Policies.php, line: 295
 msgid "Cancel between"
 msgstr ""
 #
@@ -6233,7 +6248,6 @@ msgstr ""
 # File: src/App/Action/MikiTravel/Hotel.php, line: 420
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 257
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 465
-# File: src/App/Action/Imperatours/SearchHotels.php, line: 371
 msgid "Special Offer"
 msgstr ""
 #
