@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-29 17:10+0100\n"
+"POT-Creation-Date: 2023-06-30 06:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1123,16 +1123,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7437
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7549
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7009
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7121
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7026
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7138
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2048
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7438
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7550
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7010
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7122
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7027
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7139
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2049
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2162
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2276
@@ -4942,6 +4942,7 @@ msgstr ""
 # File: src/App/Action/GoGlobal/Policies.php, line: 305
 # File: src/App/Action/GoGlobal/Policies.php, line: 307
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 302
+# File: src/App/Action/InfiniteHotel/Policies.php, line: 195
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 110
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 119
 # File: src/App/Action/Roomer/SearchHotels.php, line: 307
@@ -5564,8 +5565,8 @@ msgstr ""
 # File: src/App/Action/IWTX/SearchHotels.php, line: 425
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 441
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 443
-# File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 239
-# File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 241
+# File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 245
+# File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 247
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1396
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1398
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 90
@@ -5729,6 +5730,7 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 613
 # File: src/App/Action/DOTW/SearchHotels.php, line: 874
 # File: src/App/Action/DOTW/SearchHotels.php, line: 875
+# File: src/App/Action/InfiniteHotel/Policies.php, line: 195
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 198
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 199
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 449
