@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 12:54+0100\n"
+"POT-Creation-Date: 2023-06-30 15:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4955,8 +4955,9 @@ msgstr ""
 # File: src/App/Action/SnapTravel/Policies.php, line: 297
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 365
 # File: src/App/Action/SnapTravel/SearchHotels.php, line: 367
-# File: src/App/Action/RateHawk/SearchHotels.php, line: 236
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 237
+# File: src/App/Action/RateHawk/SearchHotels.php, line: 238
+# File: src/App/Action/RateHawk/Policies.php, line: 247
 msgid "Cancel before"
 msgstr ""
 #
@@ -5573,8 +5574,8 @@ msgstr ""
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 92
 # File: src/App/Action/Yalago/SearchHotels.php, line: 343
 # File: src/App/Action/Yalago/SearchHotels.php, line: 345
-# File: src/App/Action/RateHawk/SearchHotels.php, line: 299
-# File: src/App/Action/RateHawk/SearchHotels.php, line: 301
+# File: src/App/Action/RateHawk/SearchHotels.php, line: 300
+# File: src/App/Action/RateHawk/SearchHotels.php, line: 302
 msgid "Package Rate"
 msgstr ""
 #
@@ -5777,8 +5778,9 @@ msgstr ""
 # File: src/App/Action/W2M/Policies.php, line: 488
 # File: src/App/Action/W2M/SearchHotels.php, line: 520
 # File: src/App/Action/W2M/SearchHotels.php, line: 521
-# File: src/App/Action/RateHawk/SearchHotels.php, line: 236
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 237
+# File: src/App/Action/RateHawk/SearchHotels.php, line: 238
+# File: src/App/Action/RateHawk/Policies.php, line: 247
 msgid "free of charge"
 msgstr ""
 #
@@ -5861,8 +5863,8 @@ msgstr ""
 # File: src/App/Action/Imperatours/SearchHotels.php, line: 450
 # File: src/App/Action/Imperatours/SearchHotels.php, line: 451
 # File: src/App/Action/Imperatours/Policies.php, line: 404
-# File: src/App/Action/RateHawk/SearchHotels.php, line: 348
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 349
+# File: src/App/Action/RateHawk/SearchHotels.php, line: 350
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
