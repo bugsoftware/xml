@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-29 06:32+0100\n"
+"POT-Creation-Date: 2023-07-29 14:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5825,8 +5825,8 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 622
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 586
 # File: src/App/Action/HotelDO/Policies.php, line: 925
-# File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 176
-# File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 177
+# File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 180
+# File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 181
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 352
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 353
 # File: src/App/Action/IWTX/MultiPolicies.php, line: 548
@@ -6269,7 +6269,7 @@ msgstr ""
 msgid "Special Offer"
 msgstr ""
 #
-# File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 127
+# File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 131
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 290
 msgid "Cancel free of charge before"
 msgstr ""
