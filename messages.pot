@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-15 07:03+0100\n"
+"POT-Creation-Date: 2023-09-15 14:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5425,7 +5425,7 @@ msgstr ""
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 838
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 873
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 881
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1267
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1266
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1375
 msgid "Stop"
 msgstr ""
@@ -5439,7 +5439,7 @@ msgstr ""
 # File: src/App/Action/Sabre/SearchFlightsParse.php, line: 840
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 875
 # File: src/App/Action/Sabre/SearchMultiFlightsParse.php, line: 883
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1269
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1268
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1377
 msgid "Stops"
 msgstr ""
@@ -5474,18 +5474,18 @@ msgstr ""
 msgid "charge full amount"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1692
-# File: src/App/Action/AssistCardAction.php, line: 1841
+# File: src/App/Action/AssistCardAction.php, line: 1718
+# File: src/App/Action/AssistCardAction.php, line: 1867
 msgid "Domestic Air & Hotel Plan"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1694
-# File: src/App/Action/AssistCardAction.php, line: 1843
+# File: src/App/Action/AssistCardAction.php, line: 1720
+# File: src/App/Action/AssistCardAction.php, line: 1869
 msgid "International Air & Hotel"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1698
-# File: src/App/Action/AssistCardAction.php, line: 1847
+# File: src/App/Action/AssistCardAction.php, line: 1724
+# File: src/App/Action/AssistCardAction.php, line: 1873
 msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
@@ -6936,7 +6936,7 @@ msgstr ""
 msgid "Cancel Penalty is"
 msgstr ""
 #
-# File: src/App/Action/Travelport/SearchFlights.php, line: 1272
+# File: src/App/Action/Travelport/SearchFlights.php, line: 1271
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1380
 msgid "Direct"
 msgstr ""
