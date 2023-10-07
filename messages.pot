@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-07 08:00+0100\n"
+"POT-Creation-Date: 2023-10-07 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -924,8 +924,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 377
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 358
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 366
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 322
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 330
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 382
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 390
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 56
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 64
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 404
@@ -1737,8 +1737,8 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 315
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 250
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 251
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 173
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 174
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 180
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 181
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 473
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 474
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 601
@@ -1807,10 +1807,10 @@ msgstr ""
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 108
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 111
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 113
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 367
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 387
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 390
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 392
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 456
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 476
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 479
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 481
 # File: src/App/Action/Teamamerica/HotelParallelParse.php, line: 178
 # File: src/App/Action/Teamamerica/HotelParallelParse.php, line: 179
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
@@ -1952,14 +1952,14 @@ msgstr ""
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 379
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 398
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 420
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 335
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 336
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 339
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 340
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 342
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 343
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 362
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 384
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 395
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 396
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 399
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 400
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 402
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 403
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 422
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 444
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 69
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 70
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 73
@@ -1994,8 +1994,8 @@ msgstr ""
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 398
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 88
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 108
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 367
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 387
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 456
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 476
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 200
@@ -4264,10 +4264,10 @@ msgstr ""
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 360
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 366
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 368
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 322
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 324
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 330
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 332
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 382
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 384
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 390
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 392
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 56
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 58
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 64
@@ -4354,8 +4354,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 383
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 371
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 372
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 335
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 336
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 395
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 396
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 69
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 70
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 417
@@ -4439,7 +4439,7 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 260
 # File: src/App/Action/Lotsofhotels/SearchHotels.php, line: 448
 # File: src/App/Action/NexusTours/HotelParallelParse.php, line: 422
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 586
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 646
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 326
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 578
 # File: src/App/Action/PremierInn/HotelParallelParse.php, line: 109
@@ -4984,8 +4984,8 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 312
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 247
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 248
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 170
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 171
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 177
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 178
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 116
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 313
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 315
@@ -5028,8 +5028,8 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 312
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 247
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 248
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 170
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 171
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 177
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 178
 # File: src/App/Action/GoGlobal/HotelParallelParse.php, line: 116
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 313
 # File: src/App/Action/GoGlobal/MultiPolicies.php, line: 315
@@ -5071,8 +5071,8 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 315
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 250
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 251
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 173
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 174
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 180
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 181
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 79
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 105
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 126
@@ -5141,8 +5141,8 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/MultiPolicies.php, line: 315
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 250
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 251
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 173
-# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 174
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 180
+# File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 181
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 79
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 105
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 126
@@ -5811,8 +5811,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 434
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 422
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 423
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 386
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 387
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 446
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 447
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 120
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 121
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 468
@@ -5908,7 +5908,7 @@ msgstr ""
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 436
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 297
-# File: src/App/Action/Symrooms/SearchHotels.php, line: 564
+# File: src/App/Action/Symrooms/SearchHotels.php, line: 652
 # File: src/App/Action/Yalago/Policies.php, line: 340
 # File: src/App/Action/Yalago/Policies.php, line: 341
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 270
@@ -6015,8 +6015,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 387
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 375
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 376
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 339
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 340
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 399
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 400
 # File: src/App/Action/PackageAction.php, line: 287
 # File: src/App/Action/PackagesAction.php, line: 392
 # File: src/App/Action/PackagesSearchAction.php, line: 247
@@ -6081,8 +6081,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 390
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 378
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 379
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 342
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 343
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 402
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 403
 # File: src/App/Action/PackageAction.php, line: 289
 # File: src/App/Action/PackagesAction.php, line: 394
 # File: src/App/Action/PackagesSearchAction.php, line: 249
@@ -6402,8 +6402,8 @@ msgstr ""
 # File: src/App/Action/NexusTours/Policies.php, line: 404
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 384
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 393
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 348
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 357
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 408
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 417
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 82
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 91
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 430
@@ -6438,7 +6438,7 @@ msgstr ""
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 413
 # File: src/App/Action/NexusTours/Policies.php, line: 398
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 387
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 351
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 411
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 85
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 433
 # File: src/App/Action/Panamericana/Policies.php, line: 421
@@ -6464,7 +6464,7 @@ msgstr ""
 # File: src/App/Action/NexusTours/MultiPolicies.php, line: 416
 # File: src/App/Action/NexusTours/Policies.php, line: 401
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 390
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 354
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 414
 # File: src/App/Action/Panamericana/HotelParallelParse.php, line: 88
 # File: src/App/Action/Panamericana/MultiPolicies.php, line: 436
 # File: src/App/Action/Panamericana/Policies.php, line: 424
