@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-26 15:07+0100\n"
+"POT-Creation-Date: 2023-10-26 17:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1250,6 +1250,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 80
+# File: console/src/Xml/Command/Templates/voucher.phtml, line: 92
 # File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 msgid "Reservation Confirmed"
 msgstr ""
