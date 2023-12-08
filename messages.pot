@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-07 22:05+0000\n"
+"POT-Creation-Date: 2023-12-08 07:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -454,7 +454,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 1716
 # File: console/src/Xml/Command/Expedia/CreateHotelCommissionable.php, line: 149
-# File: console/src/Xml/Command/FraudCheck.php, line: 769
+# File: console/src/Xml/Command/FraudCheck.php, line: 770
 # File: console/src/Xml/Command/Generali/Create.php, line: 269
 # File: console/src/Xml/Command/Reservations.php, line: 1428
 # File: console/src/Xml/Command/Reservations.php, line: 1494
@@ -470,7 +470,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 1718
 # File: console/src/Xml/Command/Expedia/CreateHotelCommissionable.php, line: 151
-# File: console/src/Xml/Command/FraudCheck.php, line: 771
+# File: console/src/Xml/Command/FraudCheck.php, line: 772
 # File: console/src/Xml/Command/Reservations.php, line: 1430
 # File: console/src/Xml/Command/Reservations.php, line: 1496
 # File: console/src/Xml/Command/Reservations.php, line: 1749
@@ -1050,11 +1050,11 @@ msgstr ""
 msgid "New Customer Assigned to your Account"
 msgstr ""
 #
-# File: console/src/Xml/Command/FraudCheck.php, line: 825
+# File: console/src/Xml/Command/FraudCheck.php, line: 826
 msgid "Process Credit Card for Fraud Check"
 msgstr ""
 #
-# File: console/src/Xml/Command/FraudCheck.php, line: 827
+# File: console/src/Xml/Command/FraudCheck.php, line: 828
 msgid "Credit Card Number not Available for Frauch Check"
 msgstr ""
 #
