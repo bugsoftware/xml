@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-13 06:50+0000\n"
+"POT-Creation-Date: 2023-12-14 07:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -349,7 +349,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1080
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4552
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4609
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 496
@@ -819,11 +819,11 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4545
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4602
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4552
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4609
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -874,10 +874,10 @@ msgstr ""
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 374
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 375
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 393
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 394
-# File: src/App/Action/Travelplan/Policies.php, line: 399
-# File: src/App/Action/Travelplan/Policies.php, line: 400
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 393
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 394
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 399
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 400
 msgid "Cancel from"
 msgstr ""
 #
@@ -978,10 +978,10 @@ msgstr ""
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 374
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 375
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 393
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 394
-# File: src/App/Action/Travelplan/Policies.php, line: 399
-# File: src/App/Action/Travelplan/Policies.php, line: 400
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 393
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 394
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 399
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 400
 # File: src/App/Action/Travelport/PoliciesAir.php, line: 548
 # File: src/App/Action/Travelport/PoliciesAirV2.php, line: 613
 # File: src/App/Action/W2M/Hotel.php, line: 294
@@ -1155,16 +1155,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7437
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7549
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7489
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7601
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7501
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7613
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2109
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7438
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7550
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7490
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7602
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7502
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7614
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2110
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2223
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2337
@@ -4407,10 +4407,10 @@ msgstr ""
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 508
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 193
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 194
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 515
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 516
-# File: src/App/Action/Travelplan/Policies.php, line: 526
-# File: src/App/Action/Travelplan/Policies.php, line: 527
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 515
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 516
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 526
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 527
 # File: src/App/Action/RakutenCUG/SearchHotels.php, line: 610
 # File: src/App/Action/RakutenCUG/SearchHotels.php, line: 611
 msgid "This is a non refundable booking"
@@ -5036,8 +5036,8 @@ msgstr ""
 # File: src/App/Action/Rakuten/Policies.php, line: 672
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 173
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 174
-# File: src/App/Action/Travelplan/HotelParallelParse.php, line: 208
-# File: src/App/Action/Travelplan/HotelParallelParse.php, line: 209
+# File: src/App/Action/Travellanda/Travelplan/HotelParallelParse.php, line: 208
+# File: src/App/Action/Travellanda/Travelplan/HotelParallelParse.php, line: 209
 # File: src/App/Action/Travelport/HotelParallelParse.php, line: 228
 # File: src/App/Action/Travelport/HotelParallelParse.php, line: 229
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 532
@@ -6402,10 +6402,10 @@ msgstr ""
 # File: src/App/Action/Palace/SearchHotels.php, line: 416
 # File: src/App/Action/Palace/SearchHotelsMulti.php, line: 422
 # File: src/App/Action/Travco/Policies.php, line: 242
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 390
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 391
-# File: src/App/Action/Travelplan/Policies.php, line: 396
-# File: src/App/Action/Travelplan/Policies.php, line: 397
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 390
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 391
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 396
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 397
 msgid "Non Refundable"
 msgstr ""
 #
@@ -7136,10 +7136,10 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 349
 # File: src/App/Action/Travellanda/Policies.php, line: 373
 # File: src/App/Action/Travellanda/Policies.php, line: 375
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 397
-# File: src/App/Action/Travelplan/MultiPolicies.php, line: 398
-# File: src/App/Action/Travelplan/Policies.php, line: 403
-# File: src/App/Action/Travelplan/Policies.php, line: 404
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 397
+# File: src/App/Action/Travellanda/Travelplan/MultiPolicies.php, line: 398
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 403
+# File: src/App/Action/Travellanda/Travelplan/Policies.php, line: 404
 msgid "pay"
 msgstr ""
 #
