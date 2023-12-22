@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-22 18:11+0000\n"
+"POT-Creation-Date: 2023-12-22 19:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1849,14 +1849,18 @@ msgstr ""
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
 # File: src/App/Action/Yalago/SearchHotels.php, line: 277
 # File: src/App/Action/Yalago/SearchHotels.php, line: 278
-# File: src/App/Action/Avoris/SearchHotels.php, line: 259
-# File: src/App/Action/Avoris/SearchHotels.php, line: 260
 # File: src/App/Action/Avoris/SearchHotels.php, line: 266
 # File: src/App/Action/Avoris/SearchHotels.php, line: 267
+# File: src/App/Action/Avoris/SearchHotels.php, line: 273
+# File: src/App/Action/Avoris/SearchHotels.php, line: 274
 # File: src/App/Action/Avoris/Policies.php, line: 247
 # File: src/App/Action/Avoris/Policies.php, line: 248
 # File: src/App/Action/Avoris/Policies.php, line: 254
 # File: src/App/Action/Avoris/Policies.php, line: 255
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 59
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 60
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 67
 msgid "Cancel on or after"
 msgstr ""
 #
@@ -3659,10 +3663,12 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 411
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 412
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 185
-# File: src/App/Action/Avoris/SearchHotels.php, line: 245
-# File: src/App/Action/Avoris/SearchHotels.php, line: 246
+# File: src/App/Action/Avoris/SearchHotels.php, line: 252
+# File: src/App/Action/Avoris/SearchHotels.php, line: 253
 # File: src/App/Action/Avoris/Policies.php, line: 233
 # File: src/App/Action/Avoris/Policies.php, line: 234
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 45
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 46
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
@@ -5358,10 +5364,12 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 418
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/Avoris/SearchHotels.php, line: 266
-# File: src/App/Action/Avoris/SearchHotels.php, line: 267
+# File: src/App/Action/Avoris/SearchHotels.php, line: 273
+# File: src/App/Action/Avoris/SearchHotels.php, line: 274
 # File: src/App/Action/Avoris/Policies.php, line: 254
 # File: src/App/Action/Avoris/Policies.php, line: 255
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 67
 msgid "will incur in"
 msgstr ""
 #
@@ -5454,15 +5462,18 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 418
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/Avoris/SearchHotels.php, line: 266
-# File: src/App/Action/Avoris/SearchHotels.php, line: 267
+# File: src/App/Action/Avoris/SearchHotels.php, line: 273
+# File: src/App/Action/Avoris/SearchHotels.php, line: 274
 # File: src/App/Action/Avoris/Policies.php, line: 254
 # File: src/App/Action/Avoris/Policies.php, line: 255
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 67
 msgid "penalty."
 msgstr ""
 #
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 449
 # File: src/App/Action/Agoda/SearchHotels.php, line: 733
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 110
 msgid "Included"
 msgstr ""
 #
@@ -6082,10 +6093,12 @@ msgstr ""
 # File: src/App/Action/RateHawk/HotelParallelParse.php, line: 62
 # File: src/App/Action/RateHawk/MultiPolicies.php, line: 351
 # File: src/App/Action/RateHawk/Policies.php, line: 322
-# File: src/App/Action/Avoris/SearchHotels.php, line: 259
-# File: src/App/Action/Avoris/SearchHotels.php, line: 260
+# File: src/App/Action/Avoris/SearchHotels.php, line: 266
+# File: src/App/Action/Avoris/SearchHotels.php, line: 267
 # File: src/App/Action/Avoris/Policies.php, line: 247
 # File: src/App/Action/Avoris/Policies.php, line: 248
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 59
+# File: src/App/Action/Avoris/HotelParallelParse.php, line: 60
 msgid "free of charge"
 msgstr ""
 #
