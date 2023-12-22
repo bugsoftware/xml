@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-22 15:12+0000\n"
+"POT-Creation-Date: 2023-12-22 17:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1155,16 +1155,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7437
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7549
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7504
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7616
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7576
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7688
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2109
 msgid "Invoice has been created"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7438
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7550
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7505
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7617
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7577
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 7689
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2110
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2223
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2337
@@ -1849,14 +1849,14 @@ msgstr ""
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
 # File: src/App/Action/Yalago/SearchHotels.php, line: 277
 # File: src/App/Action/Yalago/SearchHotels.php, line: 278
-# File: src/App/Action/Avoris/SearchHotels.php, line: 238
-# File: src/App/Action/Avoris/SearchHotels.php, line: 239
-# File: src/App/Action/Avoris/SearchHotels.php, line: 245
-# File: src/App/Action/Avoris/SearchHotels.php, line: 246
-# File: src/App/Action/Avoris/Policies.php, line: 226
-# File: src/App/Action/Avoris/Policies.php, line: 227
-# File: src/App/Action/Avoris/Policies.php, line: 233
-# File: src/App/Action/Avoris/Policies.php, line: 234
+# File: src/App/Action/Avoris/SearchHotels.php, line: 259
+# File: src/App/Action/Avoris/SearchHotels.php, line: 260
+# File: src/App/Action/Avoris/SearchHotels.php, line: 266
+# File: src/App/Action/Avoris/SearchHotels.php, line: 267
+# File: src/App/Action/Avoris/Policies.php, line: 247
+# File: src/App/Action/Avoris/Policies.php, line: 248
+# File: src/App/Action/Avoris/Policies.php, line: 254
+# File: src/App/Action/Avoris/Policies.php, line: 255
 msgid "Cancel on or after"
 msgstr ""
 #
@@ -3659,10 +3659,10 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 411
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 412
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 185
-# File: src/App/Action/Avoris/SearchHotels.php, line: 224
-# File: src/App/Action/Avoris/SearchHotels.php, line: 225
-# File: src/App/Action/Avoris/Policies.php, line: 212
-# File: src/App/Action/Avoris/Policies.php, line: 213
+# File: src/App/Action/Avoris/SearchHotels.php, line: 245
+# File: src/App/Action/Avoris/SearchHotels.php, line: 246
+# File: src/App/Action/Avoris/Policies.php, line: 233
+# File: src/App/Action/Avoris/Policies.php, line: 234
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
@@ -5358,10 +5358,10 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 418
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/Avoris/SearchHotels.php, line: 245
-# File: src/App/Action/Avoris/SearchHotels.php, line: 246
-# File: src/App/Action/Avoris/Policies.php, line: 233
-# File: src/App/Action/Avoris/Policies.php, line: 234
+# File: src/App/Action/Avoris/SearchHotels.php, line: 266
+# File: src/App/Action/Avoris/SearchHotels.php, line: 267
+# File: src/App/Action/Avoris/Policies.php, line: 254
+# File: src/App/Action/Avoris/Policies.php, line: 255
 msgid "will incur in"
 msgstr ""
 #
@@ -5454,10 +5454,10 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 418
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/Avoris/SearchHotels.php, line: 245
-# File: src/App/Action/Avoris/SearchHotels.php, line: 246
-# File: src/App/Action/Avoris/Policies.php, line: 233
-# File: src/App/Action/Avoris/Policies.php, line: 234
+# File: src/App/Action/Avoris/SearchHotels.php, line: 266
+# File: src/App/Action/Avoris/SearchHotels.php, line: 267
+# File: src/App/Action/Avoris/Policies.php, line: 254
+# File: src/App/Action/Avoris/Policies.php, line: 255
 msgid "penalty."
 msgstr ""
 #
@@ -6082,10 +6082,10 @@ msgstr ""
 # File: src/App/Action/RateHawk/HotelParallelParse.php, line: 62
 # File: src/App/Action/RateHawk/MultiPolicies.php, line: 351
 # File: src/App/Action/RateHawk/Policies.php, line: 322
-# File: src/App/Action/Avoris/SearchHotels.php, line: 238
-# File: src/App/Action/Avoris/SearchHotels.php, line: 239
-# File: src/App/Action/Avoris/Policies.php, line: 226
-# File: src/App/Action/Avoris/Policies.php, line: 227
+# File: src/App/Action/Avoris/SearchHotels.php, line: 259
+# File: src/App/Action/Avoris/SearchHotels.php, line: 260
+# File: src/App/Action/Avoris/Policies.php, line: 247
+# File: src/App/Action/Avoris/Policies.php, line: 248
 msgid "free of charge"
 msgstr ""
 #
