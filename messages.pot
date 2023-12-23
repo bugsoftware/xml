@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-23 07:19+0000\n"
+"POT-Creation-Date: 2023-12-23 19:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -320,6 +320,12 @@ msgstr ""
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 372
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 373
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 296
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 297
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 300
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 373
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 374
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 377
 msgid "Exception Error"
 msgstr ""
 #
@@ -422,6 +428,8 @@ msgstr ""
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 616
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 299
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 300
+# File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 377
 msgid "Reservation"
 msgstr ""
 #
@@ -513,6 +521,8 @@ msgstr ""
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 194
 # File: console/src/Xml/Command/MeliaCuba/CancelHotel.php, line: 192
 # File: console/src/Xml/Command/MeliaCuba/CancelHotel.php, line: 194
+# File: console/src/Xml/Command/Valentin/CancelHotel.php, line: 193
+# File: console/src/Xml/Command/Valentin/CancelHotel.php, line: 195
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 232
 # File: src/App/Action/Abreu/HotelParallelParse.php, line: 233
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 579
@@ -693,8 +703,8 @@ msgstr ""
 # File: src/App/Action/MeliaCuba/SearchHotels.php, line: 459
 # File: src/App/Action/MeliaCuba/HotelParallelParse.php, line: 241
 # File: src/App/Action/MeliaCuba/HotelParallelParse.php, line: 242
-# File: src/App/Action/Valentin/SearchHotels.php, line: 542
 # File: src/App/Action/Valentin/SearchHotels.php, line: 543
+# File: src/App/Action/Valentin/SearchHotels.php, line: 544
 # File: src/App/Action/Valentin/HotelParallelParse.php, line: 241
 # File: src/App/Action/Valentin/HotelParallelParse.php, line: 242
 msgid "Charge"
@@ -715,6 +725,7 @@ msgstr ""
 # File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 462
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 194
 # File: console/src/Xml/Command/MeliaCuba/CancelHotel.php, line: 194
+# File: console/src/Xml/Command/Valentin/CancelHotel.php, line: 195
 msgid "cancelled by"
 msgstr ""
 #
@@ -737,6 +748,7 @@ msgstr ""
 # File: console/src/Xml/Command/Travelplan/CancelHotel.php, line: 468
 # File: console/src/Xml/Command/VivaWyndham/CancelHotel.php, line: 200
 # File: console/src/Xml/Command/MeliaCuba/CancelHotel.php, line: 200
+# File: console/src/Xml/Command/Valentin/CancelHotel.php, line: 201
 msgid "Status:"
 msgstr ""
 #
@@ -4957,10 +4969,10 @@ msgstr ""
 # File: src/App/Action/MeliaCuba/HotelParallelParse.php, line: 247
 # File: src/App/Action/MeliaCuba/HotelParallelParse.php, line: 251
 # File: src/App/Action/MeliaCuba/HotelParallelParse.php, line: 252
-# File: src/App/Action/Valentin/SearchHotels.php, line: 547
 # File: src/App/Action/Valentin/SearchHotels.php, line: 548
-# File: src/App/Action/Valentin/SearchHotels.php, line: 552
+# File: src/App/Action/Valentin/SearchHotels.php, line: 549
 # File: src/App/Action/Valentin/SearchHotels.php, line: 553
+# File: src/App/Action/Valentin/SearchHotels.php, line: 554
 # File: src/App/Action/Valentin/HotelParallelParse.php, line: 246
 # File: src/App/Action/Valentin/HotelParallelParse.php, line: 247
 # File: src/App/Action/Valentin/HotelParallelParse.php, line: 251
