@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-03 07:12+0000\n"
+"POT-Creation-Date: 2024-01-03 14:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1777,7 +1777,7 @@ msgstr ""
 # File: src/App/Action/DOTW/SearchHotels.php, line: 866
 # File: src/App/Action/DOTW/SearchHotels.php, line: 867
 # File: src/App/Action/EuropaMundo/Policies.php, line: 132
-# File: src/App/Action/EuropaMundo/Tour.php, line: 453
+# File: src/App/Action/EuropaMundo/Tour.php, line: 460
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 79
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 105
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 126
@@ -4990,7 +4990,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 359
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 361
 # File: src/App/Action/EuropaMundo/Policies.php, line: 134
-# File: src/App/Action/EuropaMundo/Tour.php, line: 455
+# File: src/App/Action/EuropaMundo/Tour.php, line: 462
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
 # File: src/App/Action/Yalago/SearchHotels.php, line: 277
@@ -6465,7 +6465,7 @@ msgid "Return transfer from the destination to the pickup"
 msgstr ""
 #
 # File: src/App/Action/Direct/Tour.php, line: 289
-# File: src/App/Action/EuropaMundo/Tour.php, line: 411
+# File: src/App/Action/EuropaMundo/Tour.php, line: 418
 # File: src/App/Action/Shared/AddTour.php, line: 215
 msgid "Day"
 msgstr ""
@@ -6491,17 +6491,17 @@ msgid "days before pick up"
 msgstr ""
 #
 # File: src/App/Action/EuropaMundo/Policies.php, line: 132
-# File: src/App/Action/EuropaMundo/Tour.php, line: 453
+# File: src/App/Action/EuropaMundo/Tour.php, line: 460
 msgid "day(s) prior to checkin"
 msgstr ""
 #
 # File: src/App/Action/EuropaMundo/Policies.php, line: 137
-# File: src/App/Action/EuropaMundo/Tour.php, line: 458
+# File: src/App/Action/EuropaMundo/Tour.php, line: 465
 msgid "with an administration cancelation fee of"
 msgstr ""
 #
-# File: src/App/Action/EuropaMundo/SearchTours.php, line: 92
-# File: src/App/Action/EuropaMundo/Tour.php, line: 62
+# File: src/App/Action/EuropaMundo/SearchTours.php, line: 91
+# File: src/App/Action/EuropaMundo/Tour.php, line: 69
 # File: src/App/Action/SpecialTours/SearchTours.php, line: 75
 msgid "Visiting:"
 msgstr ""
