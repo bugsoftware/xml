@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-04 07:12+0000\n"
+"POT-Creation-Date: 2024-01-05 06:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1873,10 +1873,10 @@ msgstr ""
 # File: src/App/Action/Avoris/Policies.php, line: 258
 # File: src/App/Action/Avoris/Policies.php, line: 264
 # File: src/App/Action/Avoris/Policies.php, line: 265
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 270
 # File: src/App/Action/Avoris/MultiPolicies.php, line: 271
-# File: src/App/Action/Avoris/MultiPolicies.php, line: 272
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 277
 # File: src/App/Action/Avoris/MultiPolicies.php, line: 278
-# File: src/App/Action/Avoris/MultiPolicies.php, line: 279
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 59
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 60
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
@@ -3687,8 +3687,8 @@ msgstr ""
 # File: src/App/Action/Avoris/SearchHotels.php, line: 253
 # File: src/App/Action/Avoris/Policies.php, line: 243
 # File: src/App/Action/Avoris/Policies.php, line: 244
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 256
 # File: src/App/Action/Avoris/MultiPolicies.php, line: 257
-# File: src/App/Action/Avoris/MultiPolicies.php, line: 258
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 45
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 46
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
@@ -5398,8 +5398,8 @@ msgstr ""
 # File: src/App/Action/Avoris/SearchHotels.php, line: 274
 # File: src/App/Action/Avoris/Policies.php, line: 264
 # File: src/App/Action/Avoris/Policies.php, line: 265
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 277
 # File: src/App/Action/Avoris/MultiPolicies.php, line: 278
-# File: src/App/Action/Avoris/MultiPolicies.php, line: 279
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 67
 msgid "will incur in"
@@ -5498,8 +5498,8 @@ msgstr ""
 # File: src/App/Action/Avoris/SearchHotels.php, line: 274
 # File: src/App/Action/Avoris/Policies.php, line: 264
 # File: src/App/Action/Avoris/Policies.php, line: 265
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 277
 # File: src/App/Action/Avoris/MultiPolicies.php, line: 278
-# File: src/App/Action/Avoris/MultiPolicies.php, line: 279
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 67
 msgid "penalty."
@@ -6131,8 +6131,8 @@ msgstr ""
 # File: src/App/Action/Avoris/SearchHotels.php, line: 267
 # File: src/App/Action/Avoris/Policies.php, line: 257
 # File: src/App/Action/Avoris/Policies.php, line: 258
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 270
 # File: src/App/Action/Avoris/MultiPolicies.php, line: 271
-# File: src/App/Action/Avoris/MultiPolicies.php, line: 272
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 59
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 60
 msgid "free of charge"
@@ -7338,6 +7338,11 @@ msgstr ""
 #
 # File: src/App/Action/Tripcom/SearchHotels.php, line: 271
 msgid "Dinner"
+msgstr ""
+#
+# File: src/App/Action/Avoris/Policies.php, line: 279
+# File: src/App/Action/Avoris/MultiPolicies.php, line: 294
+msgid "We apologize for the inconvenience, but we could not validate the hotel price for your reservation because we encountered a connection error with the hotel supplier. This may be a temporary issue, so please try to refresh your browser and check the price again. If the problem persists, please contact our support team. We appreciate your patience and understanding. Thank you."
 msgstr ""
 #
 # File: src/App/language/languages.php, line: 12
