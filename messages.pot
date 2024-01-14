@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-13 07:44+0000\n"
+"POT-Creation-Date: 2024-01-14 08:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4776,8 +4776,10 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 536
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 425
 # File: src/App/Action/W2M/SearchHotels.php, line: 745
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 280
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 290
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 311
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 348
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 158
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 195
 # File: src/App/language/languages.php, line: 7
 msgid "Room Only"
 msgstr ""
@@ -5997,6 +5999,8 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotels.php, line: 421
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 335
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 337
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 323
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 170
 # File: src/App/language/languages.php, line: 8
 msgid "Bed & Breakfast"
 msgstr ""
@@ -6007,6 +6011,18 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 199
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 411
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 387
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 317
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 326
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 329
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 335
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 341
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 344
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 164
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 173
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 176
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 182
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 188
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 191
 # File: src/App/language/languages.php, line: 9
 msgid "Half Board"
 msgstr ""
@@ -6017,6 +6033,10 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 202
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 414
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 390
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 320
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 332
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 167
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 179
 # File: src/App/language/languages.php, line: 10
 msgid "Full Board"
 msgstr ""
@@ -6048,7 +6068,8 @@ msgstr ""
 # File: src/App/Action/Tourico/SearchHotels.php, line: 417
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 331
 # File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 333
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 286
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 338
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 185
 # File: src/App/language/languages.php, line: 11
 msgid "All Inclusive"
 msgstr ""
@@ -6267,8 +6288,12 @@ msgstr ""
 # File: src/App/Action/RateHawk/HotelParallelParse.php, line: 175
 # File: src/App/Action/RateHawk/HotelParallelParse.php, line: 176
 # File: src/App/Action/RakutenCUG/HotelParallelParse.php, line: 339
-# File: src/App/Action/Tripcom/Policies.php, line: 252
-# File: src/App/Action/Tripcom/Policies.php, line: 253
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 361
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 362
+# File: src/App/Action/Tripcom/Policies.php, line: 280
+# File: src/App/Action/Tripcom/Policies.php, line: 281
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 212
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 213
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -7376,7 +7401,8 @@ msgstr ""
 msgid "discount gift card that can be used on selected packages"
 msgstr ""
 #
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 283
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 314
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 161
 msgid "Dinner"
 msgstr ""
 #
