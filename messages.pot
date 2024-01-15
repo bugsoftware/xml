@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-15 07:14+0000\n"
+"POT-Creation-Date: 2024-01-15 17:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6292,6 +6292,8 @@ msgstr ""
 # File: src/App/Action/Tripcom/SearchHotels.php, line: 362
 # File: src/App/Action/Tripcom/Policies.php, line: 280
 # File: src/App/Action/Tripcom/Policies.php, line: 281
+# File: src/App/Action/Tripcom/MultiPolicies.php, line: 418
+# File: src/App/Action/Tripcom/MultiPolicies.php, line: 419
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 212
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 213
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
