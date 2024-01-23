@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 07:16+0000\n"
+"POT-Creation-Date: 2024-01-23 21:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1638,7 +1638,7 @@ msgid "If you did not request a password reset then you can safely ignore this e
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 6403
-# File: console/src/Xml/Command/Templates/notification.phtml, line: 274
+# File: console/src/Xml/Command/Templates/notification.phtml, line: 275
 msgid "Go"
 msgstr ""
 #
@@ -1655,7 +1655,7 @@ msgid "Payment Notification"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 7086
-# File: console/src/Xml/Command/Templates/openagent.phtml, line: 11
+# File: console/src/Xml/Command/Templates/openagent.phtml, line: 12
 # File: console/src/Xml/Command/Templates/opencustomer.phtml, line: 11
 msgid "Welcome"
 msgstr ""
@@ -1749,6 +1749,58 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 8340
 msgid "PNR/Reference:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8842
+# File: console/src/Xml/Command/Reservations.php, line: 8843
+msgid "Moneygram Payment Initiated"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8845
+# File: console/src/Xml/Command/Reservations.php, line: 8846
+msgid "Moneygram Payment Confirmed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8848
+# File: console/src/Xml/Command/Reservations.php, line: 8849
+msgid "Moneygram Payment"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8856
+msgid "We are pleased to inform you that a customer has initiated a reservation payment using Moneygram for one of your reservations. The payment details are as follows:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8857
+msgid "Reservation ID:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8859
+msgid "Account Number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8861
+msgid "Sender:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8862
+# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 63
+msgid "Address:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8863
+msgid "Total amount:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8864
+msgid "Moneygram reference number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8867
+msgid "NOTE: This is NOT a payment confirmation. This is to inform you that the customer has initiated the payment."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 8869
+msgid "Please confirm the receipt of the payment and update the reservation status if required. If you have any questions or concerns, please contact customer support."
 msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 239
@@ -2329,8 +2381,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 250
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
-# File: console/src/Xml/Command/Templates/message.phtml, line: 250
-# File: console/src/Xml/Command/Templates/notification.phtml, line: 248
+# File: console/src/Xml/Command/Templates/message.phtml, line: 252
+# File: console/src/Xml/Command/Templates/notification.phtml, line: 250
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -2339,8 +2391,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 252
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 248
-# File: console/src/Xml/Command/Templates/message.phtml, line: 259
-# File: console/src/Xml/Command/Templates/notification.phtml, line: 285
+# File: console/src/Xml/Command/Templates/message.phtml, line: 262
+# File: console/src/Xml/Command/Templates/notification.phtml, line: 286
 msgid "Best Regards"
 msgstr ""
 #
@@ -3045,11 +3097,11 @@ msgstr ""
 msgid "Total:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/message.phtml, line: 256
+# File: console/src/Xml/Command/Templates/message.phtml, line: 259
 msgid "View Terms & Conditions"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/message.phtml, line: 256
+# File: console/src/Xml/Command/Templates/message.phtml, line: 259
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 329
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 92
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
@@ -3074,7 +3126,7 @@ msgstr ""
 msgid "Pay"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/openagent.phtml, line: 13
+# File: console/src/Xml/Command/Templates/openagent.phtml, line: 14
 msgid "As our newest partner, we'd like to extend to you a big welcome on behalf of the entire team. Let's get started selling those rooms!"
 msgstr ""
 #
@@ -3947,10 +3999,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 57
 msgid "Your reservation is confirmed"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/voucher2.phtml, line: 63
-msgid "Address:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 66
@@ -6683,7 +6731,7 @@ msgid "Cancellation deadline is"
 msgstr ""
 #
 # File: src/App/Action/HotelDO/HotelParallelParse.php, line: 742
-# File: src/App/Action/HotelDO/SearchHotels.php, line: 886
+# File: src/App/Action/HotelDO/SearchHotels.php, line: 888
 # File: src/App/Action/HotelsPro/Hotel.php, line: 285
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 193
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 386
