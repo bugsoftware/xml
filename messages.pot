@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-31 11:29+0000\n"
+"POT-Creation-Date: 2024-01-31 14:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -529,8 +529,8 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 580
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/Abreu/Policies.php, line: 502
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 240
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 241
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 248
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 249
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 537
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 538
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 472
@@ -653,8 +653,8 @@ msgstr ""
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 452
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 454
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 456
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 245
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 246
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 252
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 253
 # File: src/App/Action/Ocean/SearchHotels.php, line: 475
 # File: src/App/Action/Ocean/SearchHotels.php, line: 476
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 488
@@ -675,8 +675,8 @@ msgstr ""
 # File: src/App/Action/RoomsXML/MultiPolicies.php, line: 335
 # File: src/App/Action/RoomsXML/Policies.php, line: 332
 # File: src/App/Action/RoomsXML/Policies.php, line: 333
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 240
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 241
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 248
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 249
 # File: src/App/Action/Sandos/SearchHotels.php, line: 456
 # File: src/App/Action/Sandos/SearchHotels.php, line: 457
 # File: src/App/Action/Sandos/SearchHotelsMulti.php, line: 471
@@ -4901,10 +4901,10 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 580
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/Abreu/Policies.php, line: 502
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 245
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 246
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 250
-# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 251
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 253
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 254
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 258
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 259
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 542
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 543
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 547
@@ -5022,10 +5022,10 @@ msgstr ""
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 452
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 454
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 456
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 250
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 251
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 255
-# File: src/App/Action/Ocean/HotelParallelParse.php, line: 256
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 257
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 258
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 262
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 263
 # File: src/App/Action/Ocean/SearchHotels.php, line: 480
 # File: src/App/Action/Ocean/SearchHotels.php, line: 481
 # File: src/App/Action/Ocean/SearchHotels.php, line: 485
@@ -5040,10 +5040,10 @@ msgstr ""
 # File: src/App/Action/RoomsXML/MultiPolicies.php, line: 341
 # File: src/App/Action/RoomsXML/Policies.php, line: 338
 # File: src/App/Action/RoomsXML/Policies.php, line: 339
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 245
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 246
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 250
-# File: src/App/Action/Sandos/HotelParallelParse.php, line: 251
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 253
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 254
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 258
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 259
 # File: src/App/Action/Sandos/SearchHotels.php, line: 461
 # File: src/App/Action/Sandos/SearchHotels.php, line: 462
 # File: src/App/Action/Sandos/SearchHotels.php, line: 466
@@ -5150,8 +5150,8 @@ msgstr ""
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 208
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 342
 # File: src/App/Action/Coming2/Policies.php, line: 393
-# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 256
-# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 257
+# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 261
+# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 262
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 547
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 548
 # File: src/App/Action/JTG/HotelParallelParse.php, line: 549
@@ -5172,13 +5172,13 @@ msgstr ""
 # File: src/App/Action/Lotsofhotels/HotelParallelParse.php, line: 307
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 669
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 670
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1406
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1407
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1411
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1412
 # File: src/App/Action/Omnibees/MultiPolicies.php, line: 137
 # File: src/App/Action/Omnibees/MultiPolicies.php, line: 138
-# File: src/App/Action/Palladium/HotelParallelParse.php, line: 228
-# File: src/App/Action/Palladium/HotelParallelParse.php, line: 229
-# File: src/App/Action/Palladium/HotelParallelParse.php, line: 230
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 235
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 236
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 237
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 341
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 342
 # File: src/App/Action/Rakuten/HotelParallelParse.php, line: 343
@@ -5867,19 +5867,38 @@ msgstr ""
 msgid "charge full amount"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1730
-# File: src/App/Action/AssistCardAction.php, line: 1879
+# File: src/App/Action/AssistCardAction.php, line: 1755
+# File: src/App/Action/AssistCardAction.php, line: 1904
 msgid "Domestic Air & Hotel Plan"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1732
-# File: src/App/Action/AssistCardAction.php, line: 1881
+# File: src/App/Action/AssistCardAction.php, line: 1757
+# File: src/App/Action/AssistCardAction.php, line: 1906
 msgid "International Air & Hotel"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1736
-# File: src/App/Action/AssistCardAction.php, line: 1885
+# File: src/App/Action/AssistCardAction.php, line: 1761
+# File: src/App/Action/AssistCardAction.php, line: 1910
 msgid "Help protect your vacation with travel protection."
+msgstr ""
+#
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 222
+# File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 224
+# File: src/App/Action/IBS/HotelParallelParse.php, line: 416
+# File: src/App/Action/IBS/HotelParallelParse.php, line: 418
+# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 206
+# File: src/App/Action/Iberostar/HotelParallelParse.php, line: 208
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 133
+# File: src/App/Action/Ocean/HotelParallelParse.php, line: 135
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1340
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1342
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 150
+# File: src/App/Action/Palladium/HotelParallelParse.php, line: 152
+# File: src/App/Action/Riu/HotelParallelParse.php, line: 275
+# File: src/App/Action/Riu/HotelParallelParse.php, line: 277
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 222
+# File: src/App/Action/Sandos/HotelParallelParse.php, line: 224
+msgid "Preferred Rate"
 msgstr ""
 #
 # File: src/App/Action/Bonotel/Hotel.php, line: 650
@@ -6014,8 +6033,8 @@ msgstr ""
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 443
 # File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 257
 # File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 259
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1396
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1398
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1401
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1403
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 90
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 92
 # File: src/App/Action/Yalago/SearchHotels.php, line: 344
@@ -6147,7 +6166,7 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
 # File: src/App/Action/DOTW/SearchHotels.php, line: 767
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1379
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1384
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
 # File: src/App/Action/Omnibees/SearchHotels.php, line: 1641
 # File: src/App/Action/Priceline/Hotel.php, line: 275
