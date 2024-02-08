@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-07 07:34+0000\n"
+"POT-Creation-Date: 2024-02-08 13:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5867,18 +5867,18 @@ msgstr ""
 msgid "charge full amount"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1755
-# File: src/App/Action/AssistCardAction.php, line: 1904
+# File: src/App/Action/AssistCardAction.php, line: 1732
+# File: src/App/Action/AssistCardAction.php, line: 1881
 msgid "Domestic Air & Hotel Plan"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1757
-# File: src/App/Action/AssistCardAction.php, line: 1906
+# File: src/App/Action/AssistCardAction.php, line: 1734
+# File: src/App/Action/AssistCardAction.php, line: 1883
 msgid "International Air & Hotel"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1761
-# File: src/App/Action/AssistCardAction.php, line: 1910
+# File: src/App/Action/AssistCardAction.php, line: 1738
+# File: src/App/Action/AssistCardAction.php, line: 1887
 msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
@@ -6321,6 +6321,7 @@ msgstr ""
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 181
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 352
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 353
+# File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 251
 # File: src/App/Action/IWTX/MultiPolicies.php, line: 577
 # File: src/App/Action/IWTX/MultiPolicies.php, line: 578
 # File: src/App/Action/IWTX/Policies.php, line: 465
