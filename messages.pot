@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-17 07:25+0000\n"
+"POT-Creation-Date: 2024-02-18 07:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1925,10 +1925,6 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 373
 # File: src/App/Action/Travellanda/Policies.php, line: 375
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
-# File: src/App/Action/Yalago/SearchHotels.php, line: 277
-# File: src/App/Action/Yalago/SearchHotels.php, line: 278
 # File: src/App/Action/Avoris/SearchHotels.php, line: 266
 # File: src/App/Action/Avoris/SearchHotels.php, line: 267
 # File: src/App/Action/Avoris/SearchHotels.php, line: 273
@@ -1945,8 +1941,6 @@ msgstr ""
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 60
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 66
 # File: src/App/Action/Avoris/HotelParallelParse.php, line: 67
-# File: 4.php, line: 45
-# File: 4.php, line: 46
 msgid "Cancel on or after"
 msgstr ""
 #
@@ -5105,16 +5099,10 @@ msgstr ""
 # File: src/App/Action/ActionTravel/SearchHotels.php, line: 361
 # File: src/App/Action/EuropaMundo/Policies.php, line: 134
 # File: src/App/Action/EuropaMundo/Tour.php, line: 462
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
-# File: src/App/Action/Yalago/SearchHotels.php, line: 277
-# File: src/App/Action/Yalago/SearchHotels.php, line: 278
 # File: src/App/Action/Imperatours/SearchHotels.php, line: 315
 # File: src/App/Action/Imperatours/SearchHotels.php, line: 316
 # File: src/App/Action/Imperatours/Policies.php, line: 294
 # File: src/App/Action/Imperatours/Policies.php, line: 295
-# File: 4.php, line: 45
-# File: 4.php, line: 46
 msgid "penalty"
 msgstr ""
 #
@@ -6043,10 +6031,10 @@ msgstr ""
 # File: src/App/Action/InfiniteHotel/SearchHotels.php, line: 259
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1401
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1403
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 90
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 92
-# File: src/App/Action/Yalago/SearchHotels.php, line: 344
-# File: src/App/Action/Yalago/SearchHotels.php, line: 346
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 102
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 104
+# File: src/App/Action/Yalago/SearchHotels.php, line: 362
+# File: src/App/Action/Yalago/SearchHotels.php, line: 364
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 339
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 341
 msgid "Package Rate"
@@ -6362,8 +6350,14 @@ msgstr ""
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 297
 # File: src/App/Action/Symrooms/SearchHotels.php, line: 652
-# File: src/App/Action/Yalago/Policies.php, line: 340
-# File: src/App/Action/Yalago/Policies.php, line: 341
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 116
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 117
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 346
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 347
+# File: src/App/Action/Yalago/Policies.php, line: 394
+# File: src/App/Action/Yalago/Policies.php, line: 395
+# File: src/App/Action/Yalago/SearchHotels.php, line: 336
+# File: src/App/Action/Yalago/SearchHotels.php, line: 337
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 270
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 271
 # File: src/App/Action/Youtravel/Policies.php, line: 258
@@ -6780,6 +6774,14 @@ msgstr ""
 #
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 131
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 290
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 71
+# File: src/App/Action/Yalago/HotelParallelParse.php, line: 72
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 285
+# File: src/App/Action/Yalago/MultiPolicies.php, line: 286
+# File: src/App/Action/Yalago/Policies.php, line: 279
+# File: src/App/Action/Yalago/Policies.php, line: 280
+# File: src/App/Action/Yalago/SearchHotels.php, line: 286
+# File: src/App/Action/Yalago/SearchHotels.php, line: 287
 msgid "Cancel free of charge before"
 msgstr ""
 #
@@ -7406,15 +7408,6 @@ msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 169
 msgid "minutes"
-msgstr ""
-#
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 62
-# File: src/App/Action/Yalago/HotelParallelParse.php, line: 63
-# File: src/App/Action/Yalago/SearchHotels.php, line: 277
-# File: src/App/Action/Yalago/SearchHotels.php, line: 278
-# File: 4.php, line: 45
-# File: 4.php, line: 46
-msgid "you will incur in"
 msgstr ""
 #
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 521
