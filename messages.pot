@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-26 17:26+0000\n"
+"POT-Creation-Date: 2024-02-26 20:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -463,7 +463,7 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 1716
 # File: console/src/Xml/Command/Expedia/CreateHotelCommissionable.php, line: 149
 # File: console/src/Xml/Command/FraudCheck.php, line: 770
-# File: console/src/Xml/Command/Generali/Create.php, line: 269
+# File: console/src/Xml/Command/Generali/Create.php, line: 395
 # File: console/src/Xml/Command/Reservations.php, line: 1433
 # File: console/src/Xml/Command/Reservations.php, line: 1499
 # File: console/src/Xml/Command/Reservations.php, line: 1761
@@ -1165,7 +1165,7 @@ msgstr ""
 msgid "you will be charged"
 msgstr ""
 #
-# File: console/src/Xml/Command/Generali/Create.php, line: 271
+# File: console/src/Xml/Command/Generali/Create.php, line: 397
 msgid "Customers Credit Card Number is Available"
 msgstr ""
 #
@@ -5863,18 +5863,18 @@ msgstr ""
 msgid "charge full amount"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1731
-# File: src/App/Action/AssistCardAction.php, line: 1880
+# File: src/App/Action/AssistCardAction.php, line: 1739
+# File: src/App/Action/AssistCardAction.php, line: 1888
 msgid "Domestic Air & Hotel Plan"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1733
-# File: src/App/Action/AssistCardAction.php, line: 1882
+# File: src/App/Action/AssistCardAction.php, line: 1741
+# File: src/App/Action/AssistCardAction.php, line: 1890
 msgid "International Air & Hotel"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1737
-# File: src/App/Action/AssistCardAction.php, line: 1886
+# File: src/App/Action/AssistCardAction.php, line: 1745
+# File: src/App/Action/AssistCardAction.php, line: 1894
 msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
