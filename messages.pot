@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-27 07:28+0000\n"
+"POT-Creation-Date: 2024-02-27 14:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,12 +53,12 @@ msgstr ""
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 370
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 371
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 374
-# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 295
-# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 296
+# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 298
 # File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 299
-# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 372
-# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 373
+# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 302
+# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 375
 # File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 379
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 254
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 255
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 258
@@ -341,8 +341,8 @@ msgstr ""
 # File: console/src/Xml/Command/BahiaPrincipe/CreateHotel.php, line: 376
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 297
 # File: console/src/Xml/Command/BeLive/CreateHotel.php, line: 374
-# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 299
-# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 302
+# File: console/src/Xml/Command/BlueDiamond/CreateHotel.php, line: 379
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 258
 # File: console/src/Xml/Command/Bonotel/CreateHotel.php, line: 336
 # File: console/src/Xml/Command/Booking.com/CreateCar.php, line: 392
@@ -5368,7 +5368,7 @@ msgstr ""
 # File: src/App/Action/GoGlobal/Policies.php, line: 305
 # File: src/App/Action/GoGlobal/Policies.php, line: 307
 # File: src/App/Action/GoGlobal/SearchHotels.php, line: 302
-# File: src/App/Action/InfiniteHotel/Policies.php, line: 193
+# File: src/App/Action/InfiniteHotel/Policies.php, line: 210
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 110
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 119
 # File: src/App/Action/Roomer/SearchHotels.php, line: 307
@@ -5863,18 +5863,18 @@ msgstr ""
 msgid "charge full amount"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1739
-# File: src/App/Action/AssistCardAction.php, line: 1894
+# File: src/App/Action/AssistCardAction.php, line: 1745
+# File: src/App/Action/AssistCardAction.php, line: 1900
 msgid "Domestic Air & Hotel Plan"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1741
-# File: src/App/Action/AssistCardAction.php, line: 1896
+# File: src/App/Action/AssistCardAction.php, line: 1747
+# File: src/App/Action/AssistCardAction.php, line: 1902
 msgid "International Air & Hotel"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1745
-# File: src/App/Action/AssistCardAction.php, line: 1900
+# File: src/App/Action/AssistCardAction.php, line: 1751
+# File: src/App/Action/AssistCardAction.php, line: 1906
 msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
@@ -6212,7 +6212,7 @@ msgstr ""
 # File: src/App/Action/DOTW/Policies.php, line: 613
 # File: src/App/Action/DOTW/SearchHotels.php, line: 874
 # File: src/App/Action/DOTW/SearchHotels.php, line: 875
-# File: src/App/Action/InfiniteHotel/Policies.php, line: 193
+# File: src/App/Action/InfiniteHotel/Policies.php, line: 210
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 198
 # File: src/App/Action/Itaparica/HotelParallelParse.php, line: 199
 # File: src/App/Action/Itaparica/MultiPolicies.php, line: 449
