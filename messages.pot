@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-01 14:00+0000\n"
+"POT-Creation-Date: 2024-03-01 14:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4460,6 +4460,73 @@ msgstr ""
 msgid "Planned Hotels"
 msgstr ""
 #
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 797
+# File: src/App/Action/Direct/HotelParallel.php, line: 141
+# File: src/App/Action/Direct/SearchHotels.php, line: 148
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 130
+# File: src/App/Action/IWTX/HotelParallelParse.php, line: 175
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 414
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 454
+# File: src/App/Action/IWTX/Policies.php, line: 312
+# File: src/App/Action/IWTX/Policies.php, line: 352
+# File: src/App/Action/IWTX/SearchHotels.php, line: 338
+# File: src/App/Action/IWTX/SearchHotels.php, line: 382
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 154
+# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 155
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 405
+# File: src/App/Action/Itaparica/MultiPolicies.php, line: 406
+# File: src/App/Action/Itaparica/Policies.php, line: 388
+# File: src/App/Action/Itaparica/Policies.php, line: 389
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 341
+# File: src/App/Action/Itaparica/SearchHotels.php, line: 342
+# File: src/App/Action/IntelPackageAction.php, line: 254
+# File: src/App/Action/IntelPackagesAction.php, line: 533
+# File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 156
+# File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 157
+# File: src/App/Action/KaluahTours/MultiPolicies.php, line: 412
+# File: src/App/Action/KaluahTours/MultiPolicies.php, line: 413
+# File: src/App/Action/KaluahTours/Policies.php, line: 389
+# File: src/App/Action/KaluahTours/Policies.php, line: 390
+# File: src/App/Action/KaluahTours/SearchHotels.php, line: 343
+# File: src/App/Action/KaluahTours/SearchHotels.php, line: 344
+# File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
+# File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 408
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 156
+# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 157
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 404
+# File: src/App/Action/NexusTours/MultiPolicies.php, line: 405
+# File: src/App/Action/NexusTours/Policies.php, line: 389
+# File: src/App/Action/NexusTours/Policies.php, line: 390
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 378
+# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 379
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 402
+# File: src/App/Action/NexusTours/SearchHotels.php, line: 403
+# File: src/App/Action/PackageAction.php, line: 289
+# File: src/App/Action/PackagesAction.php, line: 394
+# File: src/App/Action/PackagesSearchAction.php, line: 249
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 76
+# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 77
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 424
+# File: src/App/Action/Panamericana/MultiPolicies.php, line: 425
+# File: src/App/Action/Panamericana/Policies.php, line: 412
+# File: src/App/Action/Panamericana/Policies.php, line: 413
+# File: src/App/Action/Panamericana/SearchHotels.php, line: 356
+# File: src/App/Action/Panamericana/SearchHotels.php, line: 357
+# File: src/App/Action/Tourico/MultiPolicies.php, line: 489
+# File: src/App/Action/Tourico/Policies.php, line: 476
+# File: src/App/Action/W2M/Hotel.php, line: 314
+# File: src/App/Action/W2M/Hotel.php, line: 315
+# File: src/App/Action/W2M/HotelParallelParse.php, line: 154
+# File: src/App/Action/W2M/HotelParallelParse.php, line: 155
+# File: src/App/Action/W2M/MultiPolicies.php, line: 463
+# File: src/App/Action/W2M/MultiPolicies.php, line: 464
+# File: src/App/Action/W2M/Policies.php, line: 443
+# File: src/App/Action/W2M/Policies.php, line: 444
+# File: src/App/Action/W2M/SearchHotels.php, line: 476
+# File: src/App/Action/W2M/SearchHotels.php, line: 477
+msgid "nights"
+msgstr ""
+#
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 960
 msgid "Insurance Details"
 msgstr ""
@@ -6533,72 +6600,6 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 473
 # File: src/App/Action/W2M/SearchHotels.php, line: 474
 msgid "night"
-msgstr ""
-#
-# File: src/App/Action/Direct/HotelParallel.php, line: 141
-# File: src/App/Action/Direct/SearchHotels.php, line: 148
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 130
-# File: src/App/Action/IWTX/HotelParallelParse.php, line: 175
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 414
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 454
-# File: src/App/Action/IWTX/Policies.php, line: 312
-# File: src/App/Action/IWTX/Policies.php, line: 352
-# File: src/App/Action/IWTX/SearchHotels.php, line: 338
-# File: src/App/Action/IWTX/SearchHotels.php, line: 382
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 154
-# File: src/App/Action/Itaparica/HotelParallelParse.php, line: 155
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 405
-# File: src/App/Action/Itaparica/MultiPolicies.php, line: 406
-# File: src/App/Action/Itaparica/Policies.php, line: 388
-# File: src/App/Action/Itaparica/Policies.php, line: 389
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 341
-# File: src/App/Action/Itaparica/SearchHotels.php, line: 342
-# File: src/App/Action/IntelPackageAction.php, line: 254
-# File: src/App/Action/IntelPackagesAction.php, line: 533
-# File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 156
-# File: src/App/Action/KaluahTours/HotelParallelParse.php, line: 157
-# File: src/App/Action/KaluahTours/MultiPolicies.php, line: 412
-# File: src/App/Action/KaluahTours/MultiPolicies.php, line: 413
-# File: src/App/Action/KaluahTours/Policies.php, line: 389
-# File: src/App/Action/KaluahTours/Policies.php, line: 390
-# File: src/App/Action/KaluahTours/SearchHotels.php, line: 343
-# File: src/App/Action/KaluahTours/SearchHotels.php, line: 344
-# File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 407
-# File: src/App/Action/Lotsofhotels/MultiPolicies.php, line: 408
-# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 156
-# File: src/App/Action/NexusTours/HotelParallelParse.php, line: 157
-# File: src/App/Action/NexusTours/MultiPolicies.php, line: 404
-# File: src/App/Action/NexusTours/MultiPolicies.php, line: 405
-# File: src/App/Action/NexusTours/Policies.php, line: 389
-# File: src/App/Action/NexusTours/Policies.php, line: 390
-# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 378
-# File: src/App/Action/NexusTours/PoliciesActivities.php, line: 379
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 402
-# File: src/App/Action/NexusTours/SearchHotels.php, line: 403
-# File: src/App/Action/PackageAction.php, line: 289
-# File: src/App/Action/PackagesAction.php, line: 394
-# File: src/App/Action/PackagesSearchAction.php, line: 249
-# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 76
-# File: src/App/Action/Panamericana/HotelParallelParse.php, line: 77
-# File: src/App/Action/Panamericana/MultiPolicies.php, line: 424
-# File: src/App/Action/Panamericana/MultiPolicies.php, line: 425
-# File: src/App/Action/Panamericana/Policies.php, line: 412
-# File: src/App/Action/Panamericana/Policies.php, line: 413
-# File: src/App/Action/Panamericana/SearchHotels.php, line: 356
-# File: src/App/Action/Panamericana/SearchHotels.php, line: 357
-# File: src/App/Action/Tourico/MultiPolicies.php, line: 489
-# File: src/App/Action/Tourico/Policies.php, line: 476
-# File: src/App/Action/W2M/Hotel.php, line: 314
-# File: src/App/Action/W2M/Hotel.php, line: 315
-# File: src/App/Action/W2M/HotelParallelParse.php, line: 154
-# File: src/App/Action/W2M/HotelParallelParse.php, line: 155
-# File: src/App/Action/W2M/MultiPolicies.php, line: 463
-# File: src/App/Action/W2M/MultiPolicies.php, line: 464
-# File: src/App/Action/W2M/Policies.php, line: 443
-# File: src/App/Action/W2M/Policies.php, line: 444
-# File: src/App/Action/W2M/SearchHotels.php, line: 476
-# File: src/App/Action/W2M/SearchHotels.php, line: 477
-msgid "nights"
 msgstr ""
 #
 # File: src/App/Action/Direct/HotelParallel.php, line: 1272
