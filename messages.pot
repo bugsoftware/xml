@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-13 20:42+0000\n"
+"POT-Creation-Date: 2024-03-14 07:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2229,54 +2229,54 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 438
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 440
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2241
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2243
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2249
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2251
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2265
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2267
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2273
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2275
 msgid "Your Reservation with"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 438
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2241
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2249
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2265
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2273
 msgid "is Confirmed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 440
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2243
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2251
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2267
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2275
 msgid "is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1815
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1839
 msgid "Air"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1822
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1846
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 501
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 515
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 553
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1829
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1853
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 727
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 741
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 779
 msgid "Package"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1836
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1860
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 917
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 955
 msgid "Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1840
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1864
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2119
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2143
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
@@ -5793,14 +5793,14 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1070
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1075
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1080
-# File: src/App/Action/Costa/SearchCruises.php, line: 836
-# File: src/App/Action/Costa/SearchCruises.php, line: 838
-# File: src/App/Action/Costa/SearchCruises.php, line: 861
-# File: src/App/Action/Costa/SearchCruises.php, line: 863
-# File: src/App/Action/Costa/SearchCruises.php, line: 886
-# File: src/App/Action/Costa/SearchCruises.php, line: 888
-# File: src/App/Action/Costa/SearchCruises.php, line: 911
-# File: src/App/Action/Costa/SearchCruises.php, line: 913
+# File: src/App/Action/Costa/SearchCruises.php, line: 801
+# File: src/App/Action/Costa/SearchCruises.php, line: 803
+# File: src/App/Action/Costa/SearchCruises.php, line: 826
+# File: src/App/Action/Costa/SearchCruises.php, line: 828
+# File: src/App/Action/Costa/SearchCruises.php, line: 851
+# File: src/App/Action/Costa/SearchCruises.php, line: 853
+# File: src/App/Action/Costa/SearchCruises.php, line: 876
+# File: src/App/Action/Costa/SearchCruises.php, line: 878
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 850
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 852
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 875
@@ -6429,8 +6429,12 @@ msgstr ""
 # File: src/App/Action/IWTX/SearchHotels.php, line: 581
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 494
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 495
-# File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 308
-# File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 309
+# File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 301
+# File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 302
+# File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 316
+# File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 317
+# File: src/App/Action/InfiniteHotel/Policies.php, line: 296
+# File: src/App/Action/InfiniteHotel/Policies.php, line: 297
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 476
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 477
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 478
