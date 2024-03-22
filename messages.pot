@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-22 07:13+0000\n"
+"POT-Creation-Date: 2024-03-22 17:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1178,8 +1178,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 8203
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2202
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2314
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4264
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4363
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4775
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4874
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1195,8 +1195,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 8204
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2203
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2315
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4265
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4364
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4776
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4875
 msgid "View Reservation"
 msgstr ""
 #
@@ -1207,6 +1207,10 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2531
 msgid "Invalid invoice creation - URGENT - No valid account id"
+msgstr ""
+#
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4615
+msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
 # File: console/src/Xml/Command/HotelDO/CreateHotel.php, line: 302
@@ -2398,6 +2402,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 250
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4542,6 +4547,46 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1255
 msgid "Sub Total"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 22
+msgid "We hope this message finds you well."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 23
+msgid "We are pleased to inform you that an invoice has been successfully generated in our accounting system, Globalware, for your recent transaction."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 24
+msgid "Transaction Details"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 26
+msgid "Invoice Number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 27
+msgid "Reservation Number:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 29
+msgid "Please review your account for additional information."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 30
+msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 31
+msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 32
+msgid "Warm regards,"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 33
+msgid "Click & Book Team"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
