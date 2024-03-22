@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-22 17:34+0000\n"
+"POT-Creation-Date: 2024-03-22 19:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1178,8 +1178,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 8203
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2202
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2314
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4775
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4874
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5632
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5731
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1195,8 +1195,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 8204
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2203
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2315
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4776
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4875
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5633
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5732
 msgid "View Reservation"
 msgstr ""
 #
@@ -1209,7 +1209,7 @@ msgstr ""
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 4615
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5472
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
