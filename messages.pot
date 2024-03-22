@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-22 19:00+0000\n"
+"POT-Creation-Date: 2024-03-22 22:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2403,6 +2403,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4578,6 +4579,7 @@ msgid "Should you have any questions or require further assistance, do not hesit
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 39
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -4586,7 +4588,63 @@ msgid "Warm regards,"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 33
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 41
 msgid "Click & Book Team"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 22
+msgid "I hope this message finds you well."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 23
+msgid "I am writing to inform you that one of our sub-agents"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 23
+msgid "has successfully onboarded a new sub-agent"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 23
+msgid "into our network."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 24
+msgid "Please find below the details of both sub-agents for your records:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 25
+msgid "Sub-Agent A (Creator):"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 33
+msgid "Name:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 34
+msgid "Contact Information:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 35
+msgid "Region/Area of Operation:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 31
+msgid "Sub-Agent B (Newly Created):"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 37
+msgid "Please do not hesitate to reach out if you require further details or have any questions regarding this new development."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 38
+msgid "Thank you for your attention to this matter."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 40
+msgid "Best regards,"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
@@ -5836,6 +5894,10 @@ msgstr ""
 #
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 458
 msgid "Login - One Time Password(OTP)"
+msgstr ""
+#
+# File: src/App/Action/AgentsRegisterAction.php, line: 695
+msgid "Notification of New Sub-Agent Creation"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1065
