@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-30 07:25+0000\n"
+"POT-Creation-Date: 2024-04-02 12:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -355,7 +355,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1080
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4688
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4690
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 496
@@ -834,11 +834,11 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4681
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4683
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4688
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 4690
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -1170,8 +1170,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7435
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7547
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8053
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8165
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8064
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8176
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2175
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1186,8 +1186,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7436
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7548
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8054
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8166
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8065
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8177
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2176
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2289
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2403
