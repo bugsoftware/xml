@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-08 20:47+0100\n"
+"POT-Creation-Date: 2024-04-09 07:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1170,8 +1170,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7435
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7547
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8064
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8176
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8067
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8179
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2175
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1186,8 +1186,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7436
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7548
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8065
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8177
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8068
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8180
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2176
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2289
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2403
@@ -3087,9 +3087,9 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 204
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 337
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 489
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 216
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 226
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 227
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 229
 # File: src/App/Action/Travco/Policies.php, line: 233
 # File: src/App/Action/Travco/Policies.php, line: 235
 msgid "at"
@@ -3137,9 +3137,9 @@ msgstr ""
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 308
 # File: src/App/Action/Coming2/Policies.php, line: 295
 # File: src/App/Action/Coming2/SearchHotels.php, line: 287
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 216
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 226
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 227
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 229
 # File: src/App/Action/MikiTravel/Hotel.php, line: 270
 # File: src/App/Action/MikiTravel/Hotel.php, line: 272
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 66
@@ -5088,8 +5088,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 474
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 181
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 212
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 215
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 216
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 226
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 227
 # File: src/App/Action/Hotelbeds/SearchHotelsXML.php, line: 511
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 490
 # File: src/App/Action/Ocean/SearchHotelsMulti.php, line: 492
@@ -5850,8 +5850,8 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 219
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 220
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 230
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 231
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 206
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 212
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 254
@@ -6075,18 +6075,18 @@ msgstr ""
 msgid "charge full amount"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1755
-# File: src/App/Action/AssistCardAction.php, line: 1908
+# File: src/App/Action/AssistCardAction.php, line: 1756
+# File: src/App/Action/AssistCardAction.php, line: 1909
 msgid "Domestic Air & Hotel Plan"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1757
-# File: src/App/Action/AssistCardAction.php, line: 1910
+# File: src/App/Action/AssistCardAction.php, line: 1758
+# File: src/App/Action/AssistCardAction.php, line: 1911
 msgid "International Air & Hotel"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1761
-# File: src/App/Action/AssistCardAction.php, line: 1914
+# File: src/App/Action/AssistCardAction.php, line: 1762
+# File: src/App/Action/AssistCardAction.php, line: 1915
 msgid "Help protect your vacation with travel protection."
 msgstr ""
 #
@@ -6950,12 +6950,12 @@ msgstr ""
 msgid "and before"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 218
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 229
 msgid "if cancelled between"
 msgstr ""
 #
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 226
-# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 227
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 237
+# File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 238
 msgid "NOTE: Cancellation time is based on timezone destination"
 msgstr ""
 #
