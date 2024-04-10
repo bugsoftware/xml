@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-10 16:32+0100\n"
+"POT-Creation-Date: 2024-04-10 16:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2242,56 +2242,64 @@ msgstr ""
 msgid "Cancellation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 440
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 442
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2267
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2269
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 718
+msgid "Your Reservation is Confirmed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 720
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 726
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2275
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2277
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2283
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2285
 msgid "Your Reservation with"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 440
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2267
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 720
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2275
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2283
 msgid "is Confirmed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 442
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2269
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 724
+msgid "Your Reservation is Being Processed"
+msgstr ""
+#
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 726
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2277
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2285
 msgid "is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1841
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1849
 msgid "Air"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1848
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1856
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 501
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 515
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 553
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1855
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1863
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 727
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 741
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 779
 msgid "Package"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1862
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1870
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 917
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 955
 msgid "Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1866
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 1874
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2145
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2153
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
