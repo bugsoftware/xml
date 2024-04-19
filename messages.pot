@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-19 14:18+0100\n"
+"POT-Creation-Date: 2024-04-19 21:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6614,7 +6614,7 @@ msgstr ""
 # File: src/App/Action/GRNconnect/SearchHotels.php, line: 209
 # File: src/App/Action/GRNconnect/Policies.php, line: 336
 # File: src/App/Action/GRNconnect/Policies.php, line: 337
-# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 198
+# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 250
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -6953,6 +6953,8 @@ msgstr ""
 # File: src/App/Action/Yalago/Policies.php, line: 280
 # File: src/App/Action/Yalago/SearchHotels.php, line: 286
 # File: src/App/Action/Yalago/SearchHotels.php, line: 287
+# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 243
+# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 244
 msgid "Cancel free of charge before"
 msgstr ""
 #
