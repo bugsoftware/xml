@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-20 07:36+0100\n"
+"POT-Creation-Date: 2024-04-21 07:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1170,8 +1170,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7435
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7547
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8067
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8179
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8133
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8245
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2175
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1186,8 +1186,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7436
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7548
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8068
-# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8180
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8134
+# File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8246
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2176
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2289
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2403
@@ -6610,11 +6610,14 @@ msgstr ""
 # File: src/App/Action/Tripcom/MultiPolicies.php, line: 297
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 213
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 214
-# File: src/App/Action/GRNconnect/SearchHotels.php, line: 208
-# File: src/App/Action/GRNconnect/SearchHotels.php, line: 209
+# File: src/App/Action/GRNconnect/SearchHotels.php, line: 265
+# File: src/App/Action/GRNconnect/SearchHotels.php, line: 266
 # File: src/App/Action/GRNconnect/Policies.php, line: 336
 # File: src/App/Action/GRNconnect/Policies.php, line: 337
-# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 250
+# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 270
+# File: src/App/Action/Hotetec/SearchHotels.php, line: 552
+# File: src/App/Action/Hotetec/Policies.php, line: 411
+# File: src/App/Action/Hotetec/Policies.php, line: 412
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -6953,8 +6956,10 @@ msgstr ""
 # File: src/App/Action/Yalago/Policies.php, line: 280
 # File: src/App/Action/Yalago/SearchHotels.php, line: 286
 # File: src/App/Action/Yalago/SearchHotels.php, line: 287
-# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 243
-# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 244
+# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 263
+# File: src/App/Action/Hotetec/HotelParallelParse.php, line: 264
+# File: src/App/Action/Hotetec/SearchHotels.php, line: 545
+# File: src/App/Action/Hotetec/SearchHotels.php, line: 546
 msgid "Cancel free of charge before"
 msgstr ""
 #
