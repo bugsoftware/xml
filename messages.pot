@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-21 07:19+0100\n"
+"POT-Creation-Date: 2024-04-22 16:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,18 +119,18 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1488
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1491
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1505
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 446
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 447
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 525
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 448
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 451
 # File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 526
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 529
-# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 446
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 527
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 530
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 447
-# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 450
-# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 525
+# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 448
+# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 451
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 526
-# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 529
+# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 527
+# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 530
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 269
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 270
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
@@ -364,10 +364,10 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 842
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1116
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1491
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 450
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 529
-# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 450
-# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 529
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 451
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 530
+# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 451
+# File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 530
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
 # File: console/src/Xml/Command/EnjoyCuba/CreateHotel.php, line: 309
 # File: console/src/Xml/Command/Enterprise/CreateCar.php, line: 366
@@ -6610,8 +6610,8 @@ msgstr ""
 # File: src/App/Action/Tripcom/MultiPolicies.php, line: 297
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 213
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 214
-# File: src/App/Action/GRNconnect/SearchHotels.php, line: 265
-# File: src/App/Action/GRNconnect/SearchHotels.php, line: 266
+# File: src/App/Action/GRNconnect/SearchHotels.php, line: 282
+# File: src/App/Action/GRNconnect/SearchHotels.php, line: 283
 # File: src/App/Action/GRNconnect/Policies.php, line: 336
 # File: src/App/Action/GRNconnect/Policies.php, line: 337
 # File: src/App/Action/Hotetec/HotelParallelParse.php, line: 270
