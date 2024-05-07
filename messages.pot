@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-07 16:24+0100\n"
+"POT-Creation-Date: 2024-05-07 22:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4608,11 +4608,13 @@ msgid "Thank you for choosing our services. We look forward to continuing our bu
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 32
+# File: src/App/Action/AirIssueTicketAction.php, line: 1027
 msgid "Warm regards,"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 41
+# File: src/App/Action/AirIssueTicketAction.php, line: 1028
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -7671,6 +7673,18 @@ msgstr ""
 #
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 803
 msgid "discount gift card that can be used on selected packages"
+msgstr ""
+#
+# File: src/App/Action/AirIssueTicketAction.php, line: 1017
+msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
+msgstr ""
+#
+# File: src/App/Action/AirIssueTicketAction.php, line: 1023
+msgid "Dear "
+msgstr ""
+#
+# File: src/App/Action/AirIssueTicketAction.php, line: 1025
+msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
 msgstr ""
 #
 # File: src/App/Action/Tripcom/SearchHotels.php, line: 314
