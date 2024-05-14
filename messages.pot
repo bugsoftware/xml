@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-13 20:45+0100\n"
+"POT-Creation-Date: 2024-05-14 13:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2424,6 +2424,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 250
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 20
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 17
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4608,6 +4609,7 @@ msgid "Thank you for choosing our services. We look forward to continuing our bu
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 32
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 37
 # File: src/App/Action/AirIssueTicketAction.php, line: 1027
 msgid "Warm regards,"
 msgstr ""
@@ -4671,6 +4673,34 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 40
 msgid "Best regards,"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 16
+msgid "Important Notice: Account Deactivation - Action Required"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 19
+msgid "I hope this message finds you well. We are writing to inform you that your account on the Click & Book platform has been temporarily disabled due to inactivity for the last 30 days, as per our user agreement."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 21
+msgid "To maintain the security and efficiency of our services, it is essential that we ensure active engagement from all our users. However, we understand that there may be various reasons for not being able to log in."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 23
+msgid "If you wish to reactivate your account, please contact our customer support team at your earliest convenience. They will guide you through the reactivation process and answer any questions you may have."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 24
+msgid "We value your participation in the Click & Book community and look forward to assisting you in re-establishing your account."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 29
+msgid "Account:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 38
+msgid "Click & Book Customer Support Team"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
