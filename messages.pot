@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-22 07:09+0100\n"
+"POT-Creation-Date: 2024-05-22 16:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2429,6 +2429,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 20
 # File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 17
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4630,6 +4631,7 @@ msgid "Sub Total"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4638,6 +4640,7 @@ msgid "We are pleased to inform you that an invoice has been successfully genera
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 24
 msgid "Transaction Details"
 msgstr ""
 #
@@ -4646,30 +4649,36 @@ msgid "Invoice Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 27
 msgid "Reservation Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 29
 msgid "Please review your account for additional information."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 30
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 30
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 39
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 31
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 32
 # File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 37
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 32
 # File: src/App/Action/AirIssueTicketAction.php, line: 1027
 msgid "Warm regards,"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 41
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 33
 # File: src/App/Action/AirIssueTicketAction.php, line: 1028
 msgid "Click & Book Team"
 msgstr ""
@@ -4757,6 +4766,14 @@ msgstr ""
 msgid "Click & Book Customer Support Team"
 msgstr ""
 #
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 23
+msgid "We are pleased to inform you that a service fee has been applied to your recent reservation, for your recent transaction."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 26
+msgid "Service Fee:"
+msgstr ""
+#
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
 msgid "CANCELLATION CHARGES NOW:"
 msgstr ""
@@ -4808,6 +4825,10 @@ msgstr ""
 #
 # File: console/src/Xml/Command/SaleSysTranscript.php, line: 287
 msgid "Phone call sales lead"
+msgstr ""
+#
+# File: console/src/Xml/Command/ChargeServiceFee.php, line: 907
+msgid "Notification of Service Fee Charge for Recent Reservation"
 msgstr ""
 #
 # File: console/vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 43
