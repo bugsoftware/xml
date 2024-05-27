@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-24 07:15+0100\n"
+"POT-Creation-Date: 2024-05-27 07:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1172,7 +1172,7 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7547
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8144
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8256
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2172
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2169
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2229
@@ -1181,8 +1181,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2077
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2278
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6848
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6947
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6850
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6949
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1190,10 +1190,10 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7548
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8145
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8257
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2173
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2286
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2400
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2514
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2170
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2283
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2397
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2511
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2230
@@ -1202,17 +1202,17 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6259
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2078
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2279
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6849
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6948
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6851
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6950
 msgid "View Reservation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2285
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2399
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2282
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2396
 msgid "Exception Error - Unable to create invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2513
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2510
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
@@ -1221,8 +1221,8 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5999
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6688
-# File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 667
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 6690
+# File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 668
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
@@ -6733,8 +6733,8 @@ msgstr ""
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 214
 # File: src/App/Action/GRNconnect/SearchHotels.php, line: 287
 # File: src/App/Action/GRNconnect/SearchHotels.php, line: 288
-# File: src/App/Action/GRNconnect/Policies.php, line: 400
-# File: src/App/Action/GRNconnect/Policies.php, line: 401
+# File: src/App/Action/GRNconnect/Policies.php, line: 392
+# File: src/App/Action/GRNconnect/Policies.php, line: 393
 # File: src/App/Action/Hotetec/HotelParallelParse.php, line: 270
 # File: src/App/Action/Hotetec/SearchHotels.php, line: 552
 # File: src/App/Action/Hotetec/Policies.php, line: 411
