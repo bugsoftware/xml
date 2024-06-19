@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-18 20:05+0100\n"
+"POT-Creation-Date: 2024-06-19 13:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -354,8 +354,9 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 317
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
+# File: console/src/Xml/Command/Costamar/1.php, line: 214
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1080
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6800
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6871
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 496
@@ -826,20 +827,22 @@ msgstr ""
 msgid "Welcome!"
 msgstr ""
 #
+# File: console/src/Xml/Command/Costamar/1.php, line: 202
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6859
+msgid "A CyberSource transaction has been initiated for reservation #"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/1.php, line: 214
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6871
+msgid "Cybersource Credit Card Processing"
+msgstr ""
+#
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1073
 msgid "A Authorize.net transaction has been initiated for reservation #"
 msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1080
 msgid "Authorize.net Credit Card Processing"
-msgstr ""
-#
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6793
-msgid "A CyberSource transaction has been initiated for reservation #"
-msgstr ""
-#
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6800
-msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 551
@@ -2427,7 +2430,7 @@ msgstr ""
 msgid "Transfers Check in Report"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/alert.phtml, line: 250
+# File: console/src/Xml/Command/Templates/alert.phtml, line: 258
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 250
@@ -2441,11 +2444,19 @@ msgstr ""
 msgid "Dear"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/alert.phtml, line: 252
+# File: console/src/Xml/Command/Templates/alert.phtml, line: 260
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 248
 # File: console/src/Xml/Command/Templates/message.phtml, line: 262
 # File: console/src/Xml/Command/Templates/notification.phtml, line: 286
 msgid "Best Regards"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/alert.phtml, line: 287
+msgid "b2b reservation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/alert.phtml, line: 287
+msgid "b2c reservation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 243
