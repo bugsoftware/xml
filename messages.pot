@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-09 15:09+0100\n"
+"POT-Creation-Date: 2024-07-09 20:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1175,14 +1175,14 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2169
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2226
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2427
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2291
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6159
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2077
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2278
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7447
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7546
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3303
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3504
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7469
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7568
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1196,14 +1196,14 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2511
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2227
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2428
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2292
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2493
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6160
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6259
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2078
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2279
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7448
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7547
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3304
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3505
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7470
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7569
 msgid "View Reservation"
 msgstr ""
 #
@@ -1216,17 +1216,17 @@ msgstr ""
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2355
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2420
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5999
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7287
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7309
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 793
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 2206
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3432
 msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
