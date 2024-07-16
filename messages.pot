@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-16 14:18+0100\n"
+"POT-Creation-Date: 2024-07-16 17:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1177,8 +1177,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2291
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2492
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6159
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6158
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6257
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3303
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3504
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7856
@@ -1198,8 +1198,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2292
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2493
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6160
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6259
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6159
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3304
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3505
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7857
@@ -1220,7 +1220,7 @@ msgstr ""
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5999
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5998
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7696
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 793
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
@@ -2435,6 +2435,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 20
 # File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 17
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4645,6 +4647,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4654,6 +4658,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 24
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 24
 msgid "Transaction Details"
 msgstr ""
 #
@@ -4663,6 +4669,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 26
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 26
 msgid "Reservation Number:"
 msgstr ""
 #
@@ -4673,18 +4681,24 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 30
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 29
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 39
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 30
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 30
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 32
 # File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 37
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 32
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 31
 # File: src/App/Action/AirIssueTicketAction.php, line: 1039
 msgid "Warm regards,"
 msgstr ""
@@ -4692,6 +4706,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 41
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 33
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 32
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 32
 # File: src/App/Action/AirIssueTicketAction.php, line: 1040
 msgid "Click & Book Team"
 msgstr ""
@@ -4787,6 +4803,19 @@ msgstr ""
 msgid "Service Fee:"
 msgstr ""
 #
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 23
+msgid "This is to inform you that the customer has not yet signed the terms and conditions for their reservation. Please reach out to the customer at your earliest convenience to ensure that the terms and conditions are reviewed and signed."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 28
+msgid "Please review your reservation for additional information."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 23
+msgid "I am pleased to inform you that the customer has successfully signed the terms and conditions for their reservation. No further action is required at this time."
+msgstr ""
+#
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
 msgid "CANCELLATION CHARGES NOW:"
 msgstr ""
@@ -4834,6 +4863,14 @@ msgstr ""
 #
 # File: console/src/Xml/Command/cybersource.php, line: 1466
 msgid "Please review reservation."
+msgstr ""
+#
+# File: console/src/Xml/Command/HelloSign/bulkstatus.php, line: 171
+msgid "Customer Has Signed the Reservation Terms and Conditions for reservation"
+msgstr ""
+#
+# File: console/src/Xml/Command/HelloSign/bulkstatus.php, line: 298
+msgid "Reminder: Customer Has Not Signed Reservation Terms and Conditions for reservation"
 msgstr ""
 #
 # File: console/src/Xml/Command/SaleSysTranscript.php, line: 287
