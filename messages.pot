@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-20 07:18+0100\n"
+"POT-Creation-Date: 2024-07-21 07:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1175,8 +1175,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2169
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2291
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2492
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2295
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2496
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6158
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6257
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3303
@@ -1196,8 +1196,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2511
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2292
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2493
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2296
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2497
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6159
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3304
@@ -1216,7 +1216,7 @@ msgstr ""
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2420
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2424
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
@@ -4882,7 +4882,7 @@ msgid "Notification of Service Fee Charge for Recent Reservation"
 msgstr ""
 #
 # File: console/vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 43
-# File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 43
+# File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
 msgid "test"
 msgstr ""
 #
