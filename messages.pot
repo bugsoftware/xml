@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 22:17+0100\n"
+"POT-Creation-Date: 2024-07-25 07:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2244,15 +2244,15 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 243
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 249
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 267
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 273
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 437
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 443
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 221
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 227
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 246
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 252
 msgid "Cancellation is being processed"
 msgstr ""
 #
@@ -2318,66 +2318,66 @@ msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
 # File: console/src/Xml/Command/Sendmessage.php, line: 269
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2938
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2965
 msgid "Travel Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2724
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2751
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2660
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2727
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2754
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2663
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2730
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2757
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2666
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2733
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2760
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2669
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2736
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2763
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2672
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2739
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2766
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2675
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2742
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2769
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2678
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2745
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2772
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2681
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2748
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2775
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2684
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2753
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2780
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2689
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2756
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2783
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2692
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2936
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2963
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
