@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-26 07:15+0100\n"
+"POT-Creation-Date: 2024-07-26 15:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1181,8 +1181,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6257
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3303
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3504
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7859
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7958
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7864
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7963
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1202,8 +1202,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3304
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3505
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7860
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7959
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7865
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7964
 msgid "View Reservation"
 msgstr ""
 #
@@ -1221,7 +1221,7 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5998
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7699
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7704
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 793
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
@@ -4699,7 +4699,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 31
-# File: src/App/Action/AirIssueTicketAction.php, line: 1039
+# File: src/App/Action/AirIssueTicketAction.php, line: 1040
 msgid "Warm regards,"
 msgstr ""
 #
@@ -4708,7 +4708,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 32
-# File: src/App/Action/AirIssueTicketAction.php, line: 1040
+# File: src/App/Action/AirIssueTicketAction.php, line: 1041
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -7834,15 +7834,15 @@ msgstr ""
 msgid "discount gift card that can be used on selected packages"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1029
+# File: src/App/Action/AirIssueTicketAction.php, line: 1030
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1035
+# File: src/App/Action/AirIssueTicketAction.php, line: 1036
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1037
+# File: src/App/Action/AirIssueTicketAction.php, line: 1038
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
 msgstr ""
 #
