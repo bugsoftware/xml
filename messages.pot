@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-16 07:55+0100\n"
+"POT-Creation-Date: 2024-08-17 07:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1175,8 +1175,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2169
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2549
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2750
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2553
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2754
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6158
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6257
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3303
@@ -1196,8 +1196,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2511
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2550
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2751
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2554
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2755
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6159
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3304
@@ -1216,7 +1216,7 @@ msgstr ""
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2678
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2682
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
@@ -3296,7 +3296,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 526
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 169
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 272
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1780
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1777
 msgid "total"
 msgstr ""
 #
@@ -4284,25 +4284,25 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 109
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 260
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1760
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1758
 msgid "Guest #1"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 110
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 263
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1765
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1763
 msgid "Guest #2"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 111
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 266
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1770
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1768
 msgid "Guest #3"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 112
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 269
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1775
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1773
 msgid "Guest #4"
 msgstr ""
 #
@@ -4375,37 +4375,37 @@ msgid "The minimum deposit for this reservation is Non-Refundable. A change fee 
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 253
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1744
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1742
 msgid "on board credit"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 307
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1860
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1855
 msgid "Travel arrangements"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 308
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1862
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1856
 msgid "Local Times"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 312
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1875
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1869
 msgid "Arrive"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 313
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1878
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1872
 msgid "Depart"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 315
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1892
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1882
 msgid "Cruise Itinerary:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 323
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1928
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1918
 msgid "Cruise itinerary may change without notice as conditions warrant."
 msgstr ""
 #
