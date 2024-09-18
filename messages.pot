@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-18 13:26+0100\n"
+"POT-Creation-Date: 2024-09-18 19:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -928,14 +928,14 @@ msgstr ""
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 200
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 201
-# File: src/App/Action/TBO/MultiPolicies.php, line: 490
-# File: src/App/Action/TBO/MultiPolicies.php, line: 491
-# File: src/App/Action/TBO/MultiPolicies.php, line: 493
-# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
 # File: src/App/Action/TBO/Policies.php, line: 437
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
+# File: src/App/Action/TBO/MultiPolicies.php, line: 496
+# File: src/App/Action/TBO/MultiPolicies.php, line: 497
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
@@ -956,6 +956,10 @@ msgstr ""
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 394
 # File: src/App/Action/Travelplan/Policies.php, line: 399
 # File: src/App/Action/Travelplan/Policies.php, line: 400
+# File: src/App/Action/MultiPolicies.php, line: 493
+# File: src/App/Action/MultiPolicies.php, line: 494
+# File: src/App/Action/MultiPolicies.php, line: 496
+# File: src/App/Action/MultiPolicies.php, line: 497
 msgid "Cancel from"
 msgstr ""
 #
@@ -1030,16 +1034,16 @@ msgstr ""
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 200
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 201
-# File: src/App/Action/TBO/MultiPolicies.php, line: 490
-# File: src/App/Action/TBO/MultiPolicies.php, line: 491
-# File: src/App/Action/TBO/MultiPolicies.php, line: 493
-# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
 # File: src/App/Action/TBO/Policies.php, line: 437
 # File: src/App/Action/TBO/SearchHotels.php, line: 365
 # File: src/App/Action/TBO/SearchHotels.php, line: 367
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
+# File: src/App/Action/TBO/MultiPolicies.php, line: 496
+# File: src/App/Action/TBO/MultiPolicies.php, line: 497
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
@@ -1072,6 +1076,10 @@ msgstr ""
 # File: src/App/Action/W2M/Policies.php, line: 431
 # File: src/App/Action/W2M/SearchHotels.php, line: 456
 # File: src/App/Action/W2M/SearchHotels.php, line: 464
+# File: src/App/Action/MultiPolicies.php, line: 493
+# File: src/App/Action/MultiPolicies.php, line: 494
+# File: src/App/Action/MultiPolicies.php, line: 496
+# File: src/App/Action/MultiPolicies.php, line: 497
 msgid "to"
 msgstr ""
 #
@@ -2197,16 +2205,16 @@ msgstr ""
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 200
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 201
-# File: src/App/Action/TBO/MultiPolicies.php, line: 490
-# File: src/App/Action/TBO/MultiPolicies.php, line: 491
-# File: src/App/Action/TBO/MultiPolicies.php, line: 493
-# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
 # File: src/App/Action/TBO/Policies.php, line: 437
 # File: src/App/Action/TBO/SearchHotels.php, line: 365
 # File: src/App/Action/TBO/SearchHotels.php, line: 367
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
+# File: src/App/Action/TBO/MultiPolicies.php, line: 496
+# File: src/App/Action/TBO/MultiPolicies.php, line: 497
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
@@ -2263,6 +2271,10 @@ msgstr ""
 # File: src/App/Action/W2M/SearchHotels.php, line: 477
 # File: src/App/Action/W2M/SearchHotels.php, line: 496
 # File: src/App/Action/W2M/SearchHotels.php, line: 518
+# File: src/App/Action/MultiPolicies.php, line: 493
+# File: src/App/Action/MultiPolicies.php, line: 494
+# File: src/App/Action/MultiPolicies.php, line: 496
+# File: src/App/Action/MultiPolicies.php, line: 497
 msgid "charge"
 msgstr ""
 #
@@ -7669,10 +7681,10 @@ msgstr ""
 #
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
-# File: src/App/Action/TBO/MultiPolicies.php, line: 490
-# File: src/App/Action/TBO/MultiPolicies.php, line: 491
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
+# File: src/App/Action/TBO/MultiPolicies.php, line: 493
+# File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
 # File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 440
@@ -7681,6 +7693,8 @@ msgstr ""
 # File: src/App/Action/TBOCUG/Policies.php, line: 434
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 371
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
+# File: src/App/Action/MultiPolicies.php, line: 493
+# File: src/App/Action/MultiPolicies.php, line: 494
 msgid "% amount of the booking."
 msgstr ""
 #
