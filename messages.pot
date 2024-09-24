@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 07:15+0100\n"
+"POT-Creation-Date: 2024-09-24 12:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -308,12 +308,12 @@ msgstr ""
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 370
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 371
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 374
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 339
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 340
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 343
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 659
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 660
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 663
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 356
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 357
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 360
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 676
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 677
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 680
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 295
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 296
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 299
@@ -424,8 +424,8 @@ msgstr ""
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 262
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 297
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 374
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 343
-# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 663
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 360
+# File: console/src/Xml/Command/W2M/CreateHotel.php, line: 680
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 299
 # File: console/src/Xml/Command/MeliaCuba/CreateHotel.php, line: 376
 # File: console/src/Xml/Command/Valentin/CreateHotel.php, line: 310
@@ -1070,8 +1070,8 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 302
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 135
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 143
-# File: src/App/Action/W2M/MultiPolicies.php, line: 491
-# File: src/App/Action/W2M/MultiPolicies.php, line: 499
+# File: src/App/Action/W2M/MultiPolicies.php, line: 508
+# File: src/App/Action/W2M/MultiPolicies.php, line: 516
 # File: src/App/Action/W2M/Policies.php, line: 423
 # File: src/App/Action/W2M/Policies.php, line: 431
 # File: src/App/Action/W2M/SearchHotels.php, line: 456
@@ -1252,8 +1252,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6257
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3303
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3504
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8006
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8105
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8012
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8111
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1273,8 +1273,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3304
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3505
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8007
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8106
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8013
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8112
 msgid "View Reservation"
 msgstr ""
 #
@@ -1292,7 +1292,7 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5998
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7846
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7852
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 793
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
@@ -2247,14 +2247,14 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 156
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 175
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 197
-# File: src/App/Action/W2M/MultiPolicies.php, line: 504
-# File: src/App/Action/W2M/MultiPolicies.php, line: 505
-# File: src/App/Action/W2M/MultiPolicies.php, line: 508
-# File: src/App/Action/W2M/MultiPolicies.php, line: 509
-# File: src/App/Action/W2M/MultiPolicies.php, line: 511
-# File: src/App/Action/W2M/MultiPolicies.php, line: 512
-# File: src/App/Action/W2M/MultiPolicies.php, line: 531
-# File: src/App/Action/W2M/MultiPolicies.php, line: 553
+# File: src/App/Action/W2M/MultiPolicies.php, line: 521
+# File: src/App/Action/W2M/MultiPolicies.php, line: 522
+# File: src/App/Action/W2M/MultiPolicies.php, line: 525
+# File: src/App/Action/W2M/MultiPolicies.php, line: 526
+# File: src/App/Action/W2M/MultiPolicies.php, line: 528
+# File: src/App/Action/W2M/MultiPolicies.php, line: 529
+# File: src/App/Action/W2M/MultiPolicies.php, line: 548
+# File: src/App/Action/W2M/MultiPolicies.php, line: 570
 # File: src/App/Action/W2M/Policies.php, line: 436
 # File: src/App/Action/W2M/Policies.php, line: 437
 # File: src/App/Action/W2M/Policies.php, line: 440
@@ -4695,8 +4695,8 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 315
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 155
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 156
-# File: src/App/Action/W2M/MultiPolicies.php, line: 511
-# File: src/App/Action/W2M/MultiPolicies.php, line: 512
+# File: src/App/Action/W2M/MultiPolicies.php, line: 528
+# File: src/App/Action/W2M/MultiPolicies.php, line: 529
 # File: src/App/Action/W2M/Policies.php, line: 443
 # File: src/App/Action/W2M/Policies.php, line: 444
 # File: src/App/Action/W2M/SearchHotels.php, line: 476
@@ -5118,10 +5118,10 @@ msgstr ""
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 137
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 143
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 145
-# File: src/App/Action/W2M/MultiPolicies.php, line: 491
-# File: src/App/Action/W2M/MultiPolicies.php, line: 493
-# File: src/App/Action/W2M/MultiPolicies.php, line: 499
-# File: src/App/Action/W2M/MultiPolicies.php, line: 501
+# File: src/App/Action/W2M/MultiPolicies.php, line: 508
+# File: src/App/Action/W2M/MultiPolicies.php, line: 510
+# File: src/App/Action/W2M/MultiPolicies.php, line: 516
+# File: src/App/Action/W2M/MultiPolicies.php, line: 518
 # File: src/App/Action/W2M/Policies.php, line: 423
 # File: src/App/Action/W2M/Policies.php, line: 425
 # File: src/App/Action/W2M/Policies.php, line: 431
@@ -5194,8 +5194,8 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 308
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 148
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 149
-# File: src/App/Action/W2M/MultiPolicies.php, line: 504
-# File: src/App/Action/W2M/MultiPolicies.php, line: 505
+# File: src/App/Action/W2M/MultiPolicies.php, line: 521
+# File: src/App/Action/W2M/MultiPolicies.php, line: 522
 # File: src/App/Action/W2M/Policies.php, line: 436
 # File: src/App/Action/W2M/Policies.php, line: 437
 # File: src/App/Action/W2M/SearchHotels.php, line: 469
@@ -5234,7 +5234,7 @@ msgstr ""
 # File: src/App/Action/RoomsXML/Policies.php, line: 249
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 292
 # File: src/App/Action/Travellanda/Policies.php, line: 291
-# File: src/App/Action/W2M/MultiPolicies.php, line: 664
+# File: src/App/Action/W2M/MultiPolicies.php, line: 681
 # File: src/App/Action/W2M/Policies.php, line: 595
 msgid "Price has changed. Please review booking."
 msgstr ""
@@ -6760,8 +6760,8 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 359
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 199
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 200
-# File: src/App/Action/W2M/MultiPolicies.php, line: 555
-# File: src/App/Action/W2M/MultiPolicies.php, line: 556
+# File: src/App/Action/W2M/MultiPolicies.php, line: 572
+# File: src/App/Action/W2M/MultiPolicies.php, line: 573
 # File: src/App/Action/W2M/Policies.php, line: 487
 # File: src/App/Action/W2M/Policies.php, line: 488
 # File: src/App/Action/W2M/SearchHotels.php, line: 520
@@ -7022,8 +7022,8 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 312
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 152
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 153
-# File: src/App/Action/W2M/MultiPolicies.php, line: 508
-# File: src/App/Action/W2M/MultiPolicies.php, line: 509
+# File: src/App/Action/W2M/MultiPolicies.php, line: 525
+# File: src/App/Action/W2M/MultiPolicies.php, line: 526
 # File: src/App/Action/W2M/Policies.php, line: 440
 # File: src/App/Action/W2M/Policies.php, line: 441
 # File: src/App/Action/W2M/SearchHotels.php, line: 473
@@ -7352,8 +7352,8 @@ msgstr ""
 # File: src/App/Action/W2M/Hotel.php, line: 329
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 161
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 170
-# File: src/App/Action/W2M/MultiPolicies.php, line: 517
-# File: src/App/Action/W2M/MultiPolicies.php, line: 526
+# File: src/App/Action/W2M/MultiPolicies.php, line: 534
+# File: src/App/Action/W2M/MultiPolicies.php, line: 543
 # File: src/App/Action/W2M/Policies.php, line: 449
 # File: src/App/Action/W2M/Policies.php, line: 458
 # File: src/App/Action/W2M/SearchHotels.php, line: 482
@@ -7381,7 +7381,7 @@ msgstr ""
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 365
 # File: src/App/Action/W2M/Hotel.php, line: 323
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 164
-# File: src/App/Action/W2M/MultiPolicies.php, line: 520
+# File: src/App/Action/W2M/MultiPolicies.php, line: 537
 # File: src/App/Action/W2M/Policies.php, line: 452
 # File: src/App/Action/W2M/SearchHotels.php, line: 485
 msgid "This is the price of the first night"
@@ -7407,7 +7407,7 @@ msgstr ""
 # File: src/App/Action/Panamericana/SearchHotels.php, line: 368
 # File: src/App/Action/W2M/Hotel.php, line: 326
 # File: src/App/Action/W2M/HotelParallelParse.php, line: 167
-# File: src/App/Action/W2M/MultiPolicies.php, line: 523
+# File: src/App/Action/W2M/MultiPolicies.php, line: 540
 # File: src/App/Action/W2M/Policies.php, line: 455
 # File: src/App/Action/W2M/SearchHotels.php, line: 488
 msgid "This is the price of the most expensive night"
