@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-27 13:05+0100\n"
+"POT-Creation-Date: 2024-09-27 16:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4944,11 +4944,11 @@ msgstr ""
 msgid "Please review reservation."
 msgstr ""
 #
-# File: console/src/Xml/Command/HelloSign/bulkstatus.php, line: 242
+# File: console/src/Xml/Command/HelloSign/bulkstatus.php, line: 278
 msgid "Customer Has Signed the Reservation Terms and Conditions for reservation"
 msgstr ""
 #
-# File: console/src/Xml/Command/HelloSign/bulkstatus.php, line: 371
+# File: console/src/Xml/Command/HelloSign/bulkstatus.php, line: 417
 msgid "Reminder: Customer Has Not Signed Reservation Terms and Conditions for reservation"
 msgstr ""
 #
