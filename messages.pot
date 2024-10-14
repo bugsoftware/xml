@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-14 14:17+0100\n"
+"POT-Creation-Date: 2024-10-14 21:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -861,18 +861,27 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 85
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 97
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 109
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 85
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 97
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 109
 msgid "Transfer of"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 85
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 97
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 109
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 85
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 97
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 109
 msgid "New Customers to Your Account"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 89
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 101
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 113
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 89
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 101
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 113
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 22
 msgid "I hope this message finds you well."
 msgstr ""
@@ -880,12 +889,18 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 90
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 114
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 90
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 102
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 114
 msgid "I am pleased to inform you that we have successfully transferred"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 90
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 114
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 90
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 102
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 114
 msgid "new customers to your account. We are confident that your exceptional service will provide them with an outstanding travel experience."
 msgstr ""
 #
