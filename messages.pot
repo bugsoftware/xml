@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-01 15:30+0000\n"
+"POT-Creation-Date: 2024-11-02 07:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2517,6 +2517,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4764,6 +4765,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4775,6 +4777,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 24
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 24
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 24
 msgid "Transaction Details"
 msgstr ""
 #
@@ -4786,11 +4789,13 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 26
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 26
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 27
 msgid "Reservation Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_invoice.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 29
 msgid "Please review your account for additional information."
 msgstr ""
 #
@@ -4798,6 +4803,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 30
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -4806,6 +4812,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 30
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 31
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -4814,6 +4821,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 32
 # File: src/App/Action/AirIssueTicketAction.php, line: 1040
 msgid "Warm regards,"
 msgstr ""
@@ -4823,6 +4831,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 32
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 33
 # File: src/App/Action/AirIssueTicketAction.php, line: 1041
 msgid "Click & Book Team"
 msgstr ""
@@ -4927,6 +4936,14 @@ msgstr ""
 msgid "I am pleased to inform you that the customer has successfully signed the terms and conditions for their reservation. No further action is required at this time."
 msgstr ""
 #
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 23
+msgid "We are pleased to inform you that a Miscellaneous Charges Order (MCO) has been successfully generated for your recent transaction. Please find the details of the MCO attached to this email."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 26
+msgid "MCO:"
+msgstr ""
+#
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
 msgid "CANCELLATION CHARGES NOW:"
 msgstr ""
@@ -4970,6 +4987,10 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 90
 msgid "None"
+msgstr ""
+#
+# File: console/src/Xml/Command/Travelport/addservicefee.php, line: 843
+msgid "Miscellaneous Charges Order (MCO) Generated - Notification: MCO Generated"
 msgstr ""
 #
 # File: console/src/Xml/Command/cybersource.php, line: 1466
