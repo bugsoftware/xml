@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-03 07:27+0000\n"
+"POT-Creation-Date: 2024-11-03 19:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -864,6 +864,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 85
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 97
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 109
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 85
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 97
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 109
 msgid "Transfer of"
 msgstr ""
 #
@@ -873,6 +876,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 85
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 97
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 109
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 85
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 97
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 109
 msgid "New Customers to Your Account"
 msgstr ""
 #
@@ -882,6 +888,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 89
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 101
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 113
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 89
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 101
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 113
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 22
 msgid "I hope this message finds you well."
 msgstr ""
@@ -892,6 +901,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 90
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 114
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 90
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 102
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 114
 msgid "I am pleased to inform you that we have successfully transferred"
 msgstr ""
 #
@@ -901,6 +913,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 90
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned.php, line: 114
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 90
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 102
+# File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 114
 msgid "new customers to your account. We are confident that your exceptional service will provide them with an outstanding travel experience."
 msgstr ""
 #
@@ -1300,7 +1315,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5998
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 7946
-# File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 793
+# File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
@@ -5294,7 +5309,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/SearchHotels.php, line: 353
 # File: src/App/Action/AIO/SearchHotelsMulti.php, line: 378
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 454
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 456
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 258
 # File: src/App/Action/Convencional/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
