@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-06 14:32+0000\n"
+"POT-Creation-Date: 2024-11-06 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -917,6 +917,10 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 114
 msgid "new customers to your account. We are confident that your exceptional service will provide them with an outstanding travel experience."
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/twilioreport.php, line: 139
+msgid "Text/SMS Report - "
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/airreport.php, line: 283
@@ -2538,6 +2542,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4787,6 +4792,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4818,6 +4824,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 29
 msgid "Please review your account for additional information."
 msgstr ""
 #
@@ -4827,6 +4834,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 25
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 30
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -4837,6 +4845,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 26
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 31
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -4847,6 +4856,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
 # File: src/App/Action/AirIssueTicketAction.php, line: 1040
 msgid "Warm regards,"
 msgstr ""
@@ -4858,6 +4868,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 33
 # File: src/App/Action/AirIssueTicketAction.php, line: 1041
 msgid "Click & Book Team"
 msgstr ""
@@ -4972,6 +4983,26 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 23
 msgid "Please find attached the Air Sales Report for this year. This report provides a comprehensive overview of our direct air sales performance."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 23
+msgid "Please find attached the Text/SMS Report for"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 23
+msgid "This report provides a comprehensive overview of our sales performance and key metrics."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 24
+msgid "Details"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 26
+msgid "Total Text Messages Sent:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 27
+msgid "Total Sales:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
