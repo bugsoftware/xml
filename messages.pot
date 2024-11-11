@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-11 15:31+0000\n"
+"POT-Creation-Date: 2024-11-11 21:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -937,7 +937,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2630
 # File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6228
-# File: console/src/Xml/Command/Reservations.php, line: 4259
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
@@ -1749,6 +1748,10 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 3817
 # File: console/src/Xml/Command/Reservations.php, line: 5373
 msgid "Please read and accept the terms and conditions to proceed with your reservation."
+msgstr ""
+#
+# File: console/src/Xml/Command/Reservations.php, line: 4259
+msgid "Urgent: Immediate Payment Required to Confirm Booking"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 7571
