@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-11 07:24+0000\n"
+"POT-Creation-Date: 2024-11-11 15:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -355,7 +355,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1080
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6948
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7249
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 266
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 496
@@ -935,11 +935,16 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6936
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2630
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6228
+msgid "Assistance Required: Pending Reservation Review"
+msgstr ""
+#
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7237
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6948
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7249
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -4793,6 +4798,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 22
+# File: console/src/Xml/Command/Templates/review.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4835,6 +4841,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 25
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 30
+# File: console/src/Xml/Command/Templates/review.phtml, line: 29
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -4846,6 +4853,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 26
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 31
+# File: console/src/Xml/Command/Templates/review.phtml, line: 30
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -4857,7 +4865,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
-# File: src/App/Action/AirIssueTicketAction.php, line: 1045
+# File: console/src/Xml/Command/Templates/review.phtml, line: 31
+# File: src/App/Action/AirIssueTicketAction.php, line: 1048
 msgid "Warm regards,"
 msgstr ""
 #
@@ -4869,7 +4878,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 33
-# File: src/App/Action/AirIssueTicketAction.php, line: 1046
+# File: console/src/Xml/Command/Templates/review.phtml, line: 32
+# File: src/App/Action/AirIssueTicketAction.php, line: 1049
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -4994,6 +5004,7 @@ msgid "This report provides a comprehensive overview of our sales performance an
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 24
+# File: console/src/Xml/Command/Templates/review.phtml, line: 24
 msgid "Details"
 msgstr ""
 #
@@ -5003,6 +5014,22 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 27
 msgid "Total Sales:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/review.phtml, line: 20
+msgid "Dear Risk Management Team,"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/review.phtml, line: 23
+msgid "We have a reservation that is currently pending review and requires your expertise to approve or decline the booking. The details of the reservation are as follows:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/review.phtml, line: 26
+msgid "Reservation Id:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/review.phtml, line: 28
+msgid "Thank you for your prompt attention to this matter."
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
@@ -8079,15 +8106,15 @@ msgstr ""
 msgid "discount gift card that can be used on selected packages"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1035
+# File: src/App/Action/AirIssueTicketAction.php, line: 1038
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1041
+# File: src/App/Action/AirIssueTicketAction.php, line: 1044
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1043
+# File: src/App/Action/AirIssueTicketAction.php, line: 1046
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
 msgstr ""
 #
