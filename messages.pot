@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-12 07:26+0000\n"
+"POT-Creation-Date: 2024-11-12 13:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -920,11 +920,11 @@ msgid "new customers to your account. We are confident that your exceptional ser
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/twilioreport.php, line: 139
-msgid "Text/SMS Report - "
+msgid "Text/SMS Report"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/airreport.php, line: 283
-msgid "Airline Sales Report - "
+msgid "Airline Sales Report"
 msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1073
@@ -1167,7 +1167,8 @@ msgstr ""
 msgid "This email is to confirm the reservation cancellation."
 msgstr ""
 #
-# File: console/src/Xml/Command/Distributions.php, line: 334
+# File: console/src/Xml/Command/Distributions.php, line: 375
+# File: console/src/Xml/Command/Distributions.php, line: 414
 msgid "New Customer Assigned to your Account"
 msgstr ""
 #
