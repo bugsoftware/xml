@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-17 08:15+0000\n"
+"POT-Creation-Date: 2024-11-17 14:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -917,6 +917,14 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsassigned2.php, line: 114
 msgid "new customers to your account. We are confident that your exceptional service will provide them with an outstanding travel experience."
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/disableagents.php, line: 187
+msgid "Disabled Agents Report"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/disableusers.php, line: 173
+msgid "Disabled Administration Users Report"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/twilioreport.php, line: 139
@@ -2553,6 +2561,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4805,6 +4815,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 22
 # File: console/src/Xml/Command/Templates/review.phtml, line: 22
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4849,6 +4861,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 30
 # File: console/src/Xml/Command/Templates/review.phtml, line: 29
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 26
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 26
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -4862,6 +4876,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 31
 # File: console/src/Xml/Command/Templates/review.phtml, line: 30
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 30
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 27
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -4875,6 +4891,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 28
 # File: src/App/Action/AirIssueTicketAction.php, line: 1048
 msgid "Warm regards,"
 msgstr ""
@@ -4889,6 +4907,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 33
 # File: console/src/Xml/Command/Templates/review.phtml, line: 32
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 32
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 29
 # File: src/App/Action/AirIssueTicketAction.php, line: 1049
 msgid "Click & Book Team"
 msgstr ""
@@ -5048,6 +5068,35 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 23
 msgid "Please be informed that the following reservation requires immediate settlement. If you need any further information or assistance, please contact us immediately. The details of the reservation are as follows:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 23
+msgid "For security reasons, we have recently conducted a review of user activity within the Click and Book administration area. As part of this review, we have identified several administration accounts that have not logged in for at least a month. To maintain the security and integrity of our system, these inactive accounts have been disabled."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 24
+msgid "A total of"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 24
+msgid "users have been disabled due to inactivity."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 25
+msgid "Please find the list of affected users attached to this email."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 23
+msgid "As part of our regular security measures, we have reviewed user activity within our system. We have identified several agent accounts that have not logged in to their accounts in the past 30 days. For security reasons, these accounts have been disabled."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 24
+msgid "agents have been disabled due to inactivity."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 25
+msgid "Please find the list of affected agents attached to this email."
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
