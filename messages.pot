@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-22 06:59+0000\n"
+"POT-Creation-Date: 2024-11-22 16:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -921,7 +921,7 @@ msgstr ""
 msgid "new customers to your account. We are confident that your exceptional service will provide them with an outstanding travel experience."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/disableagents.php, line: 302
+# File: console/src/Xml/Command/Costamar/disableagents.php, line: 301
 msgid "Disabled Agents Report"
 msgstr ""
 #
@@ -5451,7 +5451,7 @@ msgstr ""
 #
 # File: src/App/Action/AIO/SearchHotels.php, line: 353
 # File: src/App/Action/AIO/SearchHotelsMulti.php, line: 378
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 454
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 534
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 258
 # File: src/App/Action/Convencional/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
@@ -6670,6 +6670,105 @@ msgstr ""
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 525
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 269
+# File: src/App/Action/Convencional/SearchHotels.php, line: 455
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 477
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 205
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 417
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 393
+# File: src/App/Action/Palace/SearchHotels.php, line: 453
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 438
+# File: src/App/Action/Priceline/Hotel.php, line: 300
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 413
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 417
+# File: src/App/Action/Priceline/SearchHotels.old.php, line: 331
+# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
+# File: src/App/Action/Priceline/SearchHotels.php, line: 569
+# File: src/App/Action/Priceline/SearchHotels.php, line: 573
+# File: src/App/Action/PricelineNet/Hotel.php, line: 342
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 230
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 391
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 375
+# File: src/App/Action/Tourico/Hotel.php, line: 353
+# File: src/App/Action/Tourico/Hotel.php, line: 355
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 157
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 159
+# File: src/App/Action/Tourico/SearchHotels.php, line: 415
+# File: src/App/Action/Tourico/SearchHotels.php, line: 417
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 331
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 333
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 338
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 186
+# File: src/App/language/languages.php, line: 11
+msgid "All Inclusive"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 527
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 260
+# File: src/App/Action/Convencional/SearchHotels.php, line: 446
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 468
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 196
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 408
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 384
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 415
+# File: src/App/Action/Priceline/SearchHotels.php, line: 571
+# File: src/App/Action/PricelineNet/Hotel.php, line: 347
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 235
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 396
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 380
+# File: src/App/Action/Tourico/Hotel.php, line: 357
+# File: src/App/Action/Tourico/Hotel.php, line: 359
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 161
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 163
+# File: src/App/Action/Tourico/SearchHotels.php, line: 419
+# File: src/App/Action/Tourico/SearchHotels.php, line: 421
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 335
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 337
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 323
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 171
+# File: src/App/language/languages.php, line: 8
+msgid "Bed & Breakfast"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 529
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 263
+# File: src/App/Action/Convencional/SearchHotels.php, line: 449
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 471
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 199
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 411
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 387
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 317
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 326
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 329
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 335
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 341
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 344
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 165
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 174
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 177
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 183
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 189
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 192
+# File: src/App/language/languages.php, line: 9
+msgid "Half Board"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 531
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 266
+# File: src/App/Action/Convencional/SearchHotels.php, line: 452
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 474
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 202
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 414
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 390
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 320
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 332
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 168
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 180
+# File: src/App/language/languages.php, line: 10
+msgid "Full Board"
+msgstr ""
+#
 # File: src/App/Action/AirportsAction.php, line: 133
 msgid "All Airports"
 msgstr ""
@@ -6888,101 +6987,6 @@ msgstr ""
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 101
 # File: src/App/Action/Coming2/SearchHotels.php, line: 303
 msgid "Residents Rate"
-msgstr ""
-#
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 260
-# File: src/App/Action/Convencional/SearchHotels.php, line: 446
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 468
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 196
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 408
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 384
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 415
-# File: src/App/Action/Priceline/SearchHotels.php, line: 571
-# File: src/App/Action/PricelineNet/Hotel.php, line: 347
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 235
-# File: src/App/Action/PricelineNet/SearchHotels.php, line: 396
-# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 380
-# File: src/App/Action/Tourico/Hotel.php, line: 357
-# File: src/App/Action/Tourico/Hotel.php, line: 359
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 161
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 163
-# File: src/App/Action/Tourico/SearchHotels.php, line: 419
-# File: src/App/Action/Tourico/SearchHotels.php, line: 421
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 335
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 337
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 323
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 171
-# File: src/App/language/languages.php, line: 8
-msgid "Bed & Breakfast"
-msgstr ""
-#
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 263
-# File: src/App/Action/Convencional/SearchHotels.php, line: 449
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 471
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 199
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 411
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 387
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 317
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 326
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 329
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 335
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 341
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 344
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 165
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 174
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 177
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 183
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 189
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 192
-# File: src/App/language/languages.php, line: 9
-msgid "Half Board"
-msgstr ""
-#
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 266
-# File: src/App/Action/Convencional/SearchHotels.php, line: 452
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 474
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 202
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 414
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 390
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 320
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 332
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 168
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 180
-# File: src/App/language/languages.php, line: 10
-msgid "Full Board"
-msgstr ""
-#
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 269
-# File: src/App/Action/Convencional/SearchHotels.php, line: 455
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 477
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 205
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 417
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 393
-# File: src/App/Action/Palace/SearchHotels.php, line: 453
-# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 438
-# File: src/App/Action/Priceline/Hotel.php, line: 300
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 413
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 417
-# File: src/App/Action/Priceline/SearchHotels.old.php, line: 331
-# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
-# File: src/App/Action/Priceline/SearchHotels.php, line: 569
-# File: src/App/Action/Priceline/SearchHotels.php, line: 573
-# File: src/App/Action/PricelineNet/Hotel.php, line: 342
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 230
-# File: src/App/Action/PricelineNet/SearchHotels.php, line: 391
-# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 375
-# File: src/App/Action/Tourico/Hotel.php, line: 353
-# File: src/App/Action/Tourico/Hotel.php, line: 355
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 157
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 159
-# File: src/App/Action/Tourico/SearchHotels.php, line: 415
-# File: src/App/Action/Tourico/SearchHotels.php, line: 417
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 331
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 333
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 338
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 186
-# File: src/App/language/languages.php, line: 11
-msgid "All Inclusive"
 msgstr ""
 #
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 316
