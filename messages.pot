@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-28 11:48+0000\n"
+"POT-Creation-Date: 2024-11-28 20:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1289,7 +1289,7 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7547
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8144
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8256
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2282
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2298
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2604
@@ -1307,10 +1307,10 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_air.php, line: 7548
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8145
 # File: console/src/Xml/Command/Globalware/invoice_gw_85.php, line: 8257
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2283
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2396
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2510
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2624
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2299
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2412
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2526
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2640
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2605
@@ -1324,12 +1324,12 @@ msgstr ""
 msgid "View Reservation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2395
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2509
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2411
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2525
 msgid "Exception Error - Unable to create invoice"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2623
+# File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2639
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
