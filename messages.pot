@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-05 15:08+0000\n"
+"POT-Creation-Date: 2024-12-05 16:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -408,8 +408,8 @@ msgstr ""
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 945
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 372
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 359
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 599
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 360
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 604
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 297
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 374
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 352
@@ -2334,17 +2334,17 @@ msgstr ""
 msgid "Unable to cancel booking"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 355
 # File: console/src/Xml/Command/Sabre/CancelAir.php, line: 356
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 595
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 596
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 357
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 600
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 601
 msgid "Void Ticket:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 357
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 359
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 597
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 599
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 358
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 360
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 602
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 604
 msgid "Void Ticket"
 msgstr ""
 #
