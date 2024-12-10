@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-09 16:24+0000\n"
+"POT-Creation-Date: 2024-12-10 10:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -821,6 +821,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 259
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 260
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 333
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 91
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 92
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 166
 # File: console/src/Xml/Command/Reservations.php, line: 9951
 # File: console/src/Xml/Command/Reservations.php, line: 9952
 # File: console/src/Xml/Command/Reservations.php, line: 10033
@@ -829,29 +832,34 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/points.php, line: 110
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 265
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 97
 # File: console/src/Xml/Command/Reservations.php, line: 9957
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/points.php, line: 111
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 266
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 98
 # File: console/src/Xml/Command/Reservations.php, line: 9958
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/points.php, line: 177
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 332
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 165
 # File: console/src/Xml/Command/Reservations.php, line: 10032
 msgid "Congratulations - Rewards Credit"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/points.php, line: 183
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 338
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 171
 msgid "Balance Rewards have been credited to "
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/points.php, line: 184
 # File: console/src/Xml/Command/Costamar/creditrewardsfrombooking.php, line: 339
+# File: console/src/Xml/Command/Costamar/pointssend.php, line: 172
 # File: console/src/Xml/Command/Reservations.php, line: 10039
 msgid "Reservation Reference:"
 msgstr ""
