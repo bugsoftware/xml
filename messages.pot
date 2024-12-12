@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-12 07:22+0000\n"
+"POT-Creation-Date: 2024-12-12 15:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -529,8 +529,8 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 580
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/Abreu/Policies.php, line: 502
-# File: src/App/Action/Amadeus/Policies.php, line: 429
-# File: src/App/Action/Amadeus/Policies.php, line: 430
+# File: src/App/Action/Amadeus/Policies.php, line: 434
+# File: src/App/Action/Amadeus/Policies.php, line: 435
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 248
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 249
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 537
@@ -5477,8 +5477,8 @@ msgstr ""
 #
 # File: src/App/Action/AIO/SearchHotels.php, line: 353
 # File: src/App/Action/AIO/SearchHotelsMulti.php, line: 378
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 577
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 580
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 581
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 584
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 258
 # File: src/App/Action/Convencional/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
@@ -5596,8 +5596,8 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 580
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/Abreu/Policies.php, line: 502
-# File: src/App/Action/Amadeus/Policies.php, line: 429
-# File: src/App/Action/Amadeus/Policies.php, line: 430
+# File: src/App/Action/Amadeus/Policies.php, line: 434
+# File: src/App/Action/Amadeus/Policies.php, line: 435
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 253
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 254
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 258
@@ -6431,10 +6431,10 @@ msgstr ""
 msgid "Notification of New Sub-Agent Creation"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/Policies.php, line: 426
-# File: src/App/Action/Amadeus/Policies.php, line: 427
-# File: src/App/Action/Amadeus/Policies.php, line: 565
-# File: src/App/Action/Amadeus/Policies.php, line: 566
+# File: src/App/Action/Amadeus/Policies.php, line: 431
+# File: src/App/Action/Amadeus/Policies.php, line: 432
+# File: src/App/Action/Amadeus/Policies.php, line: 570
+# File: src/App/Action/Amadeus/Policies.php, line: 571
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 803
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 804
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 805
@@ -6697,7 +6697,7 @@ msgstr ""
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 569
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 573
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 269
 # File: src/App/Action/Convencional/SearchHotels.php, line: 455
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 477
@@ -6731,7 +6731,7 @@ msgstr ""
 msgid "All Inclusive"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 571
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 575
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 260
 # File: src/App/Action/Convencional/SearchHotels.php, line: 446
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 468
@@ -6758,7 +6758,7 @@ msgstr ""
 msgid "Bed & Breakfast"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 573
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 577
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 263
 # File: src/App/Action/Convencional/SearchHotels.php, line: 449
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 471
@@ -6781,7 +6781,7 @@ msgstr ""
 msgid "Half Board"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 575
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 579
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 266
 # File: src/App/Action/Convencional/SearchHotels.php, line: 452
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 474
