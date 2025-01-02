@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-02 08:00+0000\n"
+"POT-Creation-Date: 2025-01-02 15:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1030,10 +1030,10 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1303
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2086
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 391
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 393
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 486
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 488
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 397
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 401
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 512
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 516
 # File: src/App/Action/AIO/MultiPolicies.php, line: 364
 # File: src/App/Action/AIO/Policies.php, line: 381
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 84
@@ -3437,8 +3437,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 509
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 609
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 440
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 542
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 459
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 580
 msgid "details"
 msgstr ""
 #
@@ -5143,18 +5143,23 @@ msgstr ""
 msgid "Click to view online"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 391
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 486
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 380
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 495
+msgid "Location"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 397
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 512
 msgid "Booking Window:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 393
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 488
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 401
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 516
 msgid "Travel Window:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 425
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 520
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 443
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 558
 # File: src/App/Action/DOTW/Hotel.php, line: 590
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
 # File: src/App/Action/DOTW/SearchHotels.php, line: 767
@@ -5185,16 +5190,16 @@ msgstr ""
 msgid "discount"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 440
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 542
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 459
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 580
 msgid "stars"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1104
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1142
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1104
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1142
 msgid "Unscubscribe"
 msgstr ""
 #
