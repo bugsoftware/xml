@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-01 18:19+0000\n"
+"POT-Creation-Date: 2025-01-02 08:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1030,6 +1030,10 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1303
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2086
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 391
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 393
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 486
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 488
 # File: src/App/Action/AIO/MultiPolicies.php, line: 364
 # File: src/App/Action/AIO/Policies.php, line: 381
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 84
@@ -3433,6 +3437,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 509
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 609
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 440
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 542
 msgid "details"
 msgstr ""
 #
@@ -5127,6 +5133,69 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 24
 msgid "Please review it for additional information."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 197
+msgid "Problems viewing?"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 197
+msgid "Click to view online"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 391
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 486
+msgid "Booking Window:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 393
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 488
+msgid "Travel Window:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 425
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 520
+# File: src/App/Action/DOTW/Hotel.php, line: 590
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
+# File: src/App/Action/DOTW/SearchHotels.php, line: 767
+# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
+# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1388
+# File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
+# File: src/App/Action/Omnibees/SearchHotels.php, line: 1646
+# File: src/App/Action/Priceline/Hotel.php, line: 275
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 357
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 359
+# File: src/App/Action/Priceline/SearchHotels.old.php, line: 306
+# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 327
+# File: src/App/Action/Priceline/SearchHotels.php, line: 542
+# File: src/App/Action/Tourico/Hotel.php, line: 251
+# File: src/App/Action/Tourico/Hotel.php, line: 253
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 55
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 57
+# File: src/App/Action/Tourico/SearchHotels.php, line: 268
+# File: src/App/Action/Tourico/SearchHotels.php, line: 270
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 229
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 231
+# File: src/App/Action/Travco/HotelParallelParse.php, line: 177
+# File: src/App/Action/Travco/SearchHotels.php, line: 366
+# File: src/App/Action/Travco/SearchHotelsMulti.php, line: 388
+# File: src/App/Action/Travellanda/Hotel.php, line: 249
+# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 144
+# File: src/App/Action/Travellanda/SearchHotels.php, line: 284
+msgid "discount"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 440
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 542
+msgid "stars"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1104
+msgid "If you don't want to receive emails, please"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1104
+msgid "Unscubscribe"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
@@ -7041,36 +7110,6 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 442
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 415
 msgid "This is a non refundable booking. You will be charged full stay of the booking."
-msgstr ""
-#
-# File: src/App/Action/DOTW/Hotel.php, line: 590
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
-# File: src/App/Action/DOTW/SearchHotels.php, line: 767
-# File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
-# File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1388
-# File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
-# File: src/App/Action/Omnibees/SearchHotels.php, line: 1646
-# File: src/App/Action/Priceline/Hotel.php, line: 275
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 357
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 359
-# File: src/App/Action/Priceline/SearchHotels.old.php, line: 306
-# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 327
-# File: src/App/Action/Priceline/SearchHotels.php, line: 542
-# File: src/App/Action/Tourico/Hotel.php, line: 251
-# File: src/App/Action/Tourico/Hotel.php, line: 253
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 55
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 57
-# File: src/App/Action/Tourico/SearchHotels.php, line: 268
-# File: src/App/Action/Tourico/SearchHotels.php, line: 270
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 229
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 231
-# File: src/App/Action/Travco/HotelParallelParse.php, line: 177
-# File: src/App/Action/Travco/SearchHotels.php, line: 366
-# File: src/App/Action/Travco/SearchHotelsMulti.php, line: 388
-# File: src/App/Action/Travellanda/Hotel.php, line: 249
-# File: src/App/Action/Travellanda/HotelParallelParse.php, line: 144
-# File: src/App/Action/Travellanda/SearchHotels.php, line: 284
-msgid "discount"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 631
