@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-02 17:16+0000\n"
+"POT-Creation-Date: 2025-01-03 07:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1030,10 +1030,10 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1303
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 2086
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 397
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 401
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 512
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 516
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 571
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 581
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 820
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 830
 # File: src/App/Action/AIO/MultiPolicies.php, line: 364
 # File: src/App/Action/AIO/Policies.php, line: 381
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 84
@@ -3437,8 +3437,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 509
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 609
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 459
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 580
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 727
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 990
 msgid "details"
 msgstr ""
 #
@@ -5135,31 +5135,31 @@ msgstr ""
 msgid "Please review it for additional information."
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 197
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 238
 msgid "Problems viewing?"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 197
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 240
 msgid "Click to view online"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 380
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 495
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 540
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 789
 msgid "Location"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 397
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 512
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 571
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 820
 msgid "Booking Window:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 401
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 516
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 581
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 830
 msgid "Travel Window:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 443
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 558
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 664
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 913
 # File: src/App/Action/DOTW/Hotel.php, line: 590
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
 # File: src/App/Action/DOTW/SearchHotels.php, line: 767
@@ -5190,16 +5190,24 @@ msgstr ""
 msgid "discount"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 459
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 580
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 698
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 699
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 702
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 703
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 712
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 961
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 962
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 965
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 966
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 975
 msgid "stars"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1142
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1633
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1142
+# File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1635
 msgid "Unscubscribe"
 msgstr ""
 #
@@ -8366,4 +8374,16 @@ msgstr ""
 #
 # File: translate-dummy.php, line: 19
 msgid "Emergency Assistance and Transportation ($10,000 Emergency Companion Hospitality Expenses)"
+msgstr ""
+#
+# File: translate-dummy.php, line: 20
+msgid "New Year Sales"
+msgstr ""
+#
+# File: translate-dummy.php, line: 21
+msgid "Winter Special"
+msgstr ""
+#
+# File: translate-dummy.php, line: 22
+msgid "Book now and save (on select nights)"
 msgstr ""
