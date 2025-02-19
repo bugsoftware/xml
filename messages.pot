@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-19 09:47-0500\n"
+"POT-Creation-Date: 2025-02-19 16:14-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6800,10 +6800,10 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 275
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 217
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 218
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 583
 # File: src/App/Action/IWTX/MultiPolicies.php, line: 584
-# File: src/App/Action/IWTX/Policies.php, line: 471
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 585
 # File: src/App/Action/IWTX/Policies.php, line: 472
+# File: src/App/Action/IWTX/Policies.php, line: 473
 # File: src/App/Action/IWTX/SearchHotels.php, line: 588
 # File: src/App/Action/IWTX/SearchHotels.php, line: 589
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 494
@@ -6876,10 +6876,10 @@ msgstr ""
 # File: src/App/Action/Hotetec/Policies.php, line: 412
 # File: src/App/Action/IWTX2/SearchHotels.php, line: 589
 # File: src/App/Action/IWTX2/SearchHotels.php, line: 590
-# File: src/App/Action/IWTX2/Policies.php, line: 472
 # File: src/App/Action/IWTX2/Policies.php, line: 473
-# File: src/App/Action/IWTX2/MultiPolicies.php, line: 584
+# File: src/App/Action/IWTX2/Policies.php, line: 474
 # File: src/App/Action/IWTX2/MultiPolicies.php, line: 585
+# File: src/App/Action/IWTX2/MultiPolicies.php, line: 586
 # File: src/App/Action/IWTX2/HotelParallelParse.php, line: 218
 # File: src/App/Action/IWTX2/HotelParallelParse.php, line: 219
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
