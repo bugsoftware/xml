@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-03 11:02-0500\n"
+"POT-Creation-Date: 2025-03-03 13:10-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -950,6 +950,15 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/lowcustomers.php, line: 239
 msgid "Analysis Report: Active Travel Agents with Limited Customer Base Report"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 412
+msgid "Newsletter Report"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 465
+# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 494
+msgid "Newsletter Report for"
 msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1073
@@ -2585,6 +2594,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -4842,6 +4853,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 22
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 22
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 22
 msgid "We hope this message finds you well."
 msgstr ""
 #
@@ -4874,6 +4886,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 24
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 38
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 26
 msgid "Please review your account for additional information."
 msgstr ""
 #
@@ -4889,6 +4903,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 26
 # File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 26
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 25
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 47
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 34
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -4905,6 +4921,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 26
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 48
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 35
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -4921,6 +4939,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 49
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 36
 # File: src/App/Action/AirIssueTicketAction.php, line: 1048
 msgid "Warm regards,"
 msgstr ""
@@ -4938,6 +4958,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_disableusers.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_disableagents.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 50
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 37
 # File: src/App/Action/AirIssueTicketAction.php, line: 1049
 msgid "Click & Book Team"
 msgstr ""
@@ -5206,6 +5228,89 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1277
 msgid "Unscubscribe"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 23
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 25
+msgid "Please find attached the Campaign Report for"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 23
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 25
+msgid "This report provides a comprehensive overview of our campaign performance and key metrics."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 23
+msgid "Campaign:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 27
+msgid "Total Emails Sent:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 28
+msgid "Total Emails Dropped:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 29
+msgid "Total Emails Deferred:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 30
+msgid "Total Emails Bounced:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 31
+msgid "Total Emails Delivered:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 32
+msgid "Total Emails Opened:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 33
+msgid "Total Emails Clicked:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 34
+msgid "Total Emails Unique Open:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 35
+msgid "Total Emails Unique Click:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 36
+msgid "Marked as Spam:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 40
+msgid "Breakdown of emails sent by agent"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 43
+msgid "Agent"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 43
+msgid "emails sent"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 22
+msgid "We sent a total of"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 22
+msgid "of marketing emails to your customers for the campaiign"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 27
+msgid "Breakdown of customers interested in the campaign:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 30
+msgid "Customer:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
