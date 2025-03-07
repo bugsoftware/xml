@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-06 09:06-0500\n"
+"POT-Creation-Date: 2025-03-07 08:26-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -952,12 +952,12 @@ msgstr ""
 msgid "Analysis Report: Active Travel Agents with Limited Customer Base Report"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 412
+# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 415
 msgid "Newsletter Report"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 465
-# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 497
+# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 468
+# File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 500
 msgid "Newsletter Report for"
 msgstr ""
 #
@@ -6570,12 +6570,12 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 168
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 169
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 171
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 170
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 172
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 175
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 173
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 176
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 177
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 230
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 231
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 206
@@ -6907,10 +6907,10 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 621
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 622
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 586
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 427
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 428
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 443
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 444
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 430
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 431
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 446
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 447
 # File: src/App/Action/HotelDO/Policies.php, line: 925
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 184
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 185
@@ -7581,12 +7581,12 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 168
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 169
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 171
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 170
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 172
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 175
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 173
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 176
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 177
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 178
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 180
 # File: src/App/Action/Imperatours/SearchHotels.php, line: 315
@@ -7605,8 +7605,8 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 450
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 451
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 573
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 168
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 169
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 170
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 178
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 336
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 338
@@ -7624,8 +7624,8 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 453
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 454
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 575
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 171
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 172
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 173
 # File: src/App/Action/SunHotels/MultiPolicies.php, line: 180
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 340
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 342
@@ -7642,8 +7642,8 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotels.php, line: 589
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 457
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 458
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 175
 # File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 176
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 177
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 348
 # File: src/App/Action/Travellanda/MultiPolicies.php, line: 350
 # File: src/App/Action/Travellanda/Policies.php, line: 347
