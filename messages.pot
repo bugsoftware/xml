@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 11:45-0400\n"
+"POT-Creation-Date: 2025-03-11 17:38-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1326,8 +1326,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6257
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3451
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3665
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8190
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8289
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8195
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8294
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8487
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8586
 msgid "Invoice has been created"
@@ -1349,8 +1349,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6258
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3452
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3666
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8191
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8290
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8196
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8295
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8488
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8587
 msgid "View Reservation"
@@ -1370,7 +1370,7 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 5998
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8023
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8028
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8320
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
@@ -5311,7 +5311,7 @@ msgid "We sent a total of"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 22
-msgid "of marketing emails to your customers for the campaiign"
+msgid "of marketing emails to your customers for the campaign"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 27
