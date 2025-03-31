@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-31 09:03-0400\n"
+"POT-Creation-Date: 2025-03-31 15:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -594,6 +594,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 640
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 406
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 436
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 60
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 95
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 251
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
@@ -5866,6 +5868,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 640
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 406
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 436
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 60
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 95
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 251
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
@@ -6927,6 +6931,7 @@ msgstr ""
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 352
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 353
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 275
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 185
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 217
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 218
 # File: src/App/Action/IWTX/MultiPolicies.php, line: 584
@@ -7197,6 +7202,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 685
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 473
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 475
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 172
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 174
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 337
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 339
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 199
