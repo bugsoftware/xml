@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-31 15:08-0400\n"
+"POT-Creation-Date: 2025-04-01 02:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -582,8 +582,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 409
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 214
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 244
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 492
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 523
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 517
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 548
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 181
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 212
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.old.php, line: 380
@@ -594,8 +594,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 640
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 406
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 436
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 60
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 95
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 61
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 96
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 251
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
@@ -5658,7 +5658,7 @@ msgstr ""
 # File: src/App/Action/EETGlobal/Policies.php, line: 562
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 945
 # File: src/App/Action/Getaroom/Policies.php, line: 929
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 473
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 497
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 162
 # File: src/App/Action/HotelsPro/MultiPolicies.php, line: 361
 # File: src/App/Action/HotelsPro/Policies.php, line: 357
@@ -5780,8 +5780,8 @@ msgstr ""
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 474
 # File: src/App/Action/BahiaPrincipe/SearchHotelsMulti.php, line: 476
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 409
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 492
-# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 523
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 517
+# File: src/App/Action/Hotelbeds/MultiPolicies.php, line: 548
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 181
 # File: src/App/Action/Hotelbeds/PoliciesAPITUDE.php, line: 212
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 226
@@ -5868,8 +5868,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 640
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 406
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 436
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 60
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 95
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 61
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 96
 # File: src/App/Action/HotelsPro/Hotel.php, line: 332
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 251
 # File: src/App/Action/HotelsPro/HotelParallelParse.php, line: 271
@@ -6921,17 +6921,17 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 621
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 622
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 586
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 432
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 433
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 448
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 449
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 434
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 435
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 450
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 451
 # File: src/App/Action/HotelDO/Policies.php, line: 925
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 184
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 185
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 352
 # File: src/App/Action/HotelPlanner/SearchHotels.php, line: 353
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 275
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 185
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 195
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 217
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 218
 # File: src/App/Action/IWTX/MultiPolicies.php, line: 584
@@ -7202,8 +7202,8 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/SearchHotelsMulti.php, line: 685
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 473
 # File: src/App/Action/Hotelbeds/SearchHotelsAPITUDE.php, line: 475
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 172
-# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 174
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 182
+# File: src/App/Action/Hotelbeds/HotelParallelMultiRoomsParse.php, line: 184
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 337
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 339
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 199
