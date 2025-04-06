@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-04 08:21-0400\n"
+"POT-Creation-Date: 2025-04-06 02:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2410,8 +2410,8 @@ msgstr ""
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 292
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 298
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 316
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 322
 msgid "Cancellation is being processed"
 msgstr ""
 #
@@ -2477,66 +2477,66 @@ msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
 # File: console/src/Xml/Command/Sendmessage.php, line: 382
-# File: console/src/Xml/Command/Sendvoucher.php, line: 3016
+# File: console/src/Xml/Command/Sendvoucher.php, line: 3040
 msgid "Travel Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2801
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2825
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2660
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2804
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2828
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2663
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2807
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2831
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2666
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2810
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2834
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2669
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2813
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2837
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2672
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2816
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2840
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2675
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2819
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2843
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2678
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2822
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2846
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2681
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2825
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2849
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2684
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2830
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2854
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2689
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2833
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2857
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2692
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 3014
+# File: console/src/Xml/Command/Sendvoucher.php, line: 3038
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
