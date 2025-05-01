@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-01 12:00-0400\n"
+"POT-Creation-Date: 2025-05-01 13:34-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -997,13 +997,17 @@ msgstr ""
 # File: src/App/Action/DOTW/Hotel.php, line: 623
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 462
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 463
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 656
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 657
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 658
 # File: src/App/Action/DOTW/Policies.php, line: 653
 # File: src/App/Action/DOTW/Policies.php, line: 654
 # File: src/App/Action/DOTW/SearchHotels.php, line: 859
 # File: src/App/Action/DOTW/SearchHotels.php, line: 860
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 712
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 656
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 657
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 462
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 463
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 198
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 200
@@ -2022,12 +2026,16 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 181
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 473
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 474
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 667
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 668
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 669
 # File: src/App/Action/DOTW/Policies.php, line: 664
 # File: src/App/Action/DOTW/Policies.php, line: 665
 # File: src/App/Action/DOTW/SearchHotels.php, line: 870
 # File: src/App/Action/DOTW/SearchHotels.php, line: 871
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 667
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 668
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 473
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 474
 # File: src/App/Action/EuropaMundo/Policies.php, line: 132
 # File: src/App/Action/EuropaMundo/Tour.php, line: 460
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 87
@@ -3977,6 +3985,8 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 534
 # File: src/App/Action/DOTW/SearchHotels.php, line: 953
 # File: src/App/Action/DOTW/SearchHotels.php, line: 954
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 533
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 534
 # File: src/App/Action/Getaroom/HotelParallelParse.php, line: 337
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 1024
 # File: src/App/Action/Getaroom/Policies.php, line: 979
@@ -5215,6 +5225,7 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
 # File: src/App/Action/DOTW/SearchHotels.php, line: 771
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 376
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1392
 # File: src/App/Action/Omnibees/SearchHotelsMulti.php, line: 1517
 # File: src/App/Action/Omnibees/SearchHotels.php, line: 1650
@@ -5665,8 +5676,9 @@ msgstr ""
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 557
 # File: src/App/Action/ActionTravel/Policies.php, line: 551
 # File: src/App/Action/Coming2/Policies.php, line: 361
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 733
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 734
 # File: src/App/Action/DOTW/Policies.php, line: 731
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 733
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 498
 # File: src/App/Action/EETGlobal/Policies.php, line: 562
 # File: src/App/Action/Getaroom/MultiPolicies.php, line: 945
@@ -6925,14 +6937,18 @@ msgstr ""
 # File: src/App/Action/Amadeus/Policies.php, line: 617
 # File: src/App/Action/Amadeus/Policies.php, line: 770
 # File: src/App/Action/Amadeus/Policies.php, line: 771
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 803
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 804
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 805
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 806
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 792
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 793
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 794
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 795
 # File: src/App/Action/DOTW/Policies.php, line: 801
 # File: src/App/Action/DOTW/Policies.php, line: 802
 # File: src/App/Action/DOTW/Policies.php, line: 803
 # File: src/App/Action/DOTW/Policies.php, line: 804
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 803
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 804
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 805
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 806
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 409
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 410
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 425
@@ -7304,23 +7320,31 @@ msgstr ""
 #
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 470
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 471
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 664
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 665
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 666
 # File: src/App/Action/DOTW/Policies.php, line: 661
 # File: src/App/Action/DOTW/Policies.php, line: 662
 # File: src/App/Action/DOTW/SearchHotels.php, line: 867
 # File: src/App/Action/DOTW/SearchHotels.php, line: 868
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 664
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 665
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 470
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 471
 msgid "Cancel until"
 msgstr ""
 #
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 481
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 482
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 675
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 676
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 677
 # File: src/App/Action/DOTW/Policies.php, line: 672
 # File: src/App/Action/DOTW/Policies.php, line: 673
 # File: src/App/Action/DOTW/SearchHotels.php, line: 878
 # File: src/App/Action/DOTW/SearchHotels.php, line: 879
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 675
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 676
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 481
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 482
 # File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 243
 # File: src/App/Action/InfiniteHotel/MultiPolicies.php, line: 244
 # File: src/App/Action/InfiniteHotel/Policies.php, line: 232
@@ -7390,12 +7414,16 @@ msgstr ""
 #
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 484
 # File: src/App/Action/DOTW/HotelParallelParse.php, line: 485
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 678
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 679
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 680
 # File: src/App/Action/DOTW/Policies.php, line: 675
 # File: src/App/Action/DOTW/Policies.php, line: 676
 # File: src/App/Action/DOTW/SearchHotels.php, line: 881
 # File: src/App/Action/DOTW/SearchHotels.php, line: 882
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 678
+# File: src/App/Action/DOTW/MultiPolicies.old.php, line: 679
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 484
+# File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 485
 msgid "will be charged a cancellation penalty of"
 msgstr ""
 #
