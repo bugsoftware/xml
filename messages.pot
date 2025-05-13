@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 05:49-0400\n"
+"POT-Creation-Date: 2025-05-13 08:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3364,10 +3364,10 @@ msgstr ""
 # File: src/App/Action/Hotelbeds/PoliciesXML.php, line: 229
 # File: src/App/Action/MikiTravel/Hotel.php, line: 331
 # File: src/App/Action/MikiTravel/Hotel.php, line: 333
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 66
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 69
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 71
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 95
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 72
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 74
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 98
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 353
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 356
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 358
@@ -7781,8 +7781,8 @@ msgstr ""
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 386
 # File: src/App/Action/HotelsPro/SearchHotelsMulti.php, line: 340
 # File: src/App/Action/MikiTravel/Hotel.php, line: 480
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 257
-# File: src/App/Action/MikiTravel/SearchHotels.php, line: 535
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 263
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 538
 msgid "Special Offer"
 msgstr ""
 #
@@ -8019,8 +8019,8 @@ msgid "Special Conditions For Arrival On"
 msgstr ""
 #
 # File: src/App/Action/MikiTravel/Hotel.php, line: 328
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 61
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 63
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 64
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 66
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 347
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 350
 msgid "Pay full amount of your stay if cancelled on or after"
@@ -8028,15 +8028,20 @@ msgstr ""
 #
 # File: src/App/Action/MikiTravel/Hotel.php, line: 331
 # File: src/App/Action/MikiTravel/Hotel.php, line: 333
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 66
 # File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 69
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 71
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 95
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 72
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 74
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 98
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 353
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 356
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 358
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 382
 msgid "of your stay if cancelled on or after"
+msgstr ""
+#
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 215
+# File: src/App/Action/MikiTravel/SearchHotels.php, line: 492
+msgid "On Request"
 msgstr ""
 #
 # File: src/App/Action/NexusTours/SearchActivities.php, line: 324
