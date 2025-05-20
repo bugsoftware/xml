@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-20 02:46-0400\n"
+"POT-Creation-Date: 2025-05-20 13:05-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -995,10 +995,10 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1297
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1305
 # File: src/App/Action/DOTW/Hotel.php, line: 623
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 463
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 464
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 687
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 490
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 491
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 688
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 689
 # File: src/App/Action/DOTW/Policies.php, line: 684
 # File: src/App/Action/DOTW/Policies.php, line: 685
 # File: src/App/Action/DOTW/SearchHotels.php, line: 860
@@ -2024,10 +2024,10 @@ msgstr ""
 # File: src/App/Action/COSMOBEDS/Policies.php, line: 251
 # File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 180
 # File: src/App/Action/COSMOBEDS/SearchHotels.php, line: 181
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 474
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 475
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 698
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 501
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 502
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 699
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 700
 # File: src/App/Action/DOTW/Policies.php, line: 695
 # File: src/App/Action/DOTW/Policies.php, line: 696
 # File: src/App/Action/DOTW/SearchHotels.php, line: 871
@@ -3988,8 +3988,8 @@ msgstr ""
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 354
 # File: src/App/Action/Bonotel/SearchHotels.php, line: 355
 # File: src/App/Action/Coming2/SearchHotels.php, line: 380
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 535
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 536
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 562
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 563
 # File: src/App/Action/DOTW/SearchHotels.php, line: 954
 # File: src/App/Action/DOTW/SearchHotels.php, line: 955
 # File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 533
@@ -5229,7 +5229,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 571
 # File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 692
 # File: src/App/Action/DOTW/Hotel.php, line: 590
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 376
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 382
 # File: src/App/Action/DOTW/SearchHotels.php, line: 772
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 679
 # File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 376
@@ -5683,7 +5683,7 @@ msgstr ""
 # File: src/App/Action/ActionTravel/MultiPolicies.php, line: 557
 # File: src/App/Action/ActionTravel/Policies.php, line: 551
 # File: src/App/Action/Coming2/Policies.php, line: 361
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 765
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 801
 # File: src/App/Action/DOTW/Policies.php, line: 763
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 733
 # File: src/App/Action/EETGlobal/MultiPolicies.php, line: 498
@@ -6944,10 +6944,10 @@ msgstr ""
 # File: src/App/Action/Amadeus/Policies.php, line: 617
 # File: src/App/Action/Amadeus/Policies.php, line: 770
 # File: src/App/Action/Amadeus/Policies.php, line: 771
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 831
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 832
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 833
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 834
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 870
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 871
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 872
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 873
 # File: src/App/Action/DOTW/Policies.php, line: 841
 # File: src/App/Action/DOTW/Policies.php, line: 842
 # File: src/App/Action/DOTW/Policies.php, line: 843
@@ -7325,10 +7325,28 @@ msgstr ""
 msgid "Cancel from today to"
 msgstr ""
 #
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 471
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 472
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 695
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 486
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 487
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 684
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 685
+# File: src/App/Action/DOTW/Policies.php, line: 680
+# File: src/App/Action/DOTW/Policies.php, line: 681
+msgid "Failure to check in or cancel in advance will result in a no-show fee of"
+msgstr ""
+#
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 486
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 487
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 684
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 685
+# File: src/App/Action/DOTW/Policies.php, line: 680
+# File: src/App/Action/DOTW/Policies.php, line: 681
+msgid "No-show means failing to check in without canceling in advance."
+msgstr ""
+#
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 498
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 499
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 696
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 697
 # File: src/App/Action/DOTW/Policies.php, line: 692
 # File: src/App/Action/DOTW/Policies.php, line: 693
 # File: src/App/Action/DOTW/SearchHotels.php, line: 868
@@ -7340,10 +7358,10 @@ msgstr ""
 msgid "Cancel until"
 msgstr ""
 #
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 482
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 483
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 706
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 509
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 510
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 707
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 708
 # File: src/App/Action/DOTW/Policies.php, line: 703
 # File: src/App/Action/DOTW/Policies.php, line: 704
 # File: src/App/Action/DOTW/SearchHotels.php, line: 879
@@ -7419,10 +7437,10 @@ msgstr ""
 msgid "free of charge"
 msgstr ""
 #
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 485
-# File: src/App/Action/DOTW/HotelParallelParse.php, line: 486
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 709
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 512
+# File: src/App/Action/DOTW/HotelParallelParse.php, line: 513
 # File: src/App/Action/DOTW/MultiPolicies.php, line: 710
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 711
 # File: src/App/Action/DOTW/Policies.php, line: 706
 # File: src/App/Action/DOTW/Policies.php, line: 707
 # File: src/App/Action/DOTW/SearchHotels.php, line: 882
@@ -7432,20 +7450,6 @@ msgstr ""
 # File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 484
 # File: src/App/Action/DOTW/HotelParallelParse.old.php, line: 485
 msgid "will be charged a cancellation penalty of"
-msgstr ""
-#
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 683
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 684
-# File: src/App/Action/DOTW/Policies.php, line: 680
-# File: src/App/Action/DOTW/Policies.php, line: 681
-msgid "Failure to check in or cancel in advance will result in a no-show fee of"
-msgstr ""
-#
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 683
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 684
-# File: src/App/Action/DOTW/Policies.php, line: 680
-# File: src/App/Action/DOTW/Policies.php, line: 681
-msgid "No-show means failing to check in without canceling in advance."
 msgstr ""
 #
 # File: src/App/Action/Direct/ActivitiesDetails.php, line: 127
