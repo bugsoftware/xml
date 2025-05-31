@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-31 08:44-0400\n"
+"POT-Creation-Date: 2025-05-31 11:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -869,6 +869,14 @@ msgstr ""
 msgid "Reservation Reference:"
 msgstr ""
 #
+# File: console/src/Xml/Command/Costamar/w9form.php, line: 93
+msgid "W9 FORM for"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/w9form.php, line: 94
+msgid "Action Required: Complete & Sign Your W-9 Form Today - Important Tax Document: Your W-9 Needs to Be Signed"
+msgstr ""
+#
 # File: console/src/Xml/Command/Costamar/sendwelcomeemail.php, line: 67
 msgid "Welcome!"
 msgstr ""
@@ -962,6 +970,15 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 468
 # File: console/src/Xml/Command/Costamar/newsletterreport.php, line: 500
 msgid "Newsletter Report for"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/termsandconditionsagents.php, line: 207
+msgid "Please accept and sign agent terms & conditions so we can conclude the setup of your agent account in Costamar Travel."
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/termsandconditionsagents.php, line: 211
+# File: console/src/Xml/Command/Costamar/termsandconditionsagents.php, line: 212
+msgid "Agent Terms & Condition for Agent"
 msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1077
