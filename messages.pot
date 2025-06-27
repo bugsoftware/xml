@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-27 13:43-0400\n"
+"POT-Creation-Date: 2025-06-27 17:34-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -890,10 +890,10 @@ msgid "Access My Dashboard"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 919
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1352
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1354
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1356
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1396
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1398
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1400
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 258
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
@@ -947,8 +947,8 @@ msgid "Completing these steps ensures a smooth and secure experience. If you hav
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 919
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1360
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1404
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1358
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1402
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 536
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 803
@@ -959,50 +959,50 @@ msgstr ""
 msgid "Complete Your Subscription Setup!"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1355
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1399
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1353
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1397
 msgid "We've Renewed Your Subscription"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1355
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1399
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1353
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1397
 msgid "and charged your card"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1355
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1399
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1353
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1397
 msgid "for your subscription renewal."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1356
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1400
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1354
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1398
 msgid "Renewal Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1356
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1400
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1354
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1398
 msgid "Your subscription has been successfully renewed."
+msgstr ""
+#
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1354
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1398
+msgid "If you have any questions or need assistance, our customer support team is always ready to help. Your subscription panel is as follows:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1356
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1400
-msgid "If you have any questions or need assistance, our customer support team is always ready to help. Your subscription panel is as follows:"
+msgid "Approval Code:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1358
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1402
-msgid "Approval Code:"
-msgstr ""
-#
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1360
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1404
 msgid "Thank you for renewing your Click & Book subscription!"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1361
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1377
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1405
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1424
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1359
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1375
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1403
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1422
 msgid "Your Subscription Has Been Successfully Renewed!"
 msgstr ""
 #
@@ -1481,16 +1481,16 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2294
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2610
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2824
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6166
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6265
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3451
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3665
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8449
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8548
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8869
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8968
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2612
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2826
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6168
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6267
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3453
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3667
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8451
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8550
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8871
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8970
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1504,16 +1504,16 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2636
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2611
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2825
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6167
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6266
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3452
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3666
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8450
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8549
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8870
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8969
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2613
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2827
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6169
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6268
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3454
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3668
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8452
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8551
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8872
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8971
 msgid "View Reservation"
 msgstr ""
 #
@@ -1526,18 +1526,18 @@ msgstr ""
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2745
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2747
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6006
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8282
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8702
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6008
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8284
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8704
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3586
+# File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3588
 msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
