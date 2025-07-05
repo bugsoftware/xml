@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-05 02:46-0400\n"
+"POT-Creation-Date: 2025-07-05 09:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2299,6 +2299,10 @@ msgstr ""
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 200
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 222
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 223
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 289
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 290
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 313
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 314
 msgid "Cancel on or after"
 msgstr ""
 #
@@ -4993,6 +4997,8 @@ msgstr ""
 # File: src/App/Action/HyperGuest/HotelParallelParse.php, line: 93
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 192
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 215
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 282
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 306
 msgid "nights"
 msgstr ""
 #
@@ -6626,6 +6632,10 @@ msgstr ""
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 200
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 222
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 223
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 289
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 290
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 313
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 314
 msgid "will incur in"
 msgstr ""
 #
@@ -6734,6 +6744,10 @@ msgstr ""
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 200
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 222
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 223
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 289
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 290
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 313
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 314
 msgid "penalty."
 msgstr ""
 #
@@ -6975,6 +6989,12 @@ msgstr ""
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 362
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 377
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 378
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 507
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 508
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 527
+# File: src/App/Action/HyperGuest/SearchHotels.php, line: 528
+# File: src/App/Action/HyperGuest/Policies.php, line: 185
+# File: src/App/Action/HyperGuest/Policies.php, line: 186
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
