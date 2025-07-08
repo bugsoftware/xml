@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-07 12:44-0400\n"
+"POT-Creation-Date: 2025-07-08 01:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -199,9 +199,9 @@ msgstr ""
 # File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 369
 # File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 370
 # File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 373
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2261
 # File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2262
-# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2263
-# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2266
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2265
 # File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 314
 # File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 315
 # File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 318
@@ -390,7 +390,7 @@ msgstr ""
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 634
 # File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 296
 # File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 373
-# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2266
+# File: console/src/Xml/Command/Omnibees/CreateHotel.php, line: 2265
 # File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 243
 # File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 318
 # File: console/src/Xml/Command/Palladium/CreateHotel.php, line: 395
@@ -2595,16 +2595,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 833
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 839
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2653
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2655
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2671
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2673
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2654
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2656
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2672
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2674
 msgid "Your Reservation with"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 833
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2653
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2671
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2654
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2672
 msgid "is Confirmed"
 msgstr ""
 #
@@ -2613,8 +2613,8 @@ msgid "Your Reservation is Being Processed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 839
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2655
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2673
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2656
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2674
 msgid "is Being Processed"
 msgstr ""
 #
@@ -2646,7 +2646,7 @@ msgstr ""
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2397
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2398
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
@@ -6894,10 +6894,10 @@ msgstr ""
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 621
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 622
 # File: src/App/Action/Expedia/SearchHotelsMulti.php, line: 586
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 434
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 435
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 450
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 451
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 437
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 438
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 453
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 454
 # File: src/App/Action/HotelDO/Policies.php, line: 925
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 184
 # File: src/App/Action/HotelPlanner/HotelParallelParse.php, line: 185
