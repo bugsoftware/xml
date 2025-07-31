@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-30 09:55-0400\n"
+"POT-Creation-Date: 2025-07-31 02:24-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2243,6 +2243,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 125
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 150
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 151
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 152
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 153
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 514
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 515
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 883
@@ -4172,6 +4174,7 @@ msgstr ""
 # File: src/App/Action/HotelDO/HotelParallelParse.php, line: 751
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 184
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 276
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 214
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 617
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 242
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 463
@@ -6399,6 +6402,9 @@ msgstr ""
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 174
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 175
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 276
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 176
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 177
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 214
 # File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 306
 # File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 307
 # File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 308
@@ -6634,6 +6640,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 142
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 167
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 168
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 169
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 170
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 148
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 149
 # File: src/App/Action/IBS/SearchHotels.php, line: 450
@@ -6724,6 +6732,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 142
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 167
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 168
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 169
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 170
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 157
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 158
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 160
@@ -7472,6 +7482,8 @@ msgstr ""
 # File: src/App/Action/Coming2/SearchHotels.php, line: 297
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 103
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 105
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 131
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 133
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 427
 # File: src/App/Action/Hotelbeds/Hotel.php, line: 429
 # File: src/App/Action/Hotelbeds/HotelParallelParse.php, line: 262
@@ -8038,6 +8050,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 128
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 153
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 154
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 155
+# File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 156
 msgid "and before"
 msgstr ""
 #
