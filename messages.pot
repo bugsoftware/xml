@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-06 01:58-0400\n"
+"POT-Creation-Date: 2025-08-06 07:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -355,7 +355,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7694
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7780
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -1198,16 +1198,16 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2875
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6471
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 2877
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6557
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7682
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7768
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7694
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7780
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
