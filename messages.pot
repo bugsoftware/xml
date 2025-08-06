@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-05 12:05-0400\n"
+"POT-Creation-Date: 2025-08-06 01:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -873,29 +873,35 @@ msgstr ""
 msgid "Reservation Reference:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 923
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 924
 msgid "Your Costamar Subscription Is Almost Ready"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 926
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 927
 msgid "Your Click & Book Subscription Is Almost Ready"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 929
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 930
 msgid "Hi"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 930
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
 msgid "Access My Dashboard"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1385
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1429
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1496
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1386
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1388
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1430
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1432
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1497
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1499
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 578
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 580
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 622
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 624
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 689
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 691
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 258
 # File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
@@ -920,124 +926,155 @@ msgstr ""
 msgid "Dear"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "We're excited to have you on board! To finalize your subscription setup, please click the link below to access your dashboard:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "Once there, you'll need to:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "Validate your phone number."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "Verify your identity by uploading one of the following: your driver's license, Real ID, or passport."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "Confirm your bank details by uploading a voided check or a bank statement. This ensures you receive your commissions promptly and accurately."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "Set your password to securely access your account. Please choose a strong password that meets the required security criteria."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
 msgid "Completing these steps ensures a smooth and secure experience. If you have any questions, feel free to reach out-we're here to help!"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 931
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1391
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1435
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1392
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1436
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 584
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 628
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 536
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 803
 msgid "Thanks"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 932
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 933
 msgid "Complete Your Subscription Setup!"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1386
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1430
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 579
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 623
 msgid "We've Renewed Your Subscription"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1386
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1430
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 579
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 623
 msgid "and charged your card"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1386
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1430
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 579
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 623
 msgid "for your subscription renewal."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1388
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1432
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 580
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 624
 msgid "Renewal Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1388
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1432
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 580
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 624
 msgid "Your subscription has been successfully renewed."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1387
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1431
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1388
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1432
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 580
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 624
 msgid "If you have any questions or need assistance, our customer support team is always ready to help. Your subscription panel is as follows:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1389
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1433
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1390
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1434
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 582
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 626
 msgid "Approval Code:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1391
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1435
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1392
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1436
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 584
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 628
 msgid "Thank you for renewing your Click & Book subscription!"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1392
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1408
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1436
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1455
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1393
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1409
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1437
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1456
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 585
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 601
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 629
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 648
 msgid "Your Subscription Has Been Successfully Renewed!"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1497
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 690
 msgid "We attempted to renew your subscription"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1497
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 690
 msgid "but your card was declined"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1497
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 690
 msgid "Please update your payment information to continue enjoying our services."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1499
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 691
 msgid "Subscription Renewal Failed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1499
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 691
 msgid "Unfortunately, we were unable to renew your subscription due to a declined card."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1499
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 691
 msgid "Please review your payment details and try again. We're here to assist you if you need any help."
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1498
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1499
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 691
 msgid "Thanks for your attention"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1499
-# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1515
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1500
+# File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1516
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 692
+# File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 708
 msgid "Subscription Renewal Failed - Action Needed!"
 msgstr ""
 #
@@ -1623,7 +1660,7 @@ msgstr ""
 msgid "Cancelled"
 msgstr ""
 #
-# File: console/src/Xml/Command/Newsletter/sendcustomer.php, line: 447
+# File: console/src/Xml/Command/Newsletter/sendcustomer.php, line: 454
 msgid "Update Profile"
 msgstr ""
 #
