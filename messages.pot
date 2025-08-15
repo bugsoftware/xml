@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-14 10:39-0400\n"
+"POT-Creation-Date: 2025-08-15 02:25-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -358,7 +358,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8219
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8222
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -468,7 +468,7 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 1716
 # File: console/src/Xml/Command/Expedia/CreateHotelCommissionable.php, line: 149
 # File: console/src/Xml/Command/FraudCheck.php, line: 770
-# File: console/src/Xml/Command/Generali/Create.php, line: 413
+# File: console/src/Xml/Command/Generali/Create.php, line: 444
 # File: console/src/Xml/Command/Reservations.php, line: 2443
 # File: console/src/Xml/Command/Reservations.php, line: 2594
 # File: console/src/Xml/Command/Reservations.php, line: 2857
@@ -1202,16 +1202,16 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3316
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6996
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3319
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 6999
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8207
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8210
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8219
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8222
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -1546,7 +1546,7 @@ msgstr ""
 msgid "you will be charged"
 msgstr ""
 #
-# File: console/src/Xml/Command/Generali/Create.php, line: 415
+# File: console/src/Xml/Command/Generali/Create.php, line: 446
 msgid "Customers Credit Card Number is Available"
 msgstr ""
 #
