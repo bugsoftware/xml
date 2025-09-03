@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-03 06:29-0400\n"
+"POT-Creation-Date: 2025-09-03 16:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -476,7 +476,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 9541
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 702
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4281
-# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 296
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 337
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 281
 msgid "Process Credit Card"
 msgstr ""
@@ -490,7 +490,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 9543
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 704
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4283
-# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 298
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 339
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 283
 msgid "Credit Card Number not Available"
 msgstr ""
@@ -5300,7 +5300,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 49
 # File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 36
-# File: src/App/Action/AirIssueTicketAction.php, line: 1049
+# File: src/App/Action/AirIssueTicketAction.php, line: 1048
 msgid "Warm regards,"
 msgstr ""
 #
@@ -5319,7 +5319,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_lowcustomers.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_newsletters.phtml, line: 50
 # File: console/src/Xml/Command/Templates/notification_newsletters_detail.phtml, line: 37
-# File: src/App/Action/AirIssueTicketAction.php, line: 1050
+# File: src/App/Action/AirIssueTicketAction.php, line: 1049
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -8884,15 +8884,15 @@ msgstr ""
 msgid "discount gift card that can be used on selected packages"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1039
+# File: src/App/Action/AirIssueTicketAction.php, line: 1038
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1045
+# File: src/App/Action/AirIssueTicketAction.php, line: 1044
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1047
+# File: src/App/Action/AirIssueTicketAction.php, line: 1046
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
 msgstr ""
 #
