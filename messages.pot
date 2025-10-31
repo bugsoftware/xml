@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-31 09:17-0400\n"
+"POT-Creation-Date: 2025-10-31 11:03-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2294,6 +2294,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 151
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 152
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 153
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 153
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 154
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 508
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 509
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 877
@@ -4258,6 +4260,7 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelParse.php, line: 184
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 276
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 214
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 279
 # File: src/App/Action/NexusTours/PoliciesActivities.php, line: 617
 # File: src/App/Action/Nuitee/HotelParallelParse.php, line: 242
 # File: src/App/Action/Nuitee/SearchHotels.php, line: 463
@@ -6615,6 +6618,9 @@ msgstr ""
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 176
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 177
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 214
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 177
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 178
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 279
 # File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 306
 # File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 307
 # File: src/App/Action/OlympiaEurope/HotelParallelParse.php, line: 308
@@ -6852,6 +6858,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 168
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 169
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 170
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 170
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 171
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 148
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 149
 # File: src/App/Action/IBS/SearchHotels.php, line: 450
@@ -6944,6 +6952,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 168
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 169
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 170
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 170
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 171
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 157
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 158
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 160
@@ -8265,6 +8275,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/SearchHotels.php, line: 154
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 155
 # File: src/App/Action/HotelTrader/HotelParallelMultiRoomsParse.php, line: 156
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 156
+# File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 157
 msgid "and before"
 msgstr ""
 #
