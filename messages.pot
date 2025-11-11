@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-11 09:19-0500\n"
+"POT-Creation-Date: 2025-11-11 09:47-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2666,14 +2666,14 @@ msgid "Quote"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemail.php, line: 313
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 319
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 334
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 503
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 509
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 316
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 322
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 331
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 337
 msgid "Cancellation is being processed"
 msgstr ""
 #
