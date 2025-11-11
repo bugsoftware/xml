@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-11 08:19-0500\n"
+"POT-Creation-Date: 2025-11-11 09:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2667,8 +2667,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemail.php, line: 313
 # File: console/src/Xml/Command/Shared/Sendemail.php, line: 319
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 486
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 492
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 503
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 509
 msgid "Reservation is being processed"
 msgstr ""
 #
@@ -2677,139 +2677,139 @@ msgstr ""
 msgid "Cancellation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 928
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 945
 msgid "Your Reservation is Confirmed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 930
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 936
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4568
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4570
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4586
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4588
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 947
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 953
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4613
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4615
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4638
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4640
 msgid "Your Reservation with"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 930
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4568
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4586
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 947
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4613
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4638
 msgid "is Confirmed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 934
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 951
 msgid "Your Reservation is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 936
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4570
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4588
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 953
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4615
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4640
 msgid "is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2951
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2825
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2968
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2840
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2660
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2954
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2828
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2971
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2843
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2663
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2957
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2831
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2974
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2846
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2666
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2960
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2834
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2977
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2849
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2669
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2963
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2837
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2980
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2852
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2672
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2966
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2840
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2983
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2855
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2675
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2969
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2843
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2986
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2858
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2678
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2972
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2846
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2989
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2861
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2681
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2975
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2849
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2992
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2864
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2684
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2980
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2854
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2997
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2869
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2689
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 2983
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2857
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3000
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2872
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2692
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3720
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3737
 msgid "Air"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3727
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3744
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1049
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1064
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1102
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3734
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3751
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1276
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1290
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1328
 msgid "Package"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3741
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3758
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2021
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2059
 msgid "Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3745
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3762
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4288
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4312
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
 # File: console/src/Xml/Command/Sendmessage.php, line: 408
-# File: console/src/Xml/Command/Sendvoucher.php, line: 3040
+# File: console/src/Xml/Command/Sendvoucher.php, line: 3055
 msgid "Travel Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 3038
+# File: console/src/Xml/Command/Sendvoucher.php, line: 3053
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 msgid "Invoice"
