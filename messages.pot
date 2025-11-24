@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-21 08:46-0500\n"
+"POT-Creation-Date: 2025-11-24 05:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2835,13 +2835,13 @@ msgstr ""
 msgid "Exception Error - Initial search time - 30 minutes have passed, session expired, we can't make booking."
 msgstr ""
 #
-# File: console/src/Xml/Command/SupplierPayments.php, line: 4771
+# File: console/src/Xml/Command/SupplierPayments.php, line: 4825
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 19
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 168
 msgid "Supplier Payments"
 msgstr ""
 #
-# File: console/src/Xml/Command/SupplierPayments.php, line: 4942
+# File: console/src/Xml/Command/SupplierPayments.php, line: 4996
 # File: console/src/Xml/Command/Templates/checkin.phtml, line: 167
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 162
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 162
