@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-13 16:51-0500\n"
+"POT-Creation-Date: 2025-12-13 17:49-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,12 +119,12 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1532
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1535
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1549
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 447
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 448
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 451
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 526
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 527
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 530
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 511
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 512
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 515
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 590
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 591
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 594
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 447
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 448
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 451
@@ -367,8 +367,8 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 880
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1157
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 1535
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 451
-# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 530
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 515
+# File: console/src/Xml/Command/DidaTravel/CreateHotel.php, line: 594
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 451
 # File: console/src/Xml/Command/DidaTravel/CreateHotelCUG.php, line: 530
 # File: console/src/Xml/Command/EETGlobal/CreateHotel.php, line: 273
@@ -566,12 +566,12 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 503
 # File: src/App/Action/DOTW/Hotel.php, line: 668
 # File: src/App/Action/DOTW/SearchHotelsMulti.php, line: 770
-# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 58
-# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 61
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 89
 # File: src/App/Action/DidaTravel/HotelParallelParseCUG.php, line: 59
 # File: src/App/Action/DidaTravel/HotelParallelParseCUG.php, line: 87
-# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 378
-# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 407
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 383
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 412
 # File: src/App/Action/DidaTravel/MultiPoliciesCUG.php, line: 378
 # File: src/App/Action/DidaTravel/MultiPoliciesCUG.php, line: 407
 # File: src/App/Action/DidaTravel/Policies.php, line: 378
@@ -6466,12 +6466,12 @@ msgstr ""
 # File: src/App/Action/Convencional/SearchHotels.php, line: 485
 # File: src/App/Action/Convencional/SearchHotels.php, line: 486
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 503
-# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 58
-# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 86
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 61
+# File: src/App/Action/DidaTravel/HotelParallelParse.php, line: 89
 # File: src/App/Action/DidaTravel/HotelParallelParseCUG.php, line: 59
 # File: src/App/Action/DidaTravel/HotelParallelParseCUG.php, line: 87
-# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 378
-# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 407
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 383
+# File: src/App/Action/DidaTravel/MultiPolicies.php, line: 412
 # File: src/App/Action/DidaTravel/MultiPoliciesCUG.php, line: 378
 # File: src/App/Action/DidaTravel/MultiPoliciesCUG.php, line: 407
 # File: src/App/Action/DidaTravel/Policies.php, line: 378
@@ -7419,8 +7419,8 @@ msgstr ""
 # File: src/App/Action/Tripcom/MultiPolicies.php, line: 297
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 214
 # File: src/App/Action/Tripcom/HotelParallelParse.php, line: 215
-# File: src/App/Action/GRNconnect/HotelParallelParse.php, line: 123
-# File: src/App/Action/GRNconnect/HotelParallelParse.php, line: 124
+# File: src/App/Action/GRNconnect/HotelParallelParse.php, line: 126
+# File: src/App/Action/GRNconnect/HotelParallelParse.php, line: 127
 # File: src/App/Action/GRNconnect/MultiPolicies.php, line: 418
 # File: src/App/Action/GRNconnect/MultiPolicies.php, line: 419
 # File: src/App/Action/GRNconnect/SearchHotels.php, line: 319
