@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-13 19:52-0500\n"
+"POT-Creation-Date: 2025-12-13 20:09-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -183,10 +183,10 @@ msgstr ""
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 289
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 290
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 293
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 474
 # File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 509
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 510
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 513
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 544
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 545
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 548
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 285
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 286
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 289
@@ -388,7 +388,7 @@ msgstr ""
 # File: console/src/Xml/Command/KaluahTours/CreateHotel.php, line: 287
 # File: console/src/Xml/Command/KaluahTours/CreateHotel.php, line: 594
 # File: console/src/Xml/Command/Lotsofhotels/CreateHotel.php, line: 293
-# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 513
+# File: console/src/Xml/Command/MikiTravel/CreateHotel.php, line: 548
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 289
 # File: console/src/Xml/Command/NexusTours/CreateHotel.php, line: 634
 # File: console/src/Xml/Command/Ocean/CreateHotel.php, line: 296
@@ -8349,7 +8349,7 @@ msgstr ""
 # File: src/App/Action/HotelsPro/SearchHotels.php, line: 386
 # File: src/App/Action/HotelsPro/SearchHotelsMulti.php, line: 340
 # File: src/App/Action/MikiTravel/Hotel.php, line: 480
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 263
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 266
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 539
 msgid "Special Offer"
 msgstr ""
@@ -8611,7 +8611,7 @@ msgstr ""
 msgid "of your stay if cancelled on or after"
 msgstr ""
 #
-# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 215
+# File: src/App/Action/MikiTravel/HotelParallelParse.php, line: 218
 # File: src/App/Action/MikiTravel/SearchHotels.php, line: 493
 msgid "On Request"
 msgstr ""
