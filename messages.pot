@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-26 06:23-0500\n"
+"POT-Creation-Date: 2025-12-26 08:34-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -468,7 +468,7 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateTicket.php, line: 1716
 # File: console/src/Xml/Command/Expedia/CreateHotelCommissionable.php, line: 149
 # File: console/src/Xml/Command/FraudCheck.php, line: 770
-# File: console/src/Xml/Command/Generali/Create.php, line: 444
+# File: console/src/Xml/Command/Generali/Create.php, line: 445
 # File: console/src/Xml/Command/Reservations.php, line: 2578
 # File: console/src/Xml/Command/Reservations.php, line: 2729
 # File: console/src/Xml/Command/Reservations.php, line: 2992
@@ -476,7 +476,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 9863
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 702
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4281
-# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 337
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 338
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 281
 msgid "Process Credit Card"
 msgstr ""
@@ -490,7 +490,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.php, line: 9865
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 704
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4283
-# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 339
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 340
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 283
 msgid "Credit Card Number not Available"
 msgstr ""
@@ -1546,7 +1546,7 @@ msgstr ""
 msgid "you will be charged"
 msgstr ""
 #
-# File: console/src/Xml/Command/Generali/Create.php, line: 446
+# File: console/src/Xml/Command/Generali/Create.php, line: 447
 msgid "Customers Credit Card Number is Available"
 msgstr ""
 #
