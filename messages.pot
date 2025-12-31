@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-31 08:11-0500\n"
+"POT-Creation-Date: 2025-12-31 12:02-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -358,7 +358,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8262
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8261
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -1202,16 +1202,16 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3359
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7039
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3358
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7038
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8250
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8249
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8262
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8261
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -1557,16 +1557,16 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2294
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2612
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2826
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2663
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2877
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6168
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6267
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3453
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3667
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8471
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8570
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9050
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9149
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9611
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9710
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1580,16 +1580,16 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2636
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2613
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2827
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2664
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2878
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6169
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6268
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3454
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3668
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8472
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8571
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9051
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9150
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9612
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9711
 msgid "View Reservation"
 msgstr ""
 #
@@ -1602,13 +1602,13 @@ msgstr ""
 msgid "Invalid invoice creation - URGENT - No valid account id"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2747
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2798
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6008
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8304
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 8883
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9444
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
@@ -5994,7 +5994,7 @@ msgstr ""
 msgid "Phone call sales lead"
 msgstr ""
 #
-# File: console/src/Xml/Command/ChargeServiceFee.php, line: 967
+# File: console/src/Xml/Command/ChargeServiceFee.php, line: 1022
 msgid "Notification of Service Fee Charge for Recent Reservation"
 msgstr ""
 #
