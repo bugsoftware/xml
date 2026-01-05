@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-05 11:42-0500\n"
+"POT-Creation-Date: 2026-01-05 16:44-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1565,8 +1565,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3667
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8471
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8570
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9611
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9710
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9642
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9741
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1588,8 +1588,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3668
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8472
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8571
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9612
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9711
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9643
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9742
 msgid "View Reservation"
 msgstr ""
 #
@@ -1608,7 +1608,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 6008
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 8304
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9444
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 9475
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
@@ -2683,16 +2683,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 949
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 955
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4619
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4621
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4644
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4646
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4626
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4628
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4651
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4653
 msgid "Your Reservation with"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 949
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4619
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4644
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4626
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4651
 msgid "is Confirmed"
 msgstr ""
 #
@@ -2701,8 +2701,8 @@ msgid "Your Reservation is Being Processed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 955
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4621
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4646
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4628
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4653
 msgid "is Being Processed"
 msgstr ""
 #
@@ -2800,7 +2800,7 @@ msgstr ""
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4318
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4325
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
