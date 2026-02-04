@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-04 10:55-0500\n"
+"POT-Creation-Date: 2026-02-04 12:44-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1171,10 +1171,6 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 102
 # File: console/src/Xml/Command/Costamar/sendnoticetoagentsdisabled.php, line: 114
 msgid "new customers to your account. We are confident that your exceptional service will provide them with an outstanding travel experience."
-msgstr ""
-#
-# File: console/src/Xml/Command/Costamar/sendwelcomeemail.php, line: 67
-msgid "Welcome!"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/termsandconditionsagents.php, line: 207
@@ -2841,7 +2837,7 @@ msgstr ""
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendmessage.php, line: 408
+# File: console/src/Xml/Command/Sendmessage.php, line: 415
 # File: console/src/Xml/Command/Sendvoucher.php, line: 3055
 msgid "Travel Confirmation"
 msgstr ""
