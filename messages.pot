@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-16 02:23-0500\n"
+"POT-Creation-Date: 2026-02-16 07:53-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7017,6 +7017,8 @@ msgstr ""
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 119
 # File: src/App/Action/Roomer/SearchHotels.php, line: 307
 # File: src/App/Action/Roomer/SearchHotels.php, line: 316
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 74
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 75
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 94
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 96
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 423
@@ -7058,6 +7060,8 @@ msgstr ""
 # File: src/App/Action/Priceline/Policies.php, line: 475
 # File: src/App/Action/Priceline/SearchHotels.php, line: 379
 # File: src/App/Action/Priceline/SearchHotels.php, line: 427
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 74
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 75
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 94
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 96
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 423
@@ -7620,7 +7624,8 @@ msgstr ""
 # File: src/App/Action/RateHawk/HotelParallelParse.php, line: 176
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 439
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 440
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 53
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 100
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 101
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 436
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 297
@@ -8097,8 +8102,6 @@ msgstr ""
 # File: src/App/Action/Omnibees/HotelParallelParse.php, line: 1411
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 389
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 391
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 35
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 37
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 102
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 104
 # File: src/App/Action/Yalago/SearchHotels.php, line: 362
