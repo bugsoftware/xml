@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-26 09:35-0500\n"
+"POT-Creation-Date: 2026-02-26 11:38-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -846,6 +846,7 @@ msgid "Your Click & Book Subscription Is Almost Ready"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 930
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 9
 msgid "Hi"
 msgstr ""
 #
@@ -9285,38 +9286,75 @@ msgstr ""
 msgid "Child discount"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 75
+# File: console2/src/Command/ClickandBook/retarget.php, line: 101
 msgid "Complete your Click and Book registration to activate your account"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 76
+# File: console2/src/Command/ClickandBook/retarget.php, line: 102
 msgid "You’re almost set — choose your plan to get started"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 77
+# File: console2/src/Command/ClickandBook/retarget.php, line: 103
 msgid "Finish your setup and start receiving bookings"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 78
+# File: console2/src/Command/ClickandBook/retarget.php, line: 104
 msgid "Your Click and Book account is waiting for activation"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 79
+# File: console2/src/Command/ClickandBook/retarget.php, line: 105
 msgid "Just one step left to activate your freelancer profile"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 80
+# File: console2/src/Command/ClickandBook/retarget.php, line: 106
 msgid "Don’t miss out — complete your registration today"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 81
+# File: console2/src/Command/ClickandBook/retarget.php, line: 107
 msgid "Your account is pending — finalize your plan selection"
 msgstr ""
 #
-# File: console2/src/Command/ClickandBook/retarget.php, line: 82
+# File: console2/src/Command/ClickandBook/retarget.php, line: 108
 msgid "Ready to go live? Complete your registration now"
 msgstr ""
 #
 # File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 11
 msgid "We noticed you started your registration on Click and Book but haven’t completed your plan selection yet. Your account is still pending and not active."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 12
+msgid "Complete this step to activate your account and start earning right away. Choose your preferred plan, activate your account, and begin earning big."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 13
+msgid "Why complete your registration?"
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 15
+#, php-format
+msgid "Pay less for your own vacations with access to deeply discounted travel inventory — enjoy savings of up to 60% on hotels, resorts, and experiences."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 16
+msgid "Turn your network into earnings — receive commissions whenever your family or friends book through your Click and Book page."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 17
+msgid "Fill your schedule with more jobs and reduce empty hours in your workday."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 18
+msgid "Get repeat clients and build long‑term income through your Click and Book profile."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 20
+msgid "Start earning money right away!"
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 21
+msgid "Don’t miss out on opportunities. Activate your account now and take full advantage of a platform built to help freelancers succeed."
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 22
+msgid "Complete Registration"
 msgstr ""
