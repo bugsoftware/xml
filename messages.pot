@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-26 02:15-0500\n"
+"POT-Creation-Date: 2026-02-26 09:35-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6086,6 +6086,7 @@ msgstr ""
 #
 # File: console/vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
+# File: console2/vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
 msgid "test"
 msgstr ""
 #
@@ -9282,4 +9283,40 @@ msgstr ""
 #
 # File: translate-dummy.php, line: 24
 msgid "Child discount"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 75
+msgid "Complete your Click and Book registration to activate your account"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 76
+msgid "You’re almost set — choose your plan to get started"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 77
+msgid "Finish your setup and start receiving bookings"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 78
+msgid "Your Click and Book account is waiting for activation"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 79
+msgid "Just one step left to activate your freelancer profile"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 80
+msgid "Don’t miss out — complete your registration today"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 81
+msgid "Your account is pending — finalize your plan selection"
+msgstr ""
+#
+# File: console2/src/Command/ClickandBook/retarget.php, line: 82
+msgid "Ready to go live? Complete your registration now"
+msgstr ""
+#
+# File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 11
+msgid "We noticed you started your registration on Click and Book but haven’t completed your plan selection yet. Your account is still pending and not active."
 msgstr ""
