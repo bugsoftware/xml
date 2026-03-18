@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-18 03:13-0400\n"
+"POT-Creation-Date: 2026-03-18 09:32-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -887,6 +887,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 20
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
@@ -3807,6 +3808,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 33
 # File: console/src/Xml/Command/Templates/review.phtml, line: 32
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 32
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 33
 # File: src/App/Action/AirIssueTicketAction.php, line: 1053
 msgid "Click & Book Team"
 msgstr ""
@@ -4020,6 +4022,7 @@ msgid "Thank you for your attention to this matter."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_newsubagent.phtml, line: 40
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 32
 msgid "Best regards,"
 msgstr ""
 #
@@ -6032,6 +6035,34 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/welcometoloyaltyprogram.phtml, line: 43
 msgid "Unsubscribe"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 22
+msgid "Thank you for registering your property with us."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 24
+msgid "We are pleased to confirm that your property"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 26
+msgid "has been successfully submitted to our platform."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 28
+msgid "Our team is currently reviewing the information you provided to ensure everything is complete and accurate."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 29
+msgid "Once the verification process is finished, we will contact you with the next steps."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 30
+msgid "If we require any additional details, we will reach out to you directly."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 31
+msgid "Thank you for choosing Click & Book."
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
@@ -9190,6 +9221,10 @@ msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 169
 msgid "minutes"
+msgstr ""
+#
+# File: src/App/Action/HotelsRegisterAction.php, line: 193
+msgid "Thank You for Registering Your Property with Us"
 msgstr ""
 #
 # File: src/App/language/languages.php, line: 12
