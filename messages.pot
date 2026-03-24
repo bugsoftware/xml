@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-23 09:53-0400\n"
+"POT-Creation-Date: 2026-03-24 03:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2345,8 +2345,8 @@ msgstr ""
 # File: src/App/Action/HotelTrader/SearchHotelsV2.php, line: 254
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 508
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 509
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 877
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 878
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 879
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 880
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 205
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 206
 # File: src/App/Action/HyperGuest/HotelParallelMultiRoomsParse.php, line: 228
@@ -2426,16 +2426,16 @@ msgstr ""
 # File: src/App/Action/Travellanda/Policies.php, line: 373
 # File: src/App/Action/Travellanda/Policies.php, line: 375
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 107
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 108
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 133
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 134
 msgid "Cancel on or after"
 msgstr ""
 #
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 245
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 508
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 509
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 877
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 878
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 879
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 880
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 157
 # File: src/App/Action/IBS/HotelParallelParse.php, line: 158
 # File: src/App/Action/IBS/SearchHotels.php, line: 459
@@ -7253,8 +7253,8 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 418
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 107
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 108
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 133
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 134
 msgid "will incur in"
 msgstr ""
 #
@@ -7375,8 +7375,8 @@ msgstr ""
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 417
 # File: src/App/Action/Teamamerica/SearchHotels.php, line: 418
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 107
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 108
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 133
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 134
 msgid "penalty."
 msgstr ""
 #
@@ -7735,8 +7735,8 @@ msgstr ""
 # File: src/App/Action/Tripcom/Policies.php, line: 281
 # File: src/App/Action/Tripcom/SearchHotels.php, line: 361
 # File: src/App/Action/Tripcom/SearchHotels.php, line: 362
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 245
-# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 246
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 271
+# File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 272
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 116
 # File: src/App/Action/Yalago/HotelParallelParse.php, line: 117
 # File: src/App/Action/Yalago/MultiPolicies.php, line: 346
@@ -8421,7 +8421,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchTransfers.php, line: 473
 # File: src/App/Action/Direct/SearchTransfers.php, line: 823
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 569
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 933
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 935
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 797
 msgid "Private Transfer"
 msgstr ""
@@ -8429,7 +8429,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchTransfers.php, line: 475
 # File: src/App/Action/Direct/SearchTransfers.php, line: 825
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 571
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 935
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 937
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 799
 msgid "Bus Transfer"
 msgstr ""
@@ -8437,7 +8437,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchTransfers.php, line: 477
 # File: src/App/Action/Direct/SearchTransfers.php, line: 827
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 573
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 937
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 939
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 801
 msgid "Unknown Transfer"
 msgstr ""
@@ -8445,7 +8445,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchTransfers.php, line: 482
 # File: src/App/Action/Direct/SearchTransfers.php, line: 832
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 579
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 942
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 944
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 806
 msgid "Terminal to Terminal"
 msgstr ""
@@ -8453,7 +8453,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchTransfers.php, line: 484
 # File: src/App/Action/Direct/SearchTransfers.php, line: 834
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 581
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 944
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 946
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 808
 msgid "Transfer from pickup to destination"
 msgstr ""
@@ -8461,7 +8461,7 @@ msgstr ""
 # File: src/App/Action/Direct/SearchTransfers.php, line: 486
 # File: src/App/Action/Direct/SearchTransfers.php, line: 836
 # File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 583
-# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 946
+# File: src/App/Action/Hotelbeds/SearchTransfers.php, line: 948
 # File: src/App/Action/Hotelbeds/SearchTransfersXML.php, line: 810
 msgid "Return transfer from the destination to the pickup"
 msgstr ""
