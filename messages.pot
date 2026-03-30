@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-30 07:52-0400\n"
+"POT-Creation-Date: 2026-03-30 15:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2724,16 +2724,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 949
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 955
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4701
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4703
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4726
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4728
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4756
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4758
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4781
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4783
 msgid "Your Reservation with"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 949
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4701
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4726
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4756
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4781
 msgid "is Confirmed"
 msgstr ""
 #
@@ -2742,106 +2742,106 @@ msgid "Your Reservation is Being Processed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 955
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4703
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4728
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4758
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4783
 msgid "is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3002
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3057
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2840
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2660
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3005
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3060
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2843
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2663
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3008
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3063
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2846
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2666
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3011
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3066
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2849
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2669
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3014
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3069
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2852
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2672
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3017
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3072
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2855
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2675
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3020
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3075
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2858
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2678
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3023
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3078
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2861
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2681
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3026
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3081
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2864
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2684
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3031
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3086
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2869
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2689
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3034
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3089
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2872
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2692
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3771
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3826
 msgid "Air"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3778
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3833
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1209
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1224
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1262
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3785
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3840
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1454
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1468
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1506
 msgid "Package"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3792
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2219
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2257
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3847
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2237
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2275
 msgid "Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3796
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3851
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4400
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4455
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
@@ -3070,7 +3070,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 196
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 635
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2578
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2596
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 168
 msgid "Item"
 msgstr ""
@@ -3332,7 +3332,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 216
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 226
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 203
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2579
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2597
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 385
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 456
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 523
@@ -3434,7 +3434,7 @@ msgid "Transfers Reservations due to checkin in the next 14 days"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 181
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1826
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1844
 msgid "Transfer"
 msgstr ""
 #
@@ -3446,8 +3446,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/distributions.phtml, line: 139
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 156
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 313
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1889
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2287
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1907
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2305
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 461
 msgid "Destination"
 msgstr ""
@@ -3525,8 +3525,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 85
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1916
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2314
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 271
 msgid "Adult"
 msgstr ""
@@ -3540,8 +3540,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 434
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 476
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1916
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2314
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 271
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 474
 msgid "Adults"
@@ -3550,8 +3550,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 85
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 189
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1916
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2314
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 271
 msgid "Child"
 msgstr ""
@@ -3565,8 +3565,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 435
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 477
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1916
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2314
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 271
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 475
 msgid "Children"
@@ -4171,7 +4171,7 @@ msgid "details"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 526
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2769
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2787
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 169
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 272
 msgid "total"
@@ -4292,10 +4292,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 883
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 891
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 896
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1810
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1959
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1967
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1980
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1828
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1977
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1985
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1998
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 344
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 661
 msgid "Cancellation Policy"
@@ -4303,8 +4303,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 207
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 897
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1811
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1981
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1829
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1999
 msgid "All cancellations are subject to administrative fees in accordance with the terms and conditions."
 msgstr ""
 #
@@ -4350,8 +4350,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 376
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1717
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1915
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2313
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1933
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2331
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 549
 msgid "Passengers"
 msgstr ""
@@ -4439,8 +4439,8 @@ msgid "days"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 515
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2603
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2617
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2621
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2635
 msgid "Service Charge"
 msgstr ""
 #
@@ -4512,14 +4512,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1030
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1031
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1032
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2019
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2020
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2021
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2022
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2356
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2357
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2358
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2359
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2037
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2038
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2039
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2040
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2374
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2375
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2376
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2377
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 37
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 116
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 117
@@ -4539,14 +4539,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1030
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1031
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1032
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2019
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2020
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2021
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2022
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2356
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2357
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2358
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2359
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2037
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2038
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2039
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2040
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2374
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2375
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2376
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2377
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 37
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 116
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 117
@@ -4570,8 +4570,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1224
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1468
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1628
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1826
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2219
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1844
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2237
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 50
 msgid "Offer Confirmation - Guest Copy"
 msgstr ""
@@ -4585,8 +4585,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1236
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1480
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1635
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1833
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2231
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1851
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2249
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 53
 msgid "Reservation ID"
 msgstr ""
@@ -4594,7 +4594,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 117
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1249
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1493
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2244
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2262
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 58
 msgid "Package Type"
 msgstr ""
@@ -4609,8 +4609,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1264
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1508
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1663
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1861
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2259
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1879
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2277
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 65
 msgid "Issue Date"
 msgstr ""
@@ -4619,14 +4619,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1277
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1320
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1521
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1874
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2272
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1892
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2290
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 70
 msgid "Departure Date"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 147
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1876
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1894
 msgid "Departure Time"
 msgstr ""
 #
@@ -4643,8 +4643,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 850
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1552
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1705
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1903
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2301
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1921
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2319
 msgid "Pending"
 msgstr ""
 #
@@ -4657,8 +4657,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1334
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1563
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1716
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1914
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2312
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1932
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2330
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 95
 msgid "Agent ID:"
 msgstr ""
@@ -4668,8 +4668,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1334
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1563
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1716
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1914
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2312
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1932
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2330
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 95
 msgid "Agent Number:"
 msgstr ""
@@ -4688,8 +4688,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 243
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1007
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1997
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2334
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2015
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2352
 msgid "Passenger Information"
 msgstr ""
 #
@@ -4701,21 +4701,21 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1015
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1016
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1017
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2004
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2005
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2006
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2007
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2341
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2342
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2343
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2344
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2022
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2023
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2024
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2025
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2359
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2360
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2361
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2362
 msgid "Pax #"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 264
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1028
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2018
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2355
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2036
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2373
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 37
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 115
 msgid "Guest Name"
@@ -4723,27 +4723,27 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 278
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1042
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2032
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2369
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2050
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2387
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 122
 msgid "Date of birth"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 360
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1100
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2090
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2427
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2108
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2445
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 986
 msgid "Passport"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 375
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1115
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2105
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2442
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2543
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2547
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2551
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2123
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2460
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2561
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2565
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2569
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1020
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1035
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1050
@@ -4752,15 +4752,15 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 389
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1129
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2119
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2456
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2137
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2474
 msgid "Email"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 404
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1144
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2134
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2471
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2152
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2489
 msgid "Expiration Date"
 msgstr ""
 #
@@ -4884,25 +4884,25 @@ msgid "Confirmation Number"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 884
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1960
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1978
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 336
 msgid "You can cancel reservation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 884
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1960
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1978
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 336
 msgid "without any penalties"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 884
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1960
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1978
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 336
 msgid "BEFORE"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 886
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1962
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1980
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 338
 # File: src/App/Action/Agoda/HotelParallelParse.php, line: 295
 # File: src/App/Action/Agoda/SearchHotels.php, line: 559
@@ -4963,7 +4963,7 @@ msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modi
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 887
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1963
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1981
 msgid "Please note that this booking is non-refundable, meaning no money will be returned under any circumstances. It cannot be changed or amended, and no refund will be given for failure to arrive at the property."
 msgstr ""
 #
@@ -5278,7 +5278,7 @@ msgid "Confirmation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1704
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1902
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1920
 msgid "Voucher Number"
 msgstr ""
 #
@@ -5333,136 +5333,156 @@ msgid "What's not Included"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1797
+msgid "Additional details"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1801
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 822
 msgid "Tour Language"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1802
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1805
+msgid "Activity provider"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1809
+msgid "Start time"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1813
+msgid "Tour"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1817
+msgid "Tour Option Description"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1821
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 828
 msgid "Special Instructions"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1821
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1839
 msgid "Transfers Details"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1846
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1864
 msgid "Transfer Type"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1859
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1877
 msgid "Transfer From"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2203
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2221
 msgid "Insurance Details"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2274
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2292
 msgid "Return Date"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2300
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2318
 msgid "Policy Number"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2540
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2558
 msgid "Emergency Numbers"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2543
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2547
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2551
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2561
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2565
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2569
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1024
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1039
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1054
 msgid "WhatsApp"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2555
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2573
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1064
 msgid "Emergency Email"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2572
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2590
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 166
 msgid "Charges"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2590
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2608
 msgid "Sub Total"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2630
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2648
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 210
 msgid "Total Charge"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2663
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2681
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 222
 msgid "Promotions Applied"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2696
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2714
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 233
 msgid "The minimum deposit for this reservation is Non-Refundable. A change fee of 100 USD per guest will apply for ship or sail date changes."
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2734
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2752
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 253
 msgid "on board credit"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2750
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2768
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 109
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 260
 msgid "Guest #1"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2755
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2773
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 110
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 263
 msgid "Guest #2"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2760
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2778
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 111
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 266
 msgid "Guest #3"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2765
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2783
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 112
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 269
 msgid "Guest #4"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2847
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2865
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 307
 msgid "Travel arrangements"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2848
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2866
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 308
 msgid "Local Times"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2861
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2879
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 312
 msgid "Arrive"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2864
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2882
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 313
 msgid "Depart"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2874
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2892
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 315
 msgid "Cruise Itinerary:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2910
+# File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2928
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 323
 msgid "Cruise itinerary may change without notice as conditions warrant."
 msgstr ""
