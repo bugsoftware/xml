@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-15 02:18-0400\n"
+"POT-Creation-Date: 2026-04-15 05:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2113,6 +2113,7 @@ msgid "Your password has been successfully changed. Please log in with this temp
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 9038
+# File: console/src/Xml/Command/Shared/Sendtermsconditions.php, line: 479
 msgid "Action Needed: Please Sign Your Terms & Conditions"
 msgstr ""
 #
@@ -2949,7 +2950,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 37
+# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 36
 # File: src/App/Action/AirIssueTicketAction.php, line: 1052
 msgid "Warm regards,"
 msgstr ""
@@ -3783,7 +3784,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 30
 # File: console/src/Xml/Command/Templates/review.phtml, line: 29
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 29
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 35
+# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 34
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -3802,7 +3803,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 31
 # File: console/src/Xml/Command/Templates/review.phtml, line: 30
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 30
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 36
+# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 35
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -3824,7 +3825,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_newagent.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 29
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 41
+# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 40
 # File: src/App/Action/AirIssueTicketAction.php, line: 1053
 msgid "Click & Book Team"
 msgstr ""
