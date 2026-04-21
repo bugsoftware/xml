@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-20 08:00-0400\n"
+"POT-Creation-Date: 2026-04-21 02:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5649,6 +5649,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/travelers-choice.phtml, line: 1277
 # File: console/src/Xml/Command/Templates/welcometoloyaltyprogram.phtml, line: 43
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 38
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
@@ -6075,10 +6076,12 @@ msgid "This offer is valid across all products - hotels, flights, transfers, tou
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/welcometoloyaltyprogram.phtml, line: 33
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 29
 msgid "Activate"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/welcometoloyaltyprogram.phtml, line: 43
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 38
 msgid "Unsubscribe"
 msgstr ""
 #
@@ -6168,6 +6171,39 @@ msgstr ""
 msgid "A message from"
 msgstr ""
 #
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 19
+msgid "Hi there"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 21
+msgid "We noticed you started creating your Click & Book account but didn’t get the chance to finish the activation process. No worries — your information is safely saved, and you’re only one quick step away from accessing your dashboard.!"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 22
+msgid "Once you complete your registration, you’ll be able to:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 26
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 27
+msgid "Your account is almost ready — you just need to finalize the activation."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 28
+msgid "Click the link below to complete your registration and start using Click & Book:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 30
+msgid "If you have any questions or need help completing the process, our team is here to assist you."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 31
+msgid "Looking forward to having you onboard."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 32
+msgid "The Click & Book Team"
+msgstr ""
+#
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
 msgid "CANCELLATION CHARGES NOW:"
 msgstr ""
@@ -6219,6 +6255,62 @@ msgstr ""
 #
 # File: console/src/Xml/Command/cybersource.php, line: 1466
 msgid "Please review reservation."
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 58
+msgid "Complete Your Click & Book Registration — You're Almost There"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 59
+msgid "Finish Setting Up Your Click & Book Account"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 60
+msgid "Just One Step Left to Activate Your Click & Book Access"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 61
+msgid "Your Click & Book Account Is Waiting for You"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 62
+msgid "Resume Your Registration and Unlock Your Travel Dashboard"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 63
+msgid "Activate your Click & Book trial"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 64
+msgid "Your Click & Book account is almost ready"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 65
+msgid "Finish activating your Click & Book access"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 66
+msgid "You're one step away from using Click & Book"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 69
+msgid "Manage and organize all your travel bookings in one place"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 72
+msgid "Import GDS reservations and add offline bookings"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 75
+msgid "Send terms & conditions to customers instantly"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 78
+msgid "Register bookings for billing and generate payment links"
+msgstr ""
+#
+# File: console/src/Xml/Command/ClickAndBook/activationpending.php, line: 81
+msgid "Access powerful tools designed to simplify your daily workflow"
 msgstr ""
 #
 # File: src/App/Action/AIC/SearchHotels.php, line: 353
