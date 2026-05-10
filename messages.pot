@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-09 02:26-0400\n"
+"POT-Creation-Date: 2026-05-10 02:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -364,7 +364,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8319
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8349
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -821,7 +821,7 @@ msgstr ""
 msgid "*PENDING* Payment Reservation"
 msgstr ""
 #
-# File: console/src/Xml/Command/ChargeServiceFee.php, line: 1028
+# File: console/src/Xml/Command/ChargeServiceFee.php, line: 1039
 msgid "Notification of Service Fee Charge for Recent Reservation"
 msgstr ""
 #
@@ -1216,16 +1216,16 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3416
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7096
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3426
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7126
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8307
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8337
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8319
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8349
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
