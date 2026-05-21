@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-20 11:35-0400\n"
+"POT-Creation-Date: 2026-05-21 10:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6996,10 +6996,10 @@ msgid "day(s) after confirmation would incur"
 msgstr ""
 #
 # File: src/App/Action/ActionTravel/HotelParallelParse.php, line: 293
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 602
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 603
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 604
-# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 605
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 609
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 610
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 611
+# File: src/App/Action/ActionTravel/MultiPolicies.php, line: 612
 # File: src/App/Action/Coming2/HotelParallelParse.php, line: 208
 # File: src/App/Action/Coming2/MultiPolicies.php, line: 342
 # File: src/App/Action/Coming2/Policies.php, line: 393
@@ -7743,10 +7743,10 @@ msgstr ""
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 804
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 805
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 806
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 875
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 876
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 877
-# File: src/App/Action/DOTW/MultiPolicies.php, line: 878
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 882
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 883
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 884
+# File: src/App/Action/DOTW/MultiPolicies.php, line: 885
 # File: src/App/Action/DOTW/Policies.php, line: 884
 # File: src/App/Action/DOTW/Policies.php, line: 885
 # File: src/App/Action/DOTW/Policies.php, line: 886
@@ -7819,8 +7819,8 @@ msgstr ""
 # File: src/App/Action/HyperGuest/SearchHotels.php, line: 560
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 222
 # File: src/App/Action/IWTX/HotelParallelParse.php, line: 223
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 584
-# File: src/App/Action/IWTX/MultiPolicies.php, line: 585
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 591
+# File: src/App/Action/IWTX/MultiPolicies.php, line: 592
 # File: src/App/Action/IWTX/Policies.php, line: 472
 # File: src/App/Action/IWTX/Policies.php, line: 473
 # File: src/App/Action/IWTX/SearchHotels.php, line: 611
@@ -7829,8 +7829,8 @@ msgstr ""
 # File: src/App/Action/IWTX/SearchHotelsMulti.php, line: 495
 # File: src/App/Action/IWTX2/HotelParallelParse.php, line: 223
 # File: src/App/Action/IWTX2/HotelParallelParse.php, line: 224
-# File: src/App/Action/IWTX2/MultiPolicies.php, line: 585
-# File: src/App/Action/IWTX2/MultiPolicies.php, line: 586
+# File: src/App/Action/IWTX2/MultiPolicies.php, line: 592
+# File: src/App/Action/IWTX2/MultiPolicies.php, line: 593
 # File: src/App/Action/IWTX2/Policies.php, line: 473
 # File: src/App/Action/IWTX2/Policies.php, line: 474
 # File: src/App/Action/IWTX2/SearchHotels.php, line: 613
@@ -9138,7 +9138,7 @@ msgid "Cancel on or between"
 msgstr ""
 #
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 440
-# File: src/App/Action/Priceline/MultiPolicies.php, line: 625
+# File: src/App/Action/Priceline/MultiPolicies.php, line: 632
 # File: src/App/Action/Priceline/Policies.php, line: 613
 # File: src/App/Action/Priceline/SearchHotels.php, line: 600
 # File: src/App/Action/Priceline/SearchHotels.php, line: 601
@@ -9146,7 +9146,7 @@ msgid "This is a Non-Refundable booking. You are not allowed to change or cancel
 msgstr ""
 #
 # File: src/App/Action/Priceline/HotelParallelParse.php, line: 440
-# File: src/App/Action/Priceline/MultiPolicies.php, line: 625
+# File: src/App/Action/Priceline/MultiPolicies.php, line: 632
 # File: src/App/Action/Priceline/Policies.php, line: 613
 # File: src/App/Action/Priceline/SearchHotels.php, line: 600
 # File: src/App/Action/Priceline/SearchHotels.php, line: 601
@@ -9167,8 +9167,8 @@ msgstr ""
 msgid "Adult(s)"
 msgstr ""
 #
-# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 524
-# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 525
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 531
+# File: src/App/Action/PricelineNet/MultiPolicies.php, line: 532
 # File: src/App/Action/PricelineNet/Policies.php, line: 515
 # File: src/App/Action/PricelineNet/Policies.php, line: 516
 msgid "This booking is Non-Refundable and cannot be amended or modified. If you fail to arrive or cancel the booking, no refund will be given."
