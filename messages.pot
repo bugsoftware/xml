@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-22 11:41-0400\n"
+"POT-Creation-Date: 2026-05-25 06:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1597,6 +1597,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3667
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2663
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2877
+# File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2434
+# File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2648
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1620,6 +1622,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3668
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2664
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2878
+# File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2435
+# File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2649
 msgid "View Reservation"
 msgstr ""
 #
@@ -1644,6 +1648,7 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2798
+# File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2569
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
@@ -7757,10 +7762,10 @@ msgstr ""
 # File: src/App/Action/EbookingCenter/HotelParallelParse.php, line: 192
 # File: src/App/Action/EbookingCenter/SearchHotels.php, line: 461
 # File: src/App/Action/EbookingCenter/SearchHotels.php, line: 462
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 437
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 438
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 453
-# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 454
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 440
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 441
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 456
+# File: src/App/Action/Expedia/HotelParallelMultiRoomsParse.php, line: 457
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 410
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 411
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 426
