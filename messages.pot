@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-29 08:58-0400\n"
+"POT-Creation-Date: 2026-06-30 01:34-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1595,8 +1595,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3453
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3667
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2663
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2877
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2667
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2881
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2434
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2648
 msgid "Invoice has been created"
@@ -1620,8 +1620,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3454
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3668
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2664
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2878
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2668
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2882
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2435
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2649
 msgid "View Reservation"
@@ -1647,7 +1647,7 @@ msgstr ""
 msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2798
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2802
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2569
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
