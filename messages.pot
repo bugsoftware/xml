@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-31 08:12-0400\n"
+"POT-Creation-Date: 2026-07-31 17:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -364,7 +364,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8452
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8456
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -1221,15 +1221,15 @@ msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3529
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7229
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7233
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8440
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8444
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8452
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8456
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -2971,7 +2971,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 35
-# File: src/App/Action/AirIssueTicketAction.php, line: 1052
+# File: src/App/Action/AirIssueTicketAction.php, line: 1056
 msgid "Warm regards,"
 msgstr ""
 #
@@ -3851,7 +3851,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newagent.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 29
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 39
-# File: src/App/Action/AirIssueTicketAction.php, line: 1053
+# File: src/App/Action/AirIssueTicketAction.php, line: 1057
 msgid "Click & Book Team"
 msgstr ""
 #
@@ -8144,15 +8144,15 @@ msgstr ""
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1042
+# File: src/App/Action/AirIssueTicketAction.php, line: 1046
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1048
+# File: src/App/Action/AirIssueTicketAction.php, line: 1052
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1050
+# File: src/App/Action/AirIssueTicketAction.php, line: 1054
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
 msgstr ""
 #
