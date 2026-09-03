@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-03 11:47-0400\n"
+"POT-Creation-Date: 2026-09-03 15:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -337,6 +337,9 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 9675
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 9676
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 9679
+# File: console/src/Xml/Command/Mozio/CreateTransfer.php, line: 533
+# File: console/src/Xml/Command/Mozio/CreateTransfer.php, line: 534
+# File: console/src/Xml/Command/Mozio/CreateTransfer.php, line: 537
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 1409
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 1410
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 1413
@@ -449,6 +452,7 @@ msgstr ""
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 360
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 681
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 9679
+# File: console/src/Xml/Command/Mozio/CreateTransfer.php, line: 537
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 1413
 # File: console/src/Xml/Command/FlixBus/CreateTransfer.php, line: 306
 msgid "Reservation"
@@ -493,7 +497,7 @@ msgstr ""
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 702
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4281
 # File: console/src/Xml/Command/Sabre/CreateCar.php, line: 210
-# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 434
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 472
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 281
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 452
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 2884
@@ -514,7 +518,7 @@ msgstr ""
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 704
 # File: console/src/Xml/Command/Sabre/CreateAir.php, line: 4283
 # File: console/src/Xml/Command/Sabre/CreateCar.php, line: 212
-# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 436
+# File: console/src/Xml/Command/Sabre/CreateTicket.php, line: 474
 # File: console/src/Xml/Command/Travelport/CreateTicket.php, line: 283
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 2886
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3037
@@ -829,16 +833,16 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2101
+# File: console/src/Xml/Command/Cancellations.php, line: 2108
 msgid "Unable to detect deadline"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2205
-# File: console/src/Xml/Command/Cancellations.php, line: 2250
-# File: console/src/Xml/Command/Cancellations.php, line: 2295
-# File: console/src/Xml/Command/Cancellations.php, line: 2340
-# File: console/src/Xml/Command/Cancellations.php, line: 2385
-# File: console/src/Xml/Command/Cancellations.php, line: 2432
+# File: console/src/Xml/Command/Cancellations.php, line: 2212
+# File: console/src/Xml/Command/Cancellations.php, line: 2257
+# File: console/src/Xml/Command/Cancellations.php, line: 2302
+# File: console/src/Xml/Command/Cancellations.php, line: 2347
+# File: console/src/Xml/Command/Cancellations.php, line: 2392
+# File: console/src/Xml/Command/Cancellations.php, line: 2439
 msgid "*PENDING* Payment Reservation"
 msgstr ""
 #
