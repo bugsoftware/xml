@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-09 06:19-0400\n"
+"POT-Creation-Date: 2026-09-09 11:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -923,9 +923,9 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newagent.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 20
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 20
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
 msgid "Dear"
 msgstr ""
 #
@@ -962,9 +962,9 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/clickandbook.php, line: 1442
 # File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 585
 # File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 629
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 536
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 803
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
 msgid "Thanks"
 msgstr ""
 #
@@ -6382,7 +6382,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 8546
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 280
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
 msgid "Login"
 msgstr ""
 #
@@ -7870,34 +7870,6 @@ msgstr ""
 #
 # File: src/App/Action/AffiliatesRegisterAction.php, line: 393
 msgid "Thank You for Registering as an Affiliate"
-msgstr ""
-#
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
-msgid "One Time Password"
-msgstr ""
-#
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
-msgid "Here is your One Time Password (OTP) for"
-msgstr ""
-#
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
-msgid "Please enter this OTP to complete the login process"
-msgstr ""
-#
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 455
-msgid "This is valid for 30 minutes only"
-msgstr ""
-#
-# File: src/App/Action/AgentsCreateTokenAction.php, line: 458
-msgid "Login - One Time Password(OTP)"
-msgstr ""
-#
-# File: src/App/Action/AgentsRegisterAction.php, line: 795
-msgid "Notification of New Sub-Agent Creation"
-msgstr ""
-#
-# File: src/App/Action/AgentsRegisterAction.php, line: 841
-msgid "Thank You for Registering as a Travel Agent"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/HotelParallelParse.php, line: 408
@@ -9720,6 +9692,34 @@ msgstr ""
 #
 # File: src/App/Action/HotelsRegisterAction.php, line: 193
 msgid "Thank You for Registering Your Property with Us"
+msgstr ""
+#
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+msgid "One Time Password"
+msgstr ""
+#
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+msgid "Here is your One Time Password (OTP) for"
+msgstr ""
+#
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+msgid "Please enter this OTP to complete the login process"
+msgstr ""
+#
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+msgid "This is valid for 30 minutes only"
+msgstr ""
+#
+# File: src/App/Action/AgentsCreateTokenAction.php, line: 491
+msgid "Login - One Time Password(OTP)"
+msgstr ""
+#
+# File: src/App/Action/AgentsRegisterAction.php, line: 828
+msgid "Notification of New Sub-Agent Creation"
+msgstr ""
+#
+# File: src/App/Action/AgentsRegisterAction.php, line: 874
+msgid "Thank You for Registering as a Travel Agent"
 msgstr ""
 #
 # File: src/App/language/languages.php, line: 12
