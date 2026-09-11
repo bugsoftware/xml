@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-10 18:44-0400\n"
+"POT-Creation-Date: 2026-09-11 02:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8174,14 +8174,14 @@ msgstr ""
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1052
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1075
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1077
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1929
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1931
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1954
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1956
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1979
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1981
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2004
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2006
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1943
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1945
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1968
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1970
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1993
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1995
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2018
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2020
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 842
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 844
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 867
@@ -9352,20 +9352,20 @@ msgstr ""
 msgid "day(s) prior to the arrival date"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabin.php, line: 825
-msgid "Invalid number of passengers. This cabin can't hold the selected number of passengers."
-msgstr ""
-#
-# File: src/App/Action/RCCL/Cabins.php, line: 590
+# File: src/App/Action/RCCL/Cabins.php, line: 604
 msgid "No Restrictions - Refundable"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 592
+# File: src/App/Action/RCCL/Cabins.php, line: 606
 msgid "Non-Refundable - Deposit"
 msgstr ""
 #
-# File: src/App/Action/RCCL/Cabins.php, line: 594
+# File: src/App/Action/RCCL/Cabins.php, line: 608
 msgid "Non-Refundable - Full Fare"
+msgstr ""
+#
+# File: src/App/Action/RCCL/Cabin.php, line: 839
+msgid "Invalid number of passengers. This cabin can't hold the selected number of passengers."
 msgstr ""
 #
 # File: src/App/Action/PriceTravel/HotelParallelParse.php, line: 95
