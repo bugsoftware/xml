@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-11 02:37-0400\n"
+"POT-Creation-Date: 2026-09-12 02:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1635,8 +1635,6 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2881
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2434
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2648
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 2296
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 2395
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1662,15 +1660,13 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2882
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2435
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2649
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 2297
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 2396
 msgid "View Reservation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4289
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4556
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 2129
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1912
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
