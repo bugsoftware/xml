@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-14 12:26-0400\n"
+"POT-Creation-Date: 2026-09-16 09:23-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1624,8 +1624,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2751
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4456
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4555
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4723
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4822
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4425
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4524
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2456
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1646,8 +1646,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2752
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4457
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4556
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4724
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4823
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4426
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4525
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2457
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2570
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2684
@@ -1665,10 +1665,14 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4289
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4556
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4258
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1912
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
+msgstr ""
+#
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 308
+msgid "Action Required: Assign Branch in Agent Profile for Invoice Upload"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2569
@@ -2799,6 +2803,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 35
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 33
 # File: src/App/Action/AirIssueTicketAction.php, line: 1056
 msgid "Warm regards,"
 msgstr ""
@@ -3663,6 +3668,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/review.phtml, line: 30
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 30
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 34
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 32
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -3685,6 +3691,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newagent.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 29
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 39
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 34
 # File: src/App/Action/AirIssueTicketAction.php, line: 1057
 msgid "Click & Book Team"
 msgstr ""
@@ -3698,6 +3705,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 24
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 24
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 24
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 25
 msgid "Transaction Details"
 msgstr ""
 #
@@ -3706,6 +3714,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_mco.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 26
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 28
 msgid "Reservation Number:"
 msgstr ""
 #
@@ -6127,6 +6136,30 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1106
 msgid "*Pictures are for reference only. Some of the photos are simplified version and may have been enhanced by computer graphics. We do not warrant that the photos are complete and accurate, or up to date."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 20
+msgid "Hi team,"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 22
+msgid "We are currently attempting to upload the agent’s invoice, but the agent profile does not have a branch assigned. Without a branch, the accounting system cannot receive the invoice."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 23
+msgid "The system will continue trying to upload the invoice periodically, but it will not succeed until the branch is properly updated."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 27
+msgid "Agent:"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 30
+msgid "Please update the branch in the agent’s profile so the upload can be completed successfully."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 31
+msgid "Thank you for your prompt attention."
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
