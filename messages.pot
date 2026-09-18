@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-18 12:29-0400\n"
+"POT-Creation-Date: 2026-09-18 16:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1749,6 +1749,11 @@ msgstr ""
 msgid "Cancelled"
 msgstr ""
 #
+# File: console/src/Xml/Command/MSC/CreateCruise.php, line: 1403
+# File: console/src/Xml/Command/RCCL/CreateCruise.php, line: 1530
+msgid "Action Required: New cruise reservation received – review required"
+msgstr ""
+#
 # File: console/src/Xml/Command/Newsletter/broadcast.php, line: 371
 msgid "To stop receiving these emails"
 msgstr ""
@@ -2804,6 +2809,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 35
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 33
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 31
 # File: src/App/Action/AirIssueTicketAction.php, line: 1056
 msgid "Warm regards,"
 msgstr ""
@@ -3649,6 +3655,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/review.phtml, line: 29
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 29
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 33
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 28
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -3669,6 +3676,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 30
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 34
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 32
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 30
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -3692,6 +3700,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 29
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 39
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 34
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 32
 # File: src/App/Action/AirIssueTicketAction.php, line: 1057
 msgid "Click & Book Team"
 msgstr ""
@@ -3715,6 +3724,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_pending_signature.phtml, line: 26
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 26
 msgid "Reservation Number:"
 msgstr ""
 #
@@ -6159,7 +6169,20 @@ msgid "Please update the branch in the agent’s profile so the upload can be co
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 29
 msgid "Thank you for your prompt attention."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 20
+msgid "Hello Cruises Team"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 22
+msgid "A new reservation has been received and requires your review. Please check the details and proceed with the necessary validation steps."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 24
+msgid "Reservation Details"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
