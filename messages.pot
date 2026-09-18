@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 08:30-0400\n"
+"POT-Creation-Date: 2026-09-18 02:10-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1624,8 +1624,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2751
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4456
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4555
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4425
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4524
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4429
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4528
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2456
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1646,8 +1646,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2752
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4457
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4556
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4426
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4525
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4430
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4529
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2457
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2570
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2684
@@ -1665,7 +1665,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4289
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4258
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4262
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1912
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
@@ -8333,31 +8333,6 @@ msgstr ""
 msgid "All Airports"
 msgstr ""
 #
-# File: src/App/Action/AssistCardAction.php, line: 1837
-msgid "Generali100 (Standard)"
-msgstr ""
-#
-# File: src/App/Action/AssistCardAction.php, line: 1839
-msgid "Generali200 (Preferred)"
-msgstr ""
-#
-# File: src/App/Action/AssistCardAction.php, line: 1841
-msgid "Generali300 (Premium)"
-msgstr ""
-#
-# File: src/App/Action/AssistCardAction.php, line: 1845
-msgid "Help protect your vacation with travel protection."
-msgstr ""
-#
-# File: src/App/Action/AssistCardAction.php, line: 1966
-msgid "Trip Cancellation For Any Reason"
-msgstr ""
-#
-# File: src/App/Action/AssistCardAction.php, line: 1983
-# File: src/App/Action/AssistCardAction.php, line: 1996
-msgid "Rental Car Damage"
-msgstr ""
-#
 # File: src/App/Action/AvisBudget/SearchCars.old.php, line: 405
 # File: src/App/Action/AvisBudget/SearchCars.php, line: 640
 msgid "Taxes and surcharges payable at the counter"
@@ -9741,6 +9716,31 @@ msgstr ""
 #
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 491
 msgid "Login - One Time Password(OTP)"
+msgstr ""
+#
+# File: src/App/Action/AssistCardAction.php, line: 1886
+msgid "Generali100 (Standard)"
+msgstr ""
+#
+# File: src/App/Action/AssistCardAction.php, line: 1888
+msgid "Generali200 (Preferred)"
+msgstr ""
+#
+# File: src/App/Action/AssistCardAction.php, line: 1890
+msgid "Generali300 (Premium)"
+msgstr ""
+#
+# File: src/App/Action/AssistCardAction.php, line: 1894
+msgid "Help protect your vacation with travel protection."
+msgstr ""
+#
+# File: src/App/Action/AssistCardAction.php, line: 2015
+msgid "Trip Cancellation For Any Reason"
+msgstr ""
+#
+# File: src/App/Action/AssistCardAction.php, line: 2032
+# File: src/App/Action/AssistCardAction.php, line: 2045
+msgid "Rental Car Damage"
 msgstr ""
 #
 # File: src/App/Action/AgentsRegisterAction.php, line: 828
