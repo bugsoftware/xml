@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-20 11:24-0400\n"
+"POT-Creation-Date: 2026-09-21 02:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2811,6 +2811,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 30
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 30
 # File: src/App/Action/AirIssueTicketAction.php, line: 1056
 msgid "Warm regards,"
 msgstr ""
@@ -3658,6 +3659,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 27
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 27
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -3680,6 +3682,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 29
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 29
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -3705,6 +3708,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 34
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 31
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 31
 # File: src/App/Action/AirIssueTicketAction.php, line: 1057
 msgid "Click & Book Team"
 msgstr ""
@@ -3730,6 +3734,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 25
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 25
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 25
 msgid "Reservation Number:"
 msgstr ""
 #
@@ -6176,11 +6181,13 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 28
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 28
 msgid "Thank you for your prompt attention."
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 20
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 20
 msgid "Hello Cruises Team"
 msgstr ""
 #
@@ -6190,11 +6197,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 23
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 23
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 23
 msgid "Reservation Details"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 22
 msgid "A new reservation settlement has been received and requires your review. Please check the details and proceed with the necessary validation steps."
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 22
+msgid "A new payment reservation has been received and requires your review. Please check the details and proceed with the necessary validation steps."
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CancelHotel.php, line: 144
