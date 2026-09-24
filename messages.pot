@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-23 02:05-0400\n"
+"POT-Creation-Date: 2026-09-24 04:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1672,6 +1672,8 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 309
+# File: console/src/Xml/Command/Globalware/invoice_upload_cruises_commission.php, line: 222
+# File: console/src/Xml/Command/Globalware/invoice_upload_cruises_commission_gw5.php, line: 222
 msgid "Action Required: Assign Branch in Agent Profile for Invoice Upload"
 msgstr ""
 #
