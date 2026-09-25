@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 10:18-0400\n"
+"POT-Creation-Date: 2026-09-25 10:32-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9360,6 +9360,14 @@ msgstr ""
 #
 # File: src/App/Action/Jactravel/Policies.php, line: 345
 msgid "Special Conditions For Arrival On"
+msgstr ""
+#
+# File: src/App/Action/MSC/Cabins.php, line: 257
+msgid "Guarantee"
+msgstr ""
+#
+# File: src/App/Action/MSC/Cabins.php, line: 259
+msgid "Please note that this is a \"guarantee\" rate. Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
 msgstr ""
 #
 # File: src/App/Action/MikiTravel/Hotel.php, line: 328
