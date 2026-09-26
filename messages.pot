@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-26 17:21-0400\n"
+"POT-Creation-Date: 2026-09-26 17:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -864,6 +864,12 @@ msgstr ""
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 626
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 msgid "Cancellation Exception Error"
+msgstr ""
+#
+# File: console/src/Xml/Command/Costa/CreateCruise.php, line: 627
+# File: console/src/Xml/Command/MSC/CreateCruise.php, line: 1571
+# File: console/src/Xml/Command/RCCL/CreateCruise.php, line: 1639
+msgid "Action Required: New cruise reservation received – review required"
 msgstr ""
 #
 # File: console/src/Xml/Command/Costamar/airreport.php, line: 453
@@ -1753,11 +1759,6 @@ msgstr ""
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 155
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
 msgid "Cancelled"
-msgstr ""
-#
-# File: console/src/Xml/Command/MSC/CreateCruise.php, line: 1571
-# File: console/src/Xml/Command/RCCL/CreateCruise.php, line: 1639
-msgid "Action Required: New cruise reservation received – review required"
 msgstr ""
 #
 # File: console/src/Xml/Command/Newsletter/broadcast.php, line: 371
@@ -3400,6 +3401,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 92
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 263
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 271
+# File: src/App/Action/Costa/Cabin.php, line: 686
 msgid "Nights"
 msgstr ""
 #
@@ -8267,14 +8269,14 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1070
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1075
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1080
-# File: src/App/Action/Costa/SearchCruises.php, line: 698
-# File: src/App/Action/Costa/SearchCruises.php, line: 700
-# File: src/App/Action/Costa/SearchCruises.php, line: 723
-# File: src/App/Action/Costa/SearchCruises.php, line: 725
-# File: src/App/Action/Costa/SearchCruises.php, line: 748
-# File: src/App/Action/Costa/SearchCruises.php, line: 750
-# File: src/App/Action/Costa/SearchCruises.php, line: 773
-# File: src/App/Action/Costa/SearchCruises.php, line: 775
+# File: src/App/Action/Costa/SearchCruises.php, line: 703
+# File: src/App/Action/Costa/SearchCruises.php, line: 705
+# File: src/App/Action/Costa/SearchCruises.php, line: 728
+# File: src/App/Action/Costa/SearchCruises.php, line: 730
+# File: src/App/Action/Costa/SearchCruises.php, line: 753
+# File: src/App/Action/Costa/SearchCruises.php, line: 755
+# File: src/App/Action/Costa/SearchCruises.php, line: 778
+# File: src/App/Action/Costa/SearchCruises.php, line: 780
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 860
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 862
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 885
@@ -8724,6 +8726,32 @@ msgstr ""
 # File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 442
 # File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 415
 msgid "This is a non refundable booking. You will be charged full stay of the booking."
+msgstr ""
+#
+# File: src/App/Action/Costa/CostaHelpers.php, line: 826
+# File: src/App/Action/MSC/Cabins.php, line: 257
+msgid "Guarantee"
+msgstr ""
+#
+# File: src/App/Action/Costa/CostaHelpers.php, line: 828
+# File: src/App/Action/MSC/Cabins.php, line: 259
+msgid "Please note that this is a \"guarantee\" rate. Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 391
+msgid "Main seating"
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 396
+msgid "Late seating"
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 401
+msgid "Open seating"
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 406
+msgid "No preference"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 631
@@ -9360,14 +9388,6 @@ msgstr ""
 #
 # File: src/App/Action/Jactravel/Policies.php, line: 345
 msgid "Special Conditions For Arrival On"
-msgstr ""
-#
-# File: src/App/Action/MSC/Cabins.php, line: 257
-msgid "Guarantee"
-msgstr ""
-#
-# File: src/App/Action/MSC/Cabins.php, line: 259
-msgid "Please note that this is a \"guarantee\" rate. Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
 msgstr ""
 #
 # File: src/App/Action/MikiTravel/Hotel.php, line: 328
