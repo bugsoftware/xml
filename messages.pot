@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-02 16:43-0400\n"
+"POT-Creation-Date: 2026-10-02 16:51-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2986,6 +2986,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2237
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2275
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 507
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1021
 msgid "Insurance"
 msgstr ""
 #
@@ -3241,6 +3242,7 @@ msgid "Item"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 197
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 320
 msgid "Price"
 msgstr ""
 #
@@ -3478,6 +3480,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 185
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 194
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1958
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 40
 msgid "Payment"
 msgstr ""
 #
@@ -3512,6 +3515,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2913
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1604
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1875
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 799
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 943
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 975
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1027
 msgid "Total"
 msgstr ""
 #
@@ -3737,6 +3744,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 751
 msgid "Adult"
 msgstr ""
 #
@@ -3761,6 +3769,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1278
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 753
 msgid "Adults"
 msgstr ""
 #
@@ -3770,6 +3779,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 757
 msgid "Child"
 msgstr ""
 #
@@ -3794,6 +3804,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1278
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 759
 msgid "Children"
 msgstr ""
 #
@@ -3847,6 +3858,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 190
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 318
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 466
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 93
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 94
 msgid "Journey"
 msgstr ""
 #
@@ -3868,6 +3881,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 998
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 765
 msgid "Infants"
 msgstr ""
 #
@@ -3877,6 +3891,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 377
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 477
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 550
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 328
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 336
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 344
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 352
 msgid "Bags"
 msgstr ""
 #
@@ -3933,6 +3951,7 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 294
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 699
 msgid "Total:"
 msgstr ""
 #
@@ -4304,6 +4323,8 @@ msgid "We are pleased to inform you that a service fee has been applied to your 
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_sfee.phtml, line: 26
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1306
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1356
 msgid "Service Fee:"
 msgstr ""
 #
@@ -4390,6 +4411,7 @@ msgid "Supplier Payments report"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/quote_1.phtml, line: 203
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 67
 msgid "Departing"
 msgstr ""
 #
@@ -4411,6 +4433,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 393
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 320
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 570
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 714
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
 msgid "Flight"
 msgstr ""
 #
@@ -4475,11 +4501,13 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 73
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 157
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 212
 msgid "Departure:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 74
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 158
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 213
 msgid "Arrival:"
 msgstr ""
 #
@@ -4625,6 +4653,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1717
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1933
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2331
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 39
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 202
 msgid "Passengers"
 msgstr ""
 #
@@ -4714,6 +4744,8 @@ msgstr ""
 # File: src/App/Action/Tourico/MultiPolicies.php, line: 445
 # File: src/App/Action/Tourico/Policies.php, line: 432
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 152
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 255
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 300
 msgid "days"
 msgstr ""
 #
@@ -4724,6 +4756,8 @@ msgid "Service Charge"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 522
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 795
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1016
 msgid "Discount"
 msgstr ""
 #
@@ -5622,6 +5656,9 @@ msgid "Room:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 276
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 786
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 993
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1003
 msgid "Taxes & Fees"
 msgstr ""
 #
@@ -6225,6 +6262,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 559
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 712
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 202
 msgid "Passenger"
 msgstr ""
 #
@@ -6242,21 +6280,29 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 630
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 461
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 468
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 533
 msgid "Baggage Information"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 471
 msgid "Outbound flight"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 514
 msgid "Return flight"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 661
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 476
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 182
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 221
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 297
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 326
 msgid "Personal Item"
 msgstr ""
 #
@@ -6272,6 +6318,9 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 674
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 478
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 577
 msgid "Includes carry on hand baggage"
 msgstr ""
 #
@@ -6304,6 +6353,7 @@ msgid "Category"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 714
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 320
 msgid "Baggage"
 msgstr ""
 #
@@ -9319,6 +9369,8 @@ msgstr ""
 # File: src/App/Action/PackagesAction.php, line: 387
 # File: src/App/Action/PackagesSearchAction.php, line: 242
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 150
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 255
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 300
 msgid "day"
 msgstr ""
 #
@@ -10212,6 +10264,7 @@ msgstr ""
 #
 # File: src/App/Action/Travelport/SearchFlights.php, line: 1271
 # File: src/App/Action/Travelport/SearchMultiFlights.php, line: 1380
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 207
 msgid "Direct"
 msgstr ""
 #
@@ -10221,14 +10274,17 @@ msgid "Dinner"
 msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 160
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 256
 msgid "hour"
 msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 162
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 256
 msgid "hours"
 msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 169
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 257
 msgid "minutes"
 msgstr ""
 #
@@ -10508,6 +10564,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3197
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3219
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3241
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1381
 msgid "No"
 msgstr ""
 #
@@ -10519,6 +10576,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3198
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3220
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3242
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1382
 msgid "Yes"
 msgstr ""
 #
@@ -10673,6 +10731,7 @@ msgid "Additional services"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1596
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1111
 msgid "Traveler"
 msgstr ""
 #
@@ -10691,6 +10750,8 @@ msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1603
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1871
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 814
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 904
 msgid "Commission"
 msgstr ""
 #
@@ -10823,6 +10884,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3208
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3230
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3279
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1298
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1312
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1323
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1366
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1377
 msgid "Close"
 msgstr ""
 #
@@ -11098,6 +11164,7 @@ msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2689
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2958
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1313
 msgid "Submit"
 msgstr ""
 #
@@ -11191,6 +11258,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3042
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3088
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3280
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1367
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1522
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1531
 msgid "Send"
 msgstr ""
 #
@@ -11298,4 +11368,588 @@ msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3257
 msgid "Complete the information below to send itinerary"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 38
+msgid "Summary"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 48
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 427
+msgid "No results available"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 50
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 429
+msgid "Please search again"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 74
+msgid "Roundtrip"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 74
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 77
+msgid "passenger"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 74
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 77
+msgid "passengers"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 77
+msgid "One Way"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 136
+msgid "Change flight"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 139
+msgid "Operated by:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 185
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 224
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 288
+msgid "Checked In Bag"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 185
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 224
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 288
+msgid "Checked In Bags"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 188
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 227
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 291
+msgid "Second Checked In Bag"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 188
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 227
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 291
+msgid "Second Checked In Bags"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 230
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 294
+msgid "Carry on Bag"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 230
+msgid "(Handbag)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 230
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 294
+msgid "Carry on Bags"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 230
+msgid "Handbag"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 196
+msgid "FROM"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 197
+msgid "TO"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 198
+msgid "TIME"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 200
+msgid "TRAVELERS"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 207
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "stop"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 207
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "stops"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 235
+msgid "bags info"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 235
+msgid "flight details"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 240
+msgid "Please note: This flight has a technical stop but does not incur a change in flight number."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 245
+msgid "Flight Information"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 252
+msgid "Wait time on"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 257
+msgid "minute"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 316
+msgid "Bags Information"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 320
+msgid "Qty"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 327
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 335
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 351
+msgid "Aprox."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 327
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 335
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 351
+msgid "Free Bag"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 327
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 335
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 351
+msgid "Free Bags"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 328
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 336
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 344
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 352
+msgid "Bag"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 334
+msgid "Carry on Baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 342
+msgid "Checked In Baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 350
+msgid "Second Checked In Baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 359
+msgid "Baggage fees reflect the airline's standard fees based on the selected fare class. Fees may vary based on size and weight restrictions as well as loyalty programs and other promotions."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 361
+msgid "This price does not include luggage but you can add it later"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 363
+msgid "We are currently unable to check the baggage policies from the airline or present the baggage details."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 382
+msgid "Select seats"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 385
+msgid "Add extra bags"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 473
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 516
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 572
+msgid "Personal item"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 474
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 517
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 573
+msgid "Includes a backpack baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 474
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 517
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 573
+msgid "Backpack baggage not included"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 477
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 520
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 576
+msgid "Carry-on baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 478
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 577
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 581
+msgid "piece per passenger"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 478
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 577
+msgid "Carry on hand baggage not included"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 481
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 524
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 580
+msgid "Checked baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 581
+msgid "Includes checked baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 581
+msgid "Baggage not included"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 590
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 933
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 998
+msgid "Ancillaries"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 592
+msgid "Enhance your journey with our selection of ancillary services. Select from the options below to add to your reservation:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 600
+msgid "per person"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 638
+msgid "We've made it easy for you to get insurance coverage!"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 640
+msgid "coverage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 643
+msgid "view sample description of coverage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 649
+msgid "REMOVE"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 650
+msgid "ADD"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+msgid "The Generali Global Assistance plan cost includes the travel insurance premium and assistance service fee. Travel insurance coverages in the Generali Global Assistance plan are underwritten by: Generali U.S. Branch, New York, NY; NAIC # 11231, for the operating name used in certain states, and other important information about the Generali Global Assistance Travel Insurance & Assistance Services Plan,"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+msgid "please see"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+msgid "Important Disclosures,"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+msgid "Terms and Conditions, and Assistance Service pricing."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 670
+msgid "Generali Global Assistance cannot provide travel protection for trips to Afghanistan, Belarus, Burkina Faso, Central African Republic, Cuba, Haiti, Iran, Iraq, Israel, Lebanon, Libya, Mali, all destinations in the Middle East, Myanmar, Niger, North Korea, Somalia, South Sudan, Sudan, Syria, Ukraine, Venezuela, Yemen, the Russian Federation, Crimea, and the Zaporizhzhia, Kherson, Donetsk and Luhansk Peoples regions."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 684
+msgid "Your flight has separate tickets"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 685
+msgid "Your flight is a combination of two one-way fares, each subject to its own rules and restrictions. If one of your flights is changed or cancelled, it will not automatically alter the other flight. Changes to the other flight may incur a charge."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 705
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1087
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1274
+msgid "CONFIRM"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "Non Stop"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "Public Fare"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "Agency Private Fare"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "Private Fare"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+msgid "Net Fare"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 728
+msgid "Dep:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 729
+msgid "Arr:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 763
+msgid "Infant"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 769
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 771
+msgid "Senior Citizen"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 779
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 981
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 986
+msgid "Base Price"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 790
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1010
+msgid "Fees"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 809
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 896
+msgid "Air Commission"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 820
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 910
+msgid "Commission Total"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 826
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 916
+msgid "Commission Tour Code"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 899
+msgid "Commission Details"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 899
+msgid "Earnings applied to this air booking"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 922
+msgid "Commission Ticket Designator"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 928
+msgid "Commission is credited after ticketing and final validation."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 928
+msgid "Final commission amounts are subject to adjustment in the event of booking amendments, cancellations, rate revisions, promotional changes, or any other modifications affecting the total value of the reservation."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 939
+msgid "Insurance travel protection"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 955
+msgid "Travel Insurance Included"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 956
+msgid "Your purchase includes a comprehensive travel insurance plan. You can remove this insurance by clicking the 'Remove' button, but we highly recommend keeping it for your peace of mind and protection during your travels."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 965
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 969
+msgid "Service Fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1042
+msgid "Frontier Disclaimer"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1043
+msgid "All ticket changes, schedule modifications, cancellations, refunds, seat assignments, baggage purchases, or any other post‑booking adjustments for Frontier Airlines (F9) must be handled directly with Frontier Airlines. Frontier requires passengers to manage all exchanges and service requests through their official customer support channels."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1044
+msgid "By completing your booking, you acknowledge that Frontier Airlines maintains full control over fare rules, optional services, and itinerary changes, and that any updates or issues must be resolved with Frontier directly."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1063
+msgid "loyalty program"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1063
+msgid "Loyalty Program"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1064
+msgid "Book now and earn"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1064
+msgid "loyalty points"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1064
+msgid "Redeem them as a discount on your next reservation"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1086
+msgid "ADD SERVICE FEE"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1089
+msgid "ADD TO CART"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1091
+msgid "SEND QUOTE"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1105
+msgid "Select Seats"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1118
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1287
+msgid "Loading..."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1281
+msgid "Add Baggage"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1293
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1297
+msgid "Add Service Fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1302
+msgid "Notice: The maximum service charge applicable is $200.00 per passenger. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1303
+msgid "Notice: The maximum service charge applicable is $200.00. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1304
+#, php-format
+msgid "Notice: In accordance with our pricing policy, the service fee for each booking is strictly limited to a maximum of 10% of the total booking value. For example, if the total booking amount is $100, the service fee can't be more than $10."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1318
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1322
+msgid "Send Quote"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1327
+msgid "Customer Name Required! Please enter the customer's name before submitting the form. This field is mandatory."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1328
+msgid "Customer Phone Required! Please enter the customer's phone number before submitting the form. This field is mandatory."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1329
+msgid "Email Address Required! Please enter the customer's email address before submitting the form. This field is mandatory."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1330
+msgid "Quote Not Sent! The quote has not been sent to the customer. Please check the details and try again.."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1336
+msgid "Send Quote by Email"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1342
+msgid "Send Quote by WhatsApp"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1347
+msgid "Customer Name:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1351
+msgid "Phone Number:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1352
+msgid "Country Code"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1352
+msgid "Select Country Code"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1360
+msgid "Email Address:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1372
+msgid "Add Service Fee to Your Reservation Now"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1376
+msgid "Add Service Fee to Your Reservation"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1379
+msgid "We noticed that you did not add any service fee to your current reservation. Do you want to add the service fee to your reservation now?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1402
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1408
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1421
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1507
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1625
+msgid "PLEASE WAIT"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1498
+msgid "Invalid email format. Please enter a valid email address."
 msgstr ""
