@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-02 10:37-0400\n"
+"POT-Creation-Date: 2026-10-02 15:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1630,8 +1630,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2751
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4456
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4555
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4433
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4532
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4585
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4684
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2456
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1652,8 +1652,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2752
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4457
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4556
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4434
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4533
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4586
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4685
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2457
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2570
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2684
@@ -1671,7 +1671,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4289
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4266
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4418
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1917
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 799
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
@@ -8732,16 +8732,6 @@ msgstr ""
 msgid "This is a non refundable booking. You will be charged full stay of the booking."
 msgstr ""
 #
-# File: src/App/Action/Costa/CostaHelpers.php, line: 1495
-# File: src/App/Action/MSC/Cabins.php, line: 257
-msgid "Guarantee"
-msgstr ""
-#
-# File: src/App/Action/Costa/CostaHelpers.php, line: 1497
-# File: src/App/Action/MSC/Cabins.php, line: 259
-msgid "Please note that this is a \"guarantee\" rate. Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
-msgstr ""
-#
 # File: src/App/Action/Costa/Cabin.php, line: 429
 msgid "Main seating"
 msgstr ""
@@ -8756,6 +8746,16 @@ msgstr ""
 #
 # File: src/App/Action/Costa/Cabin.php, line: 444
 msgid "No preference"
+msgstr ""
+#
+# File: src/App/Action/Costa/CostaHelpers.php, line: 1495
+# File: src/App/Action/MSC/Cabins.php, line: 257
+msgid "Guarantee"
+msgstr ""
+#
+# File: src/App/Action/Costa/CostaHelpers.php, line: 1497
+# File: src/App/Action/MSC/Cabins.php, line: 259
+msgid "Please note that this is a \"guarantee\" rate. Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 631
