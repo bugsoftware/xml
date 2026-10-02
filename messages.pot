@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-02 16:12-0400\n"
+"POT-Creation-Date: 2026-10-02 16:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -346,6 +346,16 @@ msgstr ""
 # File: console/src/Xml/Command/FlixBus/CreateTransfer.php, line: 302
 # File: console/src/Xml/Command/FlixBus/CreateTransfer.php, line: 303
 # File: console/src/Xml/Command/FlixBus/CreateTransfer.php, line: 306
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 95
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 274
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 535
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 677
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 809
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 940
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1073
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1211
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1332
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1452
 msgid "Exception Error"
 msgstr ""
 #
@@ -455,6 +465,7 @@ msgstr ""
 # File: console/src/Xml/Command/Mozio/CreateTransfer.php, line: 698
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 1413
 # File: console/src/Xml/Command/FlixBus/CreateTransfer.php, line: 306
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 225
 msgid "Reservation"
 msgstr ""
 #
@@ -469,6 +480,8 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10928
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2662
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3898
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2890
 msgid "Credit Card"
 msgstr ""
 #
@@ -477,6 +490,8 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10925
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2659
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3895
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2885
 msgid "Cash"
 msgstr ""
 #
@@ -932,6 +947,8 @@ msgstr ""
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2806
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2814
 msgid "Dear"
 msgstr ""
 #
@@ -971,6 +988,7 @@ msgstr ""
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 536
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 803
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2818
 msgid "Thanks"
 msgstr ""
 #
@@ -1666,6 +1684,9 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2887
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2435
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2649
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 35
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 39
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1982
 msgid "View Reservation"
 msgstr ""
 #
@@ -1758,6 +1779,8 @@ msgstr ""
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 136
 # File: console/src/Xml/Command/Palladium/CancelHotel.php, line: 155
 # File: console/src/Xml/Command/RoomsXML/CancelHotel.php, line: 251
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3803
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1614
 msgid "Cancelled"
 msgstr ""
 #
@@ -1801,6 +1824,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5220
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5222
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5224
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 81
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 260
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 663
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 795
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 926
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1059
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1197
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1318
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1438
 msgid "Reservation Pending"
 msgstr ""
 #
@@ -1815,6 +1848,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 363
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3158
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5226
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 83
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 262
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 523
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 665
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 797
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 928
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1061
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1199
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1320
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1440
 msgid "Reservation Confirmed"
 msgstr ""
 #
@@ -1828,6 +1871,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 365
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3160
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5228
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 85
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 264
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 667
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 799
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 930
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1063
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1201
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1322
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1442
 msgid "Reservation Cancelled"
 msgstr ""
 #
@@ -1841,6 +1894,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 367
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3162
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5230
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 87
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 266
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 527
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 669
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 801
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 932
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1065
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1203
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1324
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1444
 msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
@@ -1854,6 +1917,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 369
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3164
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5232
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 89
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 268
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 529
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 671
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 803
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 934
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1067
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1205
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1326
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1446
 msgid "Checked In"
 msgstr ""
 #
@@ -1867,6 +1940,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 371
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3166
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5234
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 91
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 270
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 531
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 673
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 805
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 936
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1069
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1207
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1328
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1448
 msgid "Checked Out"
 msgstr ""
 #
@@ -1880,6 +1963,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 373
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3168
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5236
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 93
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 272
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 533
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 675
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 807
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 938
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1071
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1209
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1330
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1450
 msgid "Complete"
 msgstr ""
 #
@@ -1902,6 +1995,25 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3203
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5240
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5271
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 97
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 276
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 315
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 537
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 577
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 679
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 718
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 811
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 851
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 942
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 981
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1075
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1114
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1213
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1253
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1334
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1374
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1454
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1494
 msgid "Supervisor Action Required"
 msgstr ""
 #
@@ -1915,6 +2027,16 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 379
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3174
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5242
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 99
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 278
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 539
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 681
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 813
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 944
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1077
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1215
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1336
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1456
 msgid "Queue Reservation for Processing"
 msgstr ""
 #
@@ -1928,6 +2050,17 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 381
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3176
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5244
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3805
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 113
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 292
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 553
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 695
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 827
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 958
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1091
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1229
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1350
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1470
 msgid "Unknown Status"
 msgstr ""
 #
@@ -1949,6 +2082,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3183
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5249
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5251
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 295
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 557
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 698
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 831
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 961
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1094
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1233
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1354
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1474
 msgid "Awaiting Payment"
 msgstr ""
 #
@@ -1961,6 +2103,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 390
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3185
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5253
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 297
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 559
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 700
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 833
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 963
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1096
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1235
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1356
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1476
 msgid "Payment Received"
 msgstr ""
 #
@@ -1973,6 +2124,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 392
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3187
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5255
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 299
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 561
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 702
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 835
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 965
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1098
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1237
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1358
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1478
 msgid "Payment Refunded"
 msgstr ""
 #
@@ -1985,6 +2145,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 394
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3189
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5257
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 301
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 563
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 704
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 837
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 967
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1100
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1239
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1360
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1480
 msgid "Chargeback"
 msgstr ""
 #
@@ -1997,6 +2166,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 396
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3191
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5259
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 303
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 565
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 706
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 839
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 969
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1102
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1241
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1362
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1482
 msgid "Payment On Hold"
 msgstr ""
 #
@@ -2014,6 +2192,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 398
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3193
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5261
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 305
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 567
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 708
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 841
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 971
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1104
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1243
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1364
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1484
 msgid "Partially Paid"
 msgstr ""
 #
@@ -2031,6 +2218,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 400
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3195
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5263
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 307
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 569
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 710
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 843
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 973
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1106
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1245
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1366
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1486
 msgid "Awaiting Refund"
 msgstr ""
 #
@@ -2043,6 +2239,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 402
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3197
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5265
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 309
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 571
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 712
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 845
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 975
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1108
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1247
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1368
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1488
 msgid "Awaiting Capture"
 msgstr ""
 #
@@ -2060,6 +2265,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 404
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3199
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5267
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 311
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 573
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 714
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 847
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 977
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1110
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1249
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1370
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1490
 msgid "Payment Cancelled"
 msgstr ""
 #
@@ -2072,6 +2286,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 406
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3201
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5269
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 313
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 575
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 716
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 849
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 979
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1112
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1251
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1372
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1492
 msgid "Exception Payment Status"
 msgstr ""
 #
@@ -2084,6 +2307,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 410
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3205
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5273
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 317
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 579
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 720
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 853
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 983
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1116
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1255
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1376
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1496
 msgid "Payment Failed"
 msgstr ""
 #
@@ -2096,6 +2328,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 412
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3207
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5275
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 319
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 581
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 722
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 855
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 985
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1118
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1257
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1378
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1498
 msgid "Queue Payment for Processing"
 msgstr ""
 #
@@ -2106,12 +2347,40 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 250
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 215
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3209
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 321
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 583
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 724
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 857
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 987
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1120
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1259
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1380
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1500
 msgid "GDS Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.php, line: 3233
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 90
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3211
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 111
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 290
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 323
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 551
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 585
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 693
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 726
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 825
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 859
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 956
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 989
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1089
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1122
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1227
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1261
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1348
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1382
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1468
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1502
 msgid "Pending Review"
 msgstr ""
 #
@@ -2129,6 +2398,15 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 414
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3213
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5277
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 325
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 587
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 728
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 861
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 991
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1124
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1263
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1384
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1504
 msgid "Unknown Payment Status"
 msgstr ""
 #
@@ -2684,6 +2962,7 @@ msgid "Guide"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3943
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 242
 msgid "Air"
 msgstr ""
 #
@@ -2691,6 +2970,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1209
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1224
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1262
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1303
 msgid "Escorted Tour"
 msgstr ""
 #
@@ -2698,12 +2978,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1454
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1468
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1506
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1182
 msgid "Package"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3964
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2237
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2275
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 507
 msgid "Insurance"
 msgstr ""
 #
@@ -2723,6 +3005,7 @@ msgstr ""
 # File: console/src/Xml/Command/Sendvoucher.php, line: 3072
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 153
 msgid "Invoice"
 msgstr ""
 #
@@ -2906,6 +3189,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 142
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 277
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1433
 msgid "Cabin"
 msgstr ""
 #
@@ -2919,6 +3203,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 557
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 598
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1676
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2920
 msgid "Date"
 msgstr ""
 #
@@ -2930,6 +3215,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1536
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1587
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2597
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1835
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2014
 msgid "Itinerary"
 msgstr ""
 #
@@ -2960,6 +3247,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 204
 # File: console/src/Xml/Command/Templates/voucher3.phtml, line: 50
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2570
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1421
 msgid "Cruise"
 msgstr ""
 #
@@ -3147,6 +3435,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 173
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 71
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 299
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 58
 msgid "Reservation Id"
 msgstr ""
 #
@@ -3156,6 +3445,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 171
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 176
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 101
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 132
 msgid "Reservation Date"
 msgstr ""
 #
@@ -3187,6 +3477,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 211
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 185
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 194
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1958
 msgid "Payment"
 msgstr ""
 #
@@ -3203,6 +3494,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 211
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 221
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 200
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1601
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1863
 msgid "Net"
 msgstr ""
 #
@@ -3217,6 +3510,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/t1/index.phtml, line: 593
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 1070
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2913
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1604
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1875
 msgid "Total"
 msgstr ""
 #
@@ -3226,6 +3521,16 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 78
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 79
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 258
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 519
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 661
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 793
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 924
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1057
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1195
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1316
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1436
 msgid "New Reservation"
 msgstr ""
 #
@@ -3235,6 +3540,16 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 89
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 101
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 280
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 541
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 683
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 815
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 946
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1079
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1217
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1338
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1458
 msgid "Queue Reservation for Cancellation"
 msgstr ""
 #
@@ -3243,6 +3558,16 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 103
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 282
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 543
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 685
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 817
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 948
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1081
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1219
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1340
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1460
 msgid "Pending Review - Fraud"
 msgstr ""
 #
@@ -3251,6 +3576,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 234
 # File: console/src/Xml/Command/Templates/checkintransfers.phtml, line: 248
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 214
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 105
 msgid "Recovered Booking"
 msgstr ""
 #
@@ -3329,6 +3655,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 461
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1907
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2305
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1598
 msgid "Destination"
 msgstr ""
 #
@@ -3426,6 +3753,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 348
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 594
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 739
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 868
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 998
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1278
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
 msgid "Adults"
 msgstr ""
 #
@@ -3451,6 +3786,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1718
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1934
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2332
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 348
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 594
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 739
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 868
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 998
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1278
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
 msgid "Children"
 msgstr ""
 #
@@ -3471,6 +3814,7 @@ msgid "Tax Recovery Charges and Service Fees:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 125
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1041
 msgid "Car Rental"
 msgstr ""
 #
@@ -3517,6 +3861,13 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 198
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 328
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 476
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 348
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 594
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 739
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 868
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 998
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
 msgid "Infants"
 msgstr ""
 #
@@ -4058,6 +4409,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 330
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 478
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 393
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
 msgid "Flight"
 msgstr ""
 #
@@ -5191,10 +5544,21 @@ msgid "Thanks for choosing us for your trip! You'll find everything you need to 
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 76
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 76
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2054
 msgid "Reservation Status"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 91
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 284
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 545
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 687
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 819
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 950
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1083
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1221
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1342
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1462
 msgid "Recovered/Rescued Booking"
 msgstr ""
 #
@@ -5265,6 +5629,15 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 699
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 861
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 945
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 517
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 658
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 790
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 921
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1054
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1192
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1313
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1431
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2002
 msgid "Voucher"
 msgstr ""
 #
@@ -5273,6 +5646,14 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 868
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 952
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1691
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 659
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 791
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 922
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1055
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1193
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1314
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1432
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1599
 msgid "Confirmation"
 msgstr ""
 #
@@ -5596,6 +5977,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2878
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2882
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2886
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2988
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3030
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3082
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3274
 msgid "Phone"
 msgstr ""
 #
@@ -5763,6 +6148,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1705
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1921
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2319
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3799
 msgid "Pending"
 msgstr ""
 #
@@ -5778,6 +6164,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1007
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2015
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2352
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2062
 msgid "Passenger Information"
 msgstr ""
 #
@@ -5804,6 +6191,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1129
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2137
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2474
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2983
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3025
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3076
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3269
 msgid "Email"
 msgstr ""
 #
@@ -5850,46 +6241,57 @@ msgid "points will be credited to your account one day after the final day of yo
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 630
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 461
 msgid "Baggage Information"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
 msgid "Outbound flight"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
 msgid "Return flight"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 661
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 476
 msgid "Personal Item"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 662
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 476
 msgid "Includes a personal item (e.g. backpack)"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 673
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 481
 msgid "Carry-on Baggage"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 674
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 482
 msgid "Includes carry on hand baggage"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 674
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 482
 msgid "Carry-on baggage not included"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 685
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 488
 msgid "Checked Baggage"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 686
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 489
 msgid "Checked baggage included"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 686
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 489
 msgid "Checked baggage not included"
 msgstr ""
 #
@@ -6137,6 +6539,7 @@ msgid "at the end of trip"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1307
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 780
 msgid "Transfers"
 msgstr ""
 #
@@ -6184,6 +6587,8 @@ msgid "Activity Type"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1678
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1595
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1818
 msgid "Provider"
 msgstr ""
 #
@@ -6298,6 +6703,8 @@ msgid "Charges:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Travco/CreateHotel.php, line: 90
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3865
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3926
 msgid "None"
 msgstr ""
 #
@@ -6570,26 +6977,37 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10951
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2665
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2685
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3812
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3876
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3937
 msgid "Unknown"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10936
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2670
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3911
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2848
 msgid "Total Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10939
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2673
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3914
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2857
 msgid "1st Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10942
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2676
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3917
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2864
 msgid "2nd Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10945
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2679
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3920
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2871
 msgid "3rd Payment"
 msgstr ""
 #
@@ -10038,4 +10456,846 @@ msgstr ""
 #
 # File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 22
 msgid "Complete Registration"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2807
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1943
+msgid "Payment Link"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2814
+msgid "Complete the payment using the secure link provided below."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2814
+msgid "Thank you for choosing us! To confirm your reservation, please complete your payment using the secure link provided below."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2814
+msgid "If you have any questions or need assistance, our customer support team is always ready to help."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2818
+msgid "Simply click the link to finalize your payment. If you have any questions or need assistance, feel free to reach out-we're here to help!"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 2819
+msgid "Payment Link for Your Reservation - Action Required"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3713
+msgid "All Departments"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3732
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3751
+msgid "Direct Booking"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3776
+msgid "All Companies/Markets"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3801
+msgid "Credited"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3808
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3109
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3131
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3153
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3175
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3197
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3219
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3241
+msgid "No"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3810
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3110
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3132
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3154
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3176
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3198
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3220
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3242
+msgid "Yes"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3901
+msgid "Wire Transfer"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3904
+msgid "Unknown Payment Type"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 38
+msgid "Dashboard"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 107
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 286
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 547
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 689
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 821
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 952
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1085
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1223
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1344
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1464
+msgid "Partially Confirmed"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 109
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 288
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 549
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 691
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 823
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 954
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1087
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1225
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1346
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1466
+msgid "Duplicated"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 159
+msgid "Tracking"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 159
+msgid "GEO Target Location"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 160
+msgid "IP Address:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 163
+msgid "Location:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 165
+msgid "Mobile:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 168
+msgid "ISP:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 188
+msgid "Discount Coupon"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 250
+msgid "PNR Record Locator"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 252
+msgid "Booking Code"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 253
+msgid "Airline Reservation Code:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 254
+msgid "Reservation Locator Code:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 255
+msgid "Commission:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 333
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1985
+msgid "Issue Ticket"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 407
+msgid "Duration:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 422
+msgid "Ticketed"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 432
+msgid "Tickets"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 463
+msgid "Hide / Show"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 619
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 752
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 883
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1013
+msgid "You will incur in expenses/charges from:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 648
+msgid "Hotels"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 911
+msgid "Experience"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1136
+msgid "Pickup Location:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1142
+msgid "Pickup Time:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1148
+msgid "Drop‑off Location:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1154
+msgid "Drop‑off Time:"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1267
+msgid "Optional excursions"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1434
+msgid "Dining Seating"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1590
+msgid "Additional services"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1596
+msgid "Traveler"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1597
+msgid "Dates"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1600
+msgid "FOP"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1602
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1867
+msgid "Base"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1603
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1871
+msgid "Commission"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1653
+msgid "Edit"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1656
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1771
+msgid "Cancel"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1681
+msgid "Service Fee :"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1682
+msgid "Agent Service Fee :"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1683
+msgid "Additional services :"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1684
+msgid "Discount :"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1685
+msgid "Total :"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1700
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1803
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1804
+msgid "Add additional service"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1704
+msgid "Edit service fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1704
+msgid "Add service fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1708
+msgid "Invoice was created on a computer and is valid without the signature and seal."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1726
+msgid "Service fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1732
+msgid "This booking has already been charged."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1734
+msgid "Payments are already recorded against this reservation."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1735
+msgid "Tickets have already been issued for the air segment."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1736
+msgid "The reservation is marked as paid."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1741
+msgid "Before you add a fee, please read this."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1743
+msgid "Add the service fee before the invoice is launched. Added afterwards, it will have no effect on that invoice."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1744
+msgid "Add the service fee before the services are charged. If a transaction already exists, the fee may not be taken into consideration."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1745
+msgid "Air plus fee: only the fee is charged here. The airline processes the credit card afterwards."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1746
+msgid "Bundled with other services: the booking total plus the service fee is charged in a single transaction."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1747
+msgid "Commissionable services such as insurance or cruises: the credit card is also sent to the supplier, so the fee is charged independently."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1752
+msgid "Agent service fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1760
+msgid "Current fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1763
+msgid "Reservation total"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1766
+msgid "Set it to 0 to remove the fee. The reservation total moves by the difference."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1772
+msgid "Save service fee"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1804
+msgid "Edit additional service"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1805
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1931
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2957
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2999
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3041
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3087
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3098
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3120
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3142
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3164
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3186
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3208
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3230
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3279
+msgid "Close"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1814
+msgid "The Total amount is added to the reservation total. Editing changes the reservation total by the difference; cancelling takes it back out."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1820
+msgid "Select a provider"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1827
+msgid "Departure date"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1831
+msgid "Return date"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1839
+msgid "Domestic / International"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1843
+msgid "Domestic (D)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1847
+msgid "International (I)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1851
+msgid "Destination (IATA)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1855
+msgid "Traveler name"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1859
+msgid "Confirmation number"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1877
+msgid "What the customer pays; added to the reservation total."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1880
+msgid "A/R date"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1884
+msgid "A/P date"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1888
+msgid "Form of payment (FOP)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1891
+msgid "P - Plastic"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1891
+msgid "The customer pays the provider directly with their own credit card."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1892
+msgid "A - Merchant"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1892
+msgid "The customer pays by credit card processed through our merchant of record."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1893
+msgid "C - Cash"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1893
+msgid "The customer pays directly by cash, Zelle, Western Union or MoneyGram."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1894
+msgid "R - Receivable"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1894
+msgid "The client (especially agencies) takes the booking and is authorised to pay on a deferred date, via weekly report or a future date."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1910
+msgid "Credit card type"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1912
+msgid "Select"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1919
+msgid "CC exp"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1923
+msgid "Credit card number"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1925
+msgid "Card on file ending in"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1925
+msgid "Leave blank to keep it."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1926
+msgid "Stored encrypted; only the last 4 digits are shown."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1932
+msgid "Save"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1960
+msgid "Use the secure payment link below to settle your booking. Once payment is completed, your reservation will be settled."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1967
+msgid "Pay Now"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1980
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3097
+msgid "Cancel Reservation"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1980
+msgid "Cancellation Window Expired"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1980
+msgid "This ticket cannot be cancelled because the booking was created more than 24 hours ago. According to supplier policy, most tickets are only eligible for cancellation within the first 24 hours after issuance. Once this timeframe has passed, the ticket becomes locked and cannot be refunded or voided."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1980
+msgid "If you need help or believe this situation requires special handling, please contact your Account Executive."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1988
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2825
+msgid "Add Payment / Settlement"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1993
+msgid "Send Reservation"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1996
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2030
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2040
+msgid "By Email"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1997
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2007
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2019
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2032
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2042
+msgid "By Whatsapp"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2004
+msgid "View Voucher"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2005
+msgid "Send Voucher by Email"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2009
+msgid "Download Voucher (PDF)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2010
+msgid "Download Voucher (Word Document)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2016
+msgid "View Itinerary"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2017
+msgid "Send Itinerary by Email"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2021
+msgid "Download Itinerary (PDF)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2022
+msgid "Download Itinerary (Word Document)"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2028
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2967
+msgid "Send Payment Link"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2038
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3009
+msgid "Send Terms & Conditions"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2056
+msgid "Credit Card Information"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2059
+msgid "Billing Information"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2065
+msgid "Payment History"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2069
+msgid "Rewards - Points"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2073
+msgid "Terms & Conditions"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2091
+msgid "Auditing Details"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2108
+msgid "Reservation Created"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2110
+msgid "Reservation successfully received"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2156
+msgid "Last Updated"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2158
+msgid "Last Modified Record - Date, Time"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2416
+msgid "Cancel this additional service? Its Total amount will be taken off the reservation total."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2562
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2666
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2754
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2775
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2796
+msgid "Please wait..."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2687
+msgid "Approval Code Not Found!"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2687
+msgid "Please make sure the approval code is accurate"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2689
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2958
+msgid "Submit"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2830
+msgid "Please complete all required fields in the form below using the most accurate and up-to-date information available to initiate the reservation settlement process. Ensure all details are verified before submission to prevent delays or processing errors."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2838
+msgid "Country"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2843
+msgid "Payment Type"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2849
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2885
+msgid "Full Reservation Payment"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2858
+msgid "Payment plan - 1st payment, usually deposit"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2865
+msgid "Payment plan - 2nd payment"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2872
+msgid "Payment plan - 3rd payment, usually final payment"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2881
+msgid "Payment Method"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2890
+msgid "Credit Card via Cybersource"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2895
+msgid "Generali"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2895
+msgid "Supplier was the merchant of record"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2905
+msgid "Receipt Number"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2911
+msgid "Approval Code"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2929
+msgid "Amount"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2936
+msgid "Reference/PNR"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2943
+msgid "Account Id"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2948
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2991
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3033
+msgid "Message"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2955
+msgid "Fetching Approval Code..."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2972
+msgid "Complete the information below to generate your personalized payment link"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2977
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3019
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3063
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3262
+msgid "Name"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3000
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3042
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3088
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3280
+msgid "Send"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3014
+msgid "Complete the information below to generate your personalized Terms and Conditions for signature via HelloSign"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3014
+msgid "Complete the information below to generate your personalized Terms and Conditions for signature"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3051
+msgid "Send Voucher"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3057
+msgid "Complete the information below to send voucher"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3101
+msgid "Are you sure you want to cancel your reservation?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3102
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3124
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3146
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3168
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3190
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3212
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3234
+msgid "If you proceed, your reservation will be placed into our cancellation queue. You'll receive a confirmation email once the cancellation is complete."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3104
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3126
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3148
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3170
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3192
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3214
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3236
+msgid "Press Yes to confirm the cancellation."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3105
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3127
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3149
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3171
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3193
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3215
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3237
+msgid "Press No to keep your reservation."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3119
+msgid "Cancel Transfer"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3123
+msgid "Are you sure you want to cancel this transfer?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3141
+msgid "Cancel Activity"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3145
+msgid "Are you sure you want to cancel this activity?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3163
+msgid "Cancel Escorted Tour"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3167
+msgid "Are you sure you want to cancel this escorted tour?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3185
+msgid "Cancel Hotel"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3189
+msgid "Are you sure you want to cancel this hotel?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3207
+msgid "Cancel Air"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3211
+msgid "Are you sure you want to cancel this air?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3229
+msgid "Cancel Insurance"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3233
+msgid "Are you sure you want to cancel this insurance?"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3251
+msgid "Send Itinerary"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3257
+msgid "Complete the information below to send itinerary"
 msgstr ""
