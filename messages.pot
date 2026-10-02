@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-02 08:56-0400\n"
+"POT-Creation-Date: 2026-10-02 09:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -866,7 +866,7 @@ msgstr ""
 msgid "Cancellation Exception Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costa/CreateCruise.php, line: 862
+# File: console/src/Xml/Command/Costa/CreateCruise.php, line: 904
 # File: console/src/Xml/Command/MSC/CreateCruise.php, line: 1571
 # File: console/src/Xml/Command/RCCL/CreateCruise.php, line: 1669
 msgid "Action Required: New cruise reservation received – review required"
@@ -3401,7 +3401,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 263
 # File: console/src/Xml/Command/Templates/voucher.phtml, line: 271
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2612
-# File: src/App/Action/Costa/Cabin.php, line: 733
+# File: src/App/Action/Costa/Cabin.php, line: 764
 msgid "Nights"
 msgstr ""
 #
@@ -8273,14 +8273,14 @@ msgstr ""
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1070
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1075
 # File: src/App/Action/Amadeus/SearchCruises.php, line: 1080
-# File: src/App/Action/Costa/SearchCruises.php, line: 748
-# File: src/App/Action/Costa/SearchCruises.php, line: 750
-# File: src/App/Action/Costa/SearchCruises.php, line: 773
-# File: src/App/Action/Costa/SearchCruises.php, line: 775
-# File: src/App/Action/Costa/SearchCruises.php, line: 798
-# File: src/App/Action/Costa/SearchCruises.php, line: 800
-# File: src/App/Action/Costa/SearchCruises.php, line: 823
-# File: src/App/Action/Costa/SearchCruises.php, line: 825
+# File: src/App/Action/Costa/SearchCruises.php, line: 759
+# File: src/App/Action/Costa/SearchCruises.php, line: 761
+# File: src/App/Action/Costa/SearchCruises.php, line: 784
+# File: src/App/Action/Costa/SearchCruises.php, line: 786
+# File: src/App/Action/Costa/SearchCruises.php, line: 809
+# File: src/App/Action/Costa/SearchCruises.php, line: 811
+# File: src/App/Action/Costa/SearchCruises.php, line: 834
+# File: src/App/Action/Costa/SearchCruises.php, line: 836
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 860
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 862
 # File: src/App/Action/MundoCruceros/SearchCruises.php, line: 885
@@ -8732,22 +8732,6 @@ msgstr ""
 msgid "This is a non refundable booking. You will be charged full stay of the booking."
 msgstr ""
 #
-# File: src/App/Action/Costa/Cabin.php, line: 408
-msgid "Main seating"
-msgstr ""
-#
-# File: src/App/Action/Costa/Cabin.php, line: 413
-msgid "Late seating"
-msgstr ""
-#
-# File: src/App/Action/Costa/Cabin.php, line: 418
-msgid "Open seating"
-msgstr ""
-#
-# File: src/App/Action/Costa/Cabin.php, line: 423
-msgid "No preference"
-msgstr ""
-#
 # File: src/App/Action/Costa/CostaHelpers.php, line: 1495
 # File: src/App/Action/MSC/Cabins.php, line: 257
 msgid "Guarantee"
@@ -8756,6 +8740,22 @@ msgstr ""
 # File: src/App/Action/Costa/CostaHelpers.php, line: 1497
 # File: src/App/Action/MSC/Cabins.php, line: 259
 msgid "Please note that this is a \"guarantee\" rate. Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 429
+msgid "Main seating"
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 434
+msgid "Late seating"
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 439
+msgid "Open seating"
+msgstr ""
+#
+# File: src/App/Action/Costa/Cabin.php, line: 444
+msgid "No preference"
 msgstr ""
 #
 # File: src/App/Action/DOTW/Hotel.php, line: 631
