@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-09 08:42-0400\n"
+"POT-Creation-Date: 2026-10-09 09:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3115,7 +3115,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 38
-# File: src/App/Action/AirIssueTicketAction.php, line: 1059
+# File: src/App/Action/AirIssueTicketAction.php, line: 1060
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1059
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1056
 msgid "Warm regards,"
 msgstr ""
@@ -3538,6 +3539,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1113
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1097
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1101
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1131
 msgid "Total"
 msgstr ""
 #
@@ -4152,7 +4154,8 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 39
-# File: src/App/Action/AirIssueTicketAction.php, line: 1060
+# File: src/App/Action/AirIssueTicketAction.php, line: 1061
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1060
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1057
 msgid "Click & Book Team"
 msgstr ""
@@ -4519,6 +4522,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1094
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 9
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 285
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1124
 msgid "Flight"
 msgstr ""
 #
@@ -9524,6 +9528,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 909
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 914
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1087
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 938
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 943
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1117
 msgid "Free"
 msgstr ""
 #
@@ -10312,21 +10319,6 @@ msgstr ""
 msgid " - No show means that the guest did not cancel the reservation and did not stay at the hotel during the reserved period of time"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1049
-# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1046
-msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
-msgstr ""
-#
-# File: src/App/Action/AirIssueTicketAction.php, line: 1055
-# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1052
-msgid "Dear "
-msgstr ""
-#
-# File: src/App/Action/AirIssueTicketAction.php, line: 1057
-# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1054
-msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
-msgstr ""
-#
 # File: src/App/Action/Travco/Policies.php, line: 233
 # File: src/App/Action/Travco/Policies.php, line: 235
 msgid "cancelled after"
@@ -10424,6 +10416,24 @@ msgstr ""
 #
 # File: src/App/Action/HotelsRegisterAction.php, line: 193
 msgid "Thank You for Registering Your Property with Us"
+msgstr ""
+#
+# File: src/App/Action/AirIssueTicketAction.php, line: 1050
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1049
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1046
+msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
+msgstr ""
+#
+# File: src/App/Action/AirIssueTicketAction.php, line: 1056
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1055
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1052
+msgid "Dear "
+msgstr ""
+#
+# File: src/App/Action/AirIssueTicketAction.php, line: 1058
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1057
+# File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1054
+msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
 msgstr ""
 #
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 488
@@ -10718,6 +10728,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1111
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1095
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1099
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1129
 msgid "Yes"
 msgstr ""
 #
@@ -11308,6 +11319,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1083
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 474
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 499
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1113
 msgid "Please wait..."
 msgstr ""
 #
@@ -12682,6 +12694,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1016
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1000
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1004
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1034
 msgid "Remove"
 msgstr ""
 #
@@ -12731,6 +12744,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 40
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 163
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 163
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 168
 msgid "Preferred Seat"
 msgstr ""
 #
@@ -12738,6 +12752,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 42
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 166
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 166
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 171
 msgid "Standard Seat"
 msgstr ""
 #
@@ -12745,6 +12760,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 45
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 169
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 169
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 174
 msgid "Free Seat"
 msgstr ""
 #
@@ -12752,24 +12768,28 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 48
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 172
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 172
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 177
 msgid "Seat Assignment"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 179
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 179
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 179
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 184
 msgid "Window"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 182
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 182
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 182
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 187
 msgid "Aisle"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 185
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 185
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 185
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 190
 msgid "Middle"
 msgstr ""
 #
@@ -12779,12 +12799,15 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1077
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 682
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1081
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 697
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1111
 msgid "Copy"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 895
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 880
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 884
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 913
 msgid "Seat map"
 msgstr ""
 #
@@ -12794,6 +12817,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1082
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 907
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1086
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 936
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1116
 msgid "Seat"
 msgstr ""
 #
@@ -12803,6 +12828,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1084
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 911
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1088
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 940
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1118
 msgid "Occupied"
 msgstr ""
 #
@@ -12813,12 +12840,15 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1085
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 911
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1089
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 940
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1119
 msgid "Not available"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1094
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1078
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1082
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1112
 msgid "Copied"
 msgstr ""
 #
@@ -12827,42 +12857,49 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 260
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1080
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1084
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1114
 msgid "No seat selected"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1097
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1081
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1085
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1115
 msgid "No seat"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1102
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1086
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1090
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1120
 msgid "Assigned seat"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1103
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1087
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1091
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1121
 msgid "This seat is already selected for"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1104
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1088
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1092
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1122
 msgid "selected for"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1105
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1089
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1093
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1123
 msgid "Seat removed"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1107
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1091
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1095
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1125
 #, php-format
 msgid "You have not selected seats for flight %s."
 msgstr ""
@@ -12870,12 +12907,14 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1108
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1092
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1096
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1126
 msgid "You have not selected seats for these flights:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1109
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1093
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1097
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1127
 #, php-format
 msgid "Do you want to select seats for %s?"
 msgstr ""
@@ -12883,6 +12922,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1110
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1094
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1098
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1128
 #, php-format
 msgid "Select seats for %s"
 msgstr ""
@@ -12890,67 +12930,79 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1112
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1096
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1100
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1130
 msgid "Confirm anyway"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1114
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1098
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1102
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1132
 msgid "Every passenger on this flight has a seat."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1115
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1099
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1103
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1133
 msgid "Your seats are reserved with the airline. They will be charged together with your ticket."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1116
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1100
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1104
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1134
 msgid "Your seats are confirmed with the airline."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1117
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1101
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1105
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1135
 msgid "Some seats could not be confirmed. The reason is shown next to each seat. You can choose another seat from your booking."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1118
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1102
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1106
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1136
 msgid "Your seats could not be confirmed. The reason is shown next to each seat. You can choose another seat from your booking."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1119
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1107
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1137
 msgid "This seat is not available. Please choose another seat."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1120
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1108
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1138
 msgid "Paid seats can be bought once the ticket is issued."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1121
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1109
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1139
 msgid "Seats can only be chosen before the ticket is issued."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1122
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1110
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1140
 msgid "The price of this seat has changed. Please choose it again."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1123
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1111
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1141
 msgid "A seat is already assigned on this flight and cannot be changed."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009c.phtml, line: 1124
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1103
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1112
+# File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1142
 msgid "The airline is still confirming your seats. You can close this page: your seats will show in your booking as soon as they are confirmed."
 msgstr ""
 #
