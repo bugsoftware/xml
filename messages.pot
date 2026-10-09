@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-09 10:34-0400\n"
+"POT-Creation-Date: 2026-10-09 11:16-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1476,6 +1476,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 9
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 9
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 9
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 9
 msgid "to"
 msgstr ""
 #
@@ -2999,10 +3000,12 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2291
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 507
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1021
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1039
 msgid "Insurance"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3968
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 629
 msgid "Only"
 msgstr ""
 #
@@ -3247,6 +3250,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 16
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 16
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 16
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 16
 msgid "Departure"
 msgstr ""
 #
@@ -3263,6 +3267,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 287
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 283
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 287
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 320
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 287
 msgid "Price"
 msgstr ""
 #
@@ -3501,6 +3507,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 194
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1958
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 40
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 40
 msgid "Payment"
 msgstr ""
 #
@@ -3543,6 +3550,10 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1097
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1101
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1131
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 817
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 961
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 993
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1045
 msgid "Total"
 msgstr ""
 #
@@ -3775,6 +3786,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 402
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 398
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 402
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 769
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 402
 msgid "Adult"
 msgstr ""
 #
@@ -3807,6 +3820,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 402
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 398
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 402
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 771
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 402
 msgid "Adults"
 msgstr ""
 #
@@ -3824,6 +3839,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 402
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 398
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 402
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 775
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 402
 msgid "Child"
 msgstr ""
 #
@@ -3856,6 +3873,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 402
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 398
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 402
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 777
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 402
 msgid "Children"
 msgstr ""
 #
@@ -3918,6 +3937,10 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 172
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 175
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 176
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 93
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 94
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 175
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 176
 msgid "Journey"
 msgstr ""
 #
@@ -3940,6 +3963,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1391
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1511
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 765
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 783
 msgid "Infants"
 msgstr ""
 #
@@ -3964,6 +3988,13 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 298
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 306
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 314
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 328
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 336
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 344
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 352
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 298
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 306
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 314
 msgid "Bags"
 msgstr ""
 #
@@ -4017,6 +4048,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 409
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 405
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 409
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 409
 msgid "Subtotal"
 msgstr ""
 #
@@ -4032,6 +4064,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 423
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 64
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 427
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 717
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 64
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 427
 msgid "Total:"
 msgstr ""
 #
@@ -4410,6 +4445,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 421
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 417
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 421
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1324
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1374
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 421
 msgid "Service Fee:"
 msgstr ""
 #
@@ -4467,6 +4505,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 346
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 342
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 346
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 346
 msgid "First Name:"
 msgstr ""
 #
@@ -4474,6 +4513,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 347
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 343
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 347
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 347
 msgid "Last Name:"
 msgstr ""
 #
@@ -4506,6 +4546,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 162
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 158
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 162
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 67
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 162
 msgid "Departing"
 msgstr ""
 #
@@ -4544,6 +4586,12 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 9
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 285
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1124
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 320
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 570
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 732
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 9
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 285
 msgid "Flight"
 msgstr ""
 #
@@ -4615,6 +4663,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 205
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 201
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 205
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 212
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 205
 msgid "Departure:"
 msgstr ""
 #
@@ -4625,6 +4675,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 206
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 202
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 206
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 213
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 206
 msgid "Arrival:"
 msgstr ""
 #
@@ -4777,6 +4829,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 195
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 191
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 195
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 39
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 202
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 195
 msgid "Passengers"
 msgstr ""
 #
@@ -4837,6 +4892,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 388
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 384
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 388
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 388
 msgid "Date:"
 msgstr ""
 #
@@ -4871,6 +4927,8 @@ msgstr ""
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 152
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 255
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 300
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 255
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 300
 msgid "days"
 msgstr ""
 #
@@ -4886,6 +4944,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 76
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 76
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 76
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 813
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1034
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 76
 msgid "Discount"
 msgstr ""
 #
@@ -5787,6 +5848,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 786
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 993
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1003
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 804
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1011
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1021
 msgid "Taxes & Fees"
 msgstr ""
 #
@@ -5822,6 +5886,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 6
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 6
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 6
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 6
 msgid "Confirmation"
 msgstr ""
 #
@@ -6398,6 +6463,10 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 195
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 191
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 195
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 202
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 604
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 620
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 195
 msgid "Passenger"
 msgstr ""
 #
@@ -6417,18 +6486,22 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 461
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 468
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 533
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 468
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 533
 msgid "Baggage Information"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 471
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 471
 msgid "Outbound flight"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 650
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 472
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 514
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 514
 msgid "Return flight"
 msgstr ""
 #
@@ -6443,6 +6516,10 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 962
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1243
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1293
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 182
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 221
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 297
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 326
 msgid "Personal Item"
 msgstr ""
 #
@@ -6461,6 +6538,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 478
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 521
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 577
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 478
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 577
 msgid "Includes carry on hand baggage"
 msgstr ""
 #
@@ -6498,6 +6578,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 286
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 282
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 286
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 320
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 286
 msgid "Baggage"
 msgstr ""
 #
@@ -9507,6 +9589,8 @@ msgstr ""
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 150
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 255
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 300
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 255
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 300
 msgid "day"
 msgstr ""
 #
@@ -10418,6 +10502,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 200
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 196
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 200
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 207
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 200
 msgid "Direct"
 msgstr ""
 #
@@ -10429,18 +10515,21 @@ msgstr ""
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 160
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 256
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 759
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 256
 msgid "hour"
 msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 162
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 256
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 759
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 256
 msgid "hours"
 msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 169
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 257
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 759
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 257
 msgid "minutes"
 msgstr ""
 #
@@ -10555,6 +10644,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 542
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 538
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 542
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 542
 msgid "Urgent: Duplicate Booking Alert"
 msgstr ""
 #
@@ -10562,6 +10652,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 542
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 538
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 542
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 542
 msgid "Please be advised that the current booking has been identified as a duplicate. Immediate review and action are required."
 msgstr ""
 #
@@ -10745,6 +10836,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3219
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 3241
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1381
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1399
 msgid "No"
 msgstr ""
 #
@@ -10761,6 +10853,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009.phtml, line: 1095
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009b.phtml, line: 1099
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1129
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1400
 msgid "Yes"
 msgstr ""
 #
@@ -10855,6 +10948,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 121
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 117
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 121
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 121
 msgid "Issue Ticket"
 msgstr ""
 #
@@ -10919,6 +11013,7 @@ msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1596
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1111
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1129
 msgid "Traveler"
 msgstr ""
 #
@@ -10939,6 +11034,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 1871
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 814
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 904
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 832
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 922
 msgid "Commission"
 msgstr ""
 #
@@ -11082,6 +11179,12 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 464
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 460
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 464
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1316
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1330
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1341
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1384
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1395
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 464
 msgid "Close"
 msgstr ""
 #
@@ -11356,6 +11459,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 474
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 499
 # File: _backup/ancillaries-phase1-20261002/seats/seating2-20261009d.phtml, line: 1113
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 474
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 499
 msgid "Please wait..."
 msgstr ""
 #
@@ -11370,6 +11475,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2689
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2958
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1313
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1331
 msgid "Submit"
 msgstr ""
 #
@@ -11466,6 +11572,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1367
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1522
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1531
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1385
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1540
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1549
 msgid "Send"
 msgstr ""
 #
@@ -11577,6 +11686,8 @@ msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 38
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 153
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 38
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 5
 msgid "Summary"
 msgstr ""
 #
@@ -11584,34 +11695,46 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 427
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 529
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 530
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 48
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 427
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 91
 msgid "No results available"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 50
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 429
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 50
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 429
 msgid "Please search again"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 74
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 74
 msgid "Roundtrip"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 74
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 77
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 74
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 77
 msgid "passenger"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 74
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 77
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 74
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 77
 msgid "passengers"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 77
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 77
 msgid "One Way"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 136
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 573
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 136
 msgid "Change flight"
 msgstr ""
 #
@@ -11620,6 +11743,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 185
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 181
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 185
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 139
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 185
 msgid "Operated by:"
 msgstr ""
 #
@@ -11634,6 +11759,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 254
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 214
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 258
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 185
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 224
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 288
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 214
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 258
 msgid "Checked In Bag"
 msgstr ""
 #
@@ -11648,6 +11778,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 254
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 214
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 258
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 185
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 224
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 288
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 214
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 258
 msgid "Checked In Bags"
 msgstr ""
 #
@@ -11662,6 +11797,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 257
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 217
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 261
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 188
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 227
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 291
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 217
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 261
 msgid "Second Checked In Bag"
 msgstr ""
 #
@@ -11676,6 +11816,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 257
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 217
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 261
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 188
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 227
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 291
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 217
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 261
 msgid "Second Checked In Bags"
 msgstr ""
 #
@@ -11690,6 +11835,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 260
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 220
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 264
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 230
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 294
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 220
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 264
 msgid "Carry on Bag"
 msgstr ""
 #
@@ -11701,6 +11851,10 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 260
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 220
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 264
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 230
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 220
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 264
 msgid "(Handbag)"
 msgstr ""
 #
@@ -11715,6 +11869,11 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 260
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 220
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 264
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 230
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 294
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 220
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 264
 msgid "Carry on Bags"
 msgstr ""
 #
@@ -11723,6 +11882,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 220
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 216
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 220
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 230
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 220
 msgid "Handbag"
 msgstr ""
 #
@@ -11731,6 +11893,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 189
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 185
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 189
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 196
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 189
 msgid "FROM"
 msgstr ""
 #
@@ -11739,6 +11903,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 190
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 186
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 190
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 197
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 190
 msgid "TO"
 msgstr ""
 #
@@ -11747,6 +11913,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 191
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 187
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 191
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 198
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 191
 msgid "TIME"
 msgstr ""
 #
@@ -11755,6 +11923,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 193
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 189
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 193
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 200
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 193
 msgid "TRAVELERS"
 msgstr ""
 #
@@ -11772,6 +11942,12 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 22
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 38
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 200
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 207
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 22
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 38
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 200
 msgid "stop"
 msgstr ""
 #
@@ -11789,6 +11965,12 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 22
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 38
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 200
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 207
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 22
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 38
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 200
 msgid "stops"
 msgstr ""
 #
@@ -11796,6 +11978,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 224
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 220
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 224
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 235
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 224
 msgid "bags info"
 msgstr ""
 #
@@ -11804,11 +11988,14 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 224
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 220
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 224
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 235
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 224
 msgid "flight details"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 240
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 812
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 240
 msgid "Please note: This flight has a technical stop but does not incur a change in flight number."
 msgstr ""
 #
@@ -11816,15 +12003,19 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 229
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 225
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 229
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 245
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 229
 msgid "Flight Information"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 252
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 756
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 252
 msgid "Wait time on"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 257
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 257
 msgid "minute"
 msgstr ""
 #
@@ -11832,6 +12023,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 280
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 276
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 280
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 316
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 280
 msgid "Bags Information"
 msgstr ""
 #
@@ -11839,6 +12032,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 288
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 284
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 288
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 320
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 288
 msgid "Qty"
 msgstr ""
 #
@@ -11857,6 +12052,13 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 297
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 305
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 313
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 327
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 335
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 351
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 297
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 305
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 313
 msgid "Aprox."
 msgstr ""
 #
@@ -11873,6 +12075,13 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 297
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 305
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 313
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 327
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 335
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 351
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 297
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 305
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 313
 msgid "Free Bag"
 msgstr ""
 #
@@ -11889,6 +12098,13 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 297
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 305
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 313
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 327
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 335
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 351
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 297
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 305
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 313
 msgid "Free Bags"
 msgstr ""
 #
@@ -11905,6 +12121,13 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 298
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 306
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 314
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 328
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 336
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 344
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 352
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 298
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 306
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 314
 msgid "Bag"
 msgstr ""
 #
@@ -11914,6 +12137,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 296
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 292
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 296
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 334
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 296
 msgid "Carry on Baggage"
 msgstr ""
 #
@@ -11925,6 +12150,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 304
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 300
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 304
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 342
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 304
 msgid "Checked In Baggage"
 msgstr ""
 #
@@ -11933,6 +12160,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 312
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 308
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 312
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 350
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 312
 msgid "Second Checked In Baggage"
 msgstr ""
 #
@@ -11941,6 +12170,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 320
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 316
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 320
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 359
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 320
 msgid "Baggage fees reflect the airline's standard fees based on the selected fare class. Fees may vary based on size and weight restrictions as well as loyalty programs and other promotions."
 msgstr ""
 #
@@ -11948,43 +12179,60 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 323
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 319
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 323
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 361
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 323
 msgid "This price does not include luggage but you can add it later"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 363
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 363
 msgid "We are currently unable to check the baggage policies from the airline or present the baggage details."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 382
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 540
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 382
 msgid "Select seats"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 385
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 385
 msgid "Add extra bags"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 473
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 516
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 572
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 473
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 516
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 572
 msgid "Personal item"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 474
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 517
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 573
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 474
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 517
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 573
 msgid "Includes a backpack baggage"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 474
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 517
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 573
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 474
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 517
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 573
 msgid "Backpack baggage not included"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 477
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 520
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 576
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 477
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 520
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 576
 msgid "Carry-on baggage"
 msgstr ""
 #
@@ -11994,92 +12242,128 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 525
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 577
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 581
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 478
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 577
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 581
 msgid "piece per passenger"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 478
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 521
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 577
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 478
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 521
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 577
 msgid "Carry on hand baggage not included"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 481
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 524
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 580
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 481
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 524
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 580
 msgid "Checked baggage"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 482
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 525
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 581
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 581
 msgid "Includes checked baggage"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 482
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 525
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 581
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 482
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 525
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 581
 msgid "Baggage not included"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 590
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 933
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 998
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 590
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 951
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1016
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 6
 msgid "Ancillaries"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 592
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 592
 msgid "Enhance your journey with our selection of ancillary services. Select from the options below to add to your reservation:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 600
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 617
 msgid "per person"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 638
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 656
 msgid "We've made it easy for you to get insurance coverage!"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 640
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 658
 msgid "coverage"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 643
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 661
 msgid "view sample description of coverage"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 649
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 667
 msgid "REMOVE"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 650
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 668
 msgid "ADD"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 677
 msgid "The Generali Global Assistance plan cost includes the travel insurance premium and assistance service fee. Travel insurance coverages in the Generali Global Assistance plan are underwritten by: Generali U.S. Branch, New York, NY; NAIC # 11231, for the operating name used in certain states, and other important information about the Generali Global Assistance Travel Insurance & Assistance Services Plan,"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 677
 msgid "please see"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 677
 msgid "Important Disclosures,"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 659
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 677
 msgid "Terms and Conditions, and Assistance Service pricing."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 670
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 688
 msgid "Generali Global Assistance cannot provide travel protection for trips to Afghanistan, Belarus, Burkina Faso, Central African Republic, Cuba, Haiti, Iran, Iraq, Israel, Lebanon, Libya, Mali, all destinations in the Middle East, Myanmar, Niger, North Korea, Somalia, South Sudan, Sudan, Syria, Ukraine, Venezuela, Yemen, the Russian Federation, Crimea, and the Zaporizhzhia, Kherson, Donetsk and Luhansk Peoples regions."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 684
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 702
 msgid "Your flight has separate tickets"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 685
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 703
 msgid "Your flight is a combination of two one-way fares, each subject to its own rules and restrictions. If one of your flights is changed or cancelled, it will not automatically alter the other flight. Changes to the other flight may incur a charge."
 msgstr ""
 #
@@ -12088,6 +12372,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1274
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 144
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 282
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 723
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1105
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1292
 msgid "CONFIRM"
 msgstr ""
 #
@@ -12099,26 +12386,38 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 38
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 22
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 38
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 22
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 38
 msgid "Non Stop"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
 msgid "Public Fare"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
 msgid "Agency Private Fare"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
 msgid "Private Fare"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 726
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 735
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 744
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 753
 msgid "Net Fare"
 msgstr ""
 #
@@ -12129,6 +12428,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 36
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 20
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 36
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 746
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 20
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 36
 msgid "Dep:"
 msgstr ""
 #
@@ -12139,90 +12441,120 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 37
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 21
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 37
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 747
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 21
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 37
 msgid "Arr:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 763
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 781
 msgid "Infant"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 769
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 771
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 787
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 789
 msgid "Senior Citizen"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 779
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 981
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 986
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 797
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 999
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1004
 msgid "Base Price"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 790
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1010
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 808
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1028
 msgid "Fees"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 809
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 896
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 827
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 914
 msgid "Air Commission"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 820
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 910
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 838
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 928
 msgid "Commission Total"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 826
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 916
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 844
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 934
 msgid "Commission Tour Code"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 899
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 917
 msgid "Commission Details"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 899
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 917
 msgid "Earnings applied to this air booking"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 922
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 940
 msgid "Commission Ticket Designator"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 928
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 946
 msgid "Commission is credited after ticketing and final validation."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 928
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 946
 msgid "Final commission amounts are subject to adjustment in the event of booking amendments, cancellations, rate revisions, promotional changes, or any other modifications affecting the total value of the reservation."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 939
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 957
 msgid "Insurance travel protection"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 955
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 973
 msgid "Travel Insurance Included"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 956
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 974
 msgid "Your purchase includes a comprehensive travel insurance plan. You can remove this insurance by clicking the 'Remove' button, but we highly recommend keeping it for your peace of mind and protection during your travels."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 965
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 969
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 983
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 987
 msgid "Service Fee"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1042
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1060
 msgid "Frontier Disclaimer"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1043
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1061
 msgid "All ticket changes, schedule modifications, cancellations, refunds, seat assignments, baggage purchases, or any other post‑booking adjustments for Frontier Airlines (F9) must be handled directly with Frontier Airlines. Frontier requires passengers to manage all exchanges and service requests through their official customer support channels."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1044
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1062
 msgid "By completing your booking, you acknowledge that Frontier Airlines maintains full control over fare rules, optional services, and itinerary changes, and that any updates or issues must be resolved with Frontier directly."
 msgstr ""
 #
@@ -12230,6 +12562,8 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 88
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 88
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 88
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1081
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 88
 msgid "loyalty program"
 msgstr ""
 #
@@ -12237,10 +12571,13 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 88
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 88
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 88
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1081
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 88
 msgid "Loyalty Program"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1064
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1082
 msgid "Book now and earn"
 msgstr ""
 #
@@ -12248,22 +12585,28 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 89
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 89
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 89
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1082
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 89
 msgid "loyalty points"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1064
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1082
 msgid "Redeem them as a discount on your next reservation"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1086
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1104
 msgid "ADD SERVICE FEE"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1089
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1107
 msgid "ADD TO CART"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1091
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1109
 msgid "SEND QUOTE"
 msgstr ""
 #
@@ -12274,6 +12617,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 110
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 110
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 114
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1123
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 110
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 114
 msgid "Select Seats"
 msgstr ""
 #
@@ -12281,89 +12627,113 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1287
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 982
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 985
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1136
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1305
 msgid "Loading..."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1281
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1299
 msgid "Add Baggage"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1293
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1297
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1311
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1315
 msgid "Add Service Fee"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1302
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1320
 msgid "Notice: The maximum service charge applicable is $200.00 per passenger. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1303
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1321
 msgid "Notice: The maximum service charge applicable is $200.00. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1304
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1322
 #, php-format
 msgid "Notice: In accordance with our pricing policy, the service fee for each booking is strictly limited to a maximum of 10% of the total booking value. For example, if the total booking amount is $100, the service fee can't be more than $10."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1318
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1322
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1336
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1340
 msgid "Send Quote"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1327
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1345
 msgid "Customer Name Required! Please enter the customer's name before submitting the form. This field is mandatory."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1328
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1346
 msgid "Customer Phone Required! Please enter the customer's phone number before submitting the form. This field is mandatory."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1329
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1347
 msgid "Email Address Required! Please enter the customer's email address before submitting the form. This field is mandatory."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1330
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1348
 msgid "Quote Not Sent! The quote has not been sent to the customer. Please check the details and try again.."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1336
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1354
 msgid "Send Quote by Email"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1342
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1360
 msgid "Send Quote by WhatsApp"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1347
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1365
 msgid "Customer Name:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1351
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1369
 msgid "Phone Number:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1352
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1370
 msgid "Country Code"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1352
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1370
 msgid "Select Country Code"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1360
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1378
 msgid "Email Address:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1372
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1390
 msgid "Add Service Fee to Your Reservation Now"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1376
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1394
 msgid "Add Service Fee to Your Reservation"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1379
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1397
 msgid "We noticed that you did not add any service fee to your current reservation. Do you want to add the service fee to your reservation now?"
 msgstr ""
 #
@@ -12372,10 +12742,16 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1421
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1507
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1625
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1420
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1426
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1439
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1525
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1643
 msgid "PLEASE WAIT"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-summary.phtml, line: 1498
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 1516
 msgid "Invalid email format. Please enter a valid email address."
 msgstr ""
 #
@@ -12464,6 +12840,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 343
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 339
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 343
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 343
 msgid "Travelers"
 msgstr ""
 #
@@ -12673,6 +13050,7 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 976
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1320
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1322
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 73
 msgid "SELECT"
 msgstr ""
 #
@@ -12824,6 +13202,7 @@ msgid "Flexibility for Return Flight"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1782
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 106
 msgid "PLEASE WAIT..."
 msgstr ""
 #
@@ -13133,6 +13512,7 @@ msgid "Seat Selection"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/seating.phtml, line: 155
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 7
 msgid "Confirm"
 msgstr ""
 #
@@ -13167,18 +13547,21 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 9
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 9
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 9
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 9
 msgid "from"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 32
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 32
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 32
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 32
 msgid "Return"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 47
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 47
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 47
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 47
 msgid "Base:"
 msgstr ""
 #
@@ -13188,180 +13571,211 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 59
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 53
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 59
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 53
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 59
 msgid "Taxes & Fees:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 70
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 70
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 70
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 70
 msgid "Subtotal:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 89
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 89
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 89
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 89
 msgid "You have earned"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 89
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 89
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 89
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 89
 msgid "You can redeem them as a discount on your next reservation"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 101
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 101
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 101
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 101
 msgid "Issuing Tickets"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 106
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 106
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 106
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 106
 msgid "Please note that once the NDC document is issued, voiding will not be supported online. After issuance, you must contact support so we can coordinate the void with the NDC‑issuing airline."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 117
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 113
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 117
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 117
 msgid "Add Baggage & More"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 131
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 127
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 131
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 131
 msgid "How to make payment?"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 135
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 131
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 135
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 135
 msgid "Find a MoneyGram agent location near you. You can use the link bellow to search for an agent by zip code, city, or country. Some of the popular retailers that offer MoneyGram services are Walmart, CVS, and 7-Eleven."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 136
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 132
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 136
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 136
 msgid "Visit the MoneyGram agent location and bring your ID, the amount of the reservation, and the payment information listed bellow."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 137
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 133
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 137
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 137
 msgid "You can pay by cash, debit card, or credit card."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 138
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 134
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 138
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 138
 msgid "Give the money to the agent and pay any applicable fees. You will receive a receipt with a reference number. Keep this number for your records."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 142
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 138
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 142
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 142
 msgid "Your MoneyGram Receiver Code is"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 145
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 141
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 145
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 145
 msgid "The Account Number of the Bill to Pay is"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 148
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 144
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 148
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 148
 msgid "MoneyGram agent locations near me"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 340
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 336
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 340
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 340
 msgid "Transport Information"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 349
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 345
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 349
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 349
 msgid "Seat:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 367
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 363
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 367
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 367
 msgid "Insurance in"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 396
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 392
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 396
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 396
 msgid "Cost per passenger:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 437
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 433
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 437
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 437
 msgid "Verify Your Phone Number"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 441
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 437
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 441
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 441
 msgid "Invalid Verification Code"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 441
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 437
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 441
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 441
 msgid "The code you entered is not valid. Please check the code and try again. If you haven’t received a new code, request another one to continue with the verification process."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 442
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 438
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 442
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 442
 msgid "We just sent you a text message with a"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 442
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 438
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 442
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 442
 msgid "verification code"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 444
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 440
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 444
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 444
 msgid "Open the text message on your phone."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 445
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 441
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 445
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 445
 msgid "Find the 6-digit code inside the message."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 446
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 442
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 446
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 446
 msgid "Type that code in the box below."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 449
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 445
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 449
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 449
 msgid "Enter the code here:"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 450
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 446
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 450
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 450
 msgid "e.g."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 452
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 448
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 452
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 452
 msgid "Tip: If you didn’t get the message, wait a few seconds or click \"Resend Code\"."
 msgstr ""
 #
@@ -13374,6 +13788,9 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 455
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 509
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 514
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 455
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 509
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 514
 msgid "Resend Code"
 msgstr ""
 #
@@ -13386,36 +13803,44 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 456
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 487
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 492
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 456
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 487
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 492
 msgid "Submit Code"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 464
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 460
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 464
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 464
 msgid "Moneygram Agent Locations"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 550
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 546
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 550
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 550
 msgid "Status: Pending"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 550
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 546
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 550
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 550
 msgid "Your booking is currently pending. Please contact customer support for assistance."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 563
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 559
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 563
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 563
 msgid "We regret to inform you that your reservation could not be confirmed due to an unexpected system error."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 563
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 559
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 563
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 563
 msgid "We apologize for any inconvenience this may have caused and request that you try booking again or contact our customer support for immediate assistance."
 msgstr ""
 #
@@ -13425,36 +13850,43 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 645
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 644
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 659
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 644
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 659
 msgid "Ticket :"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 685
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 671
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 685
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 685
 msgid "We are currently reviewing the payment for your reservation. We will provide you with an update as soon as the review is completed."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 691
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 677
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 691
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 691
 msgid "We regret to inform you that the payment for your reservation has not been successful. Please check your payment details and try again, or contact our customer service for further assistance."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 697
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 683
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 697
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 697
 msgid "We have encountered an exception while processing the payment for your reservation. We kindly ask you to attempt the payment process again or reach out to our customer support for assistance."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 704
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 690
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 704
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 704
 msgid "Your reservation is being processed and you will receive an email with your booking PNR codes shortly."
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 704
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 690
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 704
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 704
 msgid "Thank you for choosing us for your travel needs. We hope you have a wonderful trip."
 msgstr ""
 #
@@ -13470,5 +13902,61 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 719
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 720
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 730
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 718
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 719
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 720
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-confirm-20261009p2.phtml, line: 730
 msgid "Booking"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 1266
+msgid "Your Personalized Flight Quote – Ready for Review!"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2398
+msgid "Book Flights, Hotels, Cars and More"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2399
+msgid "is the world's leading airline. Book flights, hotels, cars and more on our site and enjoy our award-winning service and in-flight entertainment."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "flights"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "tickets"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "travel"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "hotels"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "cars"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "deals"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-src-Controller-AirController-20261009p2.php, line: 2400
+msgid "destinations"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 635
+msgid "A bundle cannot be combined with a single option it already includes (for example a bundle with a bag and an extra bag) for the same passenger and flight."
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 92
+msgid "No ancillaries available"
+msgstr ""
+#
+# File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 93
+msgid "We were unable to fetch ancillary services for your selected airline at this time. This could be due to a variety of reasons. Please try again later or contact our customer support for assistance."
 msgstr ""
