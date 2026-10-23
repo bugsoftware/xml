@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-22 19:46-0400\n"
+"POT-Creation-Date: 2026-10-23 02:06-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -856,16 +856,16 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2108
+# File: console/src/Xml/Command/Cancellations.php, line: 2112
 msgid "Unable to detect deadline"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2212
-# File: console/src/Xml/Command/Cancellations.php, line: 2257
-# File: console/src/Xml/Command/Cancellations.php, line: 2302
-# File: console/src/Xml/Command/Cancellations.php, line: 2347
-# File: console/src/Xml/Command/Cancellations.php, line: 2392
-# File: console/src/Xml/Command/Cancellations.php, line: 2439
+# File: console/src/Xml/Command/Cancellations.php, line: 2216
+# File: console/src/Xml/Command/Cancellations.php, line: 2261
+# File: console/src/Xml/Command/Cancellations.php, line: 2306
+# File: console/src/Xml/Command/Cancellations.php, line: 2351
+# File: console/src/Xml/Command/Cancellations.php, line: 2396
+# File: console/src/Xml/Command/Cancellations.php, line: 2443
 msgid "*PENDING* Payment Reservation"
 msgstr ""
 #
@@ -2583,6 +2583,11 @@ msgstr ""
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
 # File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 133
 # File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 134
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 81
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 82
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 85
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 86
+# File: src/App/Action/DerbySoft/SearchHotels.php, line: 133
 msgid "Cancel on or after"
 msgstr ""
 #
@@ -8654,6 +8659,11 @@ msgstr ""
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
 # File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 133
 # File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 134
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 81
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 82
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 85
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 86
+# File: src/App/Action/DerbySoft/SearchHotels.php, line: 133
 msgid "will incur in"
 msgstr ""
 #
@@ -8776,6 +8786,11 @@ msgstr ""
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 204
 # File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 133
 # File: src/App/Action/WebHotelier/HotelParallelParse.php, line: 134
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 81
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 82
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 85
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 86
+# File: src/App/Action/DerbySoft/SearchHotels.php, line: 133
 msgid "penalty."
 msgstr ""
 #
@@ -9121,6 +9136,9 @@ msgstr ""
 # File: src/App/Action/Youtravel/MultiPolicies.php, line: 271
 # File: src/App/Action/Youtravel/Policies.php, line: 258
 # File: src/App/Action/Youtravel/Policies.php, line: 259
+# File: src/App/Action/DerbySoft/HotelParallelParse.php, line: 30
+# File: src/App/Action/DerbySoft/Policies.php, line: 135
+# File: src/App/Action/DerbySoft/SearchHotels.php, line: 76
 msgid "This booking is non-refundable and cannot be amended or modified. Failure to arrive at your hotel will be treated as a No-Show and no refund will be given."
 msgstr ""
 #
@@ -10776,6 +10794,10 @@ msgstr ""
 # File: src/App/Action/AssistCardAction.php, line: 2032
 # File: src/App/Action/AssistCardAction.php, line: 2045
 msgid "Rental Car Damage"
+msgstr ""
+#
+# File: src/App/Action/DerbySoft/Policies.php, line: 95
+msgid "The selected room is no longer available."
 msgstr ""
 #
 # File: src/App/Action/AgentsRegisterAction.php, line: 832
