@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 11:18-0400\n"
+"POT-Creation-Date: 2026-10-30 11:21-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -388,7 +388,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8596
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8598
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -1301,19 +1301,19 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3636
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7365
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3638
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7367
 # File: _backup/oct29-charges.cybersource.php, line: 3577
 # File: _backup/oct29-charges.cybersource.php, line: 7281
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8584
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8586
 # File: _backup/oct29-charges.cybersource.php, line: 8492
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8596
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8598
 # File: _backup/oct29-charges.cybersource.php, line: 8504
 msgid "Cybersource Credit Card Processing"
 msgstr ""
@@ -3152,7 +3152,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 38
-# File: src/App/Action/AirIssueTicketAction.php, line: 1209
+# File: src/App/Action/AirIssueTicketAction.php, line: 1210
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1059
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1056
 # File: _backup/oct29-charges.AirIssueTicketAction.php, line: 1143
@@ -4287,7 +4287,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 39
-# File: src/App/Action/AirIssueTicketAction.php, line: 1210
+# File: src/App/Action/AirIssueTicketAction.php, line: 1211
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1060
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1057
 # File: _backup/oct29-charges.AirIssueTicketAction.php, line: 1144
@@ -10836,7 +10836,7 @@ msgstr ""
 msgid "Thank You for Registering Your Property with Us"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1199
+# File: src/App/Action/AirIssueTicketAction.php, line: 1200
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1049
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1046
 # File: _backup/oct29-charges.AirIssueTicketAction.php, line: 1133
@@ -10844,7 +10844,7 @@ msgstr ""
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1205
+# File: src/App/Action/AirIssueTicketAction.php, line: 1206
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1055
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1052
 # File: _backup/oct29-charges.AirIssueTicketAction.php, line: 1139
@@ -10852,7 +10852,7 @@ msgstr ""
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1207
+# File: src/App/Action/AirIssueTicketAction.php, line: 1208
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009b.php, line: 1057
 # File: _backup/ancillaries-phase1-20261002/seats/AirIssueTicketAction-20261009.php, line: 1054
 # File: _backup/oct29-charges.AirIssueTicketAction.php, line: 1141
