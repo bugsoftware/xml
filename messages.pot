@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-01 13:53-0500\n"
+"POT-Creation-Date: 2026-11-01 14:34-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5279,7 +5279,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 63
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11555
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3777
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3806
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3425
 msgid "Address:"
 msgstr ""
@@ -7604,8 +7604,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11535
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11536
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3757
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3758
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3786
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3787
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3405
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3406
 msgid "Moneygram Payment Initiated"
@@ -7613,8 +7613,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11538
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11539
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3760
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3761
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3789
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3790
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3408
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3409
 msgid "Moneygram Payment Confirmed"
@@ -7622,57 +7622,57 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11541
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11542
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3763
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3764
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3792
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3793
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3411
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3412
 msgid "Moneygram Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11549
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3771
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3800
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3419
 msgid "We are pleased to inform you that a customer has initiated a reservation payment using Moneygram for one of your reservations. The payment details are as follows:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11550
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3772
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3801
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3420
 msgid "Reservation ID:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11552
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3774
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3803
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3422
 msgid "Account Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11554
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3776
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3805
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3424
 msgid "Sender:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11556
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3778
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3807
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3426
 msgid "Total amount:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11557
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3779
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3808
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3427
 msgid "Moneygram reference number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11560
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3782
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3811
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3430
 msgid "NOTE: This is NOT a payment confirmation. This is to inform you that the customer has initiated the payment."
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11562
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3784
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3813
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3432
 msgid "Please confirm the receipt of the payment and update the reservation status if required. If you have any questions or concerns, please contact customer support."
 msgstr ""
