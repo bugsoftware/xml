@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 16:51-0500\n"
+"POT-Creation-Date: 2026-11-04 17:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -388,7 +388,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8598
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8604
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -1301,19 +1301,19 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3638
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7367
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3644
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7373
 # File: _backup/oct29-charges.cybersource.php, line: 3577
 # File: _backup/oct29-charges.cybersource.php, line: 7281
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8586
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8592
 # File: _backup/oct29-charges.cybersource.php, line: 8492
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8598
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8604
 # File: _backup/oct29-charges.cybersource.php, line: 8504
 msgid "Cybersource Credit Card Processing"
 msgstr ""
@@ -8608,8 +8608,8 @@ msgstr ""
 # File: src/App/Action/Roomer/HotelParallelParse.php, line: 119
 # File: src/App/Action/Roomer/SearchHotels.php, line: 307
 # File: src/App/Action/Roomer/SearchHotels.php, line: 316
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 74
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 75
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 84
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 85
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 94
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 96
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 423
@@ -8651,8 +8651,8 @@ msgstr ""
 # File: src/App/Action/Priceline/Policies.php, line: 475
 # File: src/App/Action/Priceline/SearchHotels.php, line: 379
 # File: src/App/Action/Priceline/SearchHotels.php, line: 427
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 74
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 75
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 84
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 85
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 94
 # File: src/App/Action/SnapTravel/HotelParallelParse.php, line: 96
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 423
@@ -9216,8 +9216,8 @@ msgstr ""
 # File: src/App/Action/RateHawk/HotelParallelParse.php, line: 181
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 439
 # File: src/App/Action/RateHawk/SearchHotels.php, line: 440
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 100
-# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 101
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 110
+# File: src/App/Action/SiteMinder/HotelParallelParse.php, line: 111
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 436
 # File: src/App/Action/SnapTravel/MultiPolicies.php, line: 437
 # File: src/App/Action/Symrooms/HotelParallelParse.php, line: 297
