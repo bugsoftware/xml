@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-05 08:27-0500\n"
+"POT-Creation-Date: 2026-11-05 09:08-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -388,7 +388,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8605
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8607
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -608,8 +608,10 @@ msgstr ""
 # File: src/App/Action/Amadeus/Policies.php, line: 584
 # File: src/App/Action/Amadeus/Policies.php, line: 646
 # File: src/App/Action/Amadeus/Policies.php, line: 647
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 450
 # File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 451
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 452
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 439
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 440
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 248
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 249
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 537
@@ -1303,19 +1305,19 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3645
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7374
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3647
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7376
 # File: _backup/oct29-charges.cybersource.php, line: 3577
 # File: _backup/oct29-charges.cybersource.php, line: 7281
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8593
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8595
 # File: _backup/oct29-charges.cybersource.php, line: 8492
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8605
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8607
 # File: _backup/oct29-charges.cybersource.php, line: 8504
 msgid "Cybersource Credit Card Processing"
 msgstr ""
@@ -7958,10 +7960,10 @@ msgstr ""
 # File: src/App/Action/AIO/SearchHotelsMulti.php, line: 378
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 666
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 669
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 527
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 530
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 416
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 419
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 528
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 531
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 518
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 521
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 258
 # File: src/App/Action/Convencional/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
@@ -8088,8 +8090,10 @@ msgstr ""
 # File: src/App/Action/Amadeus/Policies.php, line: 584
 # File: src/App/Action/Amadeus/Policies.php, line: 646
 # File: src/App/Action/Amadeus/Policies.php, line: 647
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 450
 # File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 451
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 452
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 439
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 440
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 253
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 254
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 258
@@ -8977,15 +8981,16 @@ msgstr ""
 # File: src/App/Action/Amadeus/MultiPolicies.php, line: 651
 # File: src/App/Action/Amadeus/MultiPolicies.php, line: 663
 # File: src/App/Action/Amadeus/MultiPolicies.php, line: 664
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 895
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 896
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 881
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 882
 # File: src/App/Action/Amadeus/Policies.php, line: 580
 # File: src/App/Action/Amadeus/Policies.php, line: 581
 # File: src/App/Action/Amadeus/Policies.php, line: 643
 # File: src/App/Action/Amadeus/Policies.php, line: 644
 # File: src/App/Action/Amadeus/Policies.php, line: 809
 # File: src/App/Action/Amadeus/Policies.php, line: 810
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 430
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 431
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 419
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 803
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 804
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 805
@@ -9296,8 +9301,8 @@ msgid "Unable to fetch availability for the selected criteria. We are unable to 
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 658
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 519
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 408
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 520
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 510
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 269
 # File: src/App/Action/Convencional/SearchHotels.php, line: 455
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 477
@@ -9332,8 +9337,8 @@ msgid "All Inclusive"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 660
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 521
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 410
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 522
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 512
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 260
 # File: src/App/Action/Convencional/SearchHotels.php, line: 446
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 468
@@ -9361,8 +9366,8 @@ msgid "Bed & Breakfast"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 662
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 523
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 412
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 524
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 514
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 263
 # File: src/App/Action/Convencional/SearchHotels.php, line: 449
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 471
@@ -9386,8 +9391,8 @@ msgid "Half Board"
 msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 664
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 525
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 414
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 526
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 516
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 266
 # File: src/App/Action/Convencional/SearchHotels.php, line: 452
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 474
@@ -9402,20 +9407,29 @@ msgstr ""
 msgid "Full Board"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 449
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 450
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 438
 msgid "a penalty"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 453
 # File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 454
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 455
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 442
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 443
 msgid "Free cancellation before"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 463
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 465
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 464
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 466
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 452
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 454
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1861
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1863
 msgid "commission"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 457
+msgid "Commissionable"
 msgstr ""
 #
 # File: src/App/Action/AirportsAction.php, line: 133
