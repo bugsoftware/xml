@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-05 15:55-0500\n"
+"POT-Creation-Date: 2026-11-05 18:04-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -485,7 +485,7 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 292
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 395
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10928
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2790
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2807
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3898
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2890
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2798
@@ -496,7 +496,7 @@ msgstr ""
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 1038
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 298
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10925
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2787
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2804
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3895
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2885
 # File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ticketing2-20261009p3.phtml, line: 1104
@@ -530,7 +530,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5315
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10530
 # File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 165
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2353
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2370
 # File: _backup/ancillaries-phase1-20261002/sabre/CreateTicket.php, line: 472
 # File: _backup/ancillaries-phase1-20261002/sabre-v2/CreateTicket.php, line: 472
 # File: _backup/ancillaries-phase1-20261002/sabre-v2/CreateTicket.pre-amounts.php, line: 472
@@ -553,7 +553,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3300
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10532
 # File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 167
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2355
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2372
 # File: _backup/ancillaries-phase1-20261002/sabre/CreateTicket.php, line: 474
 # File: _backup/ancillaries-phase1-20261002/sabre-v2/CreateTicket.php, line: 474
 # File: _backup/ancillaries-phase1-20261002/sabre-v2/CreateTicket.pre-amounts.php, line: 474
@@ -1139,9 +1139,9 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11283
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11284
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11368
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3146
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3147
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3231
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3163
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3164
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3248
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3153
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3154
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3238
@@ -1152,7 +1152,7 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/points.php, line: 110
 # File: console/src/Xml/Command/Costamar/pointssend.php, line: 97
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11289
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3152
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3169
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3159
 msgid "Congratulations, You May Now Redeem Your Balance Rewards."
 msgstr ""
@@ -1161,7 +1161,7 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/points.php, line: 111
 # File: console/src/Xml/Command/Costamar/pointssend.php, line: 98
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11290
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3153
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3170
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3160
 msgid "You may choose to redeem your points now or you may choose to accumulate additional points over time. Please feel free to contact us with any questions and good luck accumulating as many points as possible."
 msgstr ""
@@ -1170,7 +1170,7 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/points.php, line: 177
 # File: console/src/Xml/Command/Costamar/pointssend.php, line: 165
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11367
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3230
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3247
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3237
 msgid "Congratulations - Rewards Credit"
 msgstr ""
@@ -1185,7 +1185,7 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/points.php, line: 184
 # File: console/src/Xml/Command/Costamar/pointssend.php, line: 172
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11374
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3237
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3254
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3244
 msgid "Reservation Reference:"
 msgstr ""
@@ -5006,7 +5006,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 445
 # File: console/src/Xml/Command/Templates/reservation.phtml, line: 490
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11016
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2878
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2895
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009b.phtml, line: 388
 # File: _backup/ancillaries-phase1-20261002/seats/confirm.phtml, line: 384
 # File: _backup/ancillaries-phase1-20261002/seats/confirm-20261009.phtml, line: 388
@@ -5283,7 +5283,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/voucher2.phtml, line: 63
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11555
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3806
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3823
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3425
 msgid "Address:"
 msgstr ""
@@ -7486,8 +7486,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10931
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10951
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2793
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2813
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2810
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2830
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3812
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3876
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3937
@@ -7497,7 +7497,7 @@ msgid "Unknown"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10936
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2798
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2815
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3911
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2848
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2806
@@ -7505,7 +7505,7 @@ msgid "Total Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10939
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2801
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2818
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3914
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2857
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2809
@@ -7513,7 +7513,7 @@ msgid "1st Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10942
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2804
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2821
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3917
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2864
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2812
@@ -7521,7 +7521,7 @@ msgid "2nd Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10945
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2807
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2824
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/ViewReservationController.php, line: 3920
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 2871
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2815
@@ -7529,87 +7529,87 @@ msgid "3rd Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10948
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2810
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2827
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2818
 msgid "4th Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10992
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2854
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2871
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2862
 msgid "Settlement"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10997
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2859
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2876
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2867
 msgid "New Payment/Settlement has been posted."
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 10998
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2860
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2877
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2868
 msgid "Reservation #:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11000
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2862
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2879
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2870
 msgid "Country of Payment:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11002
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2864
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2881
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2872
 msgid "Type of Payment:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11004
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2866
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2883
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2874
 msgid "Payment Method:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11007
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2869
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2886
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2877
 msgid "Receipt Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11011
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2873
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2890
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2881
 msgid "Approval Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11014
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2876
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2893
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2884
 msgid "Amount:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11019
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2881
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2898
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2889
 msgid "Account Id:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11023
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2885
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 2902
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 2893
 msgid "PNR/Reference:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11373
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3236
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3253
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3243
 msgid "Balance Rewards have been credited to"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11535
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11536
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3786
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3787
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3803
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3804
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3405
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3406
 msgid "Moneygram Payment Initiated"
@@ -7617,8 +7617,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11538
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11539
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3789
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3790
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3806
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3807
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3408
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3409
 msgid "Moneygram Payment Confirmed"
@@ -7626,57 +7626,57 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11541
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11542
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3792
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3793
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3809
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3810
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3411
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3412
 msgid "Moneygram Payment"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11549
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3800
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3817
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3419
 msgid "We are pleased to inform you that a customer has initiated a reservation payment using Moneygram for one of your reservations. The payment details are as follows:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11550
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3801
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3818
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3420
 msgid "Reservation ID:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11552
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3803
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3820
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3422
 msgid "Account Number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11554
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3805
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3822
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3424
 msgid "Sender:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11556
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3807
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3824
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3426
 msgid "Total amount:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11557
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3808
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3825
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3427
 msgid "Moneygram reference number:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11560
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3811
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3828
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3430
 msgid "NOTE: This is NOT a payment confirmation. This is to inform you that the customer has initiated the payment."
 msgstr ""
 #
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 11562
-# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3813
+# File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 3830
 # File: _backup/oct29-charges.Reservations_VouchersTicketing.php, line: 3432
 msgid "Please confirm the receipt of the payment and update the reservation status if required. If you have any questions or concerns, please contact customer support."
 msgstr ""
