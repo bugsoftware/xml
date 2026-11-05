@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 17:54-0500\n"
+"POT-Creation-Date: 2026-11-04 19:05-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -388,7 +388,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8604
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8605
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -477,7 +477,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Amadeus/CreateAir.php, line: 995
 # File: console/src/Xml/Command/Amadeus/CreateCar.php, line: 259
-# File: console/src/Xml/Command/Amadeus/CreateHotel.php, line: 400
+# File: console/src/Xml/Command/Amadeus/CreateHotel.php, line: 463
 msgid "Credit Card Available"
 msgstr ""
 #
@@ -600,14 +600,16 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 580
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/Abreu/Policies.php, line: 502
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 575
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 576
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 629
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 630
-# File: src/App/Action/Amadeus/Policies.php, line: 566
-# File: src/App/Action/Amadeus/Policies.php, line: 567
-# File: src/App/Action/Amadeus/Policies.php, line: 620
-# File: src/App/Action/Amadeus/Policies.php, line: 621
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 590
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 591
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 653
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 654
+# File: src/App/Action/Amadeus/Policies.php, line: 583
+# File: src/App/Action/Amadeus/Policies.php, line: 584
+# File: src/App/Action/Amadeus/Policies.php, line: 646
+# File: src/App/Action/Amadeus/Policies.php, line: 647
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 450
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 451
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 248
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 249
 # File: src/App/Action/BahiaPrincipe/SearchHotels.php, line: 537
@@ -865,16 +867,16 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2122
+# File: console/src/Xml/Command/Cancellations.php, line: 2129
 msgid "Unable to detect deadline"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2226
-# File: console/src/Xml/Command/Cancellations.php, line: 2271
-# File: console/src/Xml/Command/Cancellations.php, line: 2316
-# File: console/src/Xml/Command/Cancellations.php, line: 2361
-# File: console/src/Xml/Command/Cancellations.php, line: 2406
-# File: console/src/Xml/Command/Cancellations.php, line: 2453
+# File: console/src/Xml/Command/Cancellations.php, line: 2233
+# File: console/src/Xml/Command/Cancellations.php, line: 2278
+# File: console/src/Xml/Command/Cancellations.php, line: 2323
+# File: console/src/Xml/Command/Cancellations.php, line: 2368
+# File: console/src/Xml/Command/Cancellations.php, line: 2413
+# File: console/src/Xml/Command/Cancellations.php, line: 2460
 msgid "*PENDING* Payment Reservation"
 msgstr ""
 #
@@ -1301,19 +1303,19 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3644
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7373
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3645
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7374
 # File: _backup/oct29-charges.cybersource.php, line: 3577
 # File: _backup/oct29-charges.cybersource.php, line: 7281
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8592
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8593
 # File: _backup/oct29-charges.cybersource.php, line: 8492
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8604
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8605
 # File: _backup/oct29-charges.cybersource.php, line: 8504
 msgid "Cybersource Credit Card Processing"
 msgstr ""
@@ -2913,16 +2915,16 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 960
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 966
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4897
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4899
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4922
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4924
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4898
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4900
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4923
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4925
 msgid "Your Reservation with"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 960
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4897
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4922
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4898
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4923
 msgid "is Confirmed"
 msgstr ""
 #
@@ -2931,83 +2933,83 @@ msgid "Your Reservation is Being Processed"
 msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 966
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4899
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4924
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4900
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4925
 msgid "is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3068
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2841
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2751
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3069
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2842
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2752
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3071
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2844
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2754
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3072
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2845
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2755
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3074
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2847
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2757
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3075
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2848
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2758
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3077
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2850
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2760
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3078
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2851
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2761
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3080
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2853
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2763
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3081
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2854
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2764
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3083
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2856
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2766
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3084
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2857
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2767
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3086
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2859
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2769
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3087
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2860
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2770
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3089
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2862
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2772
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3090
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2863
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2773
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3092
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2865
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2775
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3093
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2866
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2776
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3097
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2870
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2780
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3098
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2871
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2781
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3100
-# File: console/src/Xml/Command/Sendvoucher.php, line: 2873
-# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2783
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3101
+# File: console/src/Xml/Command/Sendvoucher.php, line: 2874
+# File: src/App/Action/BookingGenerateVoucherAction.php, line: 2784
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3945
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3946
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 242
 msgid "Air"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3952
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3953
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1209
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1224
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1262
@@ -3015,7 +3017,7 @@ msgstr ""
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3959
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3960
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1454
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1468
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1506
@@ -3023,7 +3025,7 @@ msgstr ""
 msgid "Package"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3966
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3967
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2253
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2291
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 507
@@ -3034,23 +3036,23 @@ msgstr ""
 msgid "Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3970
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3971
 # File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261009p2.phtml, line: 629
 # File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261010p25.phtml, line: 629
 # File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-summary-20261010p13.phtml, line: 629
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4584
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4585
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
 # File: console/src/Xml/Command/Sendmessage.php, line: 416
-# File: console/src/Xml/Command/Sendvoucher.php, line: 3075
+# File: console/src/Xml/Command/Sendvoucher.php, line: 3076
 msgid "Travel Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sendvoucher.php, line: 3073
+# File: console/src/Xml/Command/Sendvoucher.php, line: 3074
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 20
 # File: console/src/Xml/Command/Templates/invoice.phtml, line: 33
 # File: _backup/ancillaries-phase1-20261002/clickandbook.com/index.phtml, line: 153
@@ -3093,13 +3095,13 @@ msgstr ""
 msgid "Transfers Check in Report"
 msgstr ""
 #
-# File: console/src/Xml/Command/SupplierPayments.php, line: 4826
+# File: console/src/Xml/Command/SupplierPayments.php, line: 4828
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 19
 # File: console/src/Xml/Command/Templates/payments.phtml, line: 168
 msgid "Supplier Payments"
 msgstr ""
 #
-# File: console/src/Xml/Command/SupplierPayments.php, line: 4997
+# File: console/src/Xml/Command/SupplierPayments.php, line: 4999
 # File: console/src/Xml/Command/Templates/checkin.phtml, line: 167
 # File: console/src/Xml/Command/Templates/checkinactivities.phtml, line: 162
 # File: console/src/Xml/Command/Templates/checkincruises.phtml, line: 162
@@ -7954,12 +7956,12 @@ msgstr ""
 #
 # File: src/App/Action/AIO/SearchHotels.php, line: 353
 # File: src/App/Action/AIO/SearchHotelsMulti.php, line: 378
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 416
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 419
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 666
 # File: src/App/Action/Amadeus/SearchHotels.php, line: 669
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 416
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 419
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 527
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 530
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 416
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 419
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 258
 # File: src/App/Action/Convencional/SearchHotels.php, line: 444
 # File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 466
@@ -8078,14 +8080,16 @@ msgstr ""
 # File: src/App/Action/Abreu/MultiPolicies.php, line: 580
 # File: src/App/Action/Abreu/Policies.php, line: 501
 # File: src/App/Action/Abreu/Policies.php, line: 502
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 575
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 576
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 629
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 630
-# File: src/App/Action/Amadeus/Policies.php, line: 566
-# File: src/App/Action/Amadeus/Policies.php, line: 567
-# File: src/App/Action/Amadeus/Policies.php, line: 620
-# File: src/App/Action/Amadeus/Policies.php, line: 621
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 590
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 591
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 653
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 654
+# File: src/App/Action/Amadeus/Policies.php, line: 583
+# File: src/App/Action/Amadeus/Policies.php, line: 584
+# File: src/App/Action/Amadeus/Policies.php, line: 646
+# File: src/App/Action/Amadeus/Policies.php, line: 647
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 450
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 451
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 253
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 254
 # File: src/App/Action/BahiaPrincipe/HotelParallelParse.php, line: 258
@@ -8967,127 +8971,21 @@ msgstr ""
 msgid "Thank You for Registering as an Affiliate"
 msgstr ""
 #
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 408
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 658
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 408
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 269
-# File: src/App/Action/Convencional/SearchHotels.php, line: 455
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 477
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 205
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 417
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 393
-# File: src/App/Action/Palace/SearchHotels.php, line: 453
-# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 438
-# File: src/App/Action/Priceline/Hotel.php, line: 300
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 413
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 417
-# File: src/App/Action/Priceline/SearchHotels.old.php, line: 331
-# File: src/App/Action/Priceline/SearchHotels.php, line: 569
-# File: src/App/Action/Priceline/SearchHotels.php, line: 573
-# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
-# File: src/App/Action/PricelineNet/Hotel.php, line: 342
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 230
-# File: src/App/Action/PricelineNet/SearchHotels.php, line: 391
-# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 375
-# File: src/App/Action/Tourico/Hotel.php, line: 353
-# File: src/App/Action/Tourico/Hotel.php, line: 355
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 157
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 159
-# File: src/App/Action/Tourico/SearchHotels.php, line: 415
-# File: src/App/Action/Tourico/SearchHotels.php, line: 417
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 331
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 333
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 186
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 338
-# File: src/App/language/languages.php, line: 11
-msgid "All Inclusive"
-msgstr ""
-#
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 410
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 660
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 410
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 260
-# File: src/App/Action/Convencional/SearchHotels.php, line: 446
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 468
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 196
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 408
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 384
-# File: src/App/Action/Priceline/HotelParallelParse.php, line: 415
-# File: src/App/Action/Priceline/SearchHotels.php, line: 571
-# File: src/App/Action/PricelineNet/Hotel.php, line: 347
-# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 235
-# File: src/App/Action/PricelineNet/SearchHotels.php, line: 396
-# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 380
-# File: src/App/Action/Tourico/Hotel.php, line: 357
-# File: src/App/Action/Tourico/Hotel.php, line: 359
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 161
-# File: src/App/Action/Tourico/HotelParallelParse.php, line: 163
-# File: src/App/Action/Tourico/SearchHotels.php, line: 419
-# File: src/App/Action/Tourico/SearchHotels.php, line: 421
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 335
-# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 337
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 171
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 323
-# File: src/App/language/languages.php, line: 8
-msgid "Bed & Breakfast"
-msgstr ""
-#
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 412
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 662
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 412
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 263
-# File: src/App/Action/Convencional/SearchHotels.php, line: 449
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 471
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 199
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 411
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 387
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 165
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 174
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 177
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 183
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 189
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 192
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 317
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 326
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 329
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 335
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 341
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 344
-# File: src/App/language/languages.php, line: 9
-msgid "Half Board"
-msgstr ""
-#
-# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 414
-# File: src/App/Action/Amadeus/SearchHotels.php, line: 664
-# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 414
-# File: src/App/Action/Convencional/HotelParallelParse.php, line: 266
-# File: src/App/Action/Convencional/SearchHotels.php, line: 452
-# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 474
-# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 202
-# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 414
-# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 390
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 168
-# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 180
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 320
-# File: src/App/Action/Tripcom/SearchHotels.php, line: 332
-# File: src/App/language/languages.php, line: 10
-msgid "Full Board"
-msgstr ""
-#
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 572
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 573
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 626
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 627
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 639
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 640
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 856
-# File: src/App/Action/Amadeus/MultiPolicies.php, line: 857
-# File: src/App/Action/Amadeus/Policies.php, line: 563
-# File: src/App/Action/Amadeus/Policies.php, line: 564
-# File: src/App/Action/Amadeus/Policies.php, line: 617
-# File: src/App/Action/Amadeus/Policies.php, line: 618
-# File: src/App/Action/Amadeus/Policies.php, line: 771
-# File: src/App/Action/Amadeus/Policies.php, line: 772
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 587
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 588
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 650
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 651
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 663
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 664
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 895
+# File: src/App/Action/Amadeus/MultiPolicies.php, line: 896
+# File: src/App/Action/Amadeus/Policies.php, line: 580
+# File: src/App/Action/Amadeus/Policies.php, line: 581
+# File: src/App/Action/Amadeus/Policies.php, line: 643
+# File: src/App/Action/Amadeus/Policies.php, line: 644
+# File: src/App/Action/Amadeus/Policies.php, line: 809
+# File: src/App/Action/Amadeus/Policies.php, line: 810
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 430
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 803
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 804
 # File: src/App/Action/DOTW/MultiPolicies.old.php, line: 805
@@ -9395,6 +9293,129 @@ msgstr ""
 #
 # File: src/App/Action/Amadeus/SearchFlights.php, line: 1991
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 658
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 519
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 408
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 269
+# File: src/App/Action/Convencional/SearchHotels.php, line: 455
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 477
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 205
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 417
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 393
+# File: src/App/Action/Palace/SearchHotels.php, line: 453
+# File: src/App/Action/Palace/SearchHotelsMulti.php, line: 438
+# File: src/App/Action/Priceline/Hotel.php, line: 300
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 413
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 417
+# File: src/App/Action/Priceline/SearchHotels.old.php, line: 331
+# File: src/App/Action/Priceline/SearchHotels.php, line: 569
+# File: src/App/Action/Priceline/SearchHotels.php, line: 573
+# File: src/App/Action/Priceline/SearchHotelsMulti.php, line: 352
+# File: src/App/Action/PricelineNet/Hotel.php, line: 342
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 230
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 391
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 375
+# File: src/App/Action/Tourico/Hotel.php, line: 353
+# File: src/App/Action/Tourico/Hotel.php, line: 355
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 157
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 159
+# File: src/App/Action/Tourico/SearchHotels.php, line: 415
+# File: src/App/Action/Tourico/SearchHotels.php, line: 417
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 331
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 333
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 186
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 338
+# File: src/App/language/languages.php, line: 11
+msgid "All Inclusive"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 660
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 521
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 410
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 260
+# File: src/App/Action/Convencional/SearchHotels.php, line: 446
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 468
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 196
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 408
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 384
+# File: src/App/Action/Priceline/HotelParallelParse.php, line: 415
+# File: src/App/Action/Priceline/SearchHotels.php, line: 571
+# File: src/App/Action/PricelineNet/Hotel.php, line: 347
+# File: src/App/Action/PricelineNet/HotelParallelParse.php, line: 235
+# File: src/App/Action/PricelineNet/SearchHotels.php, line: 396
+# File: src/App/Action/PricelineNet/SearchHotelsMulti.php, line: 380
+# File: src/App/Action/Tourico/Hotel.php, line: 357
+# File: src/App/Action/Tourico/Hotel.php, line: 359
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 161
+# File: src/App/Action/Tourico/HotelParallelParse.php, line: 163
+# File: src/App/Action/Tourico/SearchHotels.php, line: 419
+# File: src/App/Action/Tourico/SearchHotels.php, line: 421
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 335
+# File: src/App/Action/Tourico/SearchHotelsMulti.php, line: 337
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 171
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 323
+# File: src/App/language/languages.php, line: 8
+msgid "Bed & Breakfast"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 662
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 523
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 412
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 263
+# File: src/App/Action/Convencional/SearchHotels.php, line: 449
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 471
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 199
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 411
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 387
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 165
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 174
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 177
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 183
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 189
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 192
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 317
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 326
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 329
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 335
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 341
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 344
+# File: src/App/language/languages.php, line: 9
+msgid "Half Board"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/SearchHotels.php, line: 664
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 525
+# File: src/App/Action/Amadeus/HotelParallelParse.php, line: 414
+# File: src/App/Action/Convencional/HotelParallelParse.php, line: 266
+# File: src/App/Action/Convencional/SearchHotels.php, line: 452
+# File: src/App/Action/Convencional/SearchHotelsMulti.php, line: 474
+# File: src/App/Action/InfinitasTravel/HotelParallelParse.php, line: 202
+# File: src/App/Action/InfinitasTravel/SearchHotels.php, line: 414
+# File: src/App/Action/InfinitasTravel/SearchHotelsMulti.php, line: 390
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 168
+# File: src/App/Action/Tripcom/HotelParallelParse.php, line: 180
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 320
+# File: src/App/Action/Tripcom/SearchHotels.php, line: 332
+# File: src/App/language/languages.php, line: 10
+msgid "Full Board"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 449
+msgid "a penalty"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 453
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 454
+msgid "Free cancellation before"
+msgstr ""
+#
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 463
+# File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 465
+# File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1861
+# File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1863
+msgid "commission"
 msgstr ""
 #
 # File: src/App/Action/AirportsAction.php, line: 133
@@ -13974,11 +13995,6 @@ msgstr ""
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1782
 # File: _backup/ancillaries-phase1-20261002/seats/travel-view-application-air-ancillary-20261009p2.phtml, line: 106
 msgid "PLEASE WAIT..."
-msgstr ""
-#
-# File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1861
-# File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1863
-msgid "commission"
 msgstr ""
 #
 # File: _backup/ancillaries-phase1-20261002/travel-return.phtml, line: 1874
