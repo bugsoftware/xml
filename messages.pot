@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-06 19:35-0500\n"
+"POT-Creation-Date: 2026-11-07 02:28-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5900,7 +5900,7 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 558
 # File: console/src/Xml/Command/SendPushNotificationTicket.php, line: 134
-# File: console/src/Xml/Command/SendTicketNotification.php, line: 466
+# File: console/src/Xml/Command/SendTicketNotification.php, line: 474
 # File: tmp/v4-backup-20261106/SendTicketNotification.php, line: 415
 msgid "Ticket"
 msgstr ""
@@ -6565,19 +6565,19 @@ msgid "is now confirmed."
 msgstr ""
 #
 # File: console/src/Xml/Command/SendPushNotificationTicket.php, line: 130
-# File: console/src/Xml/Command/SendTicketNotification.php, line: 463
+# File: console/src/Xml/Command/SendTicketNotification.php, line: 471
 # File: tmp/v4-backup-20261106/SendTicketNotification.php, line: 412
 msgid "Airline Tickets Issued"
 msgstr ""
 #
 # File: console/src/Xml/Command/SendPushNotificationTicket.php, line: 136
-# File: console/src/Xml/Command/SendTicketNotification.php, line: 464
+# File: console/src/Xml/Command/SendTicketNotification.php, line: 472
 # File: tmp/v4-backup-20261106/SendTicketNotification.php, line: 413
 msgid "Your e‑tickets for booking"
 msgstr ""
 #
 # File: console/src/Xml/Command/SendPushNotificationTicket.php, line: 136
-# File: console/src/Xml/Command/SendTicketNotification.php, line: 464
+# File: console/src/Xml/Command/SendTicketNotification.php, line: 472
 # File: tmp/v4-backup-20261106/SendTicketNotification.php, line: 413
 msgid "are now available."
 msgstr ""
