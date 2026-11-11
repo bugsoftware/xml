@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 13:05-0500\n"
+"POT-Creation-Date: 2026-11-11 13:44-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6487,107 +6487,107 @@ msgstr ""
 msgid "Urgent: Immediate Payment Required to Confirm Booking"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 817
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 820
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3960
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5674
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 868
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 871
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 812
 msgid "Thank you for your order. Unfortunately, we were unable to charge your credit card. Please click below to update your payment information."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 818
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 821
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3961
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5675
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 869
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 872
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 813
 msgid "We'll continue trying to process your card through our system. Unfortunately, we won't be able to deliver your order if a valid card is not provided."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 819
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 822
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 119
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3962
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5676
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 870
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 873
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 814
 msgid "Please contact us and reference"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 820
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 823
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 120
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3963
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5677
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 871
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 874
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 815
 msgid "Please ignore this email if you have already submitted your payment."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 821
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 824
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 121
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3964
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5678
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 872
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 875
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 816
 msgid "There could be several different reasons you're seeing a decline error message or your payment won't go through."
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 822
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 825
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 122
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3965
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5679
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 873
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 876
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 817
 msgid "You are trying to pay with an unsupported card type"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 823
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 826
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 123
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3966
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5680
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 874
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 877
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 818
 msgid "Some electronic cards may work, but others may not"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 824
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 827
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 124
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3967
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5681
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 875
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 878
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 819
 msgid "There are not enough funds available to process the transaction"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 825
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 828
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 125
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3968
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5682
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 876
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 879
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 820
 msgid "Invalid Card Verification Code (CVC)"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 826
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 829
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 126
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3969
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5683
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 877
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 880
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 821
 msgid "Pending Payment"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 826
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 829
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 126
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3969
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5683
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 877
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 880
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 821
 msgid "Reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 1235
+# File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 1238
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 4543
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 6092
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 1451
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 1454
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 1230
 msgid "Please read and accept the terms and conditions to proceed with your reservation."
 msgstr ""
