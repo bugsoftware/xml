@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 17:27-0500\n"
+"POT-Creation-Date: 2026-11-12 18:22-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1346,10 +1346,6 @@ msgstr ""
 # File: src/App/Action/TBO/Policies.php, line: 434
 # File: src/App/Action/TBO/Policies.php, line: 436
 # File: src/App/Action/TBO/Policies.php, line: 437
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 440
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 441
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 443
@@ -1362,6 +1358,10 @@ msgstr ""
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 374
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 375
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 197
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 393
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 394
 # File: src/App/Action/Travelplan/Policies.php, line: 399
@@ -1454,10 +1454,6 @@ msgstr ""
 # File: src/App/Action/TBO/Policies.php, line: 437
 # File: src/App/Action/TBO/SearchHotels.php, line: 365
 # File: src/App/Action/TBO/SearchHotels.php, line: 367
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 440
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 441
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 443
@@ -1470,6 +1466,10 @@ msgstr ""
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 374
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 375
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 197
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 393
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 394
 # File: src/App/Action/Travelplan/Policies.php, line: 399
@@ -2560,10 +2560,6 @@ msgstr ""
 # File: src/App/Action/TBO/Policies.php, line: 437
 # File: src/App/Action/TBO/SearchHotels.php, line: 365
 # File: src/App/Action/TBO/SearchHotels.php, line: 367
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 197
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 440
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 441
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 443
@@ -2576,6 +2572,10 @@ msgstr ""
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 374
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 375
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 196
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 197
 # File: src/App/Action/W2M/Hotel.php, line: 307
 # File: src/App/Action/W2M/Hotel.php, line: 308
 # File: src/App/Action/W2M/Hotel.php, line: 311
@@ -6994,24 +6994,24 @@ msgstr ""
 # File: src/App/Action/Abreu/Policies.php, line: 514
 # File: src/App/Action/Palace/HotelParallelParse.php, line: 205
 # File: src/App/Action/Palace/HotelParallelParse.php, line: 206
-# File: src/App/Action/RTS/HotelParallelParse.php, line: 594
-# File: src/App/Action/RTS/HotelParallelParse.php, line: 595
 # File: src/App/Action/RTS/MultiPolicies.php, line: 513
 # File: src/App/Action/RTS/MultiPolicies.php, line: 514
 # File: src/App/Action/RTS/Policies.php, line: 512
 # File: src/App/Action/RTS/Policies.php, line: 513
 # File: src/App/Action/RTS/SearchHotels.php, line: 816
 # File: src/App/Action/RTS/SearchHotels.php, line: 817
+# File: src/App/Action/RTS/HotelParallelParse.php, line: 594
+# File: src/App/Action/RTS/HotelParallelParse.php, line: 595
 # File: src/App/Action/Rakuten/SearchHotels.php, line: 608
 # File: src/App/Action/Rakuten/SearchHotels.php, line: 609
 # File: src/App/Action/RakutenCUG/SearchHotels.php, line: 610
 # File: src/App/Action/RakutenCUG/SearchHotels.php, line: 611
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 347
 # File: src/App/Action/TBO/HotelParallelParse.php, line: 348
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 342
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 343
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 507
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 508
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 342
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 343
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 193
 # File: src/App/Action/Travco/HotelParallelParse.php, line: 194
 # File: src/App/Action/Travelplan/MultiPolicies.php, line: 515
@@ -7713,12 +7713,12 @@ msgstr ""
 # File: src/App/Action/Restel/HotelParallelParse.php, line: 199
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 208
 # File: src/App/Action/Travelplan/HotelParallelParse.php, line: 209
-# File: src/App/Action/Travelport/HotelParallelParse.php, line: 228
-# File: src/App/Action/Travelport/HotelParallelParse.php, line: 229
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 532
 # File: src/App/Action/Travelport/MultiPolicies.php, line: 533
 # File: src/App/Action/Travelport/Policies.php, line: 530
 # File: src/App/Action/Travelport/Policies.php, line: 531
+# File: src/App/Action/Travelport/HotelParallelParse.php, line: 228
+# File: src/App/Action/Travelport/HotelParallelParse.php, line: 229
 msgid "This is a non refundable booking."
 msgstr ""
 #
@@ -8301,14 +8301,14 @@ msgstr ""
 # File: src/App/Action/Expedia/HotelParallelParse.php, line: 451
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 380
 # File: src/App/Action/Expedia/HotelParallelParseCommissionable.php, line: 381
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 613
-# File: src/App/Action/Expedia/MultiPolicies.php, line: 614
-# File: src/App/Action/Expedia/MultiPoliciesCommissionable.php, line: 496
-# File: src/App/Action/Expedia/MultiPoliciesCommissionable.php, line: 497
-# File: src/App/Action/Expedia/Policies.php, line: 608
-# File: src/App/Action/Expedia/Policies.php, line: 609
-# File: src/App/Action/Expedia/PoliciesCommissionable.php, line: 427
-# File: src/App/Action/Expedia/PoliciesCommissionable.php, line: 428
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 616
+# File: src/App/Action/Expedia/MultiPolicies.php, line: 617
+# File: src/App/Action/Expedia/MultiPoliciesCommissionable.php, line: 499
+# File: src/App/Action/Expedia/MultiPoliciesCommissionable.php, line: 500
+# File: src/App/Action/Expedia/Policies.php, line: 611
+# File: src/App/Action/Expedia/Policies.php, line: 612
+# File: src/App/Action/Expedia/PoliciesCommissionable.php, line: 430
+# File: src/App/Action/Expedia/PoliciesCommissionable.php, line: 431
 # File: src/App/Action/Expedia/SearchHotels.php, line: 795
 # File: src/App/Action/Expedia/SearchHotels.php, line: 796
 # File: src/App/Action/Expedia/SearchHotelsCommissionable.php, line: 621
@@ -9891,14 +9891,14 @@ msgstr ""
 # File: src/App/Action/TBO/MultiPolicies.php, line: 494
 # File: src/App/Action/TBO/Policies.php, line: 433
 # File: src/App/Action/TBO/Policies.php, line: 434
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
-# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 440
 # File: src/App/Action/TBOCUG/MultiPolicies.php, line: 441
 # File: src/App/Action/TBOCUG/Policies.php, line: 433
 # File: src/App/Action/TBOCUG/Policies.php, line: 434
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 371
 # File: src/App/Action/TBOCUG/SearchHotels.php, line: 372
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 193
+# File: src/App/Action/TBOCUG/HotelParallelParse.php, line: 194
 msgid "% amount of the booking."
 msgstr ""
 #
