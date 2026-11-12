@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 14:55-0500\n"
+"POT-Creation-Date: 2026-11-12 07:13-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1676,8 +1676,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2649
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3454
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3668
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2673
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2887
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2675
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2893
 msgid "Invoice has been created"
 msgstr ""
 #
@@ -1701,8 +1701,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2650
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3455
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3669
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2674
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2888
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2676
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2894
 msgid "View Reservation"
 msgstr ""
 #
@@ -1734,7 +1734,7 @@ msgid "Action Required: Assign Branch in Agent Profile for Invoice Upload"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2570
-# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2808
+# File: console/src/Xml/Command/Globalware/invoice_upload_sfee.php, line: 2810
 msgid "Invoice Generated in Globalware - Reservation Confirmation - SFEE"
 msgstr ""
 #
@@ -2931,7 +2931,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 38
-# File: src/App/Action/AirIssueTicketAction.php, line: 1263
+# File: src/App/Action/AirIssueTicketAction.php, line: 1272
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1263
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1253
 msgid "Warm regards,"
@@ -3825,7 +3825,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 39
-# File: src/App/Action/AirIssueTicketAction.php, line: 1264
+# File: src/App/Action/AirIssueTicketAction.php, line: 1273
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1264
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1254
 msgid "Click & Book Team"
@@ -10118,19 +10118,19 @@ msgstr ""
 msgid "Thank You for Registering Your Property with Us"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1253
+# File: src/App/Action/AirIssueTicketAction.php, line: 1262
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1253
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1243
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1259
+# File: src/App/Action/AirIssueTicketAction.php, line: 1268
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1259
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1249
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1261
+# File: src/App/Action/AirIssueTicketAction.php, line: 1270
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1261
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1251
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
