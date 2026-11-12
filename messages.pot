@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 17:15-0500\n"
+"POT-Creation-Date: 2026-11-12 17:27-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -936,7 +936,6 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 688
 # File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 17
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 258
-# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 241
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 20
@@ -958,6 +957,7 @@ msgstr ""
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 488
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 241
 msgid "Dear"
 msgstr ""
 #
@@ -2663,6 +2663,8 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 332
 # File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 338
+# File: tmp/v4-backup-20261106/Sendemailcancel.php, line: 332
+# File: tmp/v4-backup-20261106/Sendemailcancel.php, line: 338
 msgid "Cancellation is being processed"
 msgstr ""
 #
@@ -2942,8 +2944,8 @@ msgid "Click & Book Customer Support Team"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 260
-# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 248
 # File: console/src/Xml/Command/Templates/message.phtml, line: 262
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 248
 msgid "Best Regards"
 msgstr ""
 #
@@ -2953,22 +2955,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/alert.phtml, line: 287
 msgid "b2c reservation"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 243
-msgid "We received your request to cancel your reservation number"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 244
-msgid "We are very sorry to hear about that. If we can assist you with booking alternate dates, please call our reservations department."
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 245
-msgid "As long as you have cancelled within the permitted cancellation policy you will receive a full refund up to 15 business days."
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/cancellation.phtml, line: 249
-msgid "Customer Support Team"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 40
@@ -10360,4 +10346,20 @@ msgstr ""
 #
 # File: console2/src/Command/Templates/clickandbook_retarget_agent_1.php, line: 22
 msgid "Complete Registration"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 243
+msgid "We received your request to cancel your reservation number"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 244
+msgid "We are very sorry to hear about that. If we can assist you with booking alternate dates, please call our reservations department."
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 245
+msgid "As long as you have cancelled within the permitted cancellation policy you will receive a full refund up to 15 business days."
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 249
+msgid "Customer Support Team"
 msgstr ""
