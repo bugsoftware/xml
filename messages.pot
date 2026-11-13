@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-13 09:54-0500\n"
+"POT-Creation-Date: 2026-11-13 11:05-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -953,11 +953,11 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_newagent.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 20
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 20
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 534
 # File: src/App/Action/CustomersProfileUpdateAction.php, line: 801
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 488
 # File: tmp/v4-backup-20261106/cancellation.phtml, line: 241
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 20
 msgid "Dear"
 msgstr ""
 #
@@ -2676,10 +2676,11 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendtermsconditions.php, line: 489
+# File: console/src/Xml/Command/Shared/Sendtermsconditions.php, line: 503
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 9084
 # File: console/src/Xml/Command/Reservations_VouchersTicketing.php, line: 884
 # File: tmp/v4-backup-20261106/Reservations_VouchersTicketing.php, line: 818
+# File: tmp/v4-backup-20261106/Sendtermsconditions.php, line: 489
 # File: tmp/pricelock-bak_console_src_Xml_Command_Reservations_VouchersTicketing.php, line: 884
 msgid "Action Needed: Please Sign Your Terms & Conditions"
 msgstr ""
@@ -2928,7 +2929,6 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 35
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 31
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 30
@@ -2936,6 +2936,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 38
 # File: src/App/Action/AirIssueTicketAction.php, line: 1273
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1263
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 35
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1253
 msgid "Warm regards,"
 msgstr ""
@@ -3685,7 +3686,7 @@ msgid "Total:"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/message.phtml, line: 259
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 26
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 26
 msgid "View Terms & Conditions"
 msgstr ""
 #
@@ -3758,10 +3759,10 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 30
 # File: console/src/Xml/Command/Templates/review.phtml, line: 29
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 29
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 28
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 27
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 27
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 33
 msgid "Should you have any questions or require further assistance, do not hesitate to contact us."
 msgstr ""
 #
@@ -3780,11 +3781,11 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 31
 # File: console/src/Xml/Command/Templates/review.phtml, line: 30
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 30
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 34
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 30
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_payment_cruises.phtml, line: 29
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 34
 msgid "Thank you for choosing our services. We look forward to continuing our business relationship."
 msgstr ""
 #
@@ -3806,7 +3807,6 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_newproperty.phtml, line: 33
 # File: console/src/Xml/Command/Templates/notification_newagent.phtml, line: 29
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 29
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 39
 # File: console/src/Xml/Command/Templates/notification_branch.phtml, line: 34
 # File: console/src/Xml/Command/Templates/notification_booking_cruises.phtml, line: 32
 # File: console/src/Xml/Command/Templates/notification_settlement_cruises.phtml, line: 31
@@ -3814,6 +3814,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_cruises_approval.phtml, line: 39
 # File: src/App/Action/AirIssueTicketAction.php, line: 1274
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1264
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 39
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1254
 msgid "Click & Book Team"
 msgstr ""
@@ -5220,22 +5221,6 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_newaffiliate.phtml, line: 25
 msgid "Once the verification process is finalized, we will contact you with the next steps to activate your affiliate account."
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 22
-msgid "To proceed with your booking, we require your review and signature of the attached Terms & Conditions. Please note that your booking will not be issued until the Terms & Conditions are signed."
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 23
-msgid "You may sign the document using the link below:"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 26
-msgid "Click here to sign"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/termsandconditions.phtml, line: 30
-msgid "A message from"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/clickandbook_retargeting.phtml, line: 19
@@ -10366,4 +10351,20 @@ msgstr ""
 #
 # File: tmp/v4-backup-20261106/cancellation.phtml, line: 249
 msgid "Customer Support Team"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 22
+msgid "To proceed with your booking, we require your review and signature of the attached Terms & Conditions. Please note that your booking will not be issued until the Terms & Conditions are signed."
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 23
+msgid "You may sign the document using the link below:"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 26
+msgid "Click here to sign"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 30
+msgid "A message from"
 msgstr ""
