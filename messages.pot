@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-13 16:55-0500\n"
+"POT-Creation-Date: 2026-11-13 17:20-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -383,7 +383,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8635
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8668
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -464,6 +464,7 @@ msgstr ""
 # File: console/src/Xml/Command/Mozio/CreateTransfer.php, line: 704
 # File: console/src/Xml/Command/FlixBus/CreateTransfer.php, line: 306
 # File: tmp/v4-backup-20261106/Reservations_VouchersTicketing.php, line: 1413
+# File: tmp/v4-backup-20261106/cybersource.php, line: 8635
 # File: tmp/pricelock-bak_console_src_Xml_Command_Reservations_VouchersTicketing.php, line: 1479
 msgid "Reservation"
 msgstr ""
@@ -935,7 +936,6 @@ msgstr ""
 # File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 686
 # File: console/src/Xml/Command/Costamar/clickandbook_fails.php, line: 688
 # File: console/src/Xml/Command/Templates/agent_disable.phtml, line: 17
-# File: console/src/Xml/Command/Templates/alert.phtml, line: 258
 # File: console/src/Xml/Command/Templates/message.phtml, line: 252
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 20
 # File: console/src/Xml/Command/Templates/notification_confirmed_signature.phtml, line: 20
@@ -958,6 +958,7 @@ msgstr ""
 # File: src/App/Action/AgentsCreateTokenAction.php, line: 488
 # File: tmp/v4-backup-20261106/cancellation.phtml, line: 241
 # File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 20
+# File: tmp/v4-backup-20261106/alert.phtml, line: 258
 msgid "Dear"
 msgstr ""
 #
@@ -1300,14 +1301,18 @@ msgstr ""
 #
 # File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3675
 # File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7404
+# File: tmp/v4-backup-20261106/cybersource.php, line: 3675
+# File: tmp/v4-backup-20261106/cybersource.php, line: 7404
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8623
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8655
+# File: tmp/v4-backup-20261106/cybersource.php, line: 8623
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8635
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8668
+# File: tmp/v4-backup-20261106/cybersource.php, line: 8635
 msgid "Cybersource Credit Card Processing"
 msgstr ""
 #
@@ -2945,20 +2950,6 @@ msgstr ""
 msgid "Click & Book Customer Support Team"
 msgstr ""
 #
-# File: console/src/Xml/Command/Templates/alert.phtml, line: 260
-# File: console/src/Xml/Command/Templates/message.phtml, line: 262
-# File: tmp/v4-backup-20261106/cancellation.phtml, line: 248
-msgid "Best Regards"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/alert.phtml, line: 287
-msgid "b2b reservation"
-msgstr ""
-#
-# File: console/src/Xml/Command/Templates/alert.phtml, line: 287
-msgid "b2c reservation"
-msgstr ""
-#
 # File: console/src/Xml/Command/Templates/cruises/index.phtml, line: 40
 msgid "With a world full of fascinating destinations, choose the perfect vacation for you..."
 msgstr ""
@@ -3713,6 +3704,12 @@ msgstr ""
 # File: src/App/Action/Shared/AddActivity.php, line: 172
 # File: src/App/Action/Shared/AddActivity.php, line: 173
 msgid "Pay"
+msgstr ""
+#
+# File: console/src/Xml/Command/Templates/message.phtml, line: 262
+# File: tmp/v4-backup-20261106/cancellation.phtml, line: 248
+# File: tmp/v4-backup-20261106/alert.phtml, line: 260
+msgid "Best Regards"
 msgstr ""
 #
 # File: console/src/Xml/Command/Templates/notification_airreport.phtml, line: 22
@@ -10367,4 +10364,12 @@ msgstr ""
 #
 # File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 30
 msgid "A message from"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/alert.phtml, line: 287
+msgid "b2b reservation"
+msgstr ""
+#
+# File: tmp/v4-backup-20261106/alert.phtml, line: 287
+msgid "b2c reservation"
 msgstr ""
