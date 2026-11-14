@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-14 12:49-0500\n"
+"POT-Creation-Date: 2026-11-14 14:26-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -377,7 +377,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8668
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8672
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -1349,19 +1349,19 @@ msgstr ""
 msgid "Authorize.net Credit Card Processing"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3675
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7404
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 3679
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 7408
 # File: tmp/v4-backup-20261106/cybersource.php, line: 3675
 # File: tmp/v4-backup-20261106/cybersource.php, line: 7404
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8655
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8659
 # File: tmp/v4-backup-20261106/cybersource.php, line: 8623
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8668
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8672
 # File: tmp/v4-backup-20261106/cybersource.php, line: 8635
 msgid "Cybersource Credit Card Processing"
 msgstr ""
@@ -3546,7 +3546,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
-# File: src/App/Action/AirIssueTicketAction.php, line: 1273
+# File: src/App/Action/AirIssueTicketAction.php, line: 1277
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1263
 # File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 35
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1253
@@ -4465,7 +4465,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 33
 # File: console/src/Xml/Command/Templates/review.phtml, line: 32
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 32
-# File: src/App/Action/AirIssueTicketAction.php, line: 1274
+# File: src/App/Action/AirIssueTicketAction.php, line: 1278
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1264
 # File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 39
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1254
@@ -8833,19 +8833,19 @@ msgstr ""
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1263
+# File: src/App/Action/AirIssueTicketAction.php, line: 1267
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1253
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1243
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1269
+# File: src/App/Action/AirIssueTicketAction.php, line: 1273
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1259
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1249
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1271
+# File: src/App/Action/AirIssueTicketAction.php, line: 1275
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1261
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1251
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
