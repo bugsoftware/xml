@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-18 08:25-0500\n"
+"POT-Creation-Date: 2026-11-18 17:33-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1722,8 +1722,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2751
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4457
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4556
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4625
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4724
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4630
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4729
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2456
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7666
 # File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7778
@@ -1744,8 +1744,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2752
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4458
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4557
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4626
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4725
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4631
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4730
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2457
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2570
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2684
@@ -1763,13 +1763,13 @@ msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4290
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4454
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4459
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1943
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 800
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 310
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 315
 # File: console/src/Xml/Command/Globalware/invoice_upload_cruises_commission.php, line: 223
 # File: console/src/Xml/Command/Globalware/invoice_upload_cruises_commission_gw5.php, line: 223
 msgid "Action Required: Assign Branch in Agent Profile for Invoice Upload"
@@ -3546,7 +3546,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 32
 # File: console/src/Xml/Command/Templates/review.phtml, line: 31
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 31
-# File: src/App/Action/AirIssueTicketAction.php, line: 1277
+# File: src/App/Action/AirIssueTicketAction.php, line: 1292
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1263
 # File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 35
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1253
@@ -4465,7 +4465,7 @@ msgstr ""
 # File: console/src/Xml/Command/Templates/notification_twilio.phtml, line: 33
 # File: console/src/Xml/Command/Templates/review.phtml, line: 32
 # File: console/src/Xml/Command/Templates/settle.phtml, line: 32
-# File: src/App/Action/AirIssueTicketAction.php, line: 1278
+# File: src/App/Action/AirIssueTicketAction.php, line: 1293
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1264
 # File: tmp/v4-backup-20261106/termsandconditions.phtml, line: 39
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1254
@@ -8833,19 +8833,19 @@ msgstr ""
 msgid "Unable to fetch availability for the selected criteria. We are unable to get results."
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1267
+# File: src/App/Action/AirIssueTicketAction.php, line: 1282
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1253
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1243
 msgid "Flight Ticket Confirmation: Your Itinerary and E-Ticket Details Enclosed"
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1273
+# File: src/App/Action/AirIssueTicketAction.php, line: 1288
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1259
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1249
 msgid "Dear "
 msgstr ""
 #
-# File: src/App/Action/AirIssueTicketAction.php, line: 1275
+# File: src/App/Action/AirIssueTicketAction.php, line: 1290
 # File: tmp/v4-backup-20261106/AirIssueTicketAction.php, line: 1261
 # File: tmp/pricelock-bak_src_App_Action_AirIssueTicketAction.php, line: 1251
 msgid "I am pleased to inform you that the airline ticket for your client's upcoming trip has been successfully issued."
