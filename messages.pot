@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-19 15:32-0500\n"
+"POT-Creation-Date: 2026-11-19 16:17-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1764,7 +1764,7 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new.php, line: 2492
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_2.php, line: 4290
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4459
-# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1943
+# File: console/src/Xml/Command/Globalware/invoice_gw_85_new_cb.php, line: 1953
 # File: console/src/Xml/Command/Travelport/sendtoaccounting.php, line: 800
 msgid "Invoice Generated in Globalware - Reservation Confirmation"
 msgstr ""
@@ -1794,7 +1794,7 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/shared_cruises.php, line: 135
-# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 135
+# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 137
 msgid "Action Required: Invoice Upload Pending – Cruise reservation must be reviewed before invoice issuance; the invoice will remain on hold until approved by the cruises department"
 msgstr ""
 #
