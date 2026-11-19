@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-19 06:15-0500\n"
+"POT-Creation-Date: 2026-11-19 08:27-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1794,6 +1794,7 @@ msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
 # File: console/src/Xml/Command/Globalware/shared_cruises.php, line: 135
+# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 135
 msgid "Action Required: Invoice Upload Pending – Cruise reservation must be reviewed before invoice issuance; the invoice will remain on hold until approved by the cruises department"
 msgstr ""
 #
@@ -8719,22 +8720,22 @@ msgstr ""
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 894
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 917
 # File: src/App/Action/Pullmantur/SearchCruises.php, line: 919
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1097
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1099
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1122
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1124
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1145
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1147
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1149
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1170
 # File: src/App/Action/RCCL/SearchCruises.php, line: 1172
-# File: src/App/Action/RCCL/SearchCruises.php, line: 1174
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2069
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2071
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2094
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2096
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2119
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2121
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2144
-# File: src/App/Action/RCCL/SearchCruises.php, line: 2146
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1195
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1197
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1220
+# File: src/App/Action/RCCL/SearchCruises.php, line: 1222
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2122
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2124
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2147
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2149
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2172
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2174
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2197
+# File: src/App/Action/RCCL/SearchCruises.php, line: 2199
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 714
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 716
 # File: src/App/Action/Sabre/SearchCruises.old.php, line: 739
