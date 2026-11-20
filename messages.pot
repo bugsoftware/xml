@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-19 16:17-0500\n"
+"POT-Creation-Date: 2026-11-20 05:58-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -377,7 +377,7 @@ msgstr ""
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 471
 # File: console/src/Xml/Command/CreditCardProcessing/authorizenet.php, line: 1084
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8672
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8681
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 267
 # File: console/src/Xml/Command/DOTW/CancelHotel.php, line: 629
 # File: console/src/Xml/Command/DOTW/CreateHotel.php, line: 532
@@ -436,9 +436,9 @@ msgstr ""
 # File: console/src/Xml/Command/Riu/CreateHotel.php, line: 946
 # File: console/src/Xml/Command/Roomer/CreateHotel.php, line: 300
 # File: console/src/Xml/Command/RoomsXML/CreateHotel.php, line: 373
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 360
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 604
-# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 484
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 363
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 607
+# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 487
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 298
 # File: console/src/Xml/Command/Sandos/CreateHotel.php, line: 375
 # File: console/src/Xml/Command/SnapTravel/CreateHotel.php, line: 352
@@ -855,16 +855,16 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2129
+# File: console/src/Xml/Command/Cancellations.php, line: 2130
 msgid "Unable to detect deadline"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2233
-# File: console/src/Xml/Command/Cancellations.php, line: 2278
-# File: console/src/Xml/Command/Cancellations.php, line: 2323
-# File: console/src/Xml/Command/Cancellations.php, line: 2368
-# File: console/src/Xml/Command/Cancellations.php, line: 2413
-# File: console/src/Xml/Command/Cancellations.php, line: 2460
+# File: console/src/Xml/Command/Cancellations.php, line: 2234
+# File: console/src/Xml/Command/Cancellations.php, line: 2279
+# File: console/src/Xml/Command/Cancellations.php, line: 2324
+# File: console/src/Xml/Command/Cancellations.php, line: 2369
+# File: console/src/Xml/Command/Cancellations.php, line: 2414
+# File: console/src/Xml/Command/Cancellations.php, line: 2463
 msgid "*PENDING* Payment Reservation"
 msgstr ""
 #
@@ -944,9 +944,9 @@ msgstr ""
 msgid "Cancellation Exception Error"
 msgstr ""
 #
-# File: console/src/Xml/Command/Costa/CreateCruise.php, line: 918
-# File: console/src/Xml/Command/MSC/CreateCruise.php, line: 1578
-# File: console/src/Xml/Command/RCCL/CreateCruise.php, line: 1675
+# File: console/src/Xml/Command/Costa/CreateCruise.php, line: 921
+# File: console/src/Xml/Command/MSC/CreateCruise.php, line: 1581
+# File: console/src/Xml/Command/RCCL/CreateCruise.php, line: 1678
 msgid "Action Required: New cruise reservation received – review required"
 msgstr ""
 #
@@ -1356,12 +1356,12 @@ msgstr ""
 msgid "Assistance Required: Pending Reservation Review"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8659
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8666
 # File: tmp/v4-backup-20261106/cybersource.php, line: 8623
 msgid "A CyberSource transaction has been initiated for reservation #"
 msgstr ""
 #
-# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8672
+# File: console/src/Xml/Command/CreditCardProcessing/cybersource.php, line: 8681
 # File: tmp/v4-backup-20261106/cybersource.php, line: 8635
 msgid "Cybersource Credit Card Processing"
 msgstr ""
@@ -1793,8 +1793,8 @@ msgstr ""
 msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/shared_cruises.php, line: 135
-# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 137
+# File: console/src/Xml/Command/Globalware/shared_cruises.php, line: 138
+# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 140
 msgid "Action Required: Invoice Upload Pending – Cruise reservation must be reviewed before invoice issuance; the invoice will remain on hold until approved by the cruises department"
 msgstr ""
 #
@@ -2284,7 +2284,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3960
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5674
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 820
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 871
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 952
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 812
 msgid "Thank you for your order. Unfortunately, we were unable to charge your credit card. Please click below to update your payment information."
 msgstr ""
@@ -2292,7 +2292,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3961
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5675
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 821
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 872
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 953
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 813
 msgid "We'll continue trying to process your card through our system. Unfortunately, we won't be able to deliver your order if a valid card is not provided."
 msgstr ""
@@ -2300,7 +2300,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3962
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5676
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 822
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 873
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 954
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 119
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 814
 msgid "Please contact us and reference"
@@ -2309,7 +2309,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3963
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5677
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 823
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 874
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 955
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 120
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 815
 msgid "Please ignore this email if you have already submitted your payment."
@@ -2318,7 +2318,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3964
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5678
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 824
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 875
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 956
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 121
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 816
 msgid "There could be several different reasons you're seeing a decline error message or your payment won't go through."
@@ -2327,7 +2327,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3965
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5679
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 825
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 876
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 957
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 122
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 817
 msgid "You are trying to pay with an unsupported card type"
@@ -2336,7 +2336,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3966
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5680
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 826
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 877
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 958
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 123
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 818
 msgid "Some electronic cards may work, but others may not"
@@ -2345,7 +2345,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3967
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5681
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 827
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 878
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 959
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 124
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 819
 msgid "There are not enough funds available to process the transaction"
@@ -2354,7 +2354,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3968
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5682
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 828
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 879
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 960
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 125
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 820
 msgid "Invalid Card Verification Code (CVC)"
@@ -2363,7 +2363,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3969
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5683
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 829
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 880
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 961
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 126
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 821
 msgid "Pending Payment"
@@ -2372,7 +2372,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 3969
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 5683
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 829
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 880
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 961
 # File: console/src/Xml/Command/TicketPaymentFailed.php, line: 126
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 821
 msgid "Reservation #"
@@ -2381,7 +2381,7 @@ msgstr ""
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 4543
 # File: console/src/Xml/Command/Reservations.backup.aug.10.2026.php, line: 6092
 # File: console/src/Xml/Command/Reservations_CreateBookings.php, line: 1238
-# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 1454
+# File: console/src/Xml/Command/Reservations_PaymentValidation.php, line: 1535
 # File: tmp/v4-backup-20261106/Reservations_CreateBookings.php, line: 1230
 msgid "Please read and accept the terms and conditions to proceed with your reservation."
 msgstr ""
@@ -3156,21 +3156,21 @@ msgstr ""
 msgid "Unable to cancel booking"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 356
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 357
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 600
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 601
-# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 480
-# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 481
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 359
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 360
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 603
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 604
+# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 483
+# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 484
 msgid "Void Ticket:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 358
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 360
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 602
-# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 604
-# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 482
-# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 484
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 361
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 363
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 605
+# File: console/src/Xml/Command/Sabre/CancelAir.php, line: 607
+# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 485
+# File: console/src/Xml/Command/Sabre/TAPNDCCancelAir.php, line: 487
 msgid "Void Ticket"
 msgstr ""
 #
@@ -3254,35 +3254,35 @@ msgstr ""
 msgid "Quote"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 314
-# File: console/src/Xml/Command/Shared/Sendemail.php, line: 335
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 506
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 512
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 318
+# File: console/src/Xml/Command/Shared/Sendemail.php, line: 339
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 510
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 516
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 506
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 512
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 332
-# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 338
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 336
+# File: console/src/Xml/Command/Shared/Sendemailcancel.php, line: 342
 # File: tmp/v4-backup-20261106/Sendemailcancel.php, line: 332
 # File: tmp/v4-backup-20261106/Sendemailcancel.php, line: 338
 msgid "Cancellation is being processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 960
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4900
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4925
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 964
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4906
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4931
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 958
 msgid "Your Reservation is Confirmed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 962
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 968
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4900
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4902
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4925
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4927
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 966
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 972
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4906
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4908
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4931
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4933
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 960
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 966
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 4898
@@ -3292,32 +3292,32 @@ msgstr ""
 msgid "Your Reservation with"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 962
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4900
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4925
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 966
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4906
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4931
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 960
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 4898
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 4923
 msgid "is Confirmed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 966
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4902
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4927
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 970
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4908
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4933
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 964
 msgid "Your Reservation is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 968
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4902
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4927
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 972
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4908
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4933
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 966
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 4900
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 4925
 msgid "is Being Processed"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3071
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3075
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2842
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2971
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2752
@@ -3325,7 +3325,7 @@ msgstr ""
 msgid "English"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3074
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3078
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2845
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2974
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2755
@@ -3333,7 +3333,7 @@ msgstr ""
 msgid "Spanish"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3077
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3081
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2848
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2977
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2758
@@ -3341,7 +3341,7 @@ msgstr ""
 msgid "Italian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3080
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3084
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2851
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2980
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2761
@@ -3349,7 +3349,7 @@ msgstr ""
 msgid "Portuguese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3083
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3087
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2854
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2983
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2764
@@ -3357,7 +3357,7 @@ msgstr ""
 msgid "German"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3086
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3090
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2857
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2986
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2767
@@ -3365,7 +3365,7 @@ msgstr ""
 msgid "Japanese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3089
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3093
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2860
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2989
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2770
@@ -3373,7 +3373,7 @@ msgstr ""
 msgid "Korean"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3092
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3096
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2863
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2992
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2773
@@ -3381,7 +3381,7 @@ msgstr ""
 msgid "Russian"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3095
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3099
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2866
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 2995
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2776
@@ -3389,7 +3389,7 @@ msgstr ""
 msgid "Chinese"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3100
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3104
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2871
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 3000
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2781
@@ -3397,7 +3397,7 @@ msgstr ""
 msgid "Audio"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3103
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3107
 # File: console/src/Xml/Command/Sendvoucher.php, line: 2874
 # File: src/App/Action/BookingGenerateVoucherAction.php, line: 3003
 # File: tmp/v4-backup-20261106/BookingGenerateVoucherAction.php, line: 2784
@@ -3405,12 +3405,12 @@ msgstr ""
 msgid "Guide"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3948
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3954
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 3946
 msgid "Air"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3955
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3961
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1209
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1224
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1262
@@ -3418,7 +3418,7 @@ msgstr ""
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3962
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3968
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1454
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1468
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 1506
@@ -3426,19 +3426,19 @@ msgstr ""
 msgid "Package"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3969
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3975
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2253
 # File: console/src/Xml/Command/Templates/reservation_v2.phtml, line: 2291
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 3967
 msgid "Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3973
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 3979
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 3971
 msgid "Only"
 msgstr ""
 #
-# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4587
+# File: console/src/Xml/Command/Shared/Sendemailv2.php, line: 4593
 # File: tmp/v4-backup-20261106/Sendemailv2.php, line: 4585
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
