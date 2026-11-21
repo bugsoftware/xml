@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-21 02:28-0500\n"
+"POT-Creation-Date: 2026-11-21 06:08-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8374,14 +8374,6 @@ msgstr ""
 msgid "Login - One Time Password(OTP)"
 msgstr ""
 #
-# File: src/App/Action/AgentsRegisterAction.php, line: 837
-msgid "Notification of New Sub-Agent Creation"
-msgstr ""
-#
-# File: src/App/Action/AgentsRegisterAction.php, line: 883
-msgid "Thank You for Registering as a Travel Agent"
-msgstr ""
-#
 # File: src/App/Action/Amadeus/HotelParallelParse.php, line: 419
 # File: src/App/Action/Amadeus/HotelParallelParseBookingDotCom.php, line: 431
 # File: src/App/Action/Amadeus/MultiPolicies.php, line: 587
@@ -10274,6 +10266,14 @@ msgstr ""
 #
 # File: src/App/Action/Viator/ActivitiesDetails.php, line: 169
 msgid "minutes"
+msgstr ""
+#
+# File: src/App/Action/AgentsRegisterAction.php, line: 837
+msgid "Notification of New Sub-Agent Creation"
+msgstr ""
+#
+# File: src/App/Action/AgentsRegisterAction.php, line: 883
+msgid "Thank You for Registering as a Travel Agent"
 msgstr ""
 #
 # File: src/App/language/languages.php, line: 12
