@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 13:10-0500\n"
+"POT-Creation-Date: 2026-11-24 15:23-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -340,6 +340,9 @@ msgstr ""
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 693
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 694
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 697
+# File: console/src/Xml/Command/WelcomePickups/CreateTransfer.php, line: 382
+# File: console/src/Xml/Command/WelcomePickups/CreateTransfer.php, line: 383
+# File: console/src/Xml/Command/WelcomePickups/CreateTransfer.php, line: 386
 # File: tmp/v4-backup-20261106/Reservations.php, line: 3388
 # File: tmp/v4-backup-20261106/Reservations_VouchersTicketing.php, line: 1409
 # File: tmp/v4-backup-20261106/Reservations_VouchersTicketing.php, line: 1410
@@ -457,6 +460,7 @@ msgstr ""
 # File: console/src/Xml/Command/VivaWyndham/CreateHotel.php, line: 375
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 376
 # File: console/src/Xml/Command/W2M/CreateHotel.php, line: 697
+# File: console/src/Xml/Command/WelcomePickups/CreateTransfer.php, line: 386
 # File: tmp/v4-backup-20261106/Reservations_VouchersTicketing.php, line: 1413
 # File: tmp/v4-backup-20261106/cybersource.php, line: 8635
 # File: tmp/pricelock-bak_console_src_Xml_Command_Reservations_VouchersTicketing.php, line: 1479
@@ -855,16 +859,16 @@ msgstr ""
 msgid "Status:"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2130
+# File: console/src/Xml/Command/Cancellations.php, line: 2136
 msgid "Unable to detect deadline"
 msgstr ""
 #
-# File: console/src/Xml/Command/Cancellations.php, line: 2234
-# File: console/src/Xml/Command/Cancellations.php, line: 2279
-# File: console/src/Xml/Command/Cancellations.php, line: 2324
-# File: console/src/Xml/Command/Cancellations.php, line: 2369
-# File: console/src/Xml/Command/Cancellations.php, line: 2414
-# File: console/src/Xml/Command/Cancellations.php, line: 2463
+# File: console/src/Xml/Command/Cancellations.php, line: 2240
+# File: console/src/Xml/Command/Cancellations.php, line: 2285
+# File: console/src/Xml/Command/Cancellations.php, line: 2330
+# File: console/src/Xml/Command/Cancellations.php, line: 2375
+# File: console/src/Xml/Command/Cancellations.php, line: 2420
+# File: console/src/Xml/Command/Cancellations.php, line: 2469
 msgid "*PENDING* Payment Reservation"
 msgstr ""
 #
@@ -1793,8 +1797,8 @@ msgstr ""
 msgid "Invoice Generated in Globalware - Reservation Confirmation - Insurance"
 msgstr ""
 #
-# File: console/src/Xml/Command/Globalware/shared_cruises.php, line: 138
-# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 140
+# File: console/src/Xml/Command/Globalware/shared_cruises.php, line: 144
+# File: console/src/Xml/Command/Globalware/shared_cruises_senju.php, line: 154
 msgid "Action Required: Invoice Upload Pending – Cruise reservation must be reviewed before invoice issuance; the invoice will remain on hold until approved by the cruises department"
 msgstr ""
 #
