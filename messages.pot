@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 18:37-0500\n"
+"POT-Creation-Date: 2026-11-27 19:00-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,12 +74,12 @@ msgstr ""
 # File: console/src/Xml/Command/Carnect/CreateCar.php, line: 310
 # File: console/src/Xml/Command/Carnect/CreateCar.php, line: 311
 # File: console/src/Xml/Command/Carnect/CreateCar.php, line: 314
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 295
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 296
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 299
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 372
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 373
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 313
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 314
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 317
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 390
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 391
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 316
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 317
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 313
@@ -373,8 +373,8 @@ msgstr ""
 # File: console/src/Xml/Command/Booking.com/CreateCar.php, line: 392
 # File: console/src/Xml/Command/CarTrawler/CreateCar.php, line: 1122
 # File: console/src/Xml/Command/Carnect/CreateCar.php, line: 314
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 299
-# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 376
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 317
+# File: console/src/Xml/Command/Catalonia/CreateHotel.php, line: 394
 # File: console/src/Xml/Command/Coming2/CancelHotel.php, line: 320
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 317
 # File: console/src/Xml/Command/Coming2/CreateHotel.php, line: 394
@@ -615,8 +615,8 @@ msgstr ""
 # File: src/App/Action/BlueDiamond/HotelParallelParse.php, line: 240
 # File: src/App/Action/BlueDiamond/SearchHotels.php, line: 489
 # File: src/App/Action/BlueDiamond/SearchHotels.php, line: 490
-# File: src/App/Action/Catalonia/HotelParallelParse.php, line: 239
 # File: src/App/Action/Catalonia/HotelParallelParse.php, line: 240
+# File: src/App/Action/Catalonia/HotelParallelParse.php, line: 241
 # File: src/App/Action/Catalonia/SearchHotels.php, line: 478
 # File: src/App/Action/Catalonia/SearchHotels.php, line: 479
 # File: src/App/Action/Convencional/HotelParallelParse.php, line: 324
@@ -1736,8 +1736,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4630
 # File: console/src/Xml/Command/Globalware/invoice_gw_85_new_3.php, line: 4729
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2456
-# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7667
-# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7779
+# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7672
+# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7784
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2435
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2649
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3454
@@ -1761,8 +1761,8 @@ msgstr ""
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2570
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2684
 # File: console/src/Xml/Command/Globalware/invoice_senju.php, line: 2798
-# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7668
-# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7780
+# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7673
+# File: console/src/Xml/Command/Globalware/invoice_update.php, line: 7785
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2436
 # File: console/src/Xml/Command/Globalware/invoice_upload_affirm.php, line: 2650
 # File: console/src/Xml/Command/Globalware/invoice_upload_insurance.php, line: 3455
@@ -7508,10 +7508,10 @@ msgstr ""
 # File: src/App/Action/BlueDiamond/SearchHotels.php, line: 495
 # File: src/App/Action/BlueDiamond/SearchHotels.php, line: 499
 # File: src/App/Action/BlueDiamond/SearchHotels.php, line: 500
-# File: src/App/Action/Catalonia/HotelParallelParse.php, line: 244
 # File: src/App/Action/Catalonia/HotelParallelParse.php, line: 245
-# File: src/App/Action/Catalonia/HotelParallelParse.php, line: 249
+# File: src/App/Action/Catalonia/HotelParallelParse.php, line: 246
 # File: src/App/Action/Catalonia/HotelParallelParse.php, line: 250
+# File: src/App/Action/Catalonia/HotelParallelParse.php, line: 251
 # File: src/App/Action/Catalonia/SearchHotels.php, line: 483
 # File: src/App/Action/Catalonia/SearchHotels.php, line: 484
 # File: src/App/Action/Catalonia/SearchHotels.php, line: 488
